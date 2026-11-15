@@ -1,0 +1,10 @@
+{
+  "date": "2026-11-04",
+  "device": "iPhone 14 Pro",
+  "bundleIdentifier": "com.heartofjellyfish.scrollstopper",
+  "build": "signed Debug, full app with three Screen Time extensions",
+  "signing": "BUILD SUCCEEDED; signed Family Controls and shared App Group present on all four targets",
+  "installation": "devicectl reported success",
+  "launch": "devicectl reported successful launch on retry after the initial locked-device rejection",
+  "systemBlocking": "not yet verified; owner must authorize Screen Time and connect both Shortcuts automations"
+}

@@ -1,0 +1,13 @@
+Approved for device trial by Qi: "push", 2026-11-13.
+Build 56: 20 paired home illustrations and English/Chinese headlines.
+First presentation: 01 Algorithm vs. Duck. Persisted introduction flag.
+Later visits: unseen-first, no immediate repeat across launches.
+A foreground return after 2 minutes may select another scene; short switches retain it.
+Off duty: 19–20. Active breaks: 16–17.
+3–4 recent breaks: 11–13. 5+ recent breaks: 14–15.
+Otherwise: 01–10 and 18. Existing two-hour/midnight forgiveness policy retained.
+System shield, usage rules and break timers unchanged.
+Artwork prepared from the approved contact sheets with transparent backgrounds.
+QA: 62 policy checks, existing session scenarios, all 20 versions rendered in simulator;
+9 concurrent break layout checked. First group white backdrop found and corrected.
+Device installation recorded in chat only after success.

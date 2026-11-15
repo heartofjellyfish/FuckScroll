@@ -1,0 +1,7 @@
+Approved 01–12: integrated into local Build 53 (development), installed on paired iPhone 2026-11-13. Not submitted to App Store.
+Home: 01/02 calm; 04 after 3 daily breaks; 05 after 5; 06 after 7. Counters begin with this build, reset by local calendar date. No addiction diagnosis. Off-duty keeps existing resting duck.
+Limits: 03 is persistent look reaction.
+Break reveal: 07–12 rotate once per presentation; image remains fixed while visible. Existing system shield unaffected.
+Candidates 13–36: 24 new concepts, awaiting approval. With approved 07–12 this is 30 break illustrations.
+Built-in image generation used. Approval sheets preserve numbered concepts; individual approved assets generated as transparent cutouts using corresponding panel as visual reference. Inputs and outputs retained, existing originals not overwritten.
+Device launch attempt blocked by locked phone after successful install. Simulator reveal screenshots verified. Pure policy and scenario tests passed.

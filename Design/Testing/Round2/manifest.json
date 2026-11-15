@@ -1,0 +1,167 @@
+[
+  {
+    "attachments" : [
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "54D4F39E-D269-4DFF-BE8D-2968224AB68F",
+        "deviceName" : "iPhone SE (3rd generation)",
+        "exportedFileName" : "D48F9D64-C2B6-4016-B812-5EC5482F0468.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "09-an-activity-is-not-an-unlock_0_C6BDCDC1-5982-41F1-B5CE-44C43C5F3993.png",
+        "timestamp" : 1792143832.314
+      }
+    ],
+    "testIdentifier" : "ScrollStopperUITests/testAlternativeDoesNotEndMandatoryBreak()",
+    "testIdentifierURL" : "test://com.apple.xcode/ScrollStopper/ScrollStopperUITests/ScrollStopperUITests/testAlternativeDoesNotEndMandatoryBreak"
+  },
+  {
+    "attachments" : [
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "54D4F39E-D269-4DFF-BE8D-2968224AB68F",
+        "deviceName" : "iPhone SE (3rd generation)",
+        "exportedFileName" : "4D50C37E-92F9-42B9-A6E3-3A5A2FA92B5B.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "06-expiry-refreshes-live_0_15B11EF0-BA83-4FB8-B400-98A9F7C4AAE2.png",
+        "timestamp" : 1792143844.048
+      }
+    ],
+    "testIdentifier" : "ScrollStopperUITests/testBreakExpiresWithoutReopeningTheApp()",
+    "testIdentifierURL" : "test://com.apple.xcode/ScrollStopper/ScrollStopperUITests/ScrollStopperUITests/testBreakExpiresWithoutReopeningTheApp"
+  },
+  {
+    "attachments" : [
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "54D4F39E-D269-4DFF-BE8D-2968224AB68F",
+        "deviceName" : "iPhone SE (3rd generation)",
+        "exportedFileName" : "5662B3F8-C72B-425A-ACD1-134CAF8FF98C.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "10-chinese-water-flow_0_B3D34F43-5978-43EE-A3D1-1154BEE2D772.png",
+        "timestamp" : 1792143858.144
+      }
+    ],
+    "testIdentifier" : "ScrollStopperUITests/testChineseOptionalFlow()",
+    "testIdentifierURL" : "test://com.apple.xcode/ScrollStopper/ScrollStopperUITests/ScrollStopperUITests/testChineseOptionalFlow"
+  },
+  {
+    "attachments" : [
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "54D4F39E-D269-4DFF-BE8D-2968224AB68F",
+        "deviceName" : "iPhone SE (3rd generation)",
+        "exportedFileName" : "97CE33C5-BF90-42E7-96EC-B4F2455C45C7.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "01-permission-is-honest_0_8C6EBA70-776B-4AC4-9CC9-4AF1FB75A379.png",
+        "timestamp" : 1792143869.87
+      }
+    ],
+    "testIdentifier" : "ScrollStopperUITests/testFirstRunDoesNotPretendToHavePermission()",
+    "testIdentifierURL" : "test://com.apple.xcode/ScrollStopper/ScrollStopperUITests/ScrollStopperUITests/testFirstRunDoesNotPretendToHavePermission"
+  },
+  {
+    "attachments" : [
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "54D4F39E-D269-4DFF-BE8D-2968224AB68F",
+        "deviceName" : "iPhone SE (3rd generation)",
+        "exportedFileName" : "BB56D0CB-9333-44F0-A511-6308AF5BD81B.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "08-connection-guide_0_9FA15B3D-D9CE-4DDA-916D-1106B6FCA6F4.png",
+        "timestamp" : 1792143876.018
+      }
+    ],
+    "testIdentifier" : "ScrollStopperUITests/testGuideProvidesBothExactShortcutActionNames()",
+    "testIdentifierURL" : "test://com.apple.xcode/ScrollStopper/ScrollStopperUITests/ScrollStopperUITests/testGuideProvidesBothExactShortcutActionNames"
+  },
+  {
+    "attachments" : [
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "54D4F39E-D269-4DFF-BE8D-2968224AB68F",
+        "deviceName" : "iPhone SE (3rd generation)",
+        "exportedFileName" : "16838506-5C36-460F-B68F-1512B33B71E9.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "11-large-text-before-scroll_0_AF896A21-641A-4158-8C53-39E4E8C1E497.png",
+        "timestamp" : 1792143879.477
+      }
+    ],
+    "testIdentifier" : "ScrollStopperUITests/testLargeTextStillHasAReachableExit()",
+    "testIdentifierURL" : "test://com.apple.xcode/ScrollStopper/ScrollStopperUITests/ScrollStopperUITests/testLargeTextStillHasAReachableExit"
+  },
+  {
+    "attachments" : [
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "54D4F39E-D269-4DFF-BE8D-2968224AB68F",
+        "deviceName" : "iPhone SE (3rd generation)",
+        "exportedFileName" : "483FE60C-CCB1-4F5A-B455-8D0E8B173AD6.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "05-no-in-app-bypass_0_52246892-1DB1-4805-93C4-AB18CAFBB130.png",
+        "timestamp" : 1792143891.807
+      }
+    ],
+    "testIdentifier" : "ScrollStopperUITests/testMandatoryBreakCannotBePausedOrEdited()",
+    "testIdentifierURL" : "test://com.apple.xcode/ScrollStopper/ScrollStopperUITests/ScrollStopperUITests/testMandatoryBreakCannotBePausedOrEdited"
+  },
+  {
+    "attachments" : [
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "54D4F39E-D269-4DFF-BE8D-2968224AB68F",
+        "deviceName" : "iPhone SE (3rd generation)",
+        "exportedFileName" : "7CFABD88-9A45-4D49-A7FE-E2DC5F6FCBE8.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "03-water-not-a-generic-reward_0_31AEAA98-01FC-43AF-9BAB-1615D844C434.png",
+        "timestamp" : 1792143900.723
+      }
+    ],
+    "testIdentifier" : "ScrollStopperUITests/testOptionalAlternativeRemembersWaterChoice()",
+    "testIdentifierURL" : "test://com.apple.xcode/ScrollStopper/ScrollStopperUITests/ScrollStopperUITests/testOptionalAlternativeRemembersWaterChoice"
+  },
+  {
+    "attachments" : [
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "54D4F39E-D269-4DFF-BE8D-2968224AB68F",
+        "deviceName" : "iPhone SE (3rd generation)",
+        "exportedFileName" : "DCD3C59B-6CC6-4AB8-96D5-8830F6D090DA.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "04-rage_0_08ACC4D6-A557-4EFA-9DB9-EBF64957051D.png",
+        "timestamp" : 1792143910.148
+      }
+    ],
+    "testIdentifier" : "ScrollStopperUITests/testPreviewEscalatesThenCalmsDown()",
+    "testIdentifierURL" : "test://com.apple.xcode/ScrollStopper/ScrollStopperUITests/ScrollStopperUITests/testPreviewEscalatesThenCalmsDown"
+  },
+  {
+    "attachments" : [
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "54D4F39E-D269-4DFF-BE8D-2968224AB68F",
+        "deviceName" : "iPhone SE (3rd generation)",
+        "exportedFileName" : "C13347FC-A691-4512-AE01-89F52CA18379.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "02-one-action-exit_0_023E8099-B91C-4212-84A7-C4AF56AFF4D2.png",
+        "timestamp" : 1792143918.014
+      }
+    ],
+    "testIdentifier" : "ScrollStopperUITests/testPutPhoneDownTakesOneAction()",
+    "testIdentifierURL" : "test://com.apple.xcode/ScrollStopper/ScrollStopperUITests/ScrollStopperUITests/testPutPhoneDownTakesOneAction"
+  },
+  {
+    "attachments" : [
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "54D4F39E-D269-4DFF-BE8D-2968224AB68F",
+        "deviceName" : "iPhone SE (3rd generation)",
+        "exportedFileName" : "7EA81643-9604-4BEE-AE8B-CA71071B520D.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "07-settings-to-rules_0_F4C9CDBF-E31F-4E82-807F-A303A018EB51.png",
+        "timestamp" : 1792143926.466
+      }
+    ],
+    "testIdentifier" : "ScrollStopperUITests/testSettingsToRulesOpensTheCorrectSheet()",
+    "testIdentifierURL" : "test://com.apple.xcode/ScrollStopper/ScrollStopperUITests/ScrollStopperUITests/testSettingsToRulesOpensTheCorrectSheet"
+  }
+]

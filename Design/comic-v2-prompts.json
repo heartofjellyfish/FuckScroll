@@ -1,0 +1,21 @@
+{
+  "tool": "Built-in image_gen.imagegen",
+  "direction": "Qi requested crazier, exaggerated comic-book art with emotion that interrupts scrolling. This is the v2 implementation, pending visual feedback.",
+  "assets": [
+    {
+      "file": "ScrollStopper/Resources/Assets.xcassets/ComicChill.imageset/duck-v2.png",
+      "transparent_background": true,
+      "prompt": "Use case: illustration-story. Production iPhone app illustration, new comic-book escalation of the duck in the reference moodboard. Use reference only for identity: scruffy WHITE DUCK, yellow long flat bill, three messy head hairs, deeply unimpressed half-lidded eyes. Make an absurd extreme CLOSE-UP, duck leaning into the reader's personal space, enormous foreshortened bill aimed down-right toward camera, one eyebrow raised, eyeballs looking directly at reader, head tilted 17 degrees, upper chest and one wing gripping a crooked black comic panel bottom edge. Head fills 75% of the square. NOT a full body standing character. Adult underground alternative comic, savage dry humor, confident energetic ragged brush pen contours, dramatically varied line weights, scratchy hatching, very sparse halftone on neck, distorted elastic anatomy and expressive asymmetry. A few sharp ink emphasis marks around head. Black/ivory/mustard yellow ONLY, white opaque body. Design reads instantly on phone. Transparent background around character, no painted paper, no background rectangle, no words, no letters, no logo, no gradient, no plush cute character, no polished vector, no 3D. Nearly fills canvas with small 7% safety margin. Square image. Return local asset path."
+    },
+    {
+      "file": "ScrollStopper/Resources/Assets.xcassets/ComicRage.imageset/duck-v2.png",
+      "transparent_background": true,
+      "prompt": "Use case: illustration-story. Create the explosive counterpart to this reference duck close-up for a mature indie comic iPhone app. SAME white duck identity, long mustard-yellow duck bill, scruffy tuft, black brush-ink hatching and white opaque feathers. Now an absurd hysterical BREAKING THE FOURTH WALL scream straight at the reader. Extreme fisheye foreshortening: huge open duck bill as a black angular cavern, long lower bill, tiny vibrating mismatched pupils, eyes bulging with exasperation, feathers flying, wings grasping both sides of its own head, elastic neck compressed into shoulders. Expression is comically unhinged and exhausted by endless scrolling, hilarious rather than horror, not mean angry superhero. Face and bill fill the square. Dynamic diagonal composition. Short jagged ink speed marks and a few loose feathers radiate from head. Slightly distressed bold black contours, raw energetic hand ink, sparse halftone shadows, vivid mustard accent bill. Monochrome ivory/black/mustard only. Transparent background, no text or letters, no panel rectangle, no border, no gradient, no 3D, no cute polish, no full-body standing pose. Small 6% safety padding around the wild silhouette. Square asset. Return local file path."
+    },
+    {
+      "file": "ScrollStopper/Resources/Assets.xcassets/ComicDone.imageset/duck-v2.png",
+      "transparent_background": true,
+      "prompt": "Use case: illustration-story. New comic panel character asset using reference for identity and ink style. This SAME grumpy white duck has finally got the human to stop scrolling and is utterly exhausted. Entire duck sprawled flat on its back diagonally, ridiculous giant yellow webbed feet in foreground pointing up, fluffy belly, tiny wings limply splayed, long yellow bill resting sideways at back, half-lidded one eye looking at reader: 'my work here is done'. Absurd elastic anatomy, humorous dramatic foreshortening, more absurd than cute. Whole body visible with 8% margin, landscape composition within square canvas. Mature alternative comic black brush pen linework, bold jagged expressive contours, loose sketch marks, sparse halftone shadow on feathers. Opaque white duck, mustard yellow feet and bill, black ink only. Transparent background, no shadows outside body, no props, no text or letters, no gradients, no 3D. Funny relief after a meltdown. Return local file path."
+    }
+  ]
+}

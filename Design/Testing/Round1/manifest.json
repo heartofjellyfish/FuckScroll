@@ -1,0 +1,122 @@
+[
+  {
+    "attachments" : [
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "9AAA8A10-232C-4798-B514-9F0E2B6D2392",
+        "deviceName" : "iPhone 17 Pro",
+        "exportedFileName" : "0648FD63-6B24-4D9E-8C07-99FE16BA3B4A.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "06-expiry-refreshes-live_0_AF5C7B09-27BE-400B-8368-196BD53CC86E.png",
+        "timestamp" : 1792143627.148
+      }
+    ],
+    "testIdentifier" : "ScrollStopperUITests/testBreakExpiresWithoutReopeningTheApp()",
+    "testIdentifierURL" : "test://com.apple.xcode/ScrollStopper/ScrollStopperUITests/ScrollStopperUITests/testBreakExpiresWithoutReopeningTheApp"
+  },
+  {
+    "attachments" : [
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "9AAA8A10-232C-4798-B514-9F0E2B6D2392",
+        "deviceName" : "iPhone 17 Pro",
+        "exportedFileName" : "28ECF215-3428-4004-BC4E-DFC72936FCC4.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "01-permission-is-honest_0_196268C5-FFE5-4E32-9E8F-EB1811B460B1.png",
+        "timestamp" : 1792143641.683
+      }
+    ],
+    "testIdentifier" : "ScrollStopperUITests/testFirstRunDoesNotPretendToHavePermission()",
+    "testIdentifierURL" : "test://com.apple.xcode/ScrollStopper/ScrollStopperUITests/ScrollStopperUITests/testFirstRunDoesNotPretendToHavePermission"
+  },
+  {
+    "attachments" : [
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "9AAA8A10-232C-4798-B514-9F0E2B6D2392",
+        "deviceName" : "iPhone 17 Pro",
+        "exportedFileName" : "683AC5F8-F1C8-4A72-91AC-9F9F6F724B71.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "08-connection-guide_0_7C3640C1-D9A0-454D-BB28-AFB517F05AEC.png",
+        "timestamp" : 1792143646.89
+      }
+    ],
+    "testIdentifier" : "ScrollStopperUITests/testGuideProvidesBothExactShortcutActionNames()",
+    "testIdentifierURL" : "test://com.apple.xcode/ScrollStopper/ScrollStopperUITests/ScrollStopperUITests/testGuideProvidesBothExactShortcutActionNames"
+  },
+  {
+    "attachments" : [
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "9AAA8A10-232C-4798-B514-9F0E2B6D2392",
+        "deviceName" : "iPhone 17 Pro",
+        "exportedFileName" : "07F9776B-D224-456C-9136-A639B3CE483E.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "05-no-in-app-bypass_0_17144DF3-2EFD-4BA8-8E61-00AB91156670.png",
+        "timestamp" : 1792143656.791
+      }
+    ],
+    "testIdentifier" : "ScrollStopperUITests/testMandatoryBreakCannotBePausedOrEdited()",
+    "testIdentifierURL" : "test://com.apple.xcode/ScrollStopper/ScrollStopperUITests/ScrollStopperUITests/testMandatoryBreakCannotBePausedOrEdited"
+  },
+  {
+    "attachments" : [
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "9AAA8A10-232C-4798-B514-9F0E2B6D2392",
+        "deviceName" : "iPhone 17 Pro",
+        "exportedFileName" : "110798E1-35EE-49BC-AE9F-17037E3B0D8E.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "03-water-not-a-generic-reward_0_A260DC9F-6081-48B9-BA79-AFF3263C22E9.png",
+        "timestamp" : 1792143666.617
+      }
+    ],
+    "testIdentifier" : "ScrollStopperUITests/testOptionalAlternativeRemembersWaterChoice()",
+    "testIdentifierURL" : "test://com.apple.xcode/ScrollStopper/ScrollStopperUITests/ScrollStopperUITests/testOptionalAlternativeRemembersWaterChoice"
+  },
+  {
+    "attachments" : [
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "9AAA8A10-232C-4798-B514-9F0E2B6D2392",
+        "deviceName" : "iPhone 17 Pro",
+        "exportedFileName" : "AD96141D-89A3-47A4-850F-3E9DD232D4C5.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "04-rage_0_E9EE7710-4871-4E67-9653-F75FEB97FA73.png",
+        "timestamp" : 1792143676.356
+      }
+    ],
+    "testIdentifier" : "ScrollStopperUITests/testPreviewEscalatesThenCalmsDown()",
+    "testIdentifierURL" : "test://com.apple.xcode/ScrollStopper/ScrollStopperUITests/ScrollStopperUITests/testPreviewEscalatesThenCalmsDown"
+  },
+  {
+    "attachments" : [
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "9AAA8A10-232C-4798-B514-9F0E2B6D2392",
+        "deviceName" : "iPhone 17 Pro",
+        "exportedFileName" : "41954CC8-1E4F-4627-9607-B852069B1187.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "02-one-action-exit_0_978A2D2B-4C31-4AC7-95E9-BF5827D6F0E3.png",
+        "timestamp" : 1792143684.867
+      }
+    ],
+    "testIdentifier" : "ScrollStopperUITests/testPutPhoneDownTakesOneAction()",
+    "testIdentifierURL" : "test://com.apple.xcode/ScrollStopper/ScrollStopperUITests/ScrollStopperUITests/testPutPhoneDownTakesOneAction"
+  },
+  {
+    "attachments" : [
+      {
+        "configurationName" : "Test Scheme Action",
+        "deviceId" : "9AAA8A10-232C-4798-B514-9F0E2B6D2392",
+        "deviceName" : "iPhone 17 Pro",
+        "exportedFileName" : "D525692E-9530-405A-B17F-064FE612B692.png",
+        "isAssociatedWithFailure" : false,
+        "suggestedHumanReadableName" : "07-settings-to-rules_0_FFADD698-480E-4B90-AC9B-491CCB9D066C.png",
+        "timestamp" : 1792143693.793
+      }
+    ],
+    "testIdentifier" : "ScrollStopperUITests/testSettingsToRulesOpensTheCorrectSheet()",
+    "testIdentifierURL" : "test://com.apple.xcode/ScrollStopper/ScrollStopperUITests/ScrollStopperUITests/testSettingsToRulesOpensTheCorrectSheet"
+  }
+]

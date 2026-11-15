@@ -1,0 +1,170 @@
+[
+  {
+    "round": 1,
+    "device": "iPhone 17 Pro / iOS 26.5",
+    "cases": [
+      {
+        "name": "testBreakExpiresWithoutReopeningTheApp",
+        "status": "passed",
+        "seconds": 18.048
+      },
+      {
+        "name": "testFirstRunDoesNotPretendToHavePermission",
+        "status": "passed",
+        "seconds": 9.501
+      },
+      {
+        "name": "testGuideProvidesBothExactShortcutActionNames",
+        "status": "passed",
+        "seconds": 5.148
+      },
+      {
+        "name": "testMandatoryBreakCannotBePausedOrEdited",
+        "status": "passed",
+        "seconds": 9.916
+      },
+      {
+        "name": "testOptionalAlternativeRemembersWaterChoice",
+        "status": "passed",
+        "seconds": 12.722
+      },
+      {
+        "name": "testPreviewEscalatesThenCalmsDown",
+        "status": "passed",
+        "seconds": 8.521
+      },
+      {
+        "name": "testPutPhoneDownTakesOneAction",
+        "status": "passed",
+        "seconds": 6.858
+      },
+      {
+        "name": "testSettingsToRulesOpensTheCorrectSheet",
+        "status": "passed",
+        "seconds": 8.914
+      }
+    ]
+  },
+  {
+    "round": 2,
+    "device": "iPhone SE / iOS 18.2",
+    "cases": [
+      {
+        "name": "testAlternativeDoesNotEndMandatoryBreak",
+        "status": "passed",
+        "seconds": 12.919
+      },
+      {
+        "name": "testBreakExpiresWithoutReopeningTheApp",
+        "status": "passed",
+        "seconds": 16.464
+      },
+      {
+        "name": "testChineseOptionalFlow",
+        "status": "passed",
+        "seconds": 12.194
+      },
+      {
+        "name": "testFirstRunDoesNotPretendToHavePermission",
+        "status": "passed",
+        "seconds": 8.913
+      },
+      {
+        "name": "testGuideProvidesBothExactShortcutActionNames",
+        "status": "passed",
+        "seconds": 6.133
+      },
+      {
+        "name": "testLargeTextStillHasAReachableExit",
+        "status": "passed",
+        "seconds": 6.308
+      },
+      {
+        "name": "testMandatoryBreakCannotBePausedOrEdited",
+        "status": "passed",
+        "seconds": 9.484
+      },
+      {
+        "name": "testOptionalAlternativeRemembersWaterChoice",
+        "status": "passed",
+        "seconds": 11.813
+      },
+      {
+        "name": "testPreviewEscalatesThenCalmsDown",
+        "status": "passed",
+        "seconds": 7.946
+      },
+      {
+        "name": "testPutPhoneDownTakesOneAction",
+        "status": "passed",
+        "seconds": 6.454
+      },
+      {
+        "name": "testSettingsToRulesOpensTheCorrectSheet",
+        "status": "passed",
+        "seconds": 8.416
+      }
+    ]
+  },
+  {
+    "round": 3,
+    "device": "iPhone 17 Pro / iOS 26.5",
+    "cases": [
+      {
+        "name": "testAlternativeDoesNotEndMandatoryBreak",
+        "status": "passed",
+        "seconds": 12.506
+      },
+      {
+        "name": "testBreakExpiresWithoutReopeningTheApp",
+        "status": "passed",
+        "seconds": 16.007
+      },
+      {
+        "name": "testChineseOptionalFlow",
+        "status": "passed",
+        "seconds": 12.796
+      },
+      {
+        "name": "testFirstRunDoesNotPretendToHavePermission",
+        "status": "passed",
+        "seconds": 9.898
+      },
+      {
+        "name": "testGuideProvidesBothExactShortcutActionNames",
+        "status": "passed",
+        "seconds": 5.25
+      },
+      {
+        "name": "testLargeTextStillHasAReachableExit",
+        "status": "passed",
+        "seconds": 6.87
+      },
+      {
+        "name": "testMandatoryBreakCannotBePausedOrEdited",
+        "status": "passed",
+        "seconds": 9.917
+      },
+      {
+        "name": "testOptionalAlternativeRemembersWaterChoice",
+        "status": "passed",
+        "seconds": 12.356
+      },
+      {
+        "name": "testPreviewEscalatesThenCalmsDown",
+        "status": "passed",
+        "seconds": 8.636
+      },
+      {
+        "name": "testPutPhoneDownTakesOneAction",
+        "status": "passed",
+        "seconds": 6.907
+      },
+      {
+        "name": "testSettingsToRulesOpensTheCorrectSheet",
+        "status": "passed",
+        "seconds": 8.719
+      }
+    ]
+  }
+]

@@ -1,0 +1,33 @@
+{
+  "status": "Owner approved for publication on 2026-11-10",
+  "locales": {
+    "en-US": {
+      "name": "Stop Scrolling – Duck on Duty",
+      "subtitle": "Social Media App Blocker",
+      "keywords": "screen,time,limit,focus,doomscrolling,detox,distraction,break,habit,self,control",
+      "captions": [
+        "Can’t stop scrolling\nsocial media?",
+        "Different apps. Different timers.",
+        "Go stretch your legs.",
+        "Your phone. Your terms."
+      ],
+      "description": "Just checking social media? Give yourself a stopping point. The duck blocks each app when its time is up.\n\n• Set a separate usage limit and break for each app.\n• Short visits add up. Stay away for a full break to start fresh when Screen Time updates.\n• Change next round’s limits during a break.\n• Write your own reminder and exit-button text.\n• Close the duck. Your limits keep working.\n\nA raised eyebrow. A little humor. The duck is on your side.\n\nFree and ad-free. Your data stays on your iPhone. Requires Screen Time access. Reminder and unlock timing depend on iOS.",
+      "promotional_text": "Less social media. More real life. A small duck with independent app timers and mandatory breaks.",
+      "firstScreenshotDetail": "The duck blocks the app when you hit your limit."
+    },
+    "zh-Hans": {
+      "name": "Duck on Duty – 少刷手机",
+      "subtitle": "少刷社交媒体，每个 App 单独限时",
+      "keywords": "屏幕使用时间,应用限制,防沉迷,自律,专注,戒手机,时间管理,数字健康",
+      "captions": [
+        "社交媒体，\n一刷就停不下来？",
+        "各刷各的，各歇各的。",
+        "去走两步。",
+        "我的手机，我的规矩。"
+      ],
+      "description": "本来只想看一眼，结果又刷了半天？给自己定个停下来的时间。到点鸭子拦住这个 App，让你歇会儿。\n\n• 每个 App，分别设置使用上限和休息时长。\n• 多次打开会累计；离开够一轮休息时间，系统更新后重新计时。\n• 正在休息，也能改下一轮的时间。\n• 提醒的话和退出按钮，都能自己写。\n• 关掉鸭子，限时照常。\n\n有点冷幽默，偶尔翻个白眼。鸭子站你这边。\n\n免费，无广告。数据只留在你的 iPhone。需要授权屏幕使用时间；提醒与解锁时机受 iOS 调度影响。",
+      "promotional_text": "“再看一条。”行，把时间定好。每个 App 单独计时，到点鸭子接班，你歇会儿。",
+      "firstScreenshotDetail": "到你设的上限，鸭子就拦住这个 App。"
+    }
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "en": {
+    "market": "en-US",
+    "apps": [
+      "tiktok",
+      "instagram",
+      "facebook",
+      "youtube"
+    ],
+    "names": [
+      "TikTok",
+      "Instagram",
+      "Facebook",
+      "YouTube"
+    ]
+  },
+  "zh-Hans": {
+    "market": "zh-Hans",
+    "apps": [
+      "rednote",
+      "douyin"
+    ],
+    "names": [
+      "小红书",
+      "抖音"
+    ]
+  },
+  "zh-Hant": {
+    "market": "zh-Hant",
+    "apps": [
+      "threads",
+      "instagram",
+      "facebook",
+      "youtube"
+    ],
+    "names": [
+      "Threads",
+      "Instagram",
+      "Facebook",
+      "YouTube"
+    ]
+  },
+  "ja": {
+    "market": "ja",
+    "apps": [
+      "youtube",
+      "x"
+    ],
+    "names": [
+      "YouTube",
+      "X"
+    ]
+  },
+  "ko": {
+    "market": "ko",
+    "apps": [
+      "youtube",
+      "instagram"
+    ],
+    "names": [
+      "YouTube",
+      "Instagram"
+    ]
+  },
+  "es": {
+    "market": "es-ES",
+    "apps": [
+      "instagram",
+      "tiktok",
+      "facebook",
+      "youtube"
+    ],
+    "names": [
+      "Instagram",
+      "TikTok",
+      "Facebook",
+      "YouTube"
+    ]
+  },
+  "de": {
+    "market": "de-DE",
+    "apps": [
+      "instagram",
+      "tiktok",
+      "facebook",
+      "youtube"
+    ],
+    "names": [
+      "Instagram",
+      "TikTok",
+      "Facebook",
+      "YouTube"
+    ]
+  },
+  "fr": {
+    "market": "fr-FR",
+    "apps": [
+      "instagram",
+      "tiktok",
+      "facebook",
+      "youtube"
+    ],
+    "names": [
+      "Instagram",
+      "TikTok",
+      "Facebook",
+      "YouTube"
+    ]
+  },
+  "it": {
+    "market": "it",
+    "apps": [
+      "instagram",
+      "tiktok",
+      "facebook",
+      "youtube"
+    ],
+    "names": [
+      "Instagram",
+      "TikTok",
+      "Facebook",
+      "YouTube"
+    ]
+  },
+  "pt-BR": {
+    "market": "pt-BR",
+    "apps": [
+      "instagram",
+      "tiktok",
+      "facebook",
+      "youtube"
+    ],
+    "names": [
+      "Instagram",
+      "TikTok",
+      "Facebook",
+      "YouTube"
+    ]
+  }
+}

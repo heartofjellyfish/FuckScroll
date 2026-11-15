@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-05",
+  "change": "Shorten English and Chinese character copy; remove duplicate captions and commentary; keep mandatory-break behavior unchanged.",
+  "signed_build": "passed",
+  "simulator_build": "passed",
+  "device_install": "passed on retry after a connection interruption",
+  "device_launch": "passed",
+  "policy_checks": 30,
+  "scenario_checks": 10,
+  "ui_checks": {
+    "one_action_exit": "passed",
+    "water_choice": "passed",
+    "mood_cycle": "passed",
+    "large_text_exit": "passed",
+    "chinese_water_choice": "passed on isolated rerun"
+  },
+  "test_note": "Initial Chinese UI test was interrupted by overlapping screenshot capture. The isolated rerun passed. Screenshot capture was then rerun separately.",
+  "automation_import": "not implemented or verified; automatic approval review rejected creating a test shortcut; explicit confirmation requested",
+  "actual_shield_and_continuous_detection": "not verified on device in this run",
+  "screenshots": "Design/Screenshots/short-copy-*.png"
+}

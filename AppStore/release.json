@@ -1,0 +1,149 @@
+{
+  "version": "1.0",
+  "build": "52",
+  "bundleID": "com.heartofjellyfish.scrollstopper",
+  "primaryLocale": "en-US",
+  "categoryProposal": "Productivity",
+  "availabilityIntent": "All eligible App Store countries or regions, subject to regional requirements",
+  "published": false,
+  "availableRegionsConfigured": true,
+  "pricing": "Free: verified $0.00 across 175 country/region price entries in App Store Connect",
+  "supportPathToDeploy": "/scroll-stopper/",
+  "privacyPathToDeploy": "/scroll-stopper/privacy/",
+  "supportSitePublished": true,
+  "privacyDisclosureProposal": "Data Not Collected; no tracking",
+  "reviewRelease": "Owner approved copy and requested direct publication on 2026-11-10.",
+  "signingPreflight": "Actual Xcode upload package: Family Controls true in each executable signature and embedded App Store profile. Deep strict codesign verification passed.",
+  "submissionReady": true,
+  "uploaded": true,
+  "supportURL": "https://app.qi.land/scroll-stopper/",
+  "privacyURL": "https://app.qi.land/scroll-stopper/privacy/",
+  "websiteHTTPStatus": {
+    "support": 200,
+    "privacy": 200
+  },
+  "archivePath": "AppStore/Builds/ScrollStopper-1.0-52.xcarchive",
+  "archiveCreated": true,
+  "materials": {
+    "languages": 10,
+    "screenshotsPerLanguage": 4,
+    "primaryDimensions": [
+      1290,
+      2796
+    ],
+    "secondaryDimensions": [
+      1206,
+      2622
+    ],
+    "exampleRevision": "market-examples-2"
+  },
+  "submissionBlockers": [],
+  "appStoreID": "6832822647",
+  "lastObservedStoreDraft": {
+    "appRecordCreated": true,
+    "appStoreID": "6832822647",
+    "englishScreenshotsUploaded": 4,
+    "englishScreenshotOrder": [
+      "01-break",
+      "02-limits",
+      "03-walk",
+      "04-rules"
+    ],
+    "binaryUploaded": true,
+    "submittedForReview": true,
+    "category": "Productivity",
+    "privacyDraft": "Data Not Collected",
+    "globalAgeRating": "9+ with regional exceptions",
+    "reviewContactPhoneMissing": false,
+    "englishApprovedCopySaved": true,
+    "contentRightsSaved": true,
+    "macAvailability": false,
+    "visionProAvailability": false,
+    "availableRegions": 175,
+    "build51Attached": true,
+    "privacyPolicyURLSaved": true,
+    "privacyPublished": true,
+    "localizedVersionMetadataSaved": [
+      "en-US",
+      "zh-Hans",
+      "zh-Hant",
+      "ja",
+      "ko",
+      "es-ES",
+      "fr-FR",
+      "de-DE",
+      "it",
+      "pt-BR"
+    ],
+    "localizedAppInfoSaved": true,
+    "localizedScreenshotsUploaded": 40,
+    "localizedScreenshotsProcessing": false,
+    "exportComplianceSaved": "None of the algorithms mentioned above",
+    "build52Attached": true
+  },
+  "currentBlockers": [],
+  "copyApproval": "English and Simplified Chinese approved for publication on 2026-11-10",
+  "explicitReleaseAuthorizations": {
+    "confirmed": true,
+    "date": "2026-11-10",
+    "familyControlsDistribution": true,
+    "reuseMetronomeReviewContact": true,
+    "reauthorizeVercelCLIAndPublishPages": true,
+    "iPhoneOnly": true,
+    "thirdPartyIconRightsConfirmedByOwner": true,
+    "privacyPublicationActionTimeConfirmed": true,
+    "encryptionNoneOfAboveAnswerConfirmed": true
+  },
+  "latestExportLog": "/tmp/duck51-export-authorized.log",
+  "familyControlsRequest": {
+    "status": "Approved and enabled for main app plus action, monitor and shield extension identifiers",
+    "requestID": "UM5GD2BT57",
+    "teamID": "47C4WT5UPR",
+    "account": "liuqi627@gmail.com",
+    "date": "2026-11-10",
+    "evidence": "AppStore/Review/family-controls-request-submitted.png",
+    "approvalVerified": "2026-11-10"
+  },
+  "familyControlsDistributionEnabledFor": [
+    "com.heartofjellyfish.scrollstopper",
+    "com.heartofjellyfish.scrollstopper.action",
+    "com.heartofjellyfish.scrollstopper.monitor",
+    "com.heartofjellyfish.scrollstopper.shield"
+  ],
+  "uploadEvidence": "AppStore/Review/build51-upload-complete.png",
+  "websiteDeployment": "https://clean-apps-pbuqm8zfo-heartofjellyfishs-projects.vercel.app",
+  "lastSubmissionValidation": {
+    "result": "Build 52 resubmitted; Waiting for Review",
+    "items": [],
+    "evidence": "AppStore/Review/build52-resubmitted.png"
+  },
+  "screenshotOrderNotes": {
+    "zh-Hans": [
+      "01-break",
+      "04-rules",
+      "02-limits",
+      "03-walk"
+    ],
+    "others": "01-break,02-limits,03-walk,04-rules"
+  },
+  "submittedForReview": true,
+  "reviewStatus": "Waiting for Review: Build 52 resubmitted on November 11, 2026 at 9:38 AM PST.",
+  "reviewSubmissionID": "07afb3ed-bb71-4a9e-a62b-79e4ea61b7d1",
+  "reviewSubmissionURL": "https://appstoreconnect.apple.com/apps/6832822647/distribution/reviewsubmissions/details/07afb3ed-bb71-4a9e-a62b-79e4ea61b7d1",
+  "replacementBuild": {
+    "version": "1.0",
+    "build": "52",
+    "archivePath": "AppStore/Builds/ScrollStopper-1.0-52.xcarchive",
+    "verifiedUploadIPA": "AppStore/Builds/ScrollStopper-1.0-52-store/ScrollStopper-uploaded.ipa",
+    "uploadIPASHA256": "fd7d1eb958f804c9d2286ec2af591deb8111598cb9e20f2b8b4388d0a2a48d0a",
+    "verifiedFamilyControlsFor": [
+      "com.heartofjellyfish.scrollstopper",
+      "com.heartofjellyfish.scrollstopper.action",
+      "com.heartofjellyfish.scrollstopper.monitor",
+      "com.heartofjellyfish.scrollstopper.shield"
+    ],
+    "signingVerification": "Actual Xcode upload package: Family Controls true in each executable signature and embedded App Store profile. Deep strict codesign verification passed.",
+    "uploadStatus": "Uploaded and processed by App Store Connect.",
+    "submittedForReview": true
+  }
+}

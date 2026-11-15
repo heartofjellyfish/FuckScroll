@@ -1,0 +1,20 @@
+Stop Scrolling – Duck on Duty 1.0 (51) • iPhone • Home Screen label: Scroll Stopper.
+No account or credentials required. No payments, ads or analytics. No Shortcuts automation.
+
+Quick physical-device test:
+1. Tap Set my limit or Select apps. Allow individual Screen Time access.
+2. Expand a category in Apple's picker and select one or more installed apps.
+3. In Your limits, tap a yellow Use for value and choose 2 min. Choose 5 min under Break for. Save.
+4. Close Scroll Stopper and use a selected app until iOS delivers its threshold. Only that app is blocked; other apps have their own budgets.
+5. The real Screen Time shield shows the duck's eye and a single white exit button. On iOS 26.5+ the button opens the companion duck page; on earlier supported systems it closes the blocked app. The system-owned shield is not a full-screen custom comic.
+
+Timing rules:
+Usage accumulates across visits. A full voluntary break can reset the allowance when Screen Time milestones provide evidence of time away. Notification delays may grant extra time. Blocking and release delivery depend on iOS. Reopen Scroll Stopper to reconcile an overdue release.
+Each app has its own usage limit and break. An active break keeps its original deadline when the next round's settings change. Pausing duty stops new breaks but does not bypass existing ones.
+
+Editing:
+Your limits uses Apple's privacy-preserving app picker. Change apps adds/removes individual apps. Clearing all selections automatically persists an empty list; an app currently on a mandatory break cannot be removed and produces an explicit error.
+Ground rules → Edit break screen lets the user edit the reminder and exit text. Try in an app applies a separate one-minute trial shield, without resetting normal usage timers or breaks. Layout preview is used on the simulator or when live testing is unavailable.
+
+Screenshots use actual simulator renders of shipping SwiftUI views with representative app identities and sample per-app times. They do not claim to document live Screen Time callback delivery. The fourth image shows the optional off-duty state.
+Data handling: app tokens, settings, timers and custom reminder text stay on the device. No tracking or data collection. No demonstration account is needed.

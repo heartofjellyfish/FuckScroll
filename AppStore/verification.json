@@ -1,0 +1,104 @@
+{
+  "build": "51",
+  "monitoringChecksWithSimulatedDelivery": 72,
+  "policyChecks": 30,
+  "legacyScenarioChecks": 10,
+  "latestTargetedUITests": {
+    "groundRulesSwitch": true,
+    "groundRulesLanguage": true,
+    "reminderEditingAndKeyboardAvoidance": true,
+    "emptyHomeAndFirstRun": true
+  },
+  "sourceScreenshotDevice": "iPhone 17 Pro simulator",
+  "screenData": "Real SwiftUI renders with sample app identities and independent countdowns. Not live Screen Time timing evidence.",
+  "uiLanguages": [
+    "en-US",
+    "zh-Hans",
+    "zh-Hant",
+    "ja",
+    "ko",
+    "es-ES",
+    "fr-FR",
+    "de-DE",
+    "it",
+    "pt-BR"
+  ],
+  "storeImagesVerified": 40,
+  "storeImageSize": [
+    1290,
+    2796
+  ],
+  "secondaryImageSize": [
+    1206,
+    2622
+  ],
+  "hasAlpha": false,
+  "archive": "1.0 (51), arm64, Xcode archive succeeded; development-signed archive, distribution export blocked",
+  "installedOnPhone": true,
+  "lastVerifiedPhoneBuild": "51",
+  "physicalRealShieldAppearanceVerified": true,
+  "physicalRealShieldAppearanceEvidence": "Build 46 white-button capture; shield visual configuration unchanged in 51.",
+  "physicalShortBreakDeliveryVerifiedThisRun": false,
+  "physicalIdleResetVerified": false,
+  "uploaded": false,
+  "distributionExportSucceeded": false,
+  "exampleAppsByMarket": {
+    "en-US": [
+      "TikTok",
+      "Instagram",
+      "Facebook",
+      "YouTube"
+    ],
+    "zh-Hans": [
+      "小红书",
+      "抖音"
+    ],
+    "zh-Hant": [
+      "Threads",
+      "Instagram",
+      "Facebook",
+      "YouTube"
+    ],
+    "ja": [
+      "YouTube",
+      "X"
+    ],
+    "ko": [
+      "YouTube",
+      "Instagram"
+    ],
+    "es-ES": [
+      "Instagram",
+      "TikTok",
+      "Facebook",
+      "YouTube"
+    ],
+    "de-DE": [
+      "Instagram",
+      "TikTok",
+      "Facebook",
+      "YouTube"
+    ],
+    "fr-FR": [
+      "Instagram",
+      "TikTok",
+      "Facebook",
+      "YouTube"
+    ],
+    "it": [
+      "Instagram",
+      "TikTok",
+      "Facebook",
+      "YouTube"
+    ],
+    "pt-BR": [
+      "Instagram",
+      "TikTok",
+      "Facebook",
+      "YouTube"
+    ]
+  },
+  "exampleAssetsSource": "Official Apple App Store lookup metadata; see ExampleApps/sources.json",
+  "exampleSelectionBasis": "Illustrative familiar feed/video apps, not a market-share ranking.",
+  "screenshotFixtureRevision": "market-examples-2"
+}

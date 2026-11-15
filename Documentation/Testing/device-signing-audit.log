@@ -1,0 +1,10 @@
+2026-10-16: signed Debug build, paired iPhone 14 Pro, -allowProvisioningUpdates
+/Users/qliu/FuckScroll/ScrollStopper.xcodeproj: error: No Accounts: Add a new account in Accounts settings. (in target 'ShieldConfiguration' from project 'ScrollStopper')
+/Users/qliu/FuckScroll/ScrollStopper.xcodeproj: error: No profiles for 'com.heartofjellyfish.scrollstopper.shield' were found: Xcode couldn't find any iOS App Development provisioning profiles matching 'com.heartofjellyfish.scrollstopper.shield'. (in target 'ShieldConfiguration' from project 'ScrollStopper')
+/Users/qliu/FuckScroll/ScrollStopper.xcodeproj: error: No Accounts: Add a new account in Accounts settings. (in target 'ActivityMonitor' from project 'ScrollStopper')
+/Users/qliu/FuckScroll/ScrollStopper.xcodeproj: error: No profiles for 'com.heartofjellyfish.scrollstopper.monitor' were found: Xcode couldn't find any iOS App Development provisioning profiles matching 'com.heartofjellyfish.scrollstopper.monitor'. (in target 'ActivityMonitor' from project 'ScrollStopper')
+/Users/qliu/FuckScroll/ScrollStopper.xcodeproj: error: No Accounts: Add a new account in Accounts settings. (in target 'ScrollStopper' from project 'ScrollStopper')
+/Users/qliu/FuckScroll/ScrollStopper.xcodeproj: error: No profiles for 'com.heartofjellyfish.scrollstopper' were found: Xcode couldn't find any iOS App Development provisioning profiles matching 'com.heartofjellyfish.scrollstopper'. (in target 'ScrollStopper' from project 'ScrollStopper')
+/Users/qliu/FuckScroll/ScrollStopper.xcodeproj: error: No Accounts: Add a new account in Accounts settings. (in target 'ShieldAction' from project 'ScrollStopper')
+/Users/qliu/FuckScroll/ScrollStopper.xcodeproj: error: No profiles for 'com.heartofjellyfish.scrollstopper.action' were found: Xcode couldn't find any iOS App Development provisioning profiles matching 'com.heartofjellyfish.scrollstopper.action'. (in target 'ShieldAction' from project 'ScrollStopper')
+** BUILD FAILED **

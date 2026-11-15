@@ -1,0 +1,22 @@
+.DS_Store
+.build/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+*.xcresult/
+.build-device/
+
+# Local distribution artifacts and signing material
+AppStore/Builds/
+*.xcarchive/
+*.ipa
+*.mobileprovision
+*.p12
+*.p8
+*.zip
+.env
+.env.*
+.vercel/
+
+# Unrelated local review media
+/Hush-Garden-9x16-V1-review.mp4

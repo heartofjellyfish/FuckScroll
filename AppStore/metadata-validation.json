@@ -1,0 +1,333 @@
+{
+  "build": "51",
+  "markets": {
+    "en-US": {
+      "lengths": {
+        "name": 29,
+        "subtitle": 24,
+        "keywords": 80,
+        "description": 570,
+        "promotional_text": 97
+      },
+      "screenshots": [
+        {
+          "file": "AppStore/Screenshots/en-US/01-break.png",
+          "sha256": "498a9df0238dae58b7987c59a94e99f5edacfca48ecc3dfffafc11506377f797"
+        },
+        {
+          "file": "AppStore/Screenshots/en-US/02-limits.png",
+          "sha256": "141e9e2c5522d1de7eee20d61ced7c7058a6e2234089e8be5443165d93a6b4c2"
+        },
+        {
+          "file": "AppStore/Screenshots/en-US/03-walk.png",
+          "sha256": "3c61885df4d54c43850302196c6e1b5ece227b1cabfacd35435f3713de5dc006"
+        },
+        {
+          "file": "AppStore/Screenshots/en-US/04-rules.png",
+          "sha256": "63b0be732034629af27c8a68721d18287509d90c56e1a9f6bec6c9af49e6f900"
+        }
+      ],
+      "exampleApps": [
+        "TikTok",
+        "Instagram",
+        "Facebook",
+        "YouTube"
+      ]
+    },
+    "zh-Hans": {
+      "lengths": {
+        "name": 19,
+        "subtitle": 18,
+        "keywords": 91,
+        "description": 228,
+        "promotional_text": 39
+      },
+      "screenshots": [
+        {
+          "file": "AppStore/Screenshots/zh-Hans/01-break.png",
+          "sha256": "3985c9174dd7da2e1976fb12ec5dcfc9a9a6b7a17199383fb12a9fb5ea23fde8"
+        },
+        {
+          "file": "AppStore/Screenshots/zh-Hans/02-limits.png",
+          "sha256": "acf31746efba4a2b5f40caf6caa2775c83448c69bd2d1c1d72e31094bbfefde4"
+        },
+        {
+          "file": "AppStore/Screenshots/zh-Hans/03-walk.png",
+          "sha256": "4be96958ff4db790ebfdee843c2ab78dbdf6b8afd5fd29e1bd9042bfee7a121e"
+        },
+        {
+          "file": "AppStore/Screenshots/zh-Hans/04-rules.png",
+          "sha256": "5cdf2e11cf7401113ccfce32e1c2dca3d53bf4bb7c480c05ddc8d2c19d75b3a6"
+        }
+      ],
+      "exampleApps": [
+        "小红书",
+        "抖音"
+      ]
+    },
+    "zh-Hant": {
+      "lengths": {
+        "name": 29,
+        "subtitle": 16,
+        "keywords": 77,
+        "description": 236,
+        "promotional_text": 41
+      },
+      "screenshots": [
+        {
+          "file": "AppStore/Screenshots/zh-Hant/01-break.png",
+          "sha256": "111214a5de4d895fdfd14889904d509ca9d0b411a5597e08fa644e774b5d630c"
+        },
+        {
+          "file": "AppStore/Screenshots/zh-Hant/02-limits.png",
+          "sha256": "c13b23cedd2cfa91eb1c5836f7a8b9ea2d6d78b3bbb2a4332f91b53f61f50986"
+        },
+        {
+          "file": "AppStore/Screenshots/zh-Hant/03-walk.png",
+          "sha256": "f8a7081ded87cb1c52b2d7c598a5480ed61c9d25e57b82537adf9e64fa90d095"
+        },
+        {
+          "file": "AppStore/Screenshots/zh-Hant/04-rules.png",
+          "sha256": "7ff8c9831a76b49cce0e3fbf2226a6e9ab1d840eeb63d4a846705fb833f8836d"
+        }
+      ],
+      "exampleApps": [
+        "Threads",
+        "Instagram",
+        "Facebook",
+        "YouTube"
+      ]
+    },
+    "ja": {
+      "lengths": {
+        "name": 29,
+        "subtitle": 14,
+        "keywords": 96,
+        "description": 313,
+        "promotional_text": 46
+      },
+      "screenshots": [
+        {
+          "file": "AppStore/Screenshots/ja/01-break.png",
+          "sha256": "719d4cb99d2caec61085be31d2a053f725329a0c32e71c7d137016cbc0d96811"
+        },
+        {
+          "file": "AppStore/Screenshots/ja/02-limits.png",
+          "sha256": "1510bde577bd91a1d22f6675e10e6eed840156f582151d9a1a330f13eb8014e4"
+        },
+        {
+          "file": "AppStore/Screenshots/ja/03-walk.png",
+          "sha256": "f32dba9e08a45f644c5ed2f602bc5596bb3311dd43dba64425c8c21eee413035"
+        },
+        {
+          "file": "AppStore/Screenshots/ja/04-rules.png",
+          "sha256": "668f10ab59d75e607c75b58f13a61e7a8a3f8da04a9484f9e5d1a4ca6524d1cd"
+        }
+      ],
+      "exampleApps": [
+        "YouTube",
+        "X"
+      ]
+    },
+    "ko": {
+      "lengths": {
+        "name": 29,
+        "subtitle": 17,
+        "keywords": 77,
+        "description": 363,
+        "promotional_text": 66
+      },
+      "screenshots": [
+        {
+          "file": "AppStore/Screenshots/ko/01-break.png",
+          "sha256": "53a758e6f7bab0d673b661cdc8d2adb074bcc15d7ae0097ad4f5dbfd07b969dc"
+        },
+        {
+          "file": "AppStore/Screenshots/ko/02-limits.png",
+          "sha256": "e428c0c864da4e03fb1409b881c1bf7b7bddafe59a431599592f13b1efd4129f"
+        },
+        {
+          "file": "AppStore/Screenshots/ko/03-walk.png",
+          "sha256": "d04c474425c0ae8f8c7c9a25a41438fdbd558e24fd9973b7d484aa05a55e745d"
+        },
+        {
+          "file": "AppStore/Screenshots/ko/04-rules.png",
+          "sha256": "167abc675f4b7d98c8a9ad207a98dc3e9f751c699c0deebde9e742c3149d2bfb"
+        }
+      ],
+      "exampleApps": [
+        "YouTube",
+        "Instagram"
+      ]
+    },
+    "es-ES": {
+      "lengths": {
+        "name": 29,
+        "subtitle": 27,
+        "keywords": 82,
+        "description": 698,
+        "promotional_text": 97
+      },
+      "screenshots": [
+        {
+          "file": "AppStore/Screenshots/es-ES/01-break.png",
+          "sha256": "a8d4433ab7fddc23009f87a4f2430806e27360cd7612817fceca5224f8668873"
+        },
+        {
+          "file": "AppStore/Screenshots/es-ES/02-limits.png",
+          "sha256": "20e95af9079f0dd162bfd926794b958b184499384a1be99cc5bc27b2ec835864"
+        },
+        {
+          "file": "AppStore/Screenshots/es-ES/03-walk.png",
+          "sha256": "798f425ff56c87b781a067e29f17a2ca1cd4c9375308540c1002bd221f030d7e"
+        },
+        {
+          "file": "AppStore/Screenshots/es-ES/04-rules.png",
+          "sha256": "a4185c9073682c59c2e9cf1b493a202f906193b94e74d03097d18efde3434853"
+        }
+      ],
+      "exampleApps": [
+        "Instagram",
+        "TikTok",
+        "Facebook",
+        "YouTube"
+      ]
+    },
+    "fr-FR": {
+      "lengths": {
+        "name": 29,
+        "subtitle": 26,
+        "keywords": 83,
+        "description": 764,
+        "promotional_text": 94
+      },
+      "screenshots": [
+        {
+          "file": "AppStore/Screenshots/fr-FR/01-break.png",
+          "sha256": "361f54cd8e639358405a1761b41e4ca377e03af82a5e38326e7ef1a1e710f5fe"
+        },
+        {
+          "file": "AppStore/Screenshots/fr-FR/02-limits.png",
+          "sha256": "e6af618b228288511522933154374dd82150041cfe9343a46b756df973e32615"
+        },
+        {
+          "file": "AppStore/Screenshots/fr-FR/03-walk.png",
+          "sha256": "f6e29a8b472290118070ce4a50354d264eedb2f648841ef33dab98f2fc171eb8"
+        },
+        {
+          "file": "AppStore/Screenshots/fr-FR/04-rules.png",
+          "sha256": "91d54c3c9f5195f9e6ef252617e5288436f5fd95aef119ae6fdfe20d4cbfb575"
+        }
+      ],
+      "exampleApps": [
+        "Instagram",
+        "TikTok",
+        "Facebook",
+        "YouTube"
+      ]
+    },
+    "de-DE": {
+      "lengths": {
+        "name": 29,
+        "subtitle": 28,
+        "keywords": 73,
+        "description": 796,
+        "promotional_text": 103
+      },
+      "screenshots": [
+        {
+          "file": "AppStore/Screenshots/de-DE/01-break.png",
+          "sha256": "3bfea7ce2f362f821a570dd74cb73ae80c0cdf5004662036cdbdfeb0a9e09c42"
+        },
+        {
+          "file": "AppStore/Screenshots/de-DE/02-limits.png",
+          "sha256": "9e663b32e9a5b8b5b80248bca9ff62b2185e18a5472b0994c2f3709a550d56ea"
+        },
+        {
+          "file": "AppStore/Screenshots/de-DE/03-walk.png",
+          "sha256": "eb311639d6722566e60886f8053edb85c87dcdaafc0361e69e2123977fd93072"
+        },
+        {
+          "file": "AppStore/Screenshots/de-DE/04-rules.png",
+          "sha256": "e2683ee50b2206b13b33bf19bbb0e71615a0f36e726cfa1455871cf84f440d2b"
+        }
+      ],
+      "exampleApps": [
+        "Instagram",
+        "TikTok",
+        "Facebook",
+        "YouTube"
+      ]
+    },
+    "it": {
+      "lengths": {
+        "name": 29,
+        "subtitle": 27,
+        "keywords": 69,
+        "description": 715,
+        "promotional_text": 112
+      },
+      "screenshots": [
+        {
+          "file": "AppStore/Screenshots/it/01-break.png",
+          "sha256": "0c359fc4cb16e6dec348b545e91304e7987b3bb4f81c25abe3d9406e153684cf"
+        },
+        {
+          "file": "AppStore/Screenshots/it/02-limits.png",
+          "sha256": "a342b2cd48bb9cf994bbf50f50a4b49072d55864d3eeb662502a63d180bbd520"
+        },
+        {
+          "file": "AppStore/Screenshots/it/03-walk.png",
+          "sha256": "1d02db37e795dbe13df1fe1679227faa43753c0468e8f1e9e8d06a2dbbd392ca"
+        },
+        {
+          "file": "AppStore/Screenshots/it/04-rules.png",
+          "sha256": "14218050f7807837bb991e9f1a2e1e278834c10df4dff3ca62bbd809d2bcd193"
+        }
+      ],
+      "exampleApps": [
+        "Instagram",
+        "TikTok",
+        "Facebook",
+        "YouTube"
+      ]
+    },
+    "pt-BR": {
+      "lengths": {
+        "name": 29,
+        "subtitle": 24,
+        "keywords": 71,
+        "description": 667,
+        "promotional_text": 103
+      },
+      "screenshots": [
+        {
+          "file": "AppStore/Screenshots/pt-BR/01-break.png",
+          "sha256": "54517bafbba068cdf691975330865fea42276056aa2b1d7e0992e62e9efc60ae"
+        },
+        {
+          "file": "AppStore/Screenshots/pt-BR/02-limits.png",
+          "sha256": "d4d4a980bd6bf799cbbeae6b15d7d09778ae255c40c1e51effefe6d67fef9eef"
+        },
+        {
+          "file": "AppStore/Screenshots/pt-BR/03-walk.png",
+          "sha256": "aa964be244219e5a5028c090f8ca443c110c50442b814dcacb597e5a17cf151a"
+        },
+        {
+          "file": "AppStore/Screenshots/pt-BR/04-rules.png",
+          "sha256": "0daf714e6e5eff03350dfa844987d5d318b9d76ea21be54b9157dfcb6b9bf0ad"
+        }
+      ],
+      "exampleApps": [
+        "Instagram",
+        "TikTok",
+        "Facebook",
+        "YouTube"
+      ]
+    }
+  },
+  "passed": true,
+  "keywordResearch": "Relevant intent terms retained from the existing listing. No search-volume or rank claim is made.",
+  "exampleAssetSources": "example-app-sources.json",
+  "screenshotFixtureRevision": "market-examples-1"
+}

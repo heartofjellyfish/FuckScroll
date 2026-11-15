@@ -1,0 +1,55 @@
+{
+  "method" : "production SessionState; virtual clock; injected callbacks; no system shielding",
+  "results" : [
+    {
+      "evidence" : "19 delivered minutes leave one minute",
+      "result" : "PASS",
+      "scenario" : "One more post"
+    },
+    {
+      "evidence" : "20 delivered minutes reach the limit",
+      "result" : "PASS",
+      "scenario" : "Threshold"
+    },
+    {
+      "evidence" : "30 reopen\/close attempts neither shorten nor extend the break",
+      "result" : "PASS",
+      "scenario" : "Angry reopening"
+    },
+    {
+      "evidence" : "encoded state retains the break until its deadline",
+      "result" : "PASS",
+      "scenario" : "Process restart"
+    },
+    {
+      "evidence" : "the full allowance returns at expiry",
+      "result" : "PASS",
+      "scenario" : "Come back later"
+    },
+    {
+      "evidence" : "12 + 8 minutes count together across a 30-second switch",
+      "result" : "PASS",
+      "scenario" : "Reply to a message"
+    },
+    {
+      "evidence" : "a full minute away resets the unfinished session",
+      "result" : "PASS",
+      "scenario" : "Actually leave"
+    },
+    {
+      "evidence" : "two hours of wall time are not billed as two hours of scrolling",
+      "result" : "PASS",
+      "scenario" : "Phone left alone"
+    },
+    {
+      "evidence" : "mood escalates after three modeled interventions",
+      "result" : "PASS",
+      "scenario" : "Three returns"
+    },
+    {
+      "evidence" : "one retained monitor reaches the threshold during visit 21 when supplied cumulative system usage; no per-visit truncation",
+      "result" : "PASS",
+      "scenario" : "Sub-minute hopping regression"
+    }
+  ]
+}

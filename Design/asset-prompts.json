@@ -1,0 +1,31 @@
+{
+  "tool": "Built-in image_gen.imagegen (not CLI)",
+  "reference": "Qi's attached Scroll Stopper moodboard, used as character/style reference",
+  "assets": [
+    {
+      "file": "ScrollStopper/Resources/Assets.xcassets/DuckChill.imageset/duck.png",
+      "transparent_background": true,
+      "prompt": "Use case: illustration-story. Create a production iPhone app character asset based on the attached reference, which is a character/style reference only. A single full-body grumpy white duck standing with slouched posture, long slightly bent neck, half-closed deeply unimpressed eyes looking at viewer, one small disheveled head feather tuft, ochre yellow bill and webbed feet, tiny scratchy chest feathers. Same adult sardonic independent editorial ink drawing personality as reference's main top-center duck. Loose confident black pen strokes with tasteful imperfections, sparse secondary sketch lines, opaque warm off-white body fill. No gradients, no 3D, no cute big eyes, no glossy rendering, no decorations. Whole character fully within frame with generous transparent padding on all four sides. Tall portrait composition. No text, no frame, no background, no ground shadow. Actual transparent background. Just one duck. Return the generated asset and its local file path if available."
+    },
+    {
+      "file": "ScrollStopper/Resources/Assets.xcassets/DuckRage.imageset/duck.png",
+      "transparent_background": true,
+      "reference": "DuckChill",
+      "prompt": "Use case: illustration-story. Reference image is the approved character identity. Generate ONE new pose of exactly this grumpy adult white duck in matching loose black ink editorial drawing style. It has finally lost its patience with endless phone scrolling: neck stretched tall, head thrown back, bill wide wide open in an absurd anguished shout at the ceiling, tiny wings thrown out in exasperation, eyes squeezed shut, ruffled top feathers. Funny existential frustration, not scary or aggressive. Keep same slightly scruffy lanky body, warm white opaque feathers, ochre yellow bill and webbed feet. Full body fully within frame, generous padding all sides, portrait composition. Pure genuinely transparent background without ANY background color or glow or shadow; solid opaque ink character with clean alpha outside. No words, no letters, no symbols, no extra objects, no gradients, no 3D, no childish cartoon polish. Match the loose confident pen lines of reference."
+    },
+    {
+      "file": "ScrollStopper/Resources/Assets.xcassets/AppIcon.appiconset/AppIcon.png",
+      "source": "Design/app-icon-source.png",
+      "transparent_background": false,
+      "reference": "DuckChill",
+      "prompt": "Create a polished iPhone app icon, square 1024x1024, full bleed flat warm ivory background (#F6F3EB), NO rounded corner clipping. Use attached duck as character identity reference. A huge close-up head and upper neck of this scruffy unimpressed adult white duck, head leaning a little, half-lidded eyes with deadpan contempt, long ochre yellow beak pointed right, sparse head tuft. Hand-drawn bold rough black ink strokes, simpler than reference so it reads crisply as a tiny home screen icon. Warm white feather fill almost same color as background. Crop neck at bottom edge; eyes around 38% from top, bill around center. The face should dominate 80% of width. Slightly off-center asymmetry, strong memorable silhouette, beautifully simple editorial drawing. No text, no border, no shadows, no gradient, no glossy 3D, no cute anime eyes, no red, no textures outside drawing, no objects. High contrast black, warm ivory, ochre yellow only."
+    },
+    {
+      "file": "ScrollStopper/Resources/Assets.xcassets/DuckWalk.imageset/duck.png",
+      "transparent_background": true,
+      "reference": "DuckChill",
+      "prompt": "Use case: illustration-story. Create a second production app character pose of EXACTLY the same white duck as the reference image, same character identity, ink drawing style, proportions, yellow beak and feet, white body, half-lidded tired eyes. Single full body duck casually walking away to the right with one webbed foot extended forward and the other trailing, wings loosely behind body, very slight satisfied smirk but still deeply unimpressed and cool. No big smile, no cute childlike features. It has successfully convinced a human to put down their phone and is now leaving. Confident spare scratchy black pen lines, solid warm white feather fill. Lots of true transparent padding all around, fully visible feet and tuft, no text, no musical notes, no props, no shadows, no background glow, no gradients. Portrait composition. Transparent background."
+    }
+  ],
+  "note": "The prompts record the generation requests verbatim. 'Approved' in one prompt identified the internally selected reference, not a claim that Qi separately approved the generated art. Final image approval is still Qi's."
+}
