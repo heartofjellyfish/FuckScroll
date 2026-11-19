@@ -1,0 +1,17 @@
+{
+  "query": "app blocker",
+  "store": "cn",
+  "response": {
+    "id": "0dc2db22-84e6-4e53-ad0c-b7a8c9976bb6",
+    "jsonrpc": "2.0",
+    "result": {
+      "content": [
+        {
+          "text": "{\n  \"apps\" : [\n    {\n      \"appStoreId\" : \"6480367122\",\n      \"averageRating\" : 4.2,\n      \"bundleId\" : \"rabit.screencontrol.cn\",\n      \"developer\" : \"彦辉 侯\",\n      \"genre\" : \"效率\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple211\\/v4\\/3d\\/7c\\/0c\\/3d7c0cf3-2dec-8bc4-e935-5e0247e150b3\\/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png\\/80x0w.webp\",\n      \"name\" : \"自律锁：不做手机控\",\n      \"ranking\" : 1,\n      \"ratingCount\" : 11,\n      \"subtitle\" : \"Block Apps & Focus, Time Limit\"\n    },\n    {\n      \"appStoreId\" : \"1515753232\",\n      \"averageRating\" : 4.5,\n      \"bundleId\" : \"eu.mobilesoft.appblock\",\n      \"developer\" : \"MobileSoft s.r.o.\",\n      \"genre\" : \"效率\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple211\\/v4\\/9c\\/5a\\/d7\\/9c5ad7ef-7122-af9e-baa4-4f35d377ef16\\/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png\\/80x0w.webp\",\n      \"name\" : \"AppBlock | 屏蔽应用程序，屏幕使用时间掌控管理\",\n      \"ranking\" : 2,\n      \"ratingCount\" : 62,\n      \"subtitle\" : \"不做手机控 - 保持专注力. 保持自律，使用软件避免干扰\"\n    },\n    {\n      \"appStoreId\" : \"6790254505\",\n      \"averageRating\" : 0,\n      \"bundleId\" : \"io.zeroplay.appblocker\",\n      \"developer\" : \"ZeroPlay Ltd.\",\n      \"genre\" : \"工具\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple221\\/v4\\/04\\/e0\\/b3\\/04e0b35f-fdba-3b48-ec6f-7cb2b2330f73\\/AppIcon-0-0-1x_U007epad-0-1-85-220.png\\/80x0w.webp\",\n      \"name\" : \"App Blocker・应用拦截与专注\",\n      \"ranking\" : 3,\n      \"ratingCount\" : 0,\n      \"subtitle\" : \"屏幕时间、网站限制与自律专注\"\n    },\n    {\n      \"appStoreId\" : \"6787691035\",\n      \"averageRating\" : 0,\n      \"bundleId\" : \"com.muxuekeji.applock\",\n      \"developer\" : \"Shanghai Muxue Computer Technology Co., Ltd.\",\n      \"genre\" : \"效率\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple211\\/v4\\/ac\\/36\\/fa\\/ac36fafe-4ff3-09ff-0cae-e8ba26d769ef\\/AppIcon-0-0-1x_U007epad-0-1-85-220.png\\/80x0w.webp\",\n      \"name\" : \"应用锁-自律专注 戒手机防沉迷\",\n      \"ranking\" : 4,\n      \"ratingCount\" : 0,\n      \"subtitle\" : \"一键锁定APP·屏幕时间·家长控制\"\n    },\n    {\n      \"appStoreId\" : \"6476949191\",\n      \"averageRating\" : 4.7,\n      \"bundleId\" : \"com.safeapp.superapplock\",\n      \"developer\" : \"Safe App, Inc.\",\n      \"genre\" : \"工具\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple221\\/v4\\/4d\\/0d\\/d9\\/4d0dd904-cacf-5973-3082-a03620af3d10\\/AppIcon-0-0-1x_U007epad-0-0-85-220.png\\/80x0w.webp\",\n      \"name\" : \"超级应用锁:软件锁,手机使用时间管理,程序锁\",\n      \"ranking\" : 5,\n      \"ratingCount\" : 13961,\n      \"subtitle\" : \"应用锁,计算器隐藏应用,相册视频照片加密\"\n    }\n  ],\n  \"keyword\" : \"app blocker\",\n  \"platform\" : \"iphone\",\n  \"store\" : \"cn\",\n  \"totalResults\" : 50\n}",
+          "type": "text"
+        }
+      ],
+      "isError": false
+    }
+  }
+}

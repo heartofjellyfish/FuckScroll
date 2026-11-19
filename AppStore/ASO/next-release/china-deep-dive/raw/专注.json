@@ -1,0 +1,17 @@
+{
+  "query": "专注",
+  "store": "cn",
+  "response": {
+    "id": "ff2650ff-30de-4190-85c5-b73772755b7f",
+    "jsonrpc": "2.0",
+    "result": {
+      "content": [
+        {
+          "text": "{\n  \"apps\" : [\n    {\n      \"appStoreId\" : \"1242689729\",\n      \"averageRating\" : 4.9,\n      \"bundleId\" : \"com.kot32.tomatodo\",\n      \"developer\" : \"Shanghai Paitui Technology Co., Ltd.\",\n      \"genre\" : \"效率\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple221\\/v4\\/a9\\/8d\\/54\\/a98d54f4-b811-de9d-9e33-a99e4461da76\\/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png\\/80x0w.webp\",\n      \"name\" : \"番茄ToDo-极简高效自律番茄钟\",\n      \"ranking\" : 1,\n      \"ratingCount\" : 943293,\n      \"subtitle\" : \"培养专注习惯，告别拖延\"\n    },\n    {\n      \"appStoreId\" : \"866450515\",\n      \"averageRating\" : 4.8,\n      \"bundleId\" : \"com.forestapp.Forest\",\n      \"developer\" : \"SEEKRTECH CO., LTD.\",\n      \"genre\" : \"效率\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple211\\/v4\\/04\\/58\\/dc\\/0458dcb3-7e16-087d-eb7f-3a05d68f8bdb\\/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png\\/80x0w.webp\",\n      \"name\" : \"Forest 专注森林 - 番茄钟学习计时器\",\n      \"ranking\" : 2,\n      \"ratingCount\" : 258708,\n      \"subtitle\" : \"自律打卡，戒手机，高效时间管理工具\"\n    },\n    {\n      \"appStoreId\" : \"6746562271\",\n      \"averageRating\" : 4.9,\n      \"bundleId\" : \"com.ryanyao.catonchair\",\n      \"developer\" : \"Ryan Yao\",\n      \"genre\" : \"效率\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple211\\/v4\\/ca\\/d5\\/c2\\/cad5c268-7fdf-f6dd-a9d5-f60c80b0dc78\\/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg\\/80x0w.webp\",\n      \"name\" : \"椅子上有猫 - 专注番茄钟\",\n      \"ranking\" : 3,\n      \"ratingCount\" : 2260,\n      \"subtitle\" : \"ADHD学习计时器\"\n    },\n    {\n      \"appStoreId\" : \"6648771147\",\n      \"averageRating\" : 4.8,\n      \"bundleId\" : \"net.cementpla.FocusFlights\",\n      \"developer\" : \"Cement Planet LTD\",\n      \"genre\" : \"效率\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple221\\/v4\\/61\\/bb\\/28\\/61bb28ff-279c-c980-b129-d18a925135b4\\/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png\\/80x0w.webp\",\n      \"name\" : \"专注飞机 - 专为难以专注的人设计\",\n      \"ranking\" : 4,\n      \"ratingCount\" : 43447,\n      \"subtitle\" : \"像搭乘航班一样开启专注\"\n    },\n    {\n      \"appStoreId\" : \"1627691759\",\n      \"averageRating\" : 4.8,\n      \"bundleId\" : \"com.ChickFocus.ChickFocus\",\n      \"developer\" : \"Shenzhen KreatBloom Technology Co., Ltd.\",\n      \"genre\" : \"效率\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple221\\/v4\\/8e\\/97\\/70\\/8e9770b5-82fd-9b20-8700-4910623b29a7\\/AppIcon101-0-0-1x_U007epad-0-1-0-sRGB-85-220.png\\/80x0w.webp\",\n      \"name\" : \"小鸡专注-番茄钟自律学习计时器极简治愈学霸必备\",\n      \"ranking\" : 5,\n      \"ratingCount\" : 53156,\n      \"subtitle\" : \"高效率时间管理、培养专注习惯、告别拖延症\"\n    }\n  ],\n  \"keyword\" : \"专注\",\n  \"platform\" : \"iphone\",\n  \"store\" : \"cn\",\n  \"totalResults\" : 50\n}",
+          "type": "text"
+        }
+      ],
+      "isError": false
+    }
+  }
+}

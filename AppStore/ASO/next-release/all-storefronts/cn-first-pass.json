@@ -1,0 +1,136 @@
+{
+  "iso3": "CHN",
+  "store": "cn",
+  "country": "China mainland",
+  "defaultLanguage": "Simplified Chinese",
+  "additionalLanguages": "English (U.K.)",
+  "seeds": [
+    "屏幕使用时间",
+    "戒手机",
+    "防沉迷",
+    "少刷手机"
+  ],
+  "endpoint": "http://127.0.0.1:8089/mcp",
+  "keywords": [
+    {
+      "appsCount": 241,
+      "currentRanking": 1000,
+      "difficulty": 53,
+      "keyword": "屏幕使用时间",
+      "lastUpdate": "2026-11-19T01:26:55Z",
+      "popularity": 42,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "cn"
+    },
+    {
+      "appsCount": 248,
+      "currentRanking": 1000,
+      "difficulty": 51,
+      "keyword": "戒手机",
+      "lastUpdate": "2026-11-19T01:26:55Z",
+      "popularity": 28,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "cn"
+    },
+    {
+      "appsCount": 244,
+      "currentRanking": 1000,
+      "difficulty": 52,
+      "keyword": "防沉迷",
+      "lastUpdate": "2026-11-19T01:26:55Z",
+      "popularity": 30,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "cn"
+    },
+    {
+      "appsCount": 62,
+      "currentRanking": 33,
+      "difficulty": 5,
+      "keyword": "少刷手机",
+      "lastUpdate": "2026-11-19T01:26:55Z",
+      "popularity": 5,
+      "previousRanking": 33,
+      "rankingChange": 0,
+      "store": "cn"
+    }
+  ],
+  "selectedKeyword": {
+    "appsCount": 241,
+    "currentRanking": 1000,
+    "difficulty": 53,
+    "keyword": "屏幕使用时间",
+    "lastUpdate": "2026-11-19T01:26:55Z",
+    "popularity": 42,
+    "previousRanking": 1000,
+    "rankingChange": 0,
+    "store": "cn"
+  },
+  "selectionRule": "no qualifying sweet spot; popularity first, difficulty as tie-break",
+  "top5": [
+    {
+      "appStoreId": "6477150937",
+      "averageRating": 4.6,
+      "bundleId": "com.oh-vision.screen",
+      "developer": "书贞 牛",
+      "genre": "健康健美",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/a3/f3/a3a3f3bf-f473-edf5-a9d3-d8c499988297/AppIcon-1x_U007ephone-0-11-0-85-220-0.png/80x0w.webp",
+      "name": "屏幕时间管理 - 屏幕使用时间，拒绝手机控",
+      "ranking": 1,
+      "ratingCount": 400,
+      "subtitle": "控制手机时间，戒手机，告别手机控"
+    },
+    {
+      "appStoreId": "1474340105",
+      "averageRating": 4.7,
+      "bundleId": "tech.miidii.off-screen",
+      "developer": "MD Studio",
+      "genre": "健康健美",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/d7/24/71d724a4-6963-59a5-f56e-dd9b20e92573/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/80x0w.webp",
+      "name": "OffScreen - 自律番茄钟，不做手机控",
+      "ranking": 2,
+      "ratingCount": 53781,
+      "subtitle": "屏幕时间管理，专注学习计时器"
+    },
+    {
+      "appStoreId": "6444819615",
+      "averageRating": 4.8,
+      "bundleId": "com.air-matters.Cloak",
+      "developer": "Air Matters Network Pty Ltd",
+      "genre": "工具",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/da/b9/78dab994-4caf-142a-3658-b27635e4e378/Cloak-0-0-1x_U007epad-0-1-0-85-220.png/80x0w.webp",
+      "name": "Cape: 屏幕时间管理",
+      "ranking": 3,
+      "ratingCount": 27345,
+      "subtitle": "打造更健康的数字习惯"
+    },
+    {
+      "appStoreId": "1242689729",
+      "averageRating": 4.9,
+      "bundleId": "com.kot32.tomatodo",
+      "developer": "Shanghai Paitui Technology Co., Ltd.",
+      "genre": "效率",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/8d/54/a98d54f4-b811-de9d-9e33-a99e4461da76/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/80x0w.webp",
+      "name": "番茄ToDo-极简高效自律番茄钟",
+      "ranking": 4,
+      "ratingCount": 943283,
+      "subtitle": "培养专注习惯，告别拖延"
+    },
+    {
+      "appStoreId": "1041249752",
+      "averageRating": 4.5,
+      "bundleId": "com.realstudios.realizd",
+      "developer": "iMobiApp",
+      "genre": "效率",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/c5/5f/25/c55f252e-f365-a0eb-ad69-bb69ec0e4cb6/AppIcon-1x_U007emarketing-0-7-0-85-220.png/80x0w.webp",
+      "name": "小容 - 你记录手机使用时间、习惯的智能助手",
+      "ranking": 5,
+      "ratingCount": 3416,
+      "subtitle": "节省宝贵的时间和注意力资源，拒当手机控，低头族"
+    }
+  ],
+  "yourAppRanking": null,
+  "status": "completed"
+}

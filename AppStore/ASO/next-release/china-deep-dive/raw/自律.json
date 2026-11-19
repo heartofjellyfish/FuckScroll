@@ -1,0 +1,17 @@
+{
+  "query": "自律",
+  "store": "cn",
+  "response": {
+    "id": "00ca5039-5ae6-41ea-a479-22c7fe67e886",
+    "jsonrpc": "2.0",
+    "result": {
+      "content": [
+        {
+          "text": "{\n  \"apps\" : [\n    {\n      \"appStoreId\" : \"1242689729\",\n      \"averageRating\" : 4.9,\n      \"bundleId\" : \"com.kot32.tomatodo\",\n      \"developer\" : \"Shanghai Paitui Technology Co., Ltd.\",\n      \"genre\" : \"效率\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple221\\/v4\\/a9\\/8d\\/54\\/a98d54f4-b811-de9d-9e33-a99e4461da76\\/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png\\/80x0w.webp\",\n      \"name\" : \"番茄ToDo-极简高效自律番茄钟\",\n      \"ranking\" : 1,\n      \"ratingCount\" : 943293,\n      \"subtitle\" : \"培养专注习惯，告别拖延\"\n    },\n    {\n      \"appStoreId\" : \"1627691759\",\n      \"averageRating\" : 4.8,\n      \"bundleId\" : \"com.ChickFocus.ChickFocus\",\n      \"developer\" : \"Shenzhen KreatBloom Technology Co., Ltd.\",\n      \"genre\" : \"效率\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple221\\/v4\\/8e\\/97\\/70\\/8e9770b5-82fd-9b20-8700-4910623b29a7\\/AppIcon101-0-0-1x_U007epad-0-1-0-sRGB-85-220.png\\/80x0w.webp\",\n      \"name\" : \"小鸡专注-番茄钟自律学习计时器极简治愈学霸必备\",\n      \"ranking\" : 2,\n      \"ratingCount\" : 53156,\n      \"subtitle\" : \"高效率时间管理、培养专注习惯、告别拖延症\"\n    },\n    {\n      \"appStoreId\" : \"6479392365\",\n      \"averageRating\" : 4.7,\n      \"bundleId\" : \"io.iftech.timeminer\",\n      \"developer\" : \"宁波群鸟科技有限公司\",\n      \"genre\" : \"健康健美\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple211\\/v4\\/db\\/f1\\/2e\\/dbf12e14-5a3b-590f-243c-f2172e82b3bc\\/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png\\/80x0w.webp\",\n      \"name\" : \"自律石头 - 学习娱乐时间兑换｜自律番茄钟 ｜不做手机控\",\n      \"ranking\" : 3,\n      \"ratingCount\" : 11737,\n      \"subtitle\" : \"读书，专注，早睡，运动兑换玩手机时间，无痛戒手机养成好习惯\"\n    },\n    {\n      \"appStoreId\" : \"1263789061\",\n      \"averageRating\" : 4.8,\n      \"bundleId\" : \"com.dandelion.Routine\",\n      \"developer\" : \"Guangzhou Xiaorichang Technology Co., Ltd.\",\n      \"genre\" : \"效率\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple211\\/v4\\/67\\/c6\\/b5\\/67c6b529-0ae2-2060-4ca5-b7a73345132f\\/AppIcon-0-0-1x_U007emarketing-0-8-0-0-GLES2_U002c0-85-220.png\\/80x0w.webp\",\n      \"name\" : \"小日常 - 习惯养成打卡 & 番茄钟时间管理与学习计划\",\n      \"ranking\" : 4,\n      \"ratingCount\" : 553038,\n      \"subtitle\" : \"每日自律打卡, todo清单。专注计时器, 提升效率与自律。\"\n    },\n    {\n      \"appStoreId\" : \"866450515\",\n      \"averageRating\" : 4.8,\n      \"bundleId\" : \"com.forestapp.Forest\",\n      \"developer\" : \"SEEKRTECH CO., LTD.\",\n      \"genre\" : \"效率\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple211\\/v4\\/04\\/58\\/dc\\/0458dcb3-7e16-087d-eb7f-3a05d68f8bdb\\/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png\\/80x0w.webp\",\n      \"name\" : \"Forest 专注森林 - 番茄钟学习计时器\",\n      \"ranking\" : 5,\n      \"ratingCount\" : 258708,\n      \"subtitle\" : \"自律打卡，戒手机，高效时间管理工具\"\n    }\n  ],\n  \"keyword\" : \"自律\",\n  \"platform\" : \"iphone\",\n  \"store\" : \"cn\",\n  \"totalResults\" : 50\n}",
+          "type": "text"
+        }
+      ],
+      "isError": false
+    }
+  }
+}

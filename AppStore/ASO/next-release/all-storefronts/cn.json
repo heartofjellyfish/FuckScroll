@@ -5,20 +5,60 @@
   "defaultLanguage": "Simplified Chinese",
   "additionalLanguages": "English (U.K.)",
   "seeds": [
-    "屏幕使用时间",
+    "少刷手机",
+    "应用限时",
+    "手机自律",
     "戒手机",
+    "时间管理",
+    "专注",
     "防沉迷",
-    "少刷手机"
+    "屏幕使用时间",
+    "app blocker",
+    "少玩手机",
+    "screen time",
+    "短视频防沉迷",
+    "不玩手机",
+    "应用限制",
+    "屏幕时间管理",
+    "锁机",
+    "手机使用时间",
+    "自律",
+    "屏幕时间",
+    "控制手机时间",
+    "戒网瘾",
+    "手机防沉迷"
   ],
   "endpoint": "http://127.0.0.1:8089/mcp",
   "keywords": [
     {
-      "appsCount": 241,
-      "currentRanking": 1000,
-      "difficulty": 53,
-      "keyword": "屏幕使用时间",
+      "appsCount": 62,
+      "currentRanking": 33,
+      "difficulty": 5,
+      "keyword": "少刷手机",
       "lastUpdate": "2026-11-19T01:26:55Z",
-      "popularity": 42,
+      "popularity": 5,
+      "previousRanking": 33,
+      "rankingChange": 0,
+      "store": "cn"
+    },
+    {
+      "appsCount": 145,
+      "currentRanking": 136,
+      "difficulty": 19,
+      "keyword": "应用限时",
+      "lastUpdate": "2026-11-19T01:26:55Z",
+      "popularity": 5,
+      "previousRanking": 136,
+      "rankingChange": 0,
+      "store": "cn"
+    },
+    {
+      "appsCount": 246,
+      "currentRanking": 1000,
+      "difficulty": 48,
+      "keyword": "手机自律",
+      "lastUpdate": "2026-11-19T01:26:55Z",
+      "popularity": 5,
       "previousRanking": 1000,
       "rankingChange": 0,
       "store": "cn"
@@ -35,6 +75,28 @@
       "store": "cn"
     },
     {
+      "appsCount": 238,
+      "currentRanking": 1000,
+      "difficulty": 71,
+      "keyword": "时间管理",
+      "lastUpdate": "2026-11-19T01:26:55Z",
+      "popularity": 42,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "cn"
+    },
+    {
+      "appsCount": 247,
+      "currentRanking": 1000,
+      "difficulty": 74,
+      "keyword": "专注",
+      "lastUpdate": "2026-11-19T01:26:55Z",
+      "popularity": 55,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "cn"
+    },
+    {
       "appsCount": 244,
       "currentRanking": 1000,
       "difficulty": 52,
@@ -46,13 +108,167 @@
       "store": "cn"
     },
     {
-      "appsCount": 62,
-      "currentRanking": 33,
-      "difficulty": 5,
-      "keyword": "少刷手机",
+      "appsCount": 241,
+      "currentRanking": 1000,
+      "difficulty": 53,
+      "keyword": "屏幕使用时间",
       "lastUpdate": "2026-11-19T01:26:55Z",
+      "popularity": 42,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "cn"
+    },
+    {
+      "appsCount": 246,
+      "currentRanking": 1000,
+      "difficulty": 11,
+      "keyword": "app blocker",
+      "lastUpdate": "2026-11-19T05:35:14Z",
+      "popularity": 33,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "cn"
+    },
+    {
+      "appsCount": 66,
+      "currentRanking": 1000,
+      "difficulty": 19,
+      "keyword": "少玩手机",
+      "lastUpdate": "2026-11-19T05:35:14Z",
       "popularity": 5,
-      "previousRanking": 33,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "cn"
+    },
+    {
+      "appsCount": 246,
+      "currentRanking": 1000,
+      "difficulty": 37,
+      "keyword": "screen time",
+      "lastUpdate": "2026-11-19T05:35:14Z",
+      "popularity": 25,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "cn"
+    },
+    {
+      "appsCount": 145,
+      "currentRanking": 1000,
+      "difficulty": 21,
+      "keyword": "短视频防沉迷",
+      "lastUpdate": "2026-11-19T05:35:14Z",
+      "popularity": 5,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "cn"
+    },
+    {
+      "appsCount": 244,
+      "currentRanking": 1000,
+      "difficulty": 60,
+      "keyword": "不玩手机",
+      "lastUpdate": "2026-11-19T05:35:14Z",
+      "popularity": 30,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "cn"
+    },
+    {
+      "appsCount": 244,
+      "currentRanking": 1000,
+      "difficulty": 13,
+      "keyword": "应用限制",
+      "lastUpdate": "2026-11-19T05:35:14Z",
+      "popularity": 5,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "cn"
+    },
+    {
+      "appsCount": 245,
+      "currentRanking": 1000,
+      "difficulty": 50,
+      "keyword": "屏幕时间管理",
+      "lastUpdate": "2026-11-19T05:35:14Z",
+      "popularity": 24,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "cn"
+    },
+    {
+      "appsCount": 249,
+      "currentRanking": 1000,
+      "difficulty": 56,
+      "keyword": "锁机",
+      "lastUpdate": "2026-11-19T05:35:14Z",
+      "popularity": 40,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "cn"
+    },
+    {
+      "appsCount": 244,
+      "currentRanking": 1000,
+      "difficulty": 48,
+      "keyword": "手机使用时间",
+      "lastUpdate": "2026-11-19T05:35:14Z",
+      "popularity": 20,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "cn"
+    },
+    {
+      "appsCount": 245,
+      "currentRanking": 1000,
+      "difficulty": 75,
+      "keyword": "自律",
+      "lastUpdate": "2026-11-19T05:35:14Z",
+      "popularity": 50,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "cn"
+    },
+    {
+      "appsCount": 249,
+      "currentRanking": 1000,
+      "difficulty": 61,
+      "keyword": "屏幕时间",
+      "lastUpdate": "2026-11-19T05:35:14Z",
+      "popularity": 20,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "cn"
+    },
+    {
+      "appsCount": 205,
+      "currentRanking": 1000,
+      "difficulty": 48,
+      "keyword": "控制手机时间",
+      "lastUpdate": "2026-11-19T05:35:14Z",
+      "popularity": 21,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "cn"
+    },
+    {
+      "appsCount": 66,
+      "currentRanking": 1000,
+      "difficulty": 23,
+      "keyword": "戒网瘾",
+      "lastUpdate": "2026-11-19T05:35:14Z",
+      "popularity": 5,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "cn"
+    },
+    {
+      "appsCount": 248,
+      "currentRanking": 1000,
+      "difficulty": 46,
+      "keyword": "手机防沉迷",
+      "lastUpdate": "2026-11-19T05:35:14Z",
+      "popularity": 19,
+      "previousRanking": 1000,
       "rankingChange": 0,
       "store": "cn"
     }
@@ -132,5 +348,6 @@
     }
   ],
   "yourAppRanking": null,
-  "status": "completed"
+  "status": "completed",
+  "expandedResearch": "../china-deep-dive/research.json"
 }

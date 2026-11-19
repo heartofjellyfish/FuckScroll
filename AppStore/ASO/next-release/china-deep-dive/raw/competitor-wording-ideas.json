@@ -1,0 +1,13 @@
+{
+  "id": "1640a1a0-10d9-4bbc-a016-a17aee9a6360",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"app\" : \"Stop Scrolling – Duck on Duty\",\n  \"keyword\" : \"屏幕使用时间\",\n  \"keywords\" : [\n    {\n      \"popularity\" : 64,\n      \"text\" : \"计时器\"\n    },\n    {\n      \"popularity\" : 63,\n      \"text\" : \"时间\"\n    },\n    {\n      \"popularity\" : 57,\n      \"text\" : \"空间\"\n    },\n    {\n      \"popularity\" : 51,\n      \"text\" : \"todo\"\n    },\n    {\n      \"popularity\" : 49,\n      \"text\" : \"花园\"\n    },\n    {\n      \"popularity\" : 46,\n      \"text\" : \"自习室\"\n    },\n    {\n      \"popularity\" : 43,\n      \"text\" : \"机\"\n    },\n    {\n      \"popularity\" : 42,\n      \"text\" : \"钟\"\n    },\n    {\n      \"popularity\" : 40,\n      \"text\" : \"锁\"\n    },\n    {\n      \"popularity\" : 40,\n      \"text\" : \"cape\"\n    },\n    {\n      \"popularity\" : 30,\n      \"text\" : \"屏\"\n    },\n    {\n      \"popularity\" : 28,\n      \"text\" : \"程序\"\n    },\n    {\n      \"popularity\" : 24,\n      \"text\" : \"屏蔽\"\n    },\n    {\n      \"popularity\" : 24,\n      \"text\" : \"使用\"\n    },\n    {\n      \"popularity\" : 24,\n      \"text\" : \"模式\"\n    }\n  ],\n  \"lastUpdate\" : \"2026-11-19T01:26:55Z\",\n  \"platform\" : \"iphone\",\n  \"store\" : \"cn\",\n  \"totalCombinations\" : 242\n}",
+        "type": "text"
+      }
+    ],
+    "isError": false
+  }
+}

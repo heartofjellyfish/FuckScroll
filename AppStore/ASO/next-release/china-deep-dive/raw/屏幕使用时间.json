@@ -1,0 +1,17 @@
+{
+  "query": "屏幕使用时间",
+  "store": "cn",
+  "response": {
+    "id": "89c702de-3c29-4feb-a6e0-febd268fff58",
+    "jsonrpc": "2.0",
+    "result": {
+      "content": [
+        {
+          "text": "{\n  \"apps\" : [\n    {\n      \"appStoreId\" : \"6477150937\",\n      \"averageRating\" : 4.6,\n      \"bundleId\" : \"com.oh-vision.screen\",\n      \"developer\" : \"书贞 牛\",\n      \"genre\" : \"健康健美\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple221\\/v4\\/a3\\/a3\\/f3\\/a3a3f3bf-f473-edf5-a9d3-d8c499988297\\/AppIcon-1x_U007ephone-0-11-0-85-220-0.png\\/80x0w.webp\",\n      \"name\" : \"屏幕时间管理 - 屏幕使用时间，拒绝手机控\",\n      \"ranking\" : 1,\n      \"ratingCount\" : 400,\n      \"subtitle\" : \"控制手机时间，戒手机，告别手机控\"\n    },\n    {\n      \"appStoreId\" : \"1474340105\",\n      \"averageRating\" : 4.7,\n      \"bundleId\" : \"tech.miidii.off-screen\",\n      \"developer\" : \"MD Studio\",\n      \"genre\" : \"健康健美\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple211\\/v4\\/71\\/d7\\/24\\/71d724a4-6963-59a5-f56e-dd9b20e92573\\/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png\\/80x0w.webp\",\n      \"name\" : \"OffScreen - 自律番茄钟，不做手机控\",\n      \"ranking\" : 2,\n      \"ratingCount\" : 53781,\n      \"subtitle\" : \"屏幕时间管理，专注学习计时器\"\n    },\n    {\n      \"appStoreId\" : \"6444819615\",\n      \"averageRating\" : 4.8,\n      \"bundleId\" : \"com.air-matters.Cloak\",\n      \"developer\" : \"Air Matters Network Pty Ltd\",\n      \"genre\" : \"工具\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple221\\/v4\\/78\\/da\\/b9\\/78dab994-4caf-142a-3658-b27635e4e378\\/Cloak-0-0-1x_U007epad-0-1-0-85-220.png\\/80x0w.webp\",\n      \"name\" : \"Cape: 屏幕时间管理\",\n      \"ranking\" : 3,\n      \"ratingCount\" : 27345,\n      \"subtitle\" : \"打造更健康的数字习惯\"\n    },\n    {\n      \"appStoreId\" : \"1242689729\",\n      \"averageRating\" : 4.9,\n      \"bundleId\" : \"com.kot32.tomatodo\",\n      \"developer\" : \"Shanghai Paitui Technology Co., Ltd.\",\n      \"genre\" : \"效率\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple221\\/v4\\/a9\\/8d\\/54\\/a98d54f4-b811-de9d-9e33-a99e4461da76\\/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png\\/80x0w.webp\",\n      \"name\" : \"番茄ToDo-极简高效自律番茄钟\",\n      \"ranking\" : 4,\n      \"ratingCount\" : 943283,\n      \"subtitle\" : \"培养专注习惯，告别拖延\"\n    },\n    {\n      \"appStoreId\" : \"1041249752\",\n      \"averageRating\" : 4.5,\n      \"bundleId\" : \"com.realstudios.realizd\",\n      \"developer\" : \"iMobiApp\",\n      \"genre\" : \"效率\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple123\\/v4\\/c5\\/5f\\/25\\/c55f252e-f365-a0eb-ad69-bb69ec0e4cb6\\/AppIcon-1x_U007emarketing-0-7-0-85-220.png\\/80x0w.webp\",\n      \"name\" : \"小容 - 你记录手机使用时间、习惯的智能助手\",\n      \"ranking\" : 5,\n      \"ratingCount\" : 3416,\n      \"subtitle\" : \"节省宝贵的时间和注意力资源，拒当手机控，低头族\"\n    }\n  ],\n  \"keyword\" : \"屏幕使用时间\",\n  \"platform\" : \"iphone\",\n  \"store\" : \"cn\",\n  \"totalResults\" : 50\n}",
+          "type": "text"
+        }
+      ],
+      "isError": false
+    }
+  }
+}

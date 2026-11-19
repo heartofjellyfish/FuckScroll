@@ -1,0 +1,17 @@
+{
+  "query": "不玩手机",
+  "store": "cn",
+  "response": {
+    "id": "4df5df4e-19c2-4cea-a2cc-eeb9bd458923",
+    "jsonrpc": "2.0",
+    "result": {
+      "content": [
+        {
+          "text": "{\n  \"apps\" : [\n    {\n      \"appStoreId\" : \"1449020025\",\n      \"averageRating\" : 4.2,\n      \"bundleId\" : \"com.app.AwayFromPhone\",\n      \"developer\" : \"春城 贾\",\n      \"genre\" : \"效率\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple221\\/v4\\/2c\\/5d\\/f8\\/2c5df8b8-9666-dc9c-c290-bec8a6d20020\\/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png\\/80x0w.webp\",\n      \"name\" : \"不玩手机-自律习惯养成记\",\n      \"ranking\" : 1,\n      \"ratingCount\" : 4340,\n      \"subtitle\" : \"帮助您更好的专注！\"\n    },\n    {\n      \"appStoreId\" : \"1474340105\",\n      \"averageRating\" : 4.7,\n      \"bundleId\" : \"tech.miidii.off-screen\",\n      \"developer\" : \"MD Studio\",\n      \"genre\" : \"健康健美\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple211\\/v4\\/71\\/d7\\/24\\/71d724a4-6963-59a5-f56e-dd9b20e92573\\/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png\\/80x0w.webp\",\n      \"name\" : \"OffScreen - 自律番茄钟，不做手机控\",\n      \"ranking\" : 2,\n      \"ratingCount\" : 53784,\n      \"subtitle\" : \"屏幕时间管理，专注学习计时器\"\n    },\n    {\n      \"appStoreId\" : \"1242689729\",\n      \"averageRating\" : 4.9,\n      \"bundleId\" : \"com.kot32.tomatodo\",\n      \"developer\" : \"Shanghai Paitui Technology Co., Ltd.\",\n      \"genre\" : \"效率\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple221\\/v4\\/a9\\/8d\\/54\\/a98d54f4-b811-de9d-9e33-a99e4461da76\\/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png\\/80x0w.webp\",\n      \"name\" : \"番茄ToDo-极简高效自律番茄钟\",\n      \"ranking\" : 3,\n      \"ratingCount\" : 943293,\n      \"subtitle\" : \"培养专注习惯，告别拖延\"\n    },\n    {\n      \"appStoreId\" : \"6575360746\",\n      \"averageRating\" : 4.8,\n      \"bundleId\" : \"com.shuge888.offphone.ios\",\n      \"developer\" : \"天津薯格网络科技有限公司\",\n      \"genre\" : \"工具\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple221\\/v4\\/a6\\/aa\\/8b\\/a6aa8b6f-bd5d-47c0-42ec-dde09be0f53d\\/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png\\/80x0w.webp\",\n      \"name\" : \"远离手机-不玩手机，不做手机控\",\n      \"ranking\" : 4,\n      \"ratingCount\" : 1129,\n      \"subtitle\" : \"强制减少手机娱乐时间\"\n    },\n    {\n      \"appStoreId\" : \"1248701536\",\n      \"averageRating\" : 4.5,\n      \"bundleId\" : \"cn.bahamut.notouchphonealarm\",\n      \"developer\" : \"广杰 周\",\n      \"genre\" : \"效率\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple126\\/v4\\/a7\\/e6\\/94\\/a7e694b4-af88-537f-483d-2c08091a106e\\/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png\\/80x0w.webp\",\n      \"name\" : \"不玩手机辅助闹钟\",\n      \"ranking\" : 5,\n      \"ratingCount\" : 3026,\n      \"subtitle\" : \"帮助你培养出良好的学习或工作习惯\"\n    }\n  ],\n  \"keyword\" : \"不玩手机\",\n  \"platform\" : \"iphone\",\n  \"store\" : \"cn\",\n  \"totalResults\" : 50\n}",
+          "type": "text"
+        }
+      ],
+      "isError": false
+    }
+  }
+}

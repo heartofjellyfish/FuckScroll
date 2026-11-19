@@ -29,8 +29,9 @@ add('en-AU', 'App Blocker – Duck on Duty', 'Screen Time Control & Focus', engl
 add('en-CA', 'App Blocker – Duck on Duty', 'Screen Time Control & Focus', english_keywords, ['ca'],
     '加拿大 App Blocker 49/48，高于 Screen Time 46/46；Scroll Blocker 26/11 需求落差较大，选最大相关词。')
 add('zh-Hans', '屏幕使用时间 – Duck on Duty', '戒手机，少刷社交媒体，到点休息',
-    '防沉迷,应用限制,专注,自律,数字健康,定时,休息提醒', ['cn'],
-    '屏幕使用时间 42/53，高于戒手机 28/51。功能词前置，副标题讲场景和结果；两字词按中文语义保留，不套用英语长度规则。')
+    'app,blocker,screen,time,防沉迷,应用限制,专注,自律,数字健康,定时', ['cn'],
+    '中国专项补查 22 个候选、8 个搜索词的前五名。屏幕使用时间 42/53，App Blocker 33/11 是值得保留的低竞争方向；专注 55/74、自律 50/75 意图偏宽。',
+    '最终人为选择中文主名以清楚表达功能，英文 App Blocker 放关键词承接另一组需求；不把初筛公式直接当标题。锁机容易误解成锁整台手机，不采用。')
 add('zh-Hant', '螢幕使用時間 – Duck on Duty', '戒手機，少滑社群動態，到點休息',
     '專注,防沉迷,滑手機,數位健康,減少分心,自律,應用限制', ['tw', 'hk'],
     '台湾螢幕使用時間 33/19，相关且有量、难度低。',

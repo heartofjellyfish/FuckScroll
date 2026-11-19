@@ -19,7 +19,8 @@ ROOT = Path(__file__).resolve().parents[1] / 'AppStore/ASO/next-release'
 OUT = ROOT / 'all-storefronts'
 RELEVANCE = {'concentration': 3, 'blocco app': 3, 'blocca app': 3,
              'bloquear aplicaciones': 4, 'apps sperren': 4,
-             'блокировка приложений': 3, '防沉迷': 4, 'scroll blocker': 4}
+             'блокировка приложений': 3, '防沉迷': 4, 'scroll blocker': 4,
+             '专注': 3, '自律': 3, '时间管理': 3, '锁机': 3}
 LOCALES = {'English (US)': 'en-US', 'English (U.K.)': 'en-GB',
            'English (Australia)': 'en-AU', 'English (Canada)': 'en-CA',
            'Simplified Chinese': 'zh-Hans', 'Chinese (Traditional)': 'zh-Hant',
@@ -62,7 +63,10 @@ def select(items):
 def cached_search(store, query, previous):
     if previous.get('selectedKeyword', {}).get('keyword') == query and len(previous.get('top5', [])) >= 5:
         return {'apps': previous['top5'], 'yourAppRanking': previous.get('yourAppRanking')}
-    for path in (ROOT / 'top5').glob(store + '-*.json'):
+    paths = list((ROOT / 'top5').glob(store + '-*.json'))
+    if store == 'cn':
+        paths += list((ROOT / 'china-deep-dive/raw').glob('*.json'))
+    for path in paths:
         value = json.loads(path.read_text())
         if value.get('query') == query:
             result = unpack(value.get('response', {}))
@@ -113,7 +117,8 @@ def reconcile(refresh):
                 row.update(selectedKeyword=best, top5=(value or {}).get('apps', [])[:5],
                            yourAppRanking=(value or {}).get('yourAppRanking'))
                 row['status'] = 'completed' if len(row['top5']) == 5 else 'search-unavailable'
-                row['evidenceScope'] = 'This country: four or five seed metrics and selected-query top five. Not exhaustive keyword discovery.'
+                row['evidenceScope'] = ('China expanded: 22 candidate metrics, eight top-five queries; see ../china-deep-dive/research.json.' if store == 'cn' else
+                                        'This country: four or five seed metrics and selected-query top five. Not exhaustive keyword discovery.')
                 if value and value.get('error'):
                     row['error'] = value['error']
             else:
@@ -147,9 +152,9 @@ def render(audit):
              '<h1>先让人搜到，再让鸭子出场。</h1>',
              f'<p>下一版三字段方案 · {esc(audit["generatedAt"])} · 175 个商店尝试查询 · {esc(audit["statusCounts"])}</p>',
              '<div class="note"><b>美区建议：App Blocker – Duck on Duty</b><br>副标题：Screen Time Control &amp; Focus<br>26 / 27 字符；关键词不重复。当前仅在项目中准备，未改线上名称，也未向 Apple 提交本轮。</div>',
-             '<nav><a href="#decisions">19 份三字段方案</a><a href="#markets">175 地区证据</a><a href="#openapplock">OpenAppLock 案例</a><a href="../archive-21-storefronts.html">上一轮完整物料（历史）</a></nav>',
+             '<nav><a href="#decisions">19 份三字段方案</a><a href="#markets">175 地区证据</a><a href="../china-deep-dive/index.html">中国专项：22 词／8 组前五名</a><a href="#openapplock">OpenAppLock 案例</a><a href="../archive-21-storefronts.html">上一轮完整物料（历史）</a></nav>',
              '<h2>怎么选，而不是怎么凑词</h2><p>先保证意图相符，再比较热度与竞争。美区 App Blocker 是 54 / 59，Scroll Blocker 是 35 / 15；前者需求更大，后者更容易。美国最终采用用户最新提出的 App Blocker，把 scroll 留在关键词中，不把一个筛选公式当成答案。</p>',
-             '<p>每国查询 4–5 个相关种子词，检查所选词的前五名；部分重点市场另有上一轮多词前五名记录。这个范围是逐国种子筛选，不是穷举该国全部热门词，也没有读取竞品后台关键词。热度和难度是 Astro 指标，不是实际搜索次数。</p>',
+             '<p>多数国家查询 4–5 个相关种子词，检查所选词的前五名；中国另补查至 22 个候选、8 组前五名，部分重点市场也有上一轮多词记录。这个范围是逐国种子筛选，不是穷举该国全部热门词，也没有读取竞品后台关键词。热度和难度是 Astro 指标，不是实际搜索次数。</p>',
              '<p>初筛平衡候选：热度至少 25 且不低于当地相关词最高值的 60%，难度不高于 35。没找到就优先热度。这是人为筛选起点；最终本地化还考虑语言、意图和共用字段。数值 5 按低信号处理，不视为零需求或绝佳机会。</p>',
              '<p><b>175 个国家不能各写一个名字。</b>Apple 按本地化语言／地区保存字段，展示还取决于设备语言和已提供的本地化。下表默认语言仅用于规划；各国推荐冲突会保留，不冒充独立可发布版本。84 个不支持地区使用语言锚点方案，不伪造本地热度。</p>',
              '<p>这轮只改名称、副标题、关键词。原有 16 份完整物料同步三字段；荷兰语、俄语、瑞典语新增的是三字段草案，尚未补全这些语言的简介、截图或 App 内翻译。</p>',

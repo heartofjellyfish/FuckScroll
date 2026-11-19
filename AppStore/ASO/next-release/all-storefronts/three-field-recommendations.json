@@ -53,12 +53,12 @@
     "zh-Hans": {
       "name": "屏幕使用时间 – Duck on Duty",
       "subtitle": "戒手机，少刷社交媒体，到点休息",
-      "keywords": "防沉迷,应用限制,专注,自律,数字健康,定时,休息提醒",
+      "keywords": "app,blocker,screen,time,防沉迷,应用限制,专注,自律,数字健康,定时",
       "anchorStores": [
         "cn"
       ],
-      "rationale": "屏幕使用时间 42/53，高于戒手机 28/51。功能词前置，副标题讲场景和结果；两字词按中文语义保留，不套用英语长度规则。",
-      "conflict": "",
+      "rationale": "中国专项补查 22 个候选、8 个搜索词的前五名。屏幕使用时间 42/53，App Blocker 33/11 是值得保留的低竞争方向；专注 55/74、自律 50/75 意图偏宽。",
+      "conflict": "最终人为选择中文主名以清楚表达功能，英文 App Blocker 放关键词承接另一组需求；不把初筛公式直接当标题。锁机容易误解成锁整台手机，不采用。",
       "scope": "同步已有完整物料"
     },
     "zh-Hant": {
@@ -246,7 +246,7 @@
     "zh-Hans": {
       "name": 21,
       "subtitle": 15,
-      "keywords": 69
+      "keywords": 80
     },
     "zh-Hant": {
       "name": 21,

@@ -1,0 +1,783 @@
+{
+  "scope": "China iPhone storefront; 22 tracked candidate metrics and eight keyword top-five snapshots. Not exhaustive; no hidden competitor keyword field access.",
+  "metrics": [
+    {
+      "appsCount": 247,
+      "currentRanking": 1000,
+      "difficulty": 74,
+      "keyword": "专注",
+      "lastUpdate": "2026-11-19T01:26:55Z",
+      "popularity": 55,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "cn"
+    },
+    {
+      "appsCount": 245,
+      "currentRanking": 1000,
+      "difficulty": 75,
+      "keyword": "自律",
+      "lastUpdate": "2026-11-19T05:35:14Z",
+      "popularity": 50,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "cn"
+    },
+    {
+      "appsCount": 238,
+      "currentRanking": 1000,
+      "difficulty": 71,
+      "keyword": "时间管理",
+      "lastUpdate": "2026-11-19T01:26:55Z",
+      "popularity": 42,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "cn"
+    },
+    {
+      "appsCount": 241,
+      "currentRanking": 1000,
+      "difficulty": 53,
+      "keyword": "屏幕使用时间",
+      "lastUpdate": "2026-11-19T01:26:55Z",
+      "popularity": 42,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "cn"
+    },
+    {
+      "appsCount": 249,
+      "currentRanking": 1000,
+      "difficulty": 56,
+      "keyword": "锁机",
+      "lastUpdate": "2026-11-19T05:35:14Z",
+      "popularity": 40,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "cn"
+    },
+    {
+      "appsCount": 246,
+      "currentRanking": 1000,
+      "difficulty": 11,
+      "keyword": "app blocker",
+      "lastUpdate": "2026-11-19T05:35:14Z",
+      "popularity": 33,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "cn"
+    },
+    {
+      "appsCount": 244,
+      "currentRanking": 1000,
+      "difficulty": 52,
+      "keyword": "防沉迷",
+      "lastUpdate": "2026-11-19T01:26:55Z",
+      "popularity": 30,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "cn"
+    },
+    {
+      "appsCount": 244,
+      "currentRanking": 1000,
+      "difficulty": 60,
+      "keyword": "不玩手机",
+      "lastUpdate": "2026-11-19T05:35:14Z",
+      "popularity": 30,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "cn"
+    },
+    {
+      "appsCount": 248,
+      "currentRanking": 1000,
+      "difficulty": 51,
+      "keyword": "戒手机",
+      "lastUpdate": "2026-11-19T01:26:55Z",
+      "popularity": 28,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "cn"
+    },
+    {
+      "appsCount": 246,
+      "currentRanking": 1000,
+      "difficulty": 37,
+      "keyword": "screen time",
+      "lastUpdate": "2026-11-19T05:35:14Z",
+      "popularity": 25,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "cn"
+    },
+    {
+      "appsCount": 245,
+      "currentRanking": 1000,
+      "difficulty": 50,
+      "keyword": "屏幕时间管理",
+      "lastUpdate": "2026-11-19T05:35:14Z",
+      "popularity": 24,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "cn"
+    },
+    {
+      "appsCount": 205,
+      "currentRanking": 1000,
+      "difficulty": 48,
+      "keyword": "控制手机时间",
+      "lastUpdate": "2026-11-19T05:35:14Z",
+      "popularity": 21,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "cn"
+    },
+    {
+      "appsCount": 244,
+      "currentRanking": 1000,
+      "difficulty": 48,
+      "keyword": "手机使用时间",
+      "lastUpdate": "2026-11-19T05:35:14Z",
+      "popularity": 20,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "cn"
+    },
+    {
+      "appsCount": 249,
+      "currentRanking": 1000,
+      "difficulty": 61,
+      "keyword": "屏幕时间",
+      "lastUpdate": "2026-11-19T05:35:14Z",
+      "popularity": 20,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "cn"
+    },
+    {
+      "appsCount": 248,
+      "currentRanking": 1000,
+      "difficulty": 46,
+      "keyword": "手机防沉迷",
+      "lastUpdate": "2026-11-19T05:35:14Z",
+      "popularity": 19,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "cn"
+    },
+    {
+      "appsCount": 62,
+      "currentRanking": 33,
+      "difficulty": 5,
+      "keyword": "少刷手机",
+      "lastUpdate": "2026-11-19T01:26:55Z",
+      "popularity": 5,
+      "previousRanking": 33,
+      "rankingChange": 0,
+      "store": "cn"
+    },
+    {
+      "appsCount": 145,
+      "currentRanking": 136,
+      "difficulty": 19,
+      "keyword": "应用限时",
+      "lastUpdate": "2026-11-19T01:26:55Z",
+      "popularity": 5,
+      "previousRanking": 136,
+      "rankingChange": 0,
+      "store": "cn"
+    },
+    {
+      "appsCount": 246,
+      "currentRanking": 1000,
+      "difficulty": 48,
+      "keyword": "手机自律",
+      "lastUpdate": "2026-11-19T01:26:55Z",
+      "popularity": 5,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "cn"
+    },
+    {
+      "appsCount": 66,
+      "currentRanking": 1000,
+      "difficulty": 19,
+      "keyword": "少玩手机",
+      "lastUpdate": "2026-11-19T05:35:14Z",
+      "popularity": 5,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "cn"
+    },
+    {
+      "appsCount": 145,
+      "currentRanking": 1000,
+      "difficulty": 21,
+      "keyword": "短视频防沉迷",
+      "lastUpdate": "2026-11-19T05:35:14Z",
+      "popularity": 5,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "cn"
+    },
+    {
+      "appsCount": 244,
+      "currentRanking": 1000,
+      "difficulty": 13,
+      "keyword": "应用限制",
+      "lastUpdate": "2026-11-19T05:35:14Z",
+      "popularity": 5,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "cn"
+    },
+    {
+      "appsCount": 66,
+      "currentRanking": 1000,
+      "difficulty": 23,
+      "keyword": "戒网瘾",
+      "lastUpdate": "2026-11-19T05:35:14Z",
+      "popularity": 5,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "cn"
+    }
+  ],
+  "searches": [
+    {
+      "query": "防沉迷",
+      "apps": [
+        {
+          "appStoreId": "1474340105",
+          "averageRating": 4.7,
+          "bundleId": "tech.miidii.off-screen",
+          "developer": "MD Studio",
+          "genre": "健康健美",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/d7/24/71d724a4-6963-59a5-f56e-dd9b20e92573/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/80x0w.webp",
+          "name": "OffScreen - 自律番茄钟，不做手机控",
+          "ranking": 1,
+          "ratingCount": 53781,
+          "subtitle": "屏幕时间管理，专注学习计时器"
+        },
+        {
+          "appStoreId": "6476949191",
+          "averageRating": 4.7,
+          "bundleId": "com.safeapp.superapplock",
+          "developer": "Safe App, Inc.",
+          "genre": "工具",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/0d/d9/4d0dd904-cacf-5973-3082-a03620af3d10/AppIcon-0-0-1x_U007epad-0-0-85-220.png/80x0w.webp",
+          "name": "超级应用锁:软件锁,手机使用时间管理,程序锁",
+          "ranking": 2,
+          "ratingCount": 13958,
+          "subtitle": "应用锁,计算器隐藏应用,相册视频照片加密"
+        },
+        {
+          "appStoreId": "1668766056",
+          "averageRating": 3.5,
+          "bundleId": "com.jiankongwuhan.jia",
+          "developer": "Amity Zone Technology Co Ltd",
+          "genre": "工具",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/94/b6/da94b676-f523-6df7-5f68-7d523df09647/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/80x0w.webp",
+          "name": "家长守护助手-家长端",
+          "ranking": 3,
+          "ratingCount": 686,
+          "subtitle": "家长助手远程管控定位孩子防手机沉迷引导孩子健康使用手机"
+        },
+        {
+          "appStoreId": "6673906141",
+          "averageRating": 4.7,
+          "bundleId": "com.blingbostudio.ScreenBreak",
+          "developer": "绍豪 曾",
+          "genre": "效率",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/96/85/f7/9685f75a-cc93-a96b-36be-9105ed9e1bcb/default-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/80x0w.webp",
+          "name": "歇歇-屏幕时间管理神器｜应用自律防沉迷｜不做手机控",
+          "ranking": 4,
+          "ratingCount": 305,
+          "subtitle": "玩解锁挑战，找回专注力｜屏幕时间管理｜戒手机｜自律应用锁"
+        },
+        {
+          "appStoreId": "1242689729",
+          "averageRating": 4.9,
+          "bundleId": "com.kot32.tomatodo",
+          "developer": "Shanghai Paitui Technology Co., Ltd.",
+          "genre": "效率",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/8d/54/a98d54f4-b811-de9d-9e33-a99e4461da76/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/80x0w.webp",
+          "name": "番茄ToDo-极简高效自律番茄钟",
+          "ranking": 5,
+          "ratingCount": 943283,
+          "subtitle": "培养专注习惯，告别拖延"
+        }
+      ],
+      "source": "raw/防沉迷.json"
+    },
+    {
+      "query": "专注",
+      "apps": [
+        {
+          "appStoreId": "1242689729",
+          "averageRating": 4.9,
+          "bundleId": "com.kot32.tomatodo",
+          "developer": "Shanghai Paitui Technology Co., Ltd.",
+          "genre": "效率",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/8d/54/a98d54f4-b811-de9d-9e33-a99e4461da76/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/80x0w.webp",
+          "name": "番茄ToDo-极简高效自律番茄钟",
+          "ranking": 1,
+          "ratingCount": 943293,
+          "subtitle": "培养专注习惯，告别拖延"
+        },
+        {
+          "appStoreId": "866450515",
+          "averageRating": 4.8,
+          "bundleId": "com.forestapp.Forest",
+          "developer": "SEEKRTECH CO., LTD.",
+          "genre": "效率",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/58/dc/0458dcb3-7e16-087d-eb7f-3a05d68f8bdb/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/80x0w.webp",
+          "name": "Forest 专注森林 - 番茄钟学习计时器",
+          "ranking": 2,
+          "ratingCount": 258708,
+          "subtitle": "自律打卡，戒手机，高效时间管理工具"
+        },
+        {
+          "appStoreId": "6746562271",
+          "averageRating": 4.9,
+          "bundleId": "com.ryanyao.catonchair",
+          "developer": "Ryan Yao",
+          "genre": "效率",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/d5/c2/cad5c268-7fdf-f6dd-a9d5-f60c80b0dc78/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/80x0w.webp",
+          "name": "椅子上有猫 - 专注番茄钟",
+          "ranking": 3,
+          "ratingCount": 2260,
+          "subtitle": "ADHD学习计时器"
+        },
+        {
+          "appStoreId": "6648771147",
+          "averageRating": 4.8,
+          "bundleId": "net.cementpla.FocusFlights",
+          "developer": "Cement Planet LTD",
+          "genre": "效率",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/61/bb/28/61bb28ff-279c-c980-b129-d18a925135b4/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/80x0w.webp",
+          "name": "专注飞机 - 专为难以专注的人设计",
+          "ranking": 4,
+          "ratingCount": 43447,
+          "subtitle": "像搭乘航班一样开启专注"
+        },
+        {
+          "appStoreId": "1627691759",
+          "averageRating": 4.8,
+          "bundleId": "com.ChickFocus.ChickFocus",
+          "developer": "Shenzhen KreatBloom Technology Co., Ltd.",
+          "genre": "效率",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/97/70/8e9770b5-82fd-9b20-8700-4910623b29a7/AppIcon101-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/80x0w.webp",
+          "name": "小鸡专注-番茄钟自律学习计时器极简治愈学霸必备",
+          "ranking": 5,
+          "ratingCount": 53156,
+          "subtitle": "高效率时间管理、培养专注习惯、告别拖延症"
+        }
+      ],
+      "source": "raw/专注.json"
+    },
+    {
+      "query": "app blocker",
+      "apps": [
+        {
+          "appStoreId": "6480367122",
+          "averageRating": 4.2,
+          "bundleId": "rabit.screencontrol.cn",
+          "developer": "彦辉 侯",
+          "genre": "效率",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/3d/7c/0c/3d7c0cf3-2dec-8bc4-e935-5e0247e150b3/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/80x0w.webp",
+          "name": "自律锁：不做手机控",
+          "ranking": 1,
+          "ratingCount": 11,
+          "subtitle": "Block Apps & Focus, Time Limit"
+        },
+        {
+          "appStoreId": "1515753232",
+          "averageRating": 4.5,
+          "bundleId": "eu.mobilesoft.appblock",
+          "developer": "MobileSoft s.r.o.",
+          "genre": "效率",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/5a/d7/9c5ad7ef-7122-af9e-baa4-4f35d377ef16/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/80x0w.webp",
+          "name": "AppBlock | 屏蔽应用程序，屏幕使用时间掌控管理",
+          "ranking": 2,
+          "ratingCount": 62,
+          "subtitle": "不做手机控 - 保持专注力. 保持自律，使用软件避免干扰"
+        },
+        {
+          "appStoreId": "6790254505",
+          "averageRating": 0,
+          "bundleId": "io.zeroplay.appblocker",
+          "developer": "ZeroPlay Ltd.",
+          "genre": "工具",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/e0/b3/04e0b35f-fdba-3b48-ec6f-7cb2b2330f73/AppIcon-0-0-1x_U007epad-0-1-85-220.png/80x0w.webp",
+          "name": "App Blocker・应用拦截与专注",
+          "ranking": 3,
+          "ratingCount": 0,
+          "subtitle": "屏幕时间、网站限制与自律专注"
+        },
+        {
+          "appStoreId": "6787691035",
+          "averageRating": 0,
+          "bundleId": "com.muxuekeji.applock",
+          "developer": "Shanghai Muxue Computer Technology Co., Ltd.",
+          "genre": "效率",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/36/fa/ac36fafe-4ff3-09ff-0cae-e8ba26d769ef/AppIcon-0-0-1x_U007epad-0-1-85-220.png/80x0w.webp",
+          "name": "应用锁-自律专注 戒手机防沉迷",
+          "ranking": 4,
+          "ratingCount": 0,
+          "subtitle": "一键锁定APP·屏幕时间·家长控制"
+        },
+        {
+          "appStoreId": "6476949191",
+          "averageRating": 4.7,
+          "bundleId": "com.safeapp.superapplock",
+          "developer": "Safe App, Inc.",
+          "genre": "工具",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4d/0d/d9/4d0dd904-cacf-5973-3082-a03620af3d10/AppIcon-0-0-1x_U007epad-0-0-85-220.png/80x0w.webp",
+          "name": "超级应用锁:软件锁,手机使用时间管理,程序锁",
+          "ranking": 5,
+          "ratingCount": 13961,
+          "subtitle": "应用锁,计算器隐藏应用,相册视频照片加密"
+        }
+      ],
+      "source": "raw/app blocker.json"
+    },
+    {
+      "query": "屏幕使用时间",
+      "apps": [
+        {
+          "appStoreId": "6477150937",
+          "averageRating": 4.6,
+          "bundleId": "com.oh-vision.screen",
+          "developer": "书贞 牛",
+          "genre": "健康健美",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/a3/f3/a3a3f3bf-f473-edf5-a9d3-d8c499988297/AppIcon-1x_U007ephone-0-11-0-85-220-0.png/80x0w.webp",
+          "name": "屏幕时间管理 - 屏幕使用时间，拒绝手机控",
+          "ranking": 1,
+          "ratingCount": 400,
+          "subtitle": "控制手机时间，戒手机，告别手机控"
+        },
+        {
+          "appStoreId": "1474340105",
+          "averageRating": 4.7,
+          "bundleId": "tech.miidii.off-screen",
+          "developer": "MD Studio",
+          "genre": "健康健美",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/d7/24/71d724a4-6963-59a5-f56e-dd9b20e92573/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/80x0w.webp",
+          "name": "OffScreen - 自律番茄钟，不做手机控",
+          "ranking": 2,
+          "ratingCount": 53781,
+          "subtitle": "屏幕时间管理，专注学习计时器"
+        },
+        {
+          "appStoreId": "6444819615",
+          "averageRating": 4.8,
+          "bundleId": "com.air-matters.Cloak",
+          "developer": "Air Matters Network Pty Ltd",
+          "genre": "工具",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/da/b9/78dab994-4caf-142a-3658-b27635e4e378/Cloak-0-0-1x_U007epad-0-1-0-85-220.png/80x0w.webp",
+          "name": "Cape: 屏幕时间管理",
+          "ranking": 3,
+          "ratingCount": 27345,
+          "subtitle": "打造更健康的数字习惯"
+        },
+        {
+          "appStoreId": "1242689729",
+          "averageRating": 4.9,
+          "bundleId": "com.kot32.tomatodo",
+          "developer": "Shanghai Paitui Technology Co., Ltd.",
+          "genre": "效率",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/8d/54/a98d54f4-b811-de9d-9e33-a99e4461da76/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/80x0w.webp",
+          "name": "番茄ToDo-极简高效自律番茄钟",
+          "ranking": 4,
+          "ratingCount": 943283,
+          "subtitle": "培养专注习惯，告别拖延"
+        },
+        {
+          "appStoreId": "1041249752",
+          "averageRating": 4.5,
+          "bundleId": "com.realstudios.realizd",
+          "developer": "iMobiApp",
+          "genre": "效率",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/c5/5f/25/c55f252e-f365-a0eb-ad69-bb69ec0e4cb6/AppIcon-1x_U007emarketing-0-7-0-85-220.png/80x0w.webp",
+          "name": "小容 - 你记录手机使用时间、习惯的智能助手",
+          "ranking": 5,
+          "ratingCount": 3416,
+          "subtitle": "节省宝贵的时间和注意力资源，拒当手机控，低头族"
+        }
+      ],
+      "source": "raw/屏幕使用时间.json"
+    },
+    {
+      "query": "不玩手机",
+      "apps": [
+        {
+          "appStoreId": "1449020025",
+          "averageRating": 4.2,
+          "bundleId": "com.app.AwayFromPhone",
+          "developer": "春城 贾",
+          "genre": "效率",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/5d/f8/2c5df8b8-9666-dc9c-c290-bec8a6d20020/AppIcon-1x_U007emarketing-0-11-0-85-220-0.png/80x0w.webp",
+          "name": "不玩手机-自律习惯养成记",
+          "ranking": 1,
+          "ratingCount": 4340,
+          "subtitle": "帮助您更好的专注！"
+        },
+        {
+          "appStoreId": "1474340105",
+          "averageRating": 4.7,
+          "bundleId": "tech.miidii.off-screen",
+          "developer": "MD Studio",
+          "genre": "健康健美",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/d7/24/71d724a4-6963-59a5-f56e-dd9b20e92573/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/80x0w.webp",
+          "name": "OffScreen - 自律番茄钟，不做手机控",
+          "ranking": 2,
+          "ratingCount": 53784,
+          "subtitle": "屏幕时间管理，专注学习计时器"
+        },
+        {
+          "appStoreId": "1242689729",
+          "averageRating": 4.9,
+          "bundleId": "com.kot32.tomatodo",
+          "developer": "Shanghai Paitui Technology Co., Ltd.",
+          "genre": "效率",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/8d/54/a98d54f4-b811-de9d-9e33-a99e4461da76/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/80x0w.webp",
+          "name": "番茄ToDo-极简高效自律番茄钟",
+          "ranking": 3,
+          "ratingCount": 943293,
+          "subtitle": "培养专注习惯，告别拖延"
+        },
+        {
+          "appStoreId": "6575360746",
+          "averageRating": 4.8,
+          "bundleId": "com.shuge888.offphone.ios",
+          "developer": "天津薯格网络科技有限公司",
+          "genre": "工具",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/aa/8b/a6aa8b6f-bd5d-47c0-42ec-dde09be0f53d/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/80x0w.webp",
+          "name": "远离手机-不玩手机，不做手机控",
+          "ranking": 4,
+          "ratingCount": 1129,
+          "subtitle": "强制减少手机娱乐时间"
+        },
+        {
+          "appStoreId": "1248701536",
+          "averageRating": 4.5,
+          "bundleId": "cn.bahamut.notouchphonealarm",
+          "developer": "广杰 周",
+          "genre": "效率",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/a7/e6/94/a7e694b4-af88-537f-483d-2c08091a106e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/80x0w.webp",
+          "name": "不玩手机辅助闹钟",
+          "ranking": 5,
+          "ratingCount": 3026,
+          "subtitle": "帮助你培养出良好的学习或工作习惯"
+        }
+      ],
+      "source": "raw/不玩手机.json"
+    },
+    {
+      "query": "戒手机",
+      "apps": [
+        {
+          "appStoreId": "6822790279",
+          "averageRating": 4.6,
+          "bundleId": "com.dushe.app",
+          "developer": "明昭 路",
+          "genre": "效率",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/99/8b/0b/998b0bd8-9b4e-9b1c-257f-ffe4df163218/AppIcon-0-0-1x_U007epad-0-1-85-220.png/80x0w.webp",
+          "name": "毒舌鹦鹉｜无痛戒手机·自律·少玩手机·防沉迷",
+          "ranking": 1,
+          "ratingCount": 21,
+          "subtitle": "专注·早睡早起·熬夜·屏幕时间·拖延症·番茄钟"
+        },
+        {
+          "appStoreId": "1474340105",
+          "averageRating": 4.7,
+          "bundleId": "tech.miidii.off-screen",
+          "developer": "MD Studio",
+          "genre": "健康健美",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/d7/24/71d724a4-6963-59a5-f56e-dd9b20e92573/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/80x0w.webp",
+          "name": "OffScreen - 自律番茄钟，不做手机控",
+          "ranking": 2,
+          "ratingCount": 53781,
+          "subtitle": "屏幕时间管理，专注学习计时器"
+        },
+        {
+          "appStoreId": "6575360746",
+          "averageRating": 4.8,
+          "bundleId": "com.shuge888.offphone.ios",
+          "developer": "天津薯格网络科技有限公司",
+          "genre": "工具",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/aa/8b/a6aa8b6f-bd5d-47c0-42ec-dde09be0f53d/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/80x0w.webp",
+          "name": "远离手机-不玩手机，不做手机控",
+          "ranking": 3,
+          "ratingCount": 1129,
+          "subtitle": "强制减少手机娱乐时间"
+        },
+        {
+          "appStoreId": "6756065248",
+          "averageRating": 4.8,
+          "bundleId": "com.pl.getaway",
+          "developer": "娄底斯塔克网络科技有限公司",
+          "genre": "效率",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/b4/82/c8b48283-7d6e-4337-5bf9-ca5172fccc3c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.jpeg/80x0w.webp",
+          "name": "不做手机控-放下手机自律防沉迷·番茄专注·屏幕使用时间·锁机",
+          "ranking": 4,
+          "ratingCount": 261,
+          "subtitle": "学习模式计时器软件·早睡打卡·应用限额管理·监督玩机习惯养成"
+        },
+        {
+          "appStoreId": "6479392365",
+          "averageRating": 4.7,
+          "bundleId": "io.iftech.timeminer",
+          "developer": "宁波群鸟科技有限公司",
+          "genre": "健康健美",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/f1/2e/dbf12e14-5a3b-590f-243c-f2172e82b3bc/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/80x0w.webp",
+          "name": "自律石头 - 学习娱乐时间兑换｜自律番茄钟 ｜不做手机控",
+          "ranking": 5,
+          "ratingCount": 11732,
+          "subtitle": "读书，专注，早睡，运动兑换玩手机时间，无痛戒手机养成好习惯"
+        }
+      ],
+      "source": "raw/戒手机.json"
+    },
+    {
+      "query": "自律",
+      "apps": [
+        {
+          "appStoreId": "1242689729",
+          "averageRating": 4.9,
+          "bundleId": "com.kot32.tomatodo",
+          "developer": "Shanghai Paitui Technology Co., Ltd.",
+          "genre": "效率",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/8d/54/a98d54f4-b811-de9d-9e33-a99e4461da76/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/80x0w.webp",
+          "name": "番茄ToDo-极简高效自律番茄钟",
+          "ranking": 1,
+          "ratingCount": 943293,
+          "subtitle": "培养专注习惯，告别拖延"
+        },
+        {
+          "appStoreId": "1627691759",
+          "averageRating": 4.8,
+          "bundleId": "com.ChickFocus.ChickFocus",
+          "developer": "Shenzhen KreatBloom Technology Co., Ltd.",
+          "genre": "效率",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/97/70/8e9770b5-82fd-9b20-8700-4910623b29a7/AppIcon101-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/80x0w.webp",
+          "name": "小鸡专注-番茄钟自律学习计时器极简治愈学霸必备",
+          "ranking": 2,
+          "ratingCount": 53156,
+          "subtitle": "高效率时间管理、培养专注习惯、告别拖延症"
+        },
+        {
+          "appStoreId": "6479392365",
+          "averageRating": 4.7,
+          "bundleId": "io.iftech.timeminer",
+          "developer": "宁波群鸟科技有限公司",
+          "genre": "健康健美",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/f1/2e/dbf12e14-5a3b-590f-243c-f2172e82b3bc/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/80x0w.webp",
+          "name": "自律石头 - 学习娱乐时间兑换｜自律番茄钟 ｜不做手机控",
+          "ranking": 3,
+          "ratingCount": 11737,
+          "subtitle": "读书，专注，早睡，运动兑换玩手机时间，无痛戒手机养成好习惯"
+        },
+        {
+          "appStoreId": "1263789061",
+          "averageRating": 4.8,
+          "bundleId": "com.dandelion.Routine",
+          "developer": "Guangzhou Xiaorichang Technology Co., Ltd.",
+          "genre": "效率",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/c6/b5/67c6b529-0ae2-2060-4ca5-b7a73345132f/AppIcon-0-0-1x_U007emarketing-0-8-0-0-GLES2_U002c0-85-220.png/80x0w.webp",
+          "name": "小日常 - 习惯养成打卡 & 番茄钟时间管理与学习计划",
+          "ranking": 4,
+          "ratingCount": 553038,
+          "subtitle": "每日自律打卡, todo清单。专注计时器, 提升效率与自律。"
+        },
+        {
+          "appStoreId": "866450515",
+          "averageRating": 4.8,
+          "bundleId": "com.forestapp.Forest",
+          "developer": "SEEKRTECH CO., LTD.",
+          "genre": "效率",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/58/dc/0458dcb3-7e16-087d-eb7f-3a05d68f8bdb/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/80x0w.webp",
+          "name": "Forest 专注森林 - 番茄钟学习计时器",
+          "ranking": 5,
+          "ratingCount": 258708,
+          "subtitle": "自律打卡，戒手机，高效时间管理工具"
+        }
+      ],
+      "source": "raw/自律.json"
+    },
+    {
+      "query": "锁机",
+      "apps": [
+        {
+          "appStoreId": "1242689729",
+          "averageRating": 4.9,
+          "bundleId": "com.kot32.tomatodo",
+          "developer": "Shanghai Paitui Technology Co., Ltd.",
+          "genre": "效率",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a9/8d/54/a98d54f4-b811-de9d-9e33-a99e4461da76/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/80x0w.webp",
+          "name": "番茄ToDo-极简高效自律番茄钟",
+          "ranking": 1,
+          "ratingCount": 943293,
+          "subtitle": "培养专注习惯，告别拖延"
+        },
+        {
+          "appStoreId": "1474340105",
+          "averageRating": 4.7,
+          "bundleId": "tech.miidii.off-screen",
+          "developer": "MD Studio",
+          "genre": "健康健美",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/d7/24/71d724a4-6963-59a5-f56e-dd9b20e92573/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/80x0w.webp",
+          "name": "OffScreen - 自律番茄钟，不做手机控",
+          "ranking": 2,
+          "ratingCount": 53784,
+          "subtitle": "屏幕时间管理，专注学习计时器"
+        },
+        {
+          "appStoreId": "6575360746",
+          "averageRating": 4.8,
+          "bundleId": "com.shuge888.offphone.ios",
+          "developer": "天津薯格网络科技有限公司",
+          "genre": "工具",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a6/aa/8b/a6aa8b6f-bd5d-47c0-42ec-dde09be0f53d/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/80x0w.webp",
+          "name": "远离手机-不玩手机，不做手机控",
+          "ranking": 3,
+          "ratingCount": 1129,
+          "subtitle": "强制减少手机娱乐时间"
+        },
+        {
+          "appStoreId": "866450515",
+          "averageRating": 4.8,
+          "bundleId": "com.forestapp.Forest",
+          "developer": "SEEKRTECH CO., LTD.",
+          "genre": "效率",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/58/dc/0458dcb3-7e16-087d-eb7f-3a05d68f8bdb/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/80x0w.webp",
+          "name": "Forest 专注森林 - 番茄钟学习计时器",
+          "ranking": 4,
+          "ratingCount": 258708,
+          "subtitle": "自律打卡，戒手机，高效时间管理工具"
+        },
+        {
+          "appStoreId": "6756065248",
+          "averageRating": 4.8,
+          "bundleId": "com.pl.getaway",
+          "developer": "娄底斯塔克网络科技有限公司",
+          "genre": "效率",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c8/b4/82/c8b48283-7d6e-4337-5bf9-ca5172fccc3c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.jpeg/80x0w.webp",
+          "name": "不做手机控-放下手机自律防沉迷·番茄专注·屏幕使用时间·锁机",
+          "ranking": 5,
+          "ratingCount": 261,
+          "subtitle": "学习模式计时器软件·早睡打卡·应用限额管理·监督玩机习惯养成"
+        }
+      ],
+      "source": "raw/锁机.json"
+    }
+  ],
+  "rejectedIntents": {
+    "专注": "Broad focus / Pomodoro intent",
+    "自律": "Habits, check-ins and productivity intent",
+    "锁机": "Could imply locking the entire phone, which this app does not do"
+  },
+  "keywordFieldRationale": "Main title and subtitle already carry Chinese screen-time / stop-scrolling language. Hidden field adds measured English app blocker and screen time, plus Chinese functional support terms; not every individual token has its own demand measurement."
+}
