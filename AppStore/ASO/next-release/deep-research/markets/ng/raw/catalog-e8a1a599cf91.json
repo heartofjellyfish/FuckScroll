@@ -1,0 +1,123 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=screen+time+control&country=ng&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "artistName": "ScreenZen LLC",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "currentVersionReleaseDate": "2026-09-06T14:20:14Z",
+        "releaseDate": "2021-07-16T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "version": "4.0.0",
+        "wrapperType": "software",
+        "currency": "NGN",
+        "averageUserRating": 4.80556,
+        "trackViewUrl": "https://apps.apple.com/ng/app/screenzen-screen-time-control/id1541027222?uo=4",
+        "bundleId": "com.scottharvey.screenzenapp.ios",
+        "trackName": "ScreenZen- Screen Time Control",
+        "trackId": 1541027222,
+        "userRatingCount": 288,
+        "descriptionSHA256": "def0cb7cf41c8f7b1619d270d38fe8aa23859b81147ae63a1041bc0a1b7f8cc8"
+      },
+      {
+        "kind": "software",
+        "artistName": "Vaibhav Negi",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "currentVersionReleaseDate": "2026-02-10T18:45:54Z",
+        "releaseDate": "2024-12-16T08:00:00Z",
+        "primaryGenreName": "Productivity",
+        "version": "1.6.1",
+        "wrapperType": "software",
+        "currency": "NGN",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/ng/app/screen-time-control-inscreen/id6737131495?uo=4",
+        "bundleId": "com.inscreen.app",
+        "trackName": "Screen Time Control: Inscreen",
+        "trackId": 6737131495,
+        "userRatingCount": 0,
+        "descriptionSHA256": "79a4d2da17032d2581f733fe1c13c4f6dd648e0dba345de097bd680acd0f2534"
+      },
+      {
+        "kind": "software",
+        "artistName": "Opal OS",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "primaryGenreName": "Productivity",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "NGN",
+        "averageUserRating": 4.76449,
+        "trackViewUrl": "https://apps.apple.com/ng/app/opal-screen-time-control/id1497465230?uo=4",
+        "bundleId": "com.withopal.opal",
+        "trackName": "Opal: Screen Time Control",
+        "trackId": 1497465230,
+        "userRatingCount": 828,
+        "descriptionSHA256": "79545dcfd9d33edf53d3567fc6a6eb5b582561ed18b9d49245fbff4af0417656"
+      },
+      {
+        "kind": "software",
+        "artistName": "BLANC DAHAMNI CAPITAL",
+        "genres": [
+          "Productivity"
+        ],
+        "price": 0.0,
+        "currentVersionReleaseDate": "2023-08-26T08:17:33Z",
+        "releaseDate": "2023-08-26T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "version": "1.0",
+        "wrapperType": "software",
+        "currency": "NGN",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/ng/app/fokus-screen-time/id6450756696?uo=4",
+        "bundleId": "com.adrienblc.fokus",
+        "trackName": "Fokus - Screen time",
+        "trackId": 6450756696,
+        "userRatingCount": 0,
+        "descriptionSHA256": "8315b961a33d2a93ca7efda604bcb687a73c1140d6708da6b1c03fc6a026b9cd"
+      },
+      {
+        "kind": "software",
+        "artistName": "MD Studio",
+        "genres": [
+          "Health & Fitness",
+          "Productivity"
+        ],
+        "price": 0.0,
+        "currentVersionReleaseDate": "2026-11-16T15:54:59Z",
+        "releaseDate": "2019-09-10T07:00:00Z",
+        "primaryGenreName": "Health & Fitness",
+        "version": "3.22.6",
+        "wrapperType": "software",
+        "currency": "NGN",
+        "averageUserRating": 4.55556,
+        "trackViewUrl": "https://apps.apple.com/ng/app/offscreen-screen-time-control/id1474340105?uo=4",
+        "bundleId": "tech.miidii.off-screen",
+        "trackName": "OffScreen: Screen Time Control",
+        "trackId": 1474340105,
+        "userRatingCount": 18,
+        "descriptionSHA256": "079a343ef3820f7b726bc6a79a3cc60eb0f9faf0dc1070c1af73e61123346c28"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "9f548e7441a1119d8e8bdf2b6d0ec89ddcc0d1375f3644de9396a9e8cc694583",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

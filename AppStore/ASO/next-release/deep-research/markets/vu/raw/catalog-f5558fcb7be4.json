@@ -1,0 +1,124 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=block+apps&country=vu&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "currentVersionReleaseDate": "2026-11-11T10:48:39Z",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "bundleId": "eu.mobilesoft.appblock",
+        "trackId": 1515753232,
+        "trackName": "AppBlock: App & Site Blocker",
+        "releaseDate": "2021-08-17T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "version": "4.14.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/vu/app/appblock-app-site-blocker/id1515753232?uo=4",
+        "averageUserRating": 0,
+        "artistName": "MobileSoft s.r.o.",
+        "userRatingCount": 0,
+        "descriptionSHA256": "f4e2257d9c85cbaf9cd8496ddc82a9a5d41b2e0440020c527d8b3b8c4bbe4236"
+      },
+      {
+        "kind": "software",
+        "currentVersionReleaseDate": "2026-09-25T07:10:51Z",
+        "genres": [
+          "Utilities",
+          "Productivity"
+        ],
+        "price": 0.0,
+        "bundleId": "co.appnation.applocker",
+        "trackId": 1569973513,
+        "trackName": "App Lock - Lock Apps & Photos",
+        "releaseDate": "2021-06-12T07:00:00Z",
+        "primaryGenreName": "Utilities",
+        "version": "2.2.4",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/vu/app/app-lock-lock-apps-photos/id1569973513?uo=4",
+        "averageUserRating": 5,
+        "artistName": "Muhammet Yalcın Ozdemir Halil Ibrahim Karahan Mustafa Ayten Kupertino Bilisim Yazılım K.S",
+        "userRatingCount": 5,
+        "descriptionSHA256": "7ba2ea3794744905bae3c370c1d34f9ff79f824d3ed6e187d44098d261070cc2"
+      },
+      {
+        "kind": "software",
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "bundleId": "com.withopal.opal",
+        "trackId": 1497465230,
+        "trackName": "Opal: Screen Time Control",
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "primaryGenreName": "Productivity",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/vu/app/opal-screen-time-control/id1497465230?uo=4",
+        "averageUserRating": 5,
+        "artistName": "Opal OS",
+        "userRatingCount": 1,
+        "descriptionSHA256": "79545dcfd9d33edf53d3567fc6a6eb5b582561ed18b9d49245fbff4af0417656"
+      },
+      {
+        "kind": "software",
+        "currentVersionReleaseDate": "2026-10-18T07:41:00Z",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "bundleId": "co.ios.BlockSite",
+        "trackId": 1474967653,
+        "trackName": "BlockSite: Block Apps & Focus",
+        "releaseDate": "2020-04-14T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "version": "4.4.5",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/vu/app/blocksite-block-apps-focus/id1474967653?uo=4",
+        "averageUserRating": 4,
+        "artistName": "BlockSite LP",
+        "userRatingCount": 1,
+        "descriptionSHA256": "3eb447725c9fc35e830b2ea7ff4f799cbbf9f0a174fb4879e2041c2cb7805265"
+      },
+      {
+        "kind": "software",
+        "currentVersionReleaseDate": "2025-08-07T14:52:49Z",
+        "genres": [
+          "Utilities",
+          "Lifestyle"
+        ],
+        "price": 0.0,
+        "bundleId": "one.vault.password",
+        "trackId": 1614510749,
+        "trackName": "App Locker Apps & Vault",
+        "releaseDate": "2022-05-27T07:00:00Z",
+        "primaryGenreName": "Utilities",
+        "version": "4.11.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/vu/app/app-locker-apps-vault/id1614510749?uo=4",
+        "averageUserRating": 0,
+        "artistName": "CLEARPATH ACQUISITIONS LLC",
+        "userRatingCount": 0,
+        "descriptionSHA256": "b525a8b8c2c1beee34ea44b92170795d984909ee72444e9c30d71354256583d8"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "e05022892cba66b2888ef6628d97aff8d4cd67034efe5f948d5306514241fe1b",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

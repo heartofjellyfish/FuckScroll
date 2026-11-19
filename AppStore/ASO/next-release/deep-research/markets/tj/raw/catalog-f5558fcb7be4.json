@@ -1,0 +1,124 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=block+apps&country=tj&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/tj/app/refocus-app-blocker-lock/id1645639057?uo=4",
+        "artistName": "Labi, LLC",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "releaseDate": "2022-09-22T07:00:00Z",
+        "trackId": 1645639057,
+        "trackName": "Refocus: App Blocker & Lock",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-18T15:32:47Z",
+        "version": "2.2.11",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.refocus.refocus",
+        "userRatingCount": 0,
+        "descriptionSHA256": "31bd6049418a698d36c61b2eafbe2ca02a56d8aa24878c1963caa5895db876a1"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 5,
+        "trackViewUrl": "https://apps.apple.com/tj/app/appblock-app-site-blocker/id1515753232?uo=4",
+        "artistName": "MobileSoft s.r.o.",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "releaseDate": "2021-08-17T07:00:00Z",
+        "trackId": 1515753232,
+        "trackName": "AppBlock: App & Site Blocker",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-11T10:48:39Z",
+        "version": "4.14.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "eu.mobilesoft.appblock",
+        "userRatingCount": 5,
+        "descriptionSHA256": "f4e2257d9c85cbaf9cd8496ddc82a9a5d41b2e0440020c527d8b3b8c4bbe4236"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 4.83333,
+        "trackViewUrl": "https://apps.apple.com/tj/app/opal-screen-time-control/id1497465230?uo=4",
+        "artistName": "Opal OS",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "trackId": 1497465230,
+        "trackName": "Opal: Screen Time Control",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.withopal.opal",
+        "userRatingCount": 12,
+        "descriptionSHA256": "79545dcfd9d33edf53d3567fc6a6eb5b582561ed18b9d49245fbff4af0417656"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 5,
+        "trackViewUrl": "https://apps.apple.com/tj/app/screenzen-screen-time-control/id1541027222?uo=4",
+        "artistName": "ScreenZen LLC",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "releaseDate": "2021-07-16T07:00:00Z",
+        "trackId": 1541027222,
+        "trackName": "ScreenZen- Screen Time Control",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-09-06T14:20:14Z",
+        "version": "4.0.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.scottharvey.screenzenapp.ios",
+        "userRatingCount": 7,
+        "descriptionSHA256": "def0cb7cf41c8f7b1619d270d38fe8aa23859b81147ae63a1041bc0a1b7f8cc8"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/tj/app/blocksite-block-apps-focus/id1474967653?uo=4",
+        "artistName": "BlockSite LP",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "releaseDate": "2019-09-01T07:00:00Z",
+        "trackId": 1474967653,
+        "trackName": "BlockSite: Block Apps & Focus",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-10-18T07:41:00Z",
+        "version": "4.4.5",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "co.ios.BlockSite",
+        "userRatingCount": 0,
+        "descriptionSHA256": "3eb447725c9fc35e830b2ea7ff4f799cbbf9f0a174fb4879e2041c2cb7805265"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "e668d572524ccea73c5a7faa0cc367679369fd28ddc644b1c30a2a3979dda879",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

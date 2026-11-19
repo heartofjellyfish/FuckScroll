@@ -1,0 +1,123 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=screen+time&country=ba&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "bundleId": "com.withopal.opal",
+        "price": 0.0,
+        "primaryGenreName": "Productivity",
+        "trackName": "Opal: Screen Time Control",
+        "trackId": 1497465230,
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "averageUserRating": 4.85185,
+        "trackViewUrl": "https://apps.apple.com/ba/app/opal-screen-time-control/id1497465230?uo=4",
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "artistName": "Opal OS",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "userRatingCount": 54,
+        "descriptionSHA256": "79545dcfd9d33edf53d3567fc6a6eb5b582561ed18b9d49245fbff4af0417656"
+      },
+      {
+        "kind": "software",
+        "bundleId": "com.unrotou.unrot",
+        "price": 0.0,
+        "primaryGenreName": "Productivity",
+        "trackName": "Unrot: Earn your Screen Time",
+        "trackId": 6746537171,
+        "currentVersionReleaseDate": "2026-11-17T23:57:22Z",
+        "version": "5.0.1",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "averageUserRating": 4.79464,
+        "trackViewUrl": "https://apps.apple.com/ba/app/unrot-earn-your-screen-time/id6746537171?uo=4",
+        "releaseDate": "2025-06-04T07:00:00Z",
+        "artistName": "Unrot OÜ",
+        "genres": [
+          "Productivity"
+        ],
+        "userRatingCount": 112,
+        "descriptionSHA256": "12adff6dd116c1ee691ffdde6965edfdf9a3d682b6fdc4a3214199fc9ce2beea"
+      },
+      {
+        "kind": "software",
+        "bundleId": "com.jackfinnis.ScreenTimeTracker",
+        "price": 0.0,
+        "primaryGenreName": "Productivity",
+        "trackName": "Screen Time Tracker",
+        "trackId": 6738397686,
+        "currentVersionReleaseDate": "2025-10-21T22:49:43Z",
+        "version": "2.1",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "averageUserRating": 5,
+        "trackViewUrl": "https://apps.apple.com/ba/app/screen-time-tracker/id6738397686?uo=4",
+        "releaseDate": "2024-12-17T08:00:00Z",
+        "artistName": "Jack Finnis",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "userRatingCount": 1,
+        "descriptionSHA256": "818e2b4d99d866d797722d84f7e4cb5f38639db2d2e8c74030a03e53a20ba82b"
+      },
+      {
+        "kind": "software",
+        "bundleId": "wtf.riedel.one-sec",
+        "price": 0.0,
+        "primaryGenreName": "Productivity",
+        "trackName": "one sec | screen time + focus",
+        "trackId": 1532875441,
+        "currentVersionReleaseDate": "2026-11-14T18:42:34Z",
+        "version": "6.1.3",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "averageUserRating": 5,
+        "trackViewUrl": "https://apps.apple.com/ba/app/one-sec-screen-time-focus/id1532875441?uo=4",
+        "releaseDate": "2020-09-29T07:00:00Z",
+        "artistName": "riedel.wtf apps S.L.",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "userRatingCount": 16,
+        "descriptionSHA256": "7458286eeec2edf883eec2f9abc49582f9924be2e29f484b82b1014b4b2a0462"
+      },
+      {
+        "kind": "software",
+        "bundleId": "com.screentime",
+        "price": 0.0,
+        "primaryGenreName": "Lifestyle",
+        "trackName": "Screen Time Parental Control",
+        "trackId": 1055315077,
+        "currentVersionReleaseDate": "2022-12-07T13:43:25Z",
+        "version": "3.72",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "averageUserRating": 5,
+        "trackViewUrl": "https://apps.apple.com/ba/app/screen-time-parental-control/id1055315077?uo=4",
+        "releaseDate": "2020-04-10T07:00:00Z",
+        "artistName": "Screen Time Labs",
+        "genres": [
+          "Lifestyle",
+          "Productivity"
+        ],
+        "userRatingCount": 2,
+        "descriptionSHA256": "4304fa45bc672e931bb3f98d3b8232f55d3f776c5eb880d3d113c7227a932ad6"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "99d9fc8772d6c06f70479318ed36d6dec5a3d9cecfe3022d92177c1059758bf7",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

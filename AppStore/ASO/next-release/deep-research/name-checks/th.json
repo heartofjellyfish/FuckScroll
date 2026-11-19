@@ -1,0 +1,21 @@
+{
+  "locale": "th",
+  "store": "th",
+  "proposedName": "Screen Time – เป็ดคุมเวลา",
+  "limitations": "A public top-five name search, not App Store Connect reservation or trademark clearance.",
+  "response": {
+    "id": "fd880ea1-d7ce-45fd-87bf-aaefcb699ac4",
+    "jsonrpc": "2.0",
+    "result": {
+      "content": [
+        {
+          "text": "{\n  \"apps\" : [\n\n  ],\n  \"keyword\" : \"Screen Time – เป็ดคุมเวลา\",\n  \"platform\" : \"iphone\",\n  \"store\" : \"th\",\n  \"totalResults\" : 0\n}",
+          "type": "text"
+        }
+      ],
+      "isError": false
+    }
+  },
+  "error": null,
+  "exactOtherAppMatches": []
+}

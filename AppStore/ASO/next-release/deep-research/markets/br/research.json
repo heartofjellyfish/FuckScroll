@@ -1,0 +1,893 @@
+{
+  "store": "br",
+  "country": "Brazil",
+  "defaultLanguage": "Portuguese (Brazil)",
+  "additionalLanguages": "English (U.K.)",
+  "languages": [
+    "pt-BR"
+  ],
+  "candidates": [
+    "tempo de tela",
+    "bloquear aplicativos",
+    "bloqueador de aplicativos",
+    "limite de uso",
+    "controle de tempo de tela",
+    "limitar aplicativos",
+    "bloquear apps",
+    "vício em celular",
+    "usar menos o celular",
+    "diminuir tempo de tela",
+    "parar de rolar",
+    "bloquear redes sociais",
+    "menos redes sociais",
+    "desintoxicação digital",
+    "detox digital",
+    "foco",
+    "autocontrole",
+    "pausa no celular",
+    "temporizador de aplicativos",
+    "app blocker",
+    "screen time",
+    "controle parental",
+    "tempo no celular",
+    "limite de apps",
+    "screen time control",
+    "scroll blocker"
+  ],
+  "astroSupported": true,
+  "catalogQueries": [
+    "tempo de tela",
+    "bloquear aplicativos",
+    "bloqueador de aplicativos",
+    "limite de uso",
+    "controle de tempo de tela",
+    "limitar aplicativos",
+    "app blocker",
+    "screen time"
+  ],
+  "startedAt": "2026-11-19T06:08:56.856624+00:00",
+  "source": "Astro MCP, iPhone storefront",
+  "metrics": [
+    {
+      "appsCount": 250,
+      "currentRanking": 1000,
+      "difficulty": 45,
+      "keyword": "tempo de tela",
+      "lastUpdate": "2026-11-19T01:31:38Z",
+      "popularity": 40,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "br"
+    },
+    {
+      "appsCount": 237,
+      "currentRanking": 1000,
+      "difficulty": 40,
+      "keyword": "bloquear aplicativos",
+      "lastUpdate": "2026-11-19T01:31:38Z",
+      "popularity": 33,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "br"
+    },
+    {
+      "appsCount": 250,
+      "currentRanking": 1000,
+      "difficulty": 41,
+      "keyword": "bloqueador de aplicativos",
+      "lastUpdate": "2026-11-19T01:31:38Z",
+      "popularity": 24,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "br"
+    },
+    {
+      "appsCount": 177,
+      "currentRanking": 143,
+      "difficulty": 23,
+      "keyword": "limite de uso",
+      "lastUpdate": "2026-11-19T01:31:38Z",
+      "popularity": 20,
+      "previousRanking": 143,
+      "rankingChange": 0,
+      "store": "br"
+    },
+    {
+      "appsCount": 249,
+      "currentRanking": 1000,
+      "difficulty": 43,
+      "keyword": "controle de tempo de tela",
+      "lastUpdate": "2026-11-19T06:09:21Z",
+      "popularity": 5,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "br"
+    },
+    {
+      "appsCount": 234,
+      "currentRanking": 1000,
+      "difficulty": 38,
+      "keyword": "limitar aplicativos",
+      "lastUpdate": "2026-11-19T06:09:21Z",
+      "popularity": 5,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "br"
+    },
+    {
+      "appsCount": 250,
+      "currentRanking": 1000,
+      "difficulty": 40,
+      "keyword": "bloquear apps",
+      "lastUpdate": "2026-11-19T06:09:21Z",
+      "popularity": 9,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "br"
+    },
+    {
+      "appsCount": 59,
+      "currentRanking": 1000,
+      "difficulty": 35,
+      "keyword": "vício em celular",
+      "lastUpdate": "2026-11-19T01:31:38Z",
+      "popularity": 5,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "br"
+    },
+    {
+      "appsCount": 2,
+      "currentRanking": 1000,
+      "difficulty": 5,
+      "keyword": "usar menos o celular",
+      "lastUpdate": "2026-11-19T06:09:21Z",
+      "popularity": 5,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "br"
+    },
+    {
+      "appsCount": 87,
+      "currentRanking": 1000,
+      "difficulty": 19,
+      "keyword": "diminuir tempo de tela",
+      "lastUpdate": "2026-11-19T06:09:21Z",
+      "popularity": 22,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "br"
+    },
+    {
+      "appsCount": 246,
+      "currentRanking": 1000,
+      "difficulty": 13,
+      "keyword": "parar de rolar",
+      "lastUpdate": "2026-11-19T06:09:21Z",
+      "popularity": 5,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "br"
+    },
+    {
+      "appsCount": 201,
+      "currentRanking": 1000,
+      "difficulty": 23,
+      "keyword": "bloquear redes sociais",
+      "lastUpdate": "2026-11-19T06:09:21Z",
+      "popularity": 22,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "br"
+    },
+    {
+      "appsCount": 79,
+      "currentRanking": 1000,
+      "difficulty": 81,
+      "keyword": "menos redes sociais",
+      "lastUpdate": "2026-11-19T06:09:21Z",
+      "popularity": 5,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "br"
+    },
+    {
+      "appsCount": 20,
+      "currentRanking": 1000,
+      "difficulty": 5,
+      "keyword": "desintoxicação digital",
+      "lastUpdate": "2026-11-19T06:09:21Z",
+      "popularity": 5,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "br"
+    },
+    {
+      "appsCount": 250,
+      "currentRanking": 1000,
+      "difficulty": 37,
+      "keyword": "detox digital",
+      "lastUpdate": "2026-11-19T01:31:38Z",
+      "popularity": 5,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "br"
+    },
+    {
+      "appsCount": 248,
+      "currentRanking": 1000,
+      "difficulty": 49,
+      "keyword": "foco",
+      "lastUpdate": "2026-11-19T01:31:38Z",
+      "popularity": 52,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "br"
+    },
+    {
+      "appsCount": 249,
+      "currentRanking": 1000,
+      "difficulty": 50,
+      "keyword": "autocontrole",
+      "lastUpdate": "2026-11-19T06:09:21Z",
+      "popularity": 20,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "br"
+    },
+    {
+      "appsCount": 7,
+      "currentRanking": 1000,
+      "difficulty": 5,
+      "keyword": "pausa no celular",
+      "lastUpdate": "2026-11-19T06:09:21Z",
+      "popularity": 5,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "br"
+    },
+    {
+      "appsCount": 29,
+      "currentRanking": 1000,
+      "difficulty": 7,
+      "keyword": "temporizador de aplicativos",
+      "lastUpdate": "2026-11-19T06:09:21Z",
+      "popularity": 5,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "br"
+    },
+    {
+      "appsCount": 247,
+      "currentRanking": 1000,
+      "difficulty": 37,
+      "keyword": "app blocker",
+      "lastUpdate": "2026-11-19T06:09:21Z",
+      "popularity": 6,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "br"
+    },
+    {
+      "appsCount": 250,
+      "currentRanking": 1000,
+      "difficulty": 23,
+      "keyword": "screen time",
+      "lastUpdate": "2026-11-19T06:09:21Z",
+      "popularity": 32,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "br"
+    },
+    {
+      "appsCount": 249,
+      "currentRanking": 1000,
+      "difficulty": 54,
+      "keyword": "controle parental",
+      "lastUpdate": "2026-11-19T06:09:21Z",
+      "popularity": 41,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "br"
+    },
+    {
+      "appsCount": 250,
+      "currentRanking": 1000,
+      "difficulty": 23,
+      "keyword": "tempo no celular",
+      "lastUpdate": "2026-11-19T06:09:21Z",
+      "popularity": 5,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "br"
+    },
+    {
+      "appsCount": 248,
+      "currentRanking": 1000,
+      "difficulty": 60,
+      "keyword": "limite de apps",
+      "lastUpdate": "2026-11-19T06:09:21Z",
+      "popularity": 5,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "br"
+    },
+    {
+      "appsCount": 249,
+      "currentRanking": 1000,
+      "difficulty": 17,
+      "keyword": "screen time control",
+      "lastUpdate": "2026-11-19T06:09:21Z",
+      "popularity": 33,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "br"
+    },
+    {
+      "appsCount": 247,
+      "currentRanking": 1000,
+      "difficulty": 21,
+      "keyword": "scroll blocker",
+      "lastUpdate": "2026-11-19T06:09:21Z",
+      "popularity": 5,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "br"
+    }
+  ],
+  "queries": [
+    "tempo de tela",
+    "screen time control",
+    "bloquear aplicativos",
+    "foco",
+    "screen time",
+    "bloqueador de aplicativos",
+    "diminuir tempo de tela",
+    "bloquear redes sociais"
+  ],
+  "searches": [
+    {
+      "query": "tempo de tela",
+      "apps": [
+        {
+          "appStoreId": "1497465230",
+          "averageRating": 4.9,
+          "bundleId": "com.withopal.opal",
+          "developer": "Opal OS",
+          "genre": "Produtividade",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/49/82/784982f1-f983-4980-1fac-0d542c970db8/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/80x0w.webp",
+          "name": "Opal: Diminuir Tempo de Tela",
+          "ranking": 1,
+          "ratingCount": 12183,
+          "subtitle": "Seja mais focado e produtivo"
+        },
+        {
+          "appStoreId": "1541027222",
+          "averageRating": 4.9,
+          "bundleId": "com.scottharvey.screenzenapp.ios",
+          "developer": "ScreenZen LLC",
+          "genre": "Produtividade",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/c8/de/89c8deef-2a7e-5abf-c5ec-ac3ffa343494/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/80x0w.webp",
+          "name": "ScreenZen- Screen Time Control",
+          "ranking": 2,
+          "ratingCount": 4124
+        },
+        {
+          "appStoreId": "1609960918",
+          "averageRating": 4.9,
+          "bundleId": "com.jomo.Jomo",
+          "developer": "Jomo",
+          "genre": "Produtividade",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/9a/11/239a118e-7e7d-2178-714b-9fd591550394/AppIcon-0-0-1x_U007epad-0-9-0-85-220.png/80x0w.webp",
+          "name": "Jomo - Reduza o tempo de tela",
+          "ranking": 3,
+          "ratingCount": 504,
+          "subtitle": "Combater o Vício em Celular"
+        },
+        {
+          "appStoreId": "1459096306",
+          "averageRating": 4.8,
+          "bundleId": "com.shikudo.focus",
+          "developer": "Shikudo",
+          "genre": "Produtividade",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/2d/1f/f22d1f1c-9bce-93fa-719c-c9d81dc04891/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/80x0w.webp",
+          "name": "Focus Plant: aprovado planta",
+          "ranking": 4,
+          "ratingCount": 11395,
+          "subtitle": "Arvore de livros, para estudar"
+        },
+        {
+          "appStoreId": "1532875441",
+          "averageRating": 4.9,
+          "bundleId": "wtf.riedel.one-sec",
+          "developer": "riedel.wtf apps S.L.",
+          "genre": "Produtividade",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/f1/83/faf18373-f0af-4b1d-2625-e47565d9ff05/one_sec_Default_App_Icon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/80x0w.webp",
+          "name": "one sec | sem distrações",
+          "ranking": 5,
+          "ratingCount": 3513,
+          "subtitle": "restringe o tempo de tela"
+        }
+      ],
+      "source": "top5/br-010f37b9.json",
+      "error": null,
+      "purpose": "Functional search hypothesis"
+    },
+    {
+      "query": "screen time control",
+      "apps": [
+        {
+          "appStoreId": "1541027222",
+          "averageRating": 4.9,
+          "bundleId": "com.scottharvey.screenzenapp.ios",
+          "developer": "ScreenZen LLC",
+          "genre": "Produtividade",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/c8/de/89c8deef-2a7e-5abf-c5ec-ac3ffa343494/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/80x0w.webp",
+          "name": "ScreenZen- Screen Time Control",
+          "ranking": 1,
+          "ratingCount": 4125
+        },
+        {
+          "appStoreId": "6758152591",
+          "averageRating": 0,
+          "bundleId": "com.lilucat.screentimecontrolapp",
+          "developer": "Lilucat",
+          "genre": "Produtividade",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/0e/b2/9d0eb206-0045-29b3-2190-5acf23f6feb7/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/80x0w.webp",
+          "name": "Screen Time Control App",
+          "ranking": 2,
+          "ratingCount": 0,
+          "subtitle": "App Lock, Limit for Focus"
+        },
+        {
+          "appStoreId": "1497465230",
+          "averageRating": 4.9,
+          "bundleId": "com.withopal.opal",
+          "developer": "Opal OS",
+          "genre": "Produtividade",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/49/82/784982f1-f983-4980-1fac-0d542c970db8/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/80x0w.webp",
+          "name": "Opal: Diminuir Tempo de Tela",
+          "ranking": 3,
+          "ratingCount": 12187,
+          "subtitle": "Seja mais focado e produtivo"
+        },
+        {
+          "appStoreId": "6746766591",
+          "averageRating": 3.9,
+          "bundleId": "com.lykovstudio.AppLock",
+          "developer": "LYKOV STUDIO LTD",
+          "genre": "Utilidades",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/fe/f0/d1fef0a7-c6dd-e678-0eac-cb6f0486ca3d/AppLock-0-0-1x_U007epad-0-1-sRGB-85-220.png/80x0w.webp",
+          "name": "Block Apps: Screen Time Pro",
+          "ranking": 4,
+          "ratingCount": 7,
+          "subtitle": "Focus com senha e bloqueador"
+        },
+        {
+          "appStoreId": "6456942073",
+          "averageRating": 3,
+          "bundleId": "com.idreamdesign.screen",
+          "developer": "Deebex Tech Ltd.",
+          "genre": "Produtividade",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/66/de/2066def0-19be-aa2f-f2e9-94d0a58c514c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/80x0w.webp",
+          "name": "Tempo de Tela - Bloqueio Apps",
+          "ranking": 5,
+          "ratingCount": 2,
+          "subtitle": "Foco, Bloqueador, Limite"
+        }
+      ],
+      "source": "deep-research/markets/br/raw/search-e8a1a599cf91.json",
+      "error": null,
+      "purpose": "Functional search hypothesis"
+    },
+    {
+      "query": "bloquear aplicativos",
+      "apps": [
+        {
+          "appStoreId": "6452721618",
+          "averageRating": 4.7,
+          "bundleId": "com.liu.hideapps",
+          "developer": "俊杰 刘",
+          "genre": "Utilidades",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/c1/48/2cc1485d-d52b-6331-4457-cc78d50f5792/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/80x0w.webp",
+          "name": "Bloqueio De Aplicativos Senha",
+          "ranking": 1,
+          "ratingCount": 1137,
+          "subtitle": "App Para Aplicativo Bloquear"
+        },
+        {
+          "appStoreId": "1497465230",
+          "averageRating": 4.9,
+          "bundleId": "com.withopal.opal",
+          "developer": "Opal OS",
+          "genre": "Produtividade",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/49/82/784982f1-f983-4980-1fac-0d542c970db8/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/80x0w.webp",
+          "name": "Opal: Diminuir Tempo de Tela",
+          "ranking": 2,
+          "ratingCount": 12183,
+          "subtitle": "Seja mais focado e produtivo"
+        },
+        {
+          "appStoreId": "1569973513",
+          "averageRating": 4.6,
+          "bundleId": "co.appnation.applocker",
+          "developer": "Muhammet Yalcın Ozdemir Halil Ibrahim Karahan Mustafa Ayten Kupertino Bilisim Yazılım K.S",
+          "genre": "Utilidades",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/f1/30/13f13020-f19a-ed43-4b6d-8d40c9f99899/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/80x0w.webp",
+          "name": "Bloqueio De App - App Lock",
+          "ranking": 3,
+          "ratingCount": 7802,
+          "subtitle": "Senha Para Aplicativo"
+        },
+        {
+          "appStoreId": "6469686557",
+          "averageRating": 4.6,
+          "bundleId": "com.xu.applock",
+          "developer": "友财 徐",
+          "genre": "Utilidades",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/65/29/ad6529bc-a635-b89c-4d80-b2773b0602ec/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/80x0w.webp",
+          "name": "Bloqueio De App - Aplicativos",
+          "ranking": 4,
+          "ratingCount": 1595,
+          "subtitle": "Senha Para Aplicativo Senhas"
+        },
+        {
+          "appStoreId": "6777914542",
+          "averageRating": 2,
+          "bundleId": "com.zhang.lockapps",
+          "developer": "宝锋 张",
+          "genre": "Produtividade",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/c5/97/ffc597a4-b6e0-35e1-d4b2-28733d0962b6/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/80x0w.webp",
+          "name": "Bloqueio De App - Bloquear .",
+          "ranking": 5,
+          "ratingCount": 6,
+          "subtitle": "Senha Para Aplicativos Senhas"
+        }
+      ],
+      "source": "top5/br-8d212a9a.json",
+      "error": null,
+      "purpose": "Functional search hypothesis"
+    },
+    {
+      "query": "foco",
+      "apps": [
+        {
+          "appStoreId": "1622202895",
+          "averageRating": 4.3,
+          "bundleId": "aluguefoco.com.br",
+          "developer": "Foco Aluguel de Carros SA",
+          "genre": "Viagens",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/a8/a0/96a8a043-5896-8cee-ad2b-54d74a4ea78d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/80x0w.webp",
+          "name": "Foco Aluguel de Carros",
+          "ranking": 1,
+          "ratingCount": 895,
+          "subtitle": "Viaje com a líder em low-cost."
+        },
+        {
+          "appStoreId": "866450515",
+          "averageRating": 4.9,
+          "bundleId": "com.forestapp.Forest",
+          "developer": "SEEKRTECH CO., LTD.",
+          "genre": "Produtividade",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/58/dc/0458dcb3-7e16-087d-eb7f-3a05d68f8bdb/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/80x0w.webp",
+          "name": "Forest - Mantenha o foco",
+          "ranking": 2,
+          "ratingCount": 20741,
+          "subtitle": "Seja produtivo nos estudos"
+        },
+        {
+          "appStoreId": "1274938524",
+          "averageRating": 4.8,
+          "bundleId": "com.focos",
+          "developer": "Mosaic S.r.l.",
+          "genre": "Foto e vídeo",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/99/e9/af99e9f0-50c6-cc54-b971-9e25b33ae2b3/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/80x0w.webp",
+          "name": "Focos",
+          "ranking": 3,
+          "ratingCount": 55605,
+          "subtitle": "Câmera Pro & Abertura Ampla"
+        },
+        {
+          "appStoreId": "1497465230",
+          "averageRating": 4.9,
+          "bundleId": "com.withopal.opal",
+          "developer": "Opal OS",
+          "genre": "Produtividade",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/49/82/784982f1-f983-4980-1fac-0d542c970db8/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/80x0w.webp",
+          "name": "Opal: Diminuir Tempo de Tela",
+          "ranking": 4,
+          "ratingCount": 12187,
+          "subtitle": "Seja mais focado e produtivo"
+        },
+        {
+          "appStoreId": "1459096306",
+          "averageRating": 4.8,
+          "bundleId": "com.shikudo.focus",
+          "developer": "Shikudo",
+          "genre": "Produtividade",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/2d/1f/f22d1f1c-9bce-93fa-719c-c9d81dc04891/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/80x0w.webp",
+          "name": "Focus Plant: aprovado planta",
+          "ranking": 5,
+          "ratingCount": 11395,
+          "subtitle": "Arvore de livros, para estudar"
+        }
+      ],
+      "source": "deep-research/markets/br/raw/search-4ab9b2bdd436.json",
+      "error": null,
+      "purpose": "Intent comparator; not a claim this app provides that feature"
+    },
+    {
+      "query": "screen time",
+      "apps": [
+        {
+          "appStoreId": "1541027222",
+          "averageRating": 4.9,
+          "bundleId": "com.scottharvey.screenzenapp.ios",
+          "developer": "ScreenZen LLC",
+          "genre": "Produtividade",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/c8/de/89c8deef-2a7e-5abf-c5ec-ac3ffa343494/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/80x0w.webp",
+          "name": "ScreenZen- Screen Time Control",
+          "ranking": 1,
+          "ratingCount": 4125
+        },
+        {
+          "appStoreId": "1497465230",
+          "averageRating": 4.9,
+          "bundleId": "com.withopal.opal",
+          "developer": "Opal OS",
+          "genre": "Produtividade",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/49/82/784982f1-f983-4980-1fac-0d542c970db8/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/80x0w.webp",
+          "name": "Opal: Diminuir Tempo de Tela",
+          "ranking": 2,
+          "ratingCount": 12187,
+          "subtitle": "Seja mais focado e produtivo"
+        },
+        {
+          "appStoreId": "6736673615",
+          "averageRating": 5,
+          "bundleId": "com.shane.indie.StayOff",
+          "developer": "升 徐",
+          "genre": "Produtividade",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f3/b7/15/f3b71528-4407-74f8-9419-27a863e75a68/AppIcon-0-1x_U007epad-0-1-85-220-0.png/80x0w.webp",
+          "name": "Screen Time Control - Stay Off",
+          "ranking": 3,
+          "ratingCount": 10
+        },
+        {
+          "appStoreId": "1532875441",
+          "averageRating": 4.9,
+          "bundleId": "wtf.riedel.one-sec",
+          "developer": "riedel.wtf apps S.L.",
+          "genre": "Produtividade",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/f1/83/faf18373-f0af-4b1d-2625-e47565d9ff05/one_sec_Default_App_Icon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/80x0w.webp",
+          "name": "one sec | sem distrações",
+          "ranking": 4,
+          "ratingCount": 3514,
+          "subtitle": "restringe o tempo de tela"
+        },
+        {
+          "appStoreId": "6746537171",
+          "averageRating": 4.6,
+          "bundleId": "com.unrotou.unrot",
+          "developer": "Unrot OÜ",
+          "genre": "Produtividade",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/0b/06/b90b065c-d3fd-e45e-e499-96acac1cbe4d/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/80x0w.webp",
+          "name": "Unrot: Earn your Screen Time",
+          "ranking": 5,
+          "ratingCount": 2282
+        }
+      ],
+      "source": "deep-research/markets/br/raw/search-95492313e9b1.json",
+      "error": null,
+      "purpose": "Functional search hypothesis"
+    },
+    {
+      "query": "bloqueador de aplicativos",
+      "apps": [
+        {
+          "appStoreId": "1497465230",
+          "averageRating": 4.9,
+          "bundleId": "com.withopal.opal",
+          "developer": "Opal OS",
+          "genre": "Produtividade",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/49/82/784982f1-f983-4980-1fac-0d542c970db8/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/80x0w.webp",
+          "name": "Opal: Diminuir Tempo de Tela",
+          "ranking": 1,
+          "ratingCount": 12187,
+          "subtitle": "Seja mais focado e produtivo"
+        },
+        {
+          "appStoreId": "6452721618",
+          "averageRating": 4.7,
+          "bundleId": "com.liu.hideapps",
+          "developer": "俊杰 刘",
+          "genre": "Utilidades",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/c1/48/2cc1485d-d52b-6331-4457-cc78d50f5792/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/80x0w.webp",
+          "name": "Bloqueio De Aplicativos Senha",
+          "ranking": 2,
+          "ratingCount": 1138,
+          "subtitle": "App Para Aplicativo Bloquear"
+        },
+        {
+          "appStoreId": "6777914542",
+          "averageRating": 2,
+          "bundleId": "com.zhang.lockapps",
+          "developer": "宝锋 张",
+          "genre": "Produtividade",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/c5/97/ffc597a4-b6e0-35e1-d4b2-28733d0962b6/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/80x0w.webp",
+          "name": "Bloqueio De App - Bloquear .",
+          "ranking": 3,
+          "ratingCount": 6,
+          "subtitle": "Senha Para Aplicativos Senhas"
+        },
+        {
+          "appStoreId": "1569973513",
+          "averageRating": 4.6,
+          "bundleId": "co.appnation.applocker",
+          "developer": "Muhammet Yalcın Ozdemir Halil Ibrahim Karahan Mustafa Ayten Kupertino Bilisim Yazılım K.S",
+          "genre": "Utilidades",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/f1/30/13f13020-f19a-ed43-4b6d-8d40c9f99899/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/80x0w.webp",
+          "name": "Bloqueio De App - App Lock",
+          "ranking": 4,
+          "ratingCount": 7801,
+          "subtitle": "Senha Para Aplicativo"
+        },
+        {
+          "appStoreId": "6469686557",
+          "averageRating": 4.6,
+          "bundleId": "com.xu.applock",
+          "developer": "友财 徐",
+          "genre": "Utilidades",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/65/29/ad6529bc-a635-b89c-4d80-b2773b0602ec/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/80x0w.webp",
+          "name": "Bloqueio De App - Aplicativos",
+          "ranking": 5,
+          "ratingCount": 1596,
+          "subtitle": "Senha Para Aplicativo Senhas"
+        }
+      ],
+      "source": "deep-research/markets/br/raw/search-745198e1a54f.json",
+      "error": null,
+      "purpose": "Functional search hypothesis"
+    },
+    {
+      "query": "diminuir tempo de tela",
+      "apps": [
+        {
+          "appStoreId": "1497465230",
+          "averageRating": 4.9,
+          "bundleId": "com.withopal.opal",
+          "developer": "Opal OS",
+          "genre": "Produtividade",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/49/82/784982f1-f983-4980-1fac-0d542c970db8/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/80x0w.webp",
+          "name": "Opal: Diminuir Tempo de Tela",
+          "ranking": 1,
+          "ratingCount": 12187,
+          "subtitle": "Seja mais focado e produtivo"
+        },
+        {
+          "appStoreId": "866450515",
+          "averageRating": 4.9,
+          "bundleId": "com.forestapp.Forest",
+          "developer": "SEEKRTECH CO., LTD.",
+          "genre": "Produtividade",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/58/dc/0458dcb3-7e16-087d-eb7f-3a05d68f8bdb/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/80x0w.webp",
+          "name": "Forest - Mantenha o foco",
+          "ranking": 2,
+          "ratingCount": 20741,
+          "subtitle": "Seja produtivo nos estudos"
+        },
+        {
+          "appStoreId": "6761388724",
+          "averageRating": 5,
+          "bundleId": "com.hakan.Pausi",
+          "developer": "Hakan Onder",
+          "genre": "Produtividade",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/57/79/78/57797843-a6ac-1a71-67bf-c5c534b23e26/AppIcon3-0-0-1x_U007epad-0-1-85-220.png/80x0w.webp",
+          "name": "Diminuir Tempo de Tela: Pausi",
+          "ranking": 3,
+          "ratingCount": 3,
+          "subtitle": "Bloqueador de apps e pausas"
+        },
+        {
+          "appStoreId": "6469695096",
+          "averageRating": 4.6,
+          "bundleId": "app.kids360.anko",
+          "developer": "ANKO SOLUTIONS LLC",
+          "genre": "Utilidades",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/be/67/e2be6752-c737-7e34-e840-59be460efbb2/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/80x0w.webp",
+          "name": "Tempo de Tela: Bloqueio — ANKO",
+          "ranking": 4,
+          "ratingCount": 20,
+          "subtitle": "Bloquear Aplicativos & Foco"
+        },
+        {
+          "appStoreId": "6758338291",
+          "averageRating": 4.7,
+          "bundleId": "com.blox.app.Blox",
+          "developer": "Diyar Dirik",
+          "genre": "Produtividade",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/bd/92/b9bd9232-5aea-b2f9-af9f-973d12b50d3b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/80x0w.webp",
+          "name": "Blocus: Diminuir Tempo de Tela",
+          "ranking": 5,
+          "ratingCount": 3,
+          "subtitle": "Bloqueio, Foco e Limites"
+        }
+      ],
+      "source": "deep-research/markets/br/raw/search-90607f0e84f1.json",
+      "error": null,
+      "purpose": "Functional search hypothesis"
+    },
+    {
+      "query": "bloquear redes sociais",
+      "apps": [
+        {
+          "appStoreId": "1515753232",
+          "averageRating": 4.7,
+          "bundleId": "eu.mobilesoft.appblock",
+          "developer": "MobileSoft s.r.o.",
+          "genre": "Produtividade",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/5a/d7/9c5ad7ef-7122-af9e-baa4-4f35d377ef16/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/80x0w.webp",
+          "name": "AppBlock: Bloquear Aplicativos",
+          "ranking": 1,
+          "ratingCount": 3406,
+          "subtitle": "Controle tempo de tela e foco"
+        },
+        {
+          "appStoreId": "1532875441",
+          "averageRating": 4.9,
+          "bundleId": "wtf.riedel.one-sec",
+          "developer": "riedel.wtf apps S.L.",
+          "genre": "Produtividade",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/f1/83/faf18373-f0af-4b1d-2625-e47565d9ff05/one_sec_Default_App_Icon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/80x0w.webp",
+          "name": "one sec | sem distrações",
+          "ranking": 2,
+          "ratingCount": 3514,
+          "subtitle": "restringe o tempo de tela"
+        },
+        {
+          "appStoreId": "1645639057",
+          "averageRating": 4.9,
+          "bundleId": "com.refocus.refocus",
+          "developer": "Labi, LLC",
+          "genre": "Produtividade",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/88/ea/0288ea6d-6953-945e-1749-944b673f6d90/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/80x0w.webp",
+          "name": "Refocus: Bloquear Aplicativos",
+          "ranking": 3,
+          "ratingCount": 415,
+          "subtitle": "Bloqueador de Sites e Apps"
+        },
+        {
+          "appStoreId": "6806077499",
+          "averageRating": 4.8,
+          "bundleId": "app.mialera",
+          "developer": "Gabriel de Borba",
+          "genre": "Produtividade",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/93/d9/e6/93d9e662-0390-9b7b-c741-901dbe5c9896/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/80x0w.webp",
+          "name": "Mialera: Tempo de Tela e Foco",
+          "ranking": 4,
+          "ratingCount": 26,
+          "subtitle": "Bloqueie apps e limite o uso"
+        },
+        {
+          "appStoreId": "6757498554",
+          "averageRating": 0,
+          "bundleId": "com.azc.ScrollLess",
+          "developer": "abdullah zubeyir ceylan",
+          "genre": "Produtividade",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/33/df/4633df52-9e34-b594-1cc1-353567d1a4d5/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/80x0w.webp",
+          "name": "Tempo de tela: ScrollLess",
+          "ranking": 5,
+          "ratingCount": 0,
+          "subtitle": "Bloquear aplicativos e foco"
+        }
+      ],
+      "source": "deep-research/markets/br/raw/search-30d2ae1bd428.json",
+      "error": null,
+      "purpose": "Functional search hypothesis"
+    }
+  ],
+  "status": "deep-astro-complete",
+  "completedAt": "2026-11-19T06:10:18.439946+00:00",
+  "fullTop5Queries": 8,
+  "limitation": "Popularity/difficulty are tool estimates, not search counts. Missing subtitles remain missing. Broad or password-lock/parental-control intent is compared, never copied as an unsupported feature."
+}

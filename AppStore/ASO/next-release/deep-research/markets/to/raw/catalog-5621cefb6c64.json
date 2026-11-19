@@ -1,0 +1,123 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=app+limits&country=to&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "artistName": "MobileSoft s.r.o.",
+        "bundleId": "eu.mobilesoft.appblock",
+        "price": 0.0,
+        "trackId": 1515753232,
+        "trackName": "AppBlock: App & Site Blocker",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-11T10:48:39Z",
+        "version": "4.14.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/to/app/appblock-app-site-blocker/id1515753232?uo=4",
+        "averageUserRating": 0,
+        "releaseDate": "2021-08-17T07:00:00Z",
+        "userRatingCount": 0,
+        "descriptionSHA256": "f4e2257d9c85cbaf9cd8496ddc82a9a5d41b2e0440020c527d8b3b8c4bbe4236"
+      },
+      {
+        "kind": "software",
+        "genres": [
+          "Utilities"
+        ],
+        "artistName": "KINGSMEN VIETNAM COMPANY LIMITED",
+        "bundleId": "com.kingsmen.lockdatamanager",
+        "price": 0.0,
+        "trackId": 1616433953,
+        "trackName": "App Lock, Hide App & Lock Apps",
+        "primaryGenreName": "Utilities",
+        "currentVersionReleaseDate": "2022-11-09T19:44:17Z",
+        "version": "1.6",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/to/app/app-lock-hide-app-lock-apps/id1616433953?uo=4",
+        "averageUserRating": 5,
+        "releaseDate": "2022-03-30T07:00:00Z",
+        "userRatingCount": 4,
+        "descriptionSHA256": "a9a10fab975dea91f7d622ac28f56cc89c7ac676e92e3c3e0d06fd1a1df131e8"
+      },
+      {
+        "kind": "software",
+        "genres": [
+          "Business",
+          "Utilities"
+        ],
+        "artistName": "INDY MOBILE APP COMPANY LIMITED",
+        "bundleId": "com.nikorn.mobile.ClearScanner",
+        "price": 0.0,
+        "trackId": 684155862,
+        "trackName": "Clear Scan: Doc Scanner App",
+        "primaryGenreName": "Business",
+        "currentVersionReleaseDate": "2026-11-18T01:39:27Z",
+        "version": "10.0.78",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/to/app/clear-scan-doc-scanner-app/id684155862?uo=4",
+        "averageUserRating": 4.75,
+        "releaseDate": "2020-04-19T07:00:00Z",
+        "userRatingCount": 4,
+        "descriptionSHA256": "0f15cd896a0221605365d1f179393cafe5dd08a4f4aa133953c565bd2ed77baa"
+      },
+      {
+        "kind": "software",
+        "genres": [
+          "Entertainment",
+          "Reference"
+        ],
+        "artistName": "PHP SOFTWARE COMPANY LIMITED",
+        "bundleId": "com.buildnow.asksiri",
+        "price": 0.0,
+        "trackId": 1478654749,
+        "trackName": "Ask app for Siri for use",
+        "primaryGenreName": "Entertainment",
+        "currentVersionReleaseDate": "2024-04-04T07:01:08Z",
+        "version": "1.4.12",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/to/app/ask-app-for-siri-for-use/id1478654749?uo=4",
+        "averageUserRating": 5,
+        "releaseDate": "2020-04-10T07:00:00Z",
+        "userRatingCount": 1,
+        "descriptionSHA256": "f0461ecf5364e209b1042122c9cfb5f6da1843ded3cb79db64ae6c05cc2c89a2"
+      },
+      {
+        "kind": "software",
+        "genres": [
+          "Education",
+          "Productivity"
+        ],
+        "artistName": "Unlimited Promova Limited",
+        "bundleId": "genesis.tenwords",
+        "price": 0.0,
+        "trackId": 1460782849,
+        "trackName": "Promova: Language Learning App",
+        "primaryGenreName": "Education",
+        "currentVersionReleaseDate": "2026-11-12T23:38:11Z",
+        "version": "8.2.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/to/app/promova-language-learning-app/id1460782849?uo=4",
+        "averageUserRating": 4.5,
+        "releaseDate": "2020-04-10T07:00:00Z",
+        "userRatingCount": 4,
+        "descriptionSHA256": "b2ea9f222802d4806a13df4ba2df88c38858eba110cddd59bf49e7aa3fac7104"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "bfa0d6693c94415180ccb65e04d16fd49df3484f41b2796bf804217926b9a822",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

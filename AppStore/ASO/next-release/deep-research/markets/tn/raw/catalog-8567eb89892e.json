@@ -1,0 +1,123 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=app+blocker&country=tn&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "averageUserRating": 4.68421,
+        "trackViewUrl": "https://apps.apple.com/tn/app/refocus-app-blocker-lock/id1645639057?uo=4",
+        "artistName": "Labi, LLC",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "bundleId": "com.refocus.refocus",
+        "trackId": 1645639057,
+        "trackName": "Refocus: App Blocker & Lock",
+        "releaseDate": "2022-09-22T07:00:00Z",
+        "currentVersionReleaseDate": "2026-11-18T15:32:47Z",
+        "primaryGenreName": "Productivity",
+        "version": "2.2.11",
+        "wrapperType": "software",
+        "currency": "USD",
+        "userRatingCount": 38,
+        "descriptionSHA256": "31bd6049418a698d36c61b2eafbe2ca02a56d8aa24878c1963caa5895db876a1"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 4.58824,
+        "trackViewUrl": "https://apps.apple.com/tn/app/appblock-app-site-blocker/id1515753232?uo=4",
+        "artistName": "MobileSoft s.r.o.",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "bundleId": "eu.mobilesoft.appblock",
+        "trackId": 1515753232,
+        "trackName": "AppBlock: App & Site Blocker",
+        "releaseDate": "2021-08-17T07:00:00Z",
+        "currentVersionReleaseDate": "2026-11-11T10:48:39Z",
+        "primaryGenreName": "Productivity",
+        "version": "4.14.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "userRatingCount": 68,
+        "descriptionSHA256": "f4e2257d9c85cbaf9cd8496ddc82a9a5d41b2e0440020c527d8b3b8c4bbe4236"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 4.33333,
+        "trackViewUrl": "https://apps.apple.com/tn/app/detoxlock-extreme-app-blocker/id6504188981?uo=4",
+        "artistName": "OnOff Labs",
+        "genres": [
+          "Productivity",
+          "Utilities"
+        ],
+        "price": 0.0,
+        "bundleId": "pony.tothemoon.Cold.Turkey",
+        "trackId": 6504188981,
+        "trackName": "DetoxLock: Extreme App Blocker",
+        "releaseDate": "2024-07-24T07:00:00Z",
+        "currentVersionReleaseDate": "2026-11-12T07:35:43Z",
+        "primaryGenreName": "Productivity",
+        "version": "2.46.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "userRatingCount": 12,
+        "descriptionSHA256": "4a1e70fbb0c1b546c98caad5f3f7df84dcff2ba0177a1469324f271124e1edf7"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 4.36842,
+        "trackViewUrl": "https://apps.apple.com/tn/app/detox-app-website-blocker/id6450723324?uo=4",
+        "artistName": "Detox",
+        "genres": [
+          "Productivity"
+        ],
+        "price": 0.0,
+        "bundleId": "io.filos.focus",
+        "trackId": 6450723324,
+        "trackName": "Detox: App & Website Blocker",
+        "releaseDate": "2023-09-05T07:00:00Z",
+        "currentVersionReleaseDate": "2026-11-14T18:10:39Z",
+        "primaryGenreName": "Productivity",
+        "version": "5.0.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "userRatingCount": 19,
+        "descriptionSHA256": "6e0788e2930ac96f19a9b17d97898ea78121777c0ae610a895d55dea1f5bfa7e"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 4.68212,
+        "trackViewUrl": "https://apps.apple.com/tn/app/opal-screen-time-control/id1497465230?uo=4",
+        "artistName": "Opal OS",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "bundleId": "com.withopal.opal",
+        "trackId": 1497465230,
+        "trackName": "Opal: Screen Time Control",
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "primaryGenreName": "Productivity",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "USD",
+        "userRatingCount": 151,
+        "descriptionSHA256": "79545dcfd9d33edf53d3567fc6a6eb5b582561ed18b9d49245fbff4af0417656"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "323d44c225728b14cff7ff8f0483a4290c2353151b2aad8b88557e93b4d660cd",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

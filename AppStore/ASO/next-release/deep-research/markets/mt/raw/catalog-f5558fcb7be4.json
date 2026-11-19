@@ -1,0 +1,126 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=block+apps&country=mt&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "averageUserRating": 4.875,
+        "trackViewUrl": "https://apps.apple.com/mt/app/refocus-app-blocker-lock/id1645639057?uo=4",
+        "artistName": "Labi, LLC",
+        "price": 0.0,
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "trackId": 1645639057,
+        "trackName": "Refocus: App Blocker & Lock",
+        "releaseDate": "2022-09-22T07:00:00Z",
+        "currentVersionReleaseDate": "2026-11-18T15:32:47Z",
+        "version": "2.2.11",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "bundleId": "com.refocus.refocus",
+        "primaryGenreName": "Productivity",
+        "userRatingCount": 8,
+        "descriptionSHA256": "31bd6049418a698d36c61b2eafbe2ca02a56d8aa24878c1963caa5895db876a1"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 4.85294,
+        "trackViewUrl": "https://apps.apple.com/mt/app/opal-screen-time-control/id1497465230?uo=4",
+        "artistName": "Opal OS",
+        "price": 0.0,
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "trackId": 1497465230,
+        "trackName": "Opal: Screen Time Control",
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "bundleId": "com.withopal.opal",
+        "primaryGenreName": "Productivity",
+        "userRatingCount": 34,
+        "descriptionSHA256": "79545dcfd9d33edf53d3567fc6a6eb5b582561ed18b9d49245fbff4af0417656"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 5,
+        "trackViewUrl": "https://apps.apple.com/mt/app/appblock-app-site-blocker/id1515753232?uo=4",
+        "artistName": "MobileSoft s.r.o.",
+        "price": 0.0,
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "trackId": 1515753232,
+        "trackName": "AppBlock: App & Site Blocker",
+        "releaseDate": "2021-08-17T07:00:00Z",
+        "currentVersionReleaseDate": "2026-11-11T10:48:39Z",
+        "version": "4.14.1",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "bundleId": "eu.mobilesoft.appblock",
+        "primaryGenreName": "Productivity",
+        "userRatingCount": 11,
+        "descriptionSHA256": "f4e2257d9c85cbaf9cd8496ddc82a9a5d41b2e0440020c527d8b3b8c4bbe4236"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 5,
+        "trackViewUrl": "https://apps.apple.com/mt/app/blocksite-block-apps-focus/id1474967653?uo=4",
+        "artistName": "BlockSite LP",
+        "price": 0.0,
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "trackId": 1474967653,
+        "trackName": "BlockSite: Block Apps & Focus",
+        "releaseDate": "2019-09-01T07:00:00Z",
+        "currentVersionReleaseDate": "2026-10-18T07:41:00Z",
+        "version": "4.4.5",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "bundleId": "co.ios.BlockSite",
+        "primaryGenreName": "Productivity",
+        "userRatingCount": 3,
+        "descriptionSHA256": "3eb447725c9fc35e830b2ea7ff4f799cbbf9f0a174fb4879e2041c2cb7805265"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 4.54545,
+        "trackViewUrl": "https://apps.apple.com/mt/app/focus-plant-forest-app-blocker/id1459096306?uo=4",
+        "artistName": "Shikudo",
+        "price": 0.0,
+        "genres": [
+          "Productivity",
+          "Games",
+          "Simulation",
+          "Casual"
+        ],
+        "trackId": 1459096306,
+        "trackName": "Focus Plant：forest app blocker",
+        "releaseDate": "2019-09-02T07:00:00Z",
+        "currentVersionReleaseDate": "2026-11-14T00:10:28Z",
+        "version": "4.6.3",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "bundleId": "com.shikudo.focus",
+        "primaryGenreName": "Productivity",
+        "userRatingCount": 11,
+        "descriptionSHA256": "fe05cd0e5d57fda1dd718d682f963e8ebc60dcf414c417b33b853ed6df9bd015"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "532c4fcc2170786f77f97882acdaa52fc76a179af54139ecb33442e1a8954bbd",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

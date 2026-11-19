@@ -1,0 +1,123 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=bloqueur+d%E2%80%99applications&country=ga&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "genres": [
+          "Productivité"
+        ],
+        "artistName": "HRango",
+        "bundleId": "com.appblock.screentime",
+        "trackId": 6760183478,
+        "trackName": "Bloqueur d'applications",
+        "releaseDate": "2026-07-09T07:00:00Z",
+        "currentVersionReleaseDate": "2026-10-16T04:01:36Z",
+        "primaryGenreName": "Productivity",
+        "version": "1.0.4",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/ga/app/bloqueur-dapplications/id6760183478?uo=4",
+        "price": 0.0,
+        "userRatingCount": 0,
+        "descriptionSHA256": "860a3672d28154f8fa7ad7f7b11366860ff24a8bdad923d894cc2c654887d65e"
+      },
+      {
+        "kind": "software",
+        "genres": [
+          "Productivité",
+          "Forme et santé"
+        ],
+        "artistName": "riedel.wtf apps S.L.",
+        "bundleId": "wtf.riedel.one-sec",
+        "trackId": 1532875441,
+        "trackName": "one sec–temps d'écran & focus",
+        "releaseDate": "2020-09-29T07:00:00Z",
+        "currentVersionReleaseDate": "2026-11-14T18:42:34Z",
+        "primaryGenreName": "Productivity",
+        "version": "6.1.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 4.5,
+        "trackViewUrl": "https://apps.apple.com/ga/app/one-sec-temps-d%C3%A9cran-focus/id1532875441?uo=4",
+        "price": 0.0,
+        "userRatingCount": 4,
+        "descriptionSHA256": "715bc05374e0cd89a6cc12a733a4364b877af8f965c0d4db3ea738c1f0d554a8"
+      },
+      {
+        "kind": "software",
+        "genres": [
+          "Utilitaires",
+          "Productivité"
+        ],
+        "artistName": "CallApp",
+        "bundleId": "com.callapp.contacts",
+        "trackId": 6739289261,
+        "trackName": "Callapp: ID & Bloqueur d'appel",
+        "releaseDate": "2025-10-15T07:00:00Z",
+        "currentVersionReleaseDate": "2026-11-16T06:52:43Z",
+        "primaryGenreName": "Utilities",
+        "version": "1.29",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 4.33333,
+        "trackViewUrl": "https://apps.apple.com/ga/app/callapp-id-bloqueur-dappel/id6739289261?uo=4",
+        "price": 0.0,
+        "userRatingCount": 12,
+        "descriptionSHA256": "e36fb910d9a54f134eabe7b917d4ebd086ab80c96a06de8d407a4da1984f4665"
+      },
+      {
+        "kind": "software",
+        "genres": [
+          "Productivité",
+          "Utilitaires"
+        ],
+        "artistName": "INNOXAPPS LLP",
+        "bundleId": "com.stayfocused",
+        "trackId": 1658592224,
+        "trackName": "Stay Focused - Bloqueur d'apps",
+        "releaseDate": "2023-01-26T08:00:00Z",
+        "currentVersionReleaseDate": "2026-10-01T19:56:32Z",
+        "primaryGenreName": "Productivity",
+        "version": "7.0.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/ga/app/stay-focused-bloqueur-dapps/id1658592224?uo=4",
+        "price": 0.0,
+        "userRatingCount": 0,
+        "descriptionSHA256": "bedbf23117848478cf17d309abe20d4a17dc09265b4a7ed4ee6a57d387671805"
+      },
+      {
+        "kind": "software",
+        "genres": [
+          "Productivité",
+          "Forme et santé"
+        ],
+        "artistName": "Opal OS",
+        "bundleId": "com.withopal.opal",
+        "trackId": 1497465230,
+        "trackName": "Opal: Temps d'écran et Focus",
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "primaryGenreName": "Productivity",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 4.23076,
+        "trackViewUrl": "https://apps.apple.com/ga/app/opal-temps-d%C3%A9cran-et-focus/id1497465230?uo=4",
+        "price": 0.0,
+        "userRatingCount": 26,
+        "descriptionSHA256": "c0fba23699dd09c567f31251e42122228bee0170b55079e3167ec7297b90a927"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "0ea458cb0f85a1861934509f447e97b251791bb7707cb70d980485e7b6b6972c",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

@@ -1,0 +1,269 @@
+[
+  {
+    "difficulty": 17,
+    "keyword": "وقت الشاشة",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "مدة استخدام الجهاز",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 7,
+    "keyword": "حظر التطبيقات",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 7,
+    "keyword": "قفل التطبيقات",
+    "popularity": 37,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "تقليل وقت الشاشة",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 34,
+    "keyword": "تحديد وقت التطبيقات",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 17,
+    "keyword": "حدود التطبيقات",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "إدمان الهاتف",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 7,
+    "keyword": "إدمان الجوال",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "تقليل استخدام الهاتف",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "تقليل استخدام الجوال",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "حظر وسائل التواصل",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "إدمان السوشيال ميديا",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "التخلص من إدمان الهاتف",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "ديتوكس رقمي",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 7,
+    "keyword": "تركيز",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "التحكم بالنفس",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "استراحة من الهاتف",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 13,
+    "keyword": "مؤقت التطبيقات",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 7,
+    "keyword": "app blocker",
+    "popularity": 31,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 7,
+    "keyword": "screen time",
+    "popularity": 22,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 9,
+    "keyword": "الرقابة الأبوية",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "إيقاف التمرير",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "تنظيم وقت الجوال",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 7,
+    "keyword": "temps d’écran",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 7,
+    "keyword": "temps d'écran",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 7,
+    "keyword": "bloqueur d’apps",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "bloqueur d'apps",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 7,
+    "keyword": "bloqueur d’applications",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 7,
+    "keyword": "bloquer des applications",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 9,
+    "keyword": "contrôle du temps d’écran",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 9,
+    "keyword": "limite temps écran",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 21,
+    "keyword": "screen time control",
+    "popularity": 21,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 13,
+    "keyword": "scroll blocker",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "stop scrolling",
+    "popularity": 5,
+    "ranking": 58,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 43,
+    "keyword": "social media blocker",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 43,
+    "keyword": "block apps",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 21,
+    "keyword": "app limits",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  }
+]

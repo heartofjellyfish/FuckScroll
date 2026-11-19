@@ -1,0 +1,124 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=app+limits&country=sc&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "artistName": "MobileSoft s.r.o.",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "trackId": 1515753232,
+        "trackName": "AppBlock: App & Site Blocker",
+        "releaseDate": "2021-08-17T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-11T10:48:39Z",
+        "version": "4.14.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "eu.mobilesoft.appblock",
+        "trackViewUrl": "https://apps.apple.com/sc/app/appblock-app-site-blocker/id1515753232?uo=4",
+        "averageUserRating": 0,
+        "userRatingCount": 0,
+        "descriptionSHA256": "f4e2257d9c85cbaf9cd8496ddc82a9a5d41b2e0440020c527d8b3b8c4bbe4236"
+      },
+      {
+        "kind": "software",
+        "artistName": "Kidslox Trading Ltd",
+        "genres": [
+          "Lifestyle",
+          "Utilities"
+        ],
+        "price": 0.0,
+        "trackId": 914825567,
+        "trackName": "Parental Control App - Kidslox",
+        "releaseDate": "2014-09-23T23:23:11Z",
+        "primaryGenreName": "Lifestyle",
+        "currentVersionReleaseDate": "2026-09-15T06:03:44Z",
+        "version": "11.3.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.kidslox.main",
+        "trackViewUrl": "https://apps.apple.com/sc/app/parental-control-app-kidslox/id914825567?uo=4",
+        "averageUserRating": 4.5,
+        "userRatingCount": 4,
+        "descriptionSHA256": "d7539daf53bb81a1e94445145b66c140d46f513f2094f6b5fa099f8287fae953"
+      },
+      {
+        "kind": "software",
+        "artistName": "Alibaba",
+        "genres": [
+          "Shopping",
+          "Lifestyle"
+        ],
+        "price": 0.0,
+        "trackId": 436672029,
+        "trackName": "AliExpress Shopping App",
+        "releaseDate": "2012-06-01T03:30:00Z",
+        "primaryGenreName": "Shopping",
+        "currentVersionReleaseDate": "2026-11-17T02:47:32Z",
+        "version": "8.180.2",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.alibaba.iAliexpress",
+        "trackViewUrl": "https://apps.apple.com/sc/app/aliexpress-shopping-app/id436672029?uo=4",
+        "averageUserRating": 4.61849,
+        "userRatingCount": 595,
+        "descriptionSHA256": "5d415fb9c4186913ead74b5dec21f79d617069ac1754cf6fcad89020a3b8736e"
+      },
+      {
+        "kind": "software",
+        "artistName": "Amila Tech Limited",
+        "genres": [
+          "Medical",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "trackId": 1243672846,
+        "trackName": "Pregnancy App.",
+        "releaseDate": "2017-06-12T13:06:38Z",
+        "primaryGenreName": "Medical",
+        "currentVersionReleaseDate": "2026-11-13T20:59:39Z",
+        "version": "1.1.50",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.amila.pregnancy",
+        "trackViewUrl": "https://apps.apple.com/sc/app/pregnancy-app/id1243672846?uo=4",
+        "averageUserRating": 4.92307,
+        "userRatingCount": 13,
+        "descriptionSHA256": "6c99d8deb0819e65e49b60f6699e8098158371567dd9cbdb102f9da649663d78"
+      },
+      {
+        "kind": "software",
+        "artistName": "Memrise Limited",
+        "genres": [
+          "Education",
+          "Travel"
+        ],
+        "price": 0.0,
+        "trackId": 635966718,
+        "trackName": "Memrise: Language Learning App",
+        "releaseDate": "2013-05-20T18:39:02Z",
+        "primaryGenreName": "Education",
+        "currentVersionReleaseDate": "2026-10-23T09:27:29Z",
+        "version": "2026.10.21",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.memrise.ios.memrisecompanion",
+        "trackViewUrl": "https://apps.apple.com/sc/app/memrise-language-learning-app/id635966718?uo=4",
+        "averageUserRating": 5,
+        "userRatingCount": 2,
+        "descriptionSHA256": "0f0c38d96566e33c2c39d2f710c229c0a71bdf74f1fbd519c04cc7e2375c8d30"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "45c96632d79e7bb1cf2ef0df930cb98f4d6542955dfd8211f0dd6ef036cfaca1",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

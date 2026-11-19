@@ -1,0 +1,124 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=bloqueur+d%E2%80%99apps&country=ga&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/ga/app/callapp-id-bloqueur-dappel/id6739289261?uo=4",
+        "primaryGenreName": "Utilities",
+        "price": 0.0,
+        "artistName": "CallApp",
+        "releaseDate": "2025-10-15T07:00:00Z",
+        "trackId": 6739289261,
+        "trackName": "Callapp: ID & Bloqueur d'appel",
+        "version": "1.29",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 4.33333,
+        "bundleId": "com.callapp.contacts",
+        "currentVersionReleaseDate": "2026-11-16T06:52:43Z",
+        "genres": [
+          "Utilitaires",
+          "Productivité"
+        ],
+        "userRatingCount": 12,
+        "descriptionSHA256": "e36fb910d9a54f134eabe7b917d4ebd086ab80c96a06de8d407a4da1984f4665"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/ga/app/stop-scroll-bloqueur-dapps/id6738006979?uo=4",
+        "primaryGenreName": "Productivity",
+        "price": 0.0,
+        "artistName": "Ilya Nikolenko",
+        "releaseDate": "2025-05-15T07:00:00Z",
+        "trackId": 6738006979,
+        "trackName": "Stop Scroll: Bloqueur d’apps",
+        "version": "2.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 0,
+        "bundleId": "com.vdcast.aegisappblocker",
+        "currentVersionReleaseDate": "2026-11-08T09:44:16Z",
+        "genres": [
+          "Productivité",
+          "Forme et santé"
+        ],
+        "userRatingCount": 0,
+        "descriptionSHA256": "82bc34d3e4f9bda676bc6bcd1445311b93de72f9978a32054b4d69e1e08580e2"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/ga/app/stay-focused-bloqueur-dapps/id1658592224?uo=4",
+        "primaryGenreName": "Productivity",
+        "price": 0.0,
+        "artistName": "INNOXAPPS LLP",
+        "releaseDate": "2023-01-26T08:00:00Z",
+        "trackId": 1658592224,
+        "trackName": "Stay Focused - Bloqueur d'apps",
+        "version": "7.0.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 0,
+        "bundleId": "com.stayfocused",
+        "currentVersionReleaseDate": "2026-10-01T19:56:32Z",
+        "genres": [
+          "Productivité",
+          "Utilitaires"
+        ],
+        "userRatingCount": 0,
+        "descriptionSHA256": "bedbf23117848478cf17d309abe20d4a17dc09265b4a7ed4ee6a57d387671805"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/ga/app/bloqueur-dapps-soberlock/id6761304507?uo=4",
+        "primaryGenreName": "Health & Fitness",
+        "price": 0.0,
+        "artistName": "Hakan Yigit Unac",
+        "releaseDate": "2026-05-14T07:00:00Z",
+        "trackId": 6761304507,
+        "trackName": "Bloqueur d'Apps: SoberLock",
+        "version": "1.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 0,
+        "bundleId": "com.app.hakanyigitunac.SoberLock",
+        "currentVersionReleaseDate": "2026-08-20T21:34:29Z",
+        "genres": [
+          "Forme et santé",
+          "Productivité"
+        ],
+        "userRatingCount": 0,
+        "descriptionSHA256": "dfb96f59a750437e7e69e4935d489a54ef57be4333c4c0a0e79a888f738073b0"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/ga/app/bloqueur-dapps-homu/id6758347792?uo=4",
+        "primaryGenreName": "Productivity",
+        "price": 0.0,
+        "artistName": "KOTARO OMORI",
+        "releaseDate": "2026-02-18T08:00:00Z",
+        "trackId": 6758347792,
+        "trackName": "Bloqueur d'Apps - HOMU+",
+        "version": "1.03",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 0,
+        "bundleId": "com.homia.time",
+        "currentVersionReleaseDate": "2026-04-17T17:31:41Z",
+        "genres": [
+          "Productivité",
+          "Utilitaires"
+        ],
+        "userRatingCount": 0,
+        "descriptionSHA256": "1a5ab141bdd70c3f796184bb805ded9a4883dcc1b2b4abb62664419a392a7326"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "64ec17a1fe92770e817f5d72e27b0d03a0a7694bc22fd4e1d1e9d257c5614ccf",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

@@ -1,0 +1,199 @@
+en-US
+App Blocker – Duck on Duty
+Screen Time Control & Focus
+scroll,social,media,limit,break,digital,detox,doomscrolling,distraction,habit,timer,self,reduce,stop
+
+en-GB
+App Blocker – Duck on Duty
+Screen Time Control & Focus
+scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused
+
+en-AU
+App Blocker – Duck on Duty
+Screen Time Limits & Focus
+scroll,social,media,break,digital,detox,doomscrolling,distraction,timer,self,reduce,stop,control
+
+en-CA
+App Blocker – Duck on Duty
+Screen Time Control & Focus
+scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused
+
+zh-Hans
+自觉鸭：戒手机与屏幕使用时间
+少刷社交媒体，应用限时，到点休息
+app,blocker,screen,time,control,防沉迷,专注,自律,数字健康,定时,自控力
+
+zh-Hant
+自覺鴨：戒手機與螢幕使用時間
+少滑社群動態，應用限時，到點休息
+app,blocker,screen,time,control,專注,防沉迷,數位健康,自律
+
+ja
+スマホ制限 – みてるアヒル
+スクリーンタイム管理、アプリごとに休憩
+スマホ依存,デジタルデトックス,集中,タイマー,SNS,screen,time,control,app,blocker
+
+ko
+스크린타임 – 지켜보는 오리
+앱마다 사용 한도와 쉬는 시간을 따로
+앱차단,스마트폰중독,집중,타이머,디지털디톡스
+
+fr-FR
+Screen Time – Canard de garde
+Bloqueur d’apps, vraies pauses
+control,scroll,blocker,limite,concentration,minuteur,réseaux,sociaux,détox
+
+fr-CA
+App Blocker – Canard de garde
+Temps d’écran, pauses imposées
+screen,time,control,scroll,limite,concentration,minuteur,réseaux,sociaux,détox,self,digital
+
+de-DE
+App Blocker – Ente im Dienst
+Bildschirmzeit, feste Pausen
+fokus,timer,scrollen,handyzeit,sperren,digital,detox,limit,gewohnheit,screen,time,control
+
+es-ES
+Bloquear aplicaciones – Pato
+Tiempo de pantalla y descansos
+concentración,temporizador,redes,sociales,hábitos,pausa,app,blocker,screen,time,control
+
+es-MX
+Tiempo en pantalla – Pato
+Bloquear aplicaciones y pausar
+límites,concentración,temporizador,redes,sociales,descanso,app,blocker,screen,time,control
+
+it
+Tempo di utilizzo – Papero
+Limiti app, pause obbligatorie
+concentrazione,timer,digitale,detox,scroll,abitudini,bloccare,screen,time,blocker,control,digital
+
+pt-BR
+Tempo de Tela: Pato de Plantão
+Bloqueie apps e faça pausas
+limite,foco,celular,redes,sociais,digital,detox,cronômetro,hábito,screen,time,control,blocker
+
+pt-PT
+Screen Time – Pato de Vigia
+Limites de apps e pausas
+ecrã,control,blocker,telemóvel,foco,bloquear,redes,sociais,detox
+
+nl-NL
+Schermtijd – Eend op wacht
+App Blocker met vaste pauzes
+limiet,focus,scrollen,sociale,media,digitale,detox,timer,afleiding,gebruik,screen,time,control
+
+ru
+Экранное время – Утка на посту
+Лимиты приложений и перерывы
+фокус,пауза,таймер,ограничение,screen,time,control,app,blocker
+
+sv
+Screen Time – Anka på vakt
+App Blocker, skärmtid & pauser
+fokus,scrolla,sociala,medier,digital,detox,timer,vanor,begränsa,control
+
+ar-SA
+Screen Time – بطّة الحراسة
+حظر التطبيقات واستراحات
+وقت الشاشة,تركيز,حدود,مؤقت,app,blocker,control
+
+tr
+Ekran Süresi – Nöbetçi Ördek
+Uygulama sınırları ve molalar
+engelleme,odak,dijital,detoks,telefon,bağımlılık,app,blocker,screen,time,control
+
+hi
+Screen Time – पहरेदार बत्तख
+ऐप की सीमा और फोन से ब्रेक
+app,blocker,focus,digital,detox,लत,स्क्रीन टाइम,control,scroll
+
+id
+Screen Time Control – Bebek
+Batasi aplikasi. Istirahat.
+layar,fokus,kecanduan,ponsel,sosial,media,detoks,digital,app,blocker
+
+ms
+App Blocker – Itik Bertugas
+Had aplikasi dan rehat wajib
+masa,skrin,fokus,sekat,telefon,ketagihan,sosial,media,detoks,digital,screen,time,control
+
+th
+Screen Time – เป็ดคุมเวลา
+จำกัดแอป แล้วพักมือถือ
+เวลาหน้าจอ,บล็อก,ติดมือถือ,app,blocker
+
+vi
+Screen Time – Vịt canh giờ
+Giới hạn ứng dụng, nghỉ ngơi
+màn hình,thời gian,tập trung,app,blocker,control
+
+pl
+Czas przed ekranem – Kaczka
+Blokuj aplikacje, rób przerwy
+limit,skupienie,telefon,detoks,cyfrowy,scroll,app,blocker,screen,time,control
+
+cs
+Screen Time – Kachna
+Blokování aplikací a přestávky
+čas,obrazovka,limit,soustředění,telefon,detox,digitální,app,blocker,control
+
+da
+Skærmtid – And på vagt
+Bloker apps. Hold en pause.
+fokus,mobil,afhængighed,grænser,digital,detox,timer,screen,time,blocker,control
+
+fi
+Ruutuaika – Vahtiankka
+Sovellusrajat ja tauot
+esto,keskittyminen,puhelin,digipaasto,ajastin,app,blocker,screen,time,control
+
+no
+Skjermtid – And på vakt
+Blokker apper. Ta en pause.
+fokus,mobil,avhengighet,grenser,digital,detox,timer,screen,time,blocker,app,control
+
+el
+App Blocker – Πάπια
+Όρια εφαρμογών και διαλείμματα
+συγκέντρωση,χρόνος,οθόνης,αποκλεισμός,screen,time,control
+
+he
+זמן מסך – ברווז במשמרת
+הגבלת אפליקציות והפסקות
+ריכוז,טלפון,חסימה,התמכרות,app,blocker,screen,time,control
+
+hu
+App Blocker – Őrkacsa
+Appkorlátok és szünetek
+képernyőidő,fókusz,telefon,függőség,blokkoló,digitális,detox,screen,time,control
+
+ro
+Screen Time – Rața de pază
+Blochează aplicații, ia pauze
+ecran,blocare,concentrare,telefon,dependență,detox,digital,app,blocker,control
+
+sk
+Screen Time – Kačka
+Limity aplikácií a prestávky
+čas,obrazovka,blokovanie,sústredenie,telefón,detox,digitálny,app,blocker,control
+
+uk
+Екранний час – Качка на варті
+Ліміти застосунків і перерви
+фокус,таймер,блокування,телефон,screen,time,control,app,blocker
+
+ca
+Screen Time – Ànec
+Límits d’aplicacions i pauses
+temps,pantalla,bloquejar,concentració,mòbil,xarxes,socials,detox,app,blocker,control
+
+hr
+Screen Time – Patka
+Limiti aplikacija i predasi
+zaslon,blokiranje,fokus,mobitel,ovisnost,digitalni,detoks,app,blocker,control
+
+sl
+Screen Time – Račka
+Omejitve aplikacij in odmori
+čas,zaslon,blokiranje,zbranost,telefon,odvisnost,digitalni,detoks,app,blocker,control

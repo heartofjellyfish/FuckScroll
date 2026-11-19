@@ -1,0 +1,21 @@
+{
+  "locale": "no",
+  "store": "no",
+  "proposedName": "Skjermtid – And på vakt",
+  "limitations": "A public top-five name search, not App Store Connect reservation or trademark clearance.",
+  "response": {
+    "id": "c87a67dc-3ebd-4781-908d-3f187a60a611",
+    "jsonrpc": "2.0",
+    "result": {
+      "content": [
+        {
+          "text": "{\n  \"apps\" : [\n\n  ],\n  \"keyword\" : \"Skjermtid – And på vakt\",\n  \"platform\" : \"iphone\",\n  \"store\" : \"no\",\n  \"totalResults\" : 0\n}",
+          "type": "text"
+        }
+      ],
+      "isError": false
+    }
+  },
+  "error": null,
+  "exactOtherAppMatches": []
+}

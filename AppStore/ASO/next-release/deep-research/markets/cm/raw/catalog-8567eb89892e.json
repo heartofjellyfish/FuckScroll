@@ -1,0 +1,124 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=app+blocker&country=cm&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/cm/app/opal-temps-d%C3%A9cran-et-focus/id1497465230?uo=4",
+        "averageUserRating": 4.24,
+        "genres": [
+          "Productivité",
+          "Forme et santé"
+        ],
+        "price": 0.0,
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "artistName": "Opal OS",
+        "bundleId": "com.withopal.opal",
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackId": 1497465230,
+        "trackName": "Opal: Temps d'écran et Focus",
+        "userRatingCount": 75,
+        "descriptionSHA256": "c0fba23699dd09c567f31251e42122228bee0170b55079e3167ec7297b90a927"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/cm/app/refocus-bloquer-application/id1645639057?uo=4",
+        "averageUserRating": 4.25,
+        "genres": [
+          "Productivité",
+          "Forme et santé"
+        ],
+        "price": 0.0,
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2022-09-22T07:00:00Z",
+        "artistName": "Labi, LLC",
+        "bundleId": "com.refocus.refocus",
+        "currentVersionReleaseDate": "2026-11-18T15:32:47Z",
+        "version": "2.2.11",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackId": 1645639057,
+        "trackName": "Refocus: Bloquer Application",
+        "userRatingCount": 4,
+        "descriptionSHA256": "a89a5713b88188d853ce5dbbd7a73b7db4f8dc3ffc24c0906e6b3aceb8709036"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/cm/app/one-sec-temps-d%C3%A9cran-focus/id1532875441?uo=4",
+        "averageUserRating": 4.53846,
+        "genres": [
+          "Productivité",
+          "Forme et santé"
+        ],
+        "price": 0.0,
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2020-09-29T07:00:00Z",
+        "artistName": "riedel.wtf apps S.L.",
+        "bundleId": "wtf.riedel.one-sec",
+        "currentVersionReleaseDate": "2026-11-14T18:42:34Z",
+        "version": "6.1.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackId": 1532875441,
+        "trackName": "one sec–temps d'écran & focus",
+        "userRatingCount": 13,
+        "descriptionSHA256": "715bc05374e0cd89a6cc12a733a4364b877af8f965c0d4db3ea738c1f0d554a8"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/cm/app/appblock-bloquer-des-applis/id1515753232?uo=4",
+        "averageUserRating": 3.90909,
+        "genres": [
+          "Productivité",
+          "Forme et santé"
+        ],
+        "price": 0.0,
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2021-08-17T07:00:00Z",
+        "artistName": "MobileSoft s.r.o.",
+        "bundleId": "eu.mobilesoft.appblock",
+        "currentVersionReleaseDate": "2026-11-11T10:48:39Z",
+        "version": "4.14.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackId": 1515753232,
+        "trackName": "AppBlock: bloquer des applis",
+        "userRatingCount": 11,
+        "descriptionSHA256": "ba16ffb8042ef29530994b670aced6f5b47302eebfab4a3c47ad2691f82a1e91"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/cm/app/screenzen-screen-time-control/id1541027222?uo=4",
+        "averageUserRating": 3.84615,
+        "genres": [
+          "Productivité",
+          "Forme et santé"
+        ],
+        "price": 0.0,
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2021-07-16T07:00:00Z",
+        "artistName": "ScreenZen LLC",
+        "bundleId": "com.scottharvey.screenzenapp.ios",
+        "currentVersionReleaseDate": "2026-09-06T14:20:14Z",
+        "version": "4.0.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackId": 1541027222,
+        "trackName": "ScreenZen- Screen Time Control",
+        "userRatingCount": 13,
+        "descriptionSHA256": "16a2b62301197ead5cd182f33659ddba4592411895bd5f483775b26a2b8e7224"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "954d2f9171bed5467124221cad0ee6cf3b0f25c9a81a656faa652bc5111903f5",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

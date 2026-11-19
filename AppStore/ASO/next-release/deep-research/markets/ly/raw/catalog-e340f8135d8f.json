@@ -1,0 +1,124 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=%D8%AA%D8%AD%D8%AF%D9%8A%D8%AF+%D9%88%D9%82%D8%AA+%D8%A7%D9%84%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A7%D8%AA&country=ly&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "bundleId": "com.burbn.instagram",
+        "averageUserRating": 4.0553,
+        "trackViewUrl": "https://apps.apple.com/ly/app/instagram/id389801252?uo=4",
+        "artistName": "Instagram, Inc.",
+        "genres": [
+          "Photo & Video",
+          "Social Networking"
+        ],
+        "price": 0.0,
+        "releaseDate": "2020-04-10T07:00:00Z",
+        "currentVersionReleaseDate": "2026-11-16T13:17:23Z",
+        "primaryGenreName": "Photo & Video",
+        "version": "456.0.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackName": "Instagram",
+        "trackId": 389801252,
+        "userRatingCount": 47903,
+        "descriptionSHA256": "2dc40985ae20998402deb823bec2eca6a90eef74794908a351f18de603e18c19"
+      },
+      {
+        "kind": "software",
+        "bundleId": "com.toyopagroup.picaboo",
+        "averageUserRating": 4.35813,
+        "trackViewUrl": "https://apps.apple.com/ly/app/snapchat-chat-with-friends/id447188370?uo=4",
+        "artistName": "Snap, Inc.",
+        "genres": [
+          "Photo & Video",
+          "Social Networking"
+        ],
+        "price": 0.0,
+        "releaseDate": "2020-04-09T07:00:00Z",
+        "currentVersionReleaseDate": "2026-11-12T12:01:59Z",
+        "primaryGenreName": "Photo & Video",
+        "version": "14.32.0.53",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackName": "Snapchat: Chat with friends",
+        "trackId": 447188370,
+        "userRatingCount": 47727,
+        "descriptionSHA256": "caa347b080fe20cd7233c7327c7cbedc051c896159a0787cb8299d357f91f5cb"
+      },
+      {
+        "kind": "software",
+        "bundleId": "com.google.ios.youtube",
+        "averageUserRating": 3.83671,
+        "trackViewUrl": "https://apps.apple.com/ly/app/youtube/id544007664?uo=4",
+        "artistName": "Google",
+        "genres": [
+          "Photo & Video",
+          "Entertainment"
+        ],
+        "price": 0.0,
+        "releaseDate": "2021-03-02T08:00:00Z",
+        "currentVersionReleaseDate": "2026-11-15T17:07:14Z",
+        "primaryGenreName": "Photo & Video",
+        "version": "21.46.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackName": "YouTube",
+        "trackId": 544007664,
+        "userRatingCount": 79474,
+        "descriptionSHA256": "1e6f0cf91581de1c7a968a4ce4e586263baef427a78914044c88539d05cc4b2a"
+      },
+      {
+        "kind": "software",
+        "bundleId": "com.fares.net.athkar",
+        "averageUserRating": 4.39975,
+        "trackViewUrl": "https://apps.apple.com/ly/app/athkar-%D8%A3%D8%B0%D9%83%D8%A7%D8%B1/id374050672?uo=4",
+        "artistName": "fares.net",
+        "genres": [
+          "Reference",
+          "Lifestyle"
+        ],
+        "price": 0.0,
+        "releaseDate": "2020-04-11T07:00:00Z",
+        "currentVersionReleaseDate": "2026-11-17T13:05:59Z",
+        "primaryGenreName": "Reference",
+        "version": "10.2",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackName": "Athkar - أذكار",
+        "trackId": 374050672,
+        "userRatingCount": 5098,
+        "descriptionSHA256": "576425280b64e08425f91a75894b1c1a192b97f60aeab1d561da6c6916ea2be0"
+      },
+      {
+        "kind": "software",
+        "bundleId": "com.sumaiya.sumaiyaCompass",
+        "averageUserRating": 4.09353,
+        "trackViewUrl": "https://apps.apple.com/ly/app/qibla-compass-kaaba-locator/id824927276?uo=4",
+        "artistName": "FATIMA OMER APPS LLC",
+        "genres": [
+          "Navigation",
+          "Utilities"
+        ],
+        "price": 0.0,
+        "releaseDate": "2020-04-10T07:00:00Z",
+        "currentVersionReleaseDate": "2026-11-13T08:01:51Z",
+        "primaryGenreName": "Navigation",
+        "version": "5.2",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackName": "Qibla Compass (Kaaba Locator)",
+        "trackId": 824927276,
+        "userRatingCount": 278,
+        "descriptionSHA256": "46554c88f2e68172ecf51646d7516b0a71fca6b1efa6afe9d16b8dcd715d7ada"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "4b7010ec8761acb8dfc0d66d7c3506ddb1d64f766572f90579a2d03adb9d902b",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

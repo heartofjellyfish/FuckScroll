@@ -1,0 +1,124 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=bloqueur+d%E2%80%99apps&country=ne&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "averageUserRating": 4.83333,
+        "trackViewUrl": "https://apps.apple.com/ne/app/callapp-caller-id-block/id6739289261?uo=4",
+        "artistName": "CallApp",
+        "primaryGenreName": "Utilities",
+        "releaseDate": "2025-10-15T07:00:00Z",
+        "currentVersionReleaseDate": "2026-11-16T06:52:43Z",
+        "trackId": 6739289261,
+        "trackName": "CallApp: Caller ID & Block",
+        "version": "1.29",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.callapp.contacts",
+        "price": 0.0,
+        "genres": [
+          "Utilities",
+          "Productivity"
+        ],
+        "userRatingCount": 6,
+        "descriptionSHA256": "b7f2207593fc05fa4be803a7d37746e713c658cc1e610d9617c9f7f75c37b64c"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 3.2,
+        "trackViewUrl": "https://apps.apple.com/ne/app/salahscreen-prayer-focus/id6748571304?uo=4",
+        "artistName": "Rayane Sahi",
+        "primaryGenreName": "Reference",
+        "releaseDate": "2025-10-09T07:00:00Z",
+        "currentVersionReleaseDate": "2026-09-02T14:13:01Z",
+        "trackId": 6748571304,
+        "trackName": "SalahScreen: Prayer Focus",
+        "version": "2.0.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "Zikr.SalahScreen",
+        "price": 0.0,
+        "genres": [
+          "Reference",
+          "Productivity"
+        ],
+        "userRatingCount": 5,
+        "descriptionSHA256": "f480e39c00f75ad4ff40ceb47efb6b1c044e6849c1d15aab31a66b5a510b84e9"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/ne/app/app-blocker-soberlock/id6761304507?uo=4",
+        "artistName": "Hakan Yigit Unac",
+        "primaryGenreName": "Health & Fitness",
+        "releaseDate": "2026-05-14T07:00:00Z",
+        "currentVersionReleaseDate": "2026-08-20T21:34:29Z",
+        "trackId": 6761304507,
+        "trackName": "App Blocker: SoberLock",
+        "version": "1.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.app.hakanyigitunac.SoberLock",
+        "price": 0.0,
+        "genres": [
+          "Health & Fitness",
+          "Productivity"
+        ],
+        "userRatingCount": 0,
+        "descriptionSHA256": "9be8b212248d5d46d146b18655c8842f4c0217bd7b8353124cd8c0791882097a"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/ne/app/app-blocker-for-distractions/id6758347792?uo=4",
+        "artistName": "KOTARO OMORI",
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2026-02-18T08:00:00Z",
+        "currentVersionReleaseDate": "2026-04-17T17:31:41Z",
+        "trackId": 6758347792,
+        "trackName": "App Blocker for Distractions",
+        "version": "1.03",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.homia.time",
+        "price": 0.0,
+        "genres": [
+          "Productivity",
+          "Utilities"
+        ],
+        "userRatingCount": 0,
+        "descriptionSHA256": "31d89f4402e58a5f2847050d88cf2ec4a656eff9fa53f82a1fe2103ad957271a"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/ne/app/app-blocker-stickly/id6756774401?uo=4",
+        "artistName": "Wystone LLC",
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2025-12-23T08:00:00Z",
+        "currentVersionReleaseDate": "2026-10-10T07:30:40Z",
+        "trackId": 6756774401,
+        "trackName": "App Blocker - Stickly",
+        "version": "3.3.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.wystone.Stickly",
+        "price": 0.0,
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "userRatingCount": 0,
+        "descriptionSHA256": "077d71db63acbac1c3b6755a08e37364cc286d67b056adc0ae4b1e4faa577e27"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "6a17723ea1d36d81b43886b1cf6fcfd74b3ca5537e28be04f50615f7413819e9",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

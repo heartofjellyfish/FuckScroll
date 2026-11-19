@@ -1,0 +1,462 @@
+{
+  "store": "ve",
+  "country": "Venezuela",
+  "defaultLanguage": "Spanish (Mexico)",
+  "additionalLanguages": "English (U.K.)",
+  "languages": [
+    "es"
+  ],
+  "candidates": [
+    "bloquear aplicaciones",
+    "tiempo de pantalla",
+    "tiempo en pantalla",
+    "bloqueador de apps",
+    "bloqueador de aplicaciones",
+    "limitar apps",
+    "limitar aplicaciones",
+    "control del tiempo de pantalla",
+    "adicción al móvil",
+    "adicción al celular",
+    "dejar de usar el móvil",
+    "dejar de usar el celular",
+    "dejar de hacer scroll",
+    "menos redes sociales",
+    "bloquear redes sociales",
+    "desintoxicación digital",
+    "concentración",
+    "autocontrol",
+    "límite de uso",
+    "temporizador de apps",
+    "app blocker",
+    "screen time",
+    "control parental",
+    "bloqueo de apps",
+    "screen time control",
+    "scroll blocker"
+  ],
+  "astroSupported": false,
+  "catalogQueries": [
+    "bloquear aplicaciones",
+    "tiempo de pantalla",
+    "tiempo en pantalla",
+    "bloqueador de apps",
+    "bloqueador de aplicaciones",
+    "limitar apps",
+    "app blocker",
+    "screen time"
+  ],
+  "source": "Apple public software catalog search; not native App Store SERP or Astro metrics",
+  "metrics": [],
+  "searches": [
+    {
+      "query": "bloquear aplicaciones",
+      "apps": [
+        {
+          "appStoreId": "6746766591",
+          "name": "Bloquear aplicaciones: AppLock",
+          "catalogPosition": 1,
+          "subtitle": null,
+          "averageRating": 4,
+          "ratingCount": 4,
+          "trackViewUrl": "https://apps.apple.com/ve/app/bloquear-aplicaciones-applock/id6746766591?uo=4"
+        },
+        {
+          "appStoreId": "1645639057",
+          "name": "Refocus: Bloquear Aplicaciones",
+          "catalogPosition": 2,
+          "subtitle": null,
+          "averageRating": 4.90323,
+          "ratingCount": 31,
+          "trackViewUrl": "https://apps.apple.com/ve/app/refocus-bloquear-aplicaciones/id1645639057?uo=4"
+        },
+        {
+          "appStoreId": "6777914542",
+          "name": "Bloqueo De Aplicaciones - App.",
+          "catalogPosition": 3,
+          "subtitle": null,
+          "averageRating": 0,
+          "ratingCount": 0,
+          "trackViewUrl": "https://apps.apple.com/ve/app/bloqueo-de-aplicaciones-app/id6777914542?uo=4"
+        },
+        {
+          "appStoreId": "6469686557",
+          "name": "Bloqueo De Aplicaciones -",
+          "catalogPosition": 4,
+          "subtitle": null,
+          "averageRating": 4.01266,
+          "ratingCount": 79,
+          "trackViewUrl": "https://apps.apple.com/ve/app/bloqueo-de-aplicaciones/id6469686557?uo=4"
+        },
+        {
+          "appStoreId": "6755939574",
+          "name": "Cloak: Bloquear y Ocultar Apps",
+          "catalogPosition": 5,
+          "subtitle": null,
+          "averageRating": 0,
+          "ratingCount": 0,
+          "trackViewUrl": "https://apps.apple.com/ve/app/cloak-bloquear-y-ocultar-apps/id6755939574?uo=4"
+        }
+      ],
+      "source": "deep-research/markets/ve/raw/catalog-dfd35108397f.json",
+      "error": null
+    },
+    {
+      "query": "tiempo de pantalla",
+      "apps": [
+        {
+          "appStoreId": "1497465230",
+          "name": "Opal: Tiempo de Pantalla Focus",
+          "catalogPosition": 1,
+          "subtitle": null,
+          "averageRating": 4.81651,
+          "ratingCount": 109,
+          "trackViewUrl": "https://apps.apple.com/ve/app/opal-tiempo-de-pantalla-focus/id1497465230?uo=4"
+        },
+        {
+          "appStoreId": "6451370747",
+          "name": "Tiempo de Pantalla: Unplugged",
+          "catalogPosition": 2,
+          "subtitle": null,
+          "averageRating": 0,
+          "ratingCount": 0,
+          "trackViewUrl": "https://apps.apple.com/ve/app/tiempo-de-pantalla-unplugged/id6451370747?uo=4"
+        },
+        {
+          "appStoreId": "1532875441",
+          "name": "one sec—tiempo pantalla y foco",
+          "catalogPosition": 3,
+          "subtitle": null,
+          "averageRating": 4.67692,
+          "ratingCount": 65,
+          "trackViewUrl": "https://apps.apple.com/ve/app/one-sec-tiempo-pantalla-y-foco/id1532875441?uo=4"
+        },
+        {
+          "appStoreId": "6736939821",
+          "name": "Tiempo de Pantalla - HeadUp",
+          "catalogPosition": 4,
+          "subtitle": null,
+          "averageRating": 0,
+          "ratingCount": 0,
+          "trackViewUrl": "https://apps.apple.com/ve/app/tiempo-de-pantalla-headup/id6736939821?uo=4"
+        },
+        {
+          "appStoreId": "6759700381",
+          "name": "Tiempo de Pantalla - Bloqueo",
+          "catalogPosition": 5,
+          "subtitle": null,
+          "averageRating": 0,
+          "ratingCount": 0,
+          "trackViewUrl": "https://apps.apple.com/ve/app/tiempo-de-pantalla-bloqueo/id6759700381?uo=4"
+        }
+      ],
+      "source": "deep-research/markets/ve/raw/catalog-b0284871c4f2.json",
+      "error": null
+    },
+    {
+      "query": "tiempo en pantalla",
+      "apps": [
+        {
+          "appStoreId": "1645639057",
+          "name": "Refocus: Bloquear Aplicaciones",
+          "catalogPosition": 1,
+          "subtitle": null,
+          "averageRating": 4.90323,
+          "ratingCount": 31,
+          "trackViewUrl": "https://apps.apple.com/ve/app/refocus-bloquear-aplicaciones/id1645639057?uo=4"
+        },
+        {
+          "appStoreId": "1497465230",
+          "name": "Opal: Tiempo de Pantalla Focus",
+          "catalogPosition": 2,
+          "subtitle": null,
+          "averageRating": 4.81651,
+          "ratingCount": 109,
+          "trackViewUrl": "https://apps.apple.com/ve/app/opal-tiempo-de-pantalla-focus/id1497465230?uo=4"
+        },
+        {
+          "appStoreId": "1541027222",
+          "name": "ScreenZen- Screen Time Control",
+          "catalogPosition": 3,
+          "subtitle": null,
+          "averageRating": 4.78946,
+          "ratingCount": 38,
+          "trackViewUrl": "https://apps.apple.com/ve/app/screenzen-screen-time-control/id1541027222?uo=4"
+        },
+        {
+          "appStoreId": "1532875441",
+          "name": "one sec—tiempo pantalla y foco",
+          "catalogPosition": 4,
+          "subtitle": null,
+          "averageRating": 4.67692,
+          "ratingCount": 65,
+          "trackViewUrl": "https://apps.apple.com/ve/app/one-sec-tiempo-pantalla-y-foco/id1532875441?uo=4"
+        },
+        {
+          "appStoreId": "6786942350",
+          "name": "Catto: tiempo en pantalla",
+          "catalogPosition": 5,
+          "subtitle": null,
+          "averageRating": 0,
+          "ratingCount": 0,
+          "trackViewUrl": "https://apps.apple.com/ve/app/catto-tiempo-en-pantalla/id6786942350?uo=4"
+        }
+      ],
+      "source": "deep-research/markets/ve/raw/catalog-b212f32bee6d.json",
+      "error": null
+    },
+    {
+      "query": "bloqueador de apps",
+      "apps": [
+        {
+          "appStoreId": "1497465230",
+          "name": "Opal: Tiempo de Pantalla Focus",
+          "catalogPosition": 1,
+          "subtitle": null,
+          "averageRating": 4.81651,
+          "ratingCount": 109,
+          "trackViewUrl": "https://apps.apple.com/ve/app/opal-tiempo-de-pantalla-focus/id1497465230?uo=4"
+        },
+        {
+          "appStoreId": "6452721618",
+          "name": "Contraseña Para Apps Bloqueo",
+          "catalogPosition": 2,
+          "subtitle": null,
+          "averageRating": 4.62962,
+          "ratingCount": 27,
+          "trackViewUrl": "https://apps.apple.com/ve/app/contrase%C3%B1a-para-apps-bloqueo/id6452721618?uo=4"
+        },
+        {
+          "appStoreId": "1645639057",
+          "name": "Refocus: Bloquear Aplicaciones",
+          "catalogPosition": 3,
+          "subtitle": null,
+          "averageRating": 4.90323,
+          "ratingCount": 31,
+          "trackViewUrl": "https://apps.apple.com/ve/app/refocus-bloquear-aplicaciones/id1645639057?uo=4"
+        },
+        {
+          "appStoreId": "6742079522",
+          "name": "Timeout: Bloqueador de apps",
+          "catalogPosition": 4,
+          "subtitle": null,
+          "averageRating": 0,
+          "ratingCount": 0,
+          "trackViewUrl": "https://apps.apple.com/ve/app/timeout-bloqueador-de-apps/id6742079522?uo=4"
+        },
+        {
+          "appStoreId": "6777914542",
+          "name": "Bloqueo De Aplicaciones - App.",
+          "catalogPosition": 5,
+          "subtitle": null,
+          "averageRating": 0,
+          "ratingCount": 0,
+          "trackViewUrl": "https://apps.apple.com/ve/app/bloqueo-de-aplicaciones-app/id6777914542?uo=4"
+        }
+      ],
+      "source": "deep-research/markets/ve/raw/catalog-f0b81e160cc9.json",
+      "error": null
+    },
+    {
+      "query": "bloqueador de aplicaciones",
+      "apps": [
+        {
+          "appStoreId": "6777914542",
+          "name": "Bloqueo De Aplicaciones - App.",
+          "catalogPosition": 1,
+          "subtitle": null,
+          "averageRating": 0,
+          "ratingCount": 0,
+          "trackViewUrl": "https://apps.apple.com/ve/app/bloqueo-de-aplicaciones-app/id6777914542?uo=4"
+        },
+        {
+          "appStoreId": "1645639057",
+          "name": "Refocus: Bloquear Aplicaciones",
+          "catalogPosition": 2,
+          "subtitle": null,
+          "averageRating": 4.90323,
+          "ratingCount": 31,
+          "trackViewUrl": "https://apps.apple.com/ve/app/refocus-bloquear-aplicaciones/id1645639057?uo=4"
+        },
+        {
+          "appStoreId": "6469686557",
+          "name": "Bloqueo De Aplicaciones -",
+          "catalogPosition": 3,
+          "subtitle": null,
+          "averageRating": 4.01266,
+          "ratingCount": 79,
+          "trackViewUrl": "https://apps.apple.com/ve/app/bloqueo-de-aplicaciones/id6469686557?uo=4"
+        },
+        {
+          "appStoreId": "1497465230",
+          "name": "Opal: Tiempo de Pantalla Focus",
+          "catalogPosition": 4,
+          "subtitle": null,
+          "averageRating": 4.81651,
+          "ratingCount": 109,
+          "trackViewUrl": "https://apps.apple.com/ve/app/opal-tiempo-de-pantalla-focus/id1497465230?uo=4"
+        },
+        {
+          "appStoreId": "6458880741",
+          "name": "Bloqueo De Apps - Contraseña ™",
+          "catalogPosition": 5,
+          "subtitle": null,
+          "averageRating": 4.55,
+          "ratingCount": 20,
+          "trackViewUrl": "https://apps.apple.com/ve/app/bloqueo-de-apps-contrase%C3%B1a/id6458880741?uo=4"
+        }
+      ],
+      "source": "deep-research/markets/ve/raw/catalog-4621d7a3210e.json",
+      "error": null
+    },
+    {
+      "query": "limitar apps",
+      "apps": [
+        {
+          "appStoreId": "1515753232",
+          "name": "AppBlock Bloquear Aplicaciones",
+          "catalogPosition": 1,
+          "subtitle": null,
+          "averageRating": 4.66667,
+          "ratingCount": 30,
+          "trackViewUrl": "https://apps.apple.com/ve/app/appblock-bloquear-aplicaciones/id1515753232?uo=4"
+        },
+        {
+          "appStoreId": "1180884341",
+          "name": "FaceApp: Editor facial ideal",
+          "catalogPosition": 2,
+          "subtitle": null,
+          "averageRating": 4.72747,
+          "ratingCount": 17242,
+          "trackViewUrl": "https://apps.apple.com/ve/app/faceapp-editor-facial-ideal/id1180884341?uo=4"
+        },
+        {
+          "appStoreId": "1532875441",
+          "name": "one sec—tiempo pantalla y foco",
+          "catalogPosition": 3,
+          "subtitle": null,
+          "averageRating": 4.67692,
+          "ratingCount": 65,
+          "trackViewUrl": "https://apps.apple.com/ve/app/one-sec-tiempo-pantalla-y-foco/id1532875441?uo=4"
+        },
+        {
+          "appStoreId": "6462117052",
+          "name": "Exnova - Trading e Inversiones",
+          "catalogPosition": 4,
+          "subtitle": null,
+          "averageRating": 5,
+          "ratingCount": 11,
+          "trackViewUrl": "https://apps.apple.com/ve/app/exnova-trading-e-inversiones/id6462117052?uo=4"
+        }
+      ],
+      "source": "deep-research/markets/ve/raw/catalog-445fee0d28b4.json",
+      "error": null
+    },
+    {
+      "query": "app blocker",
+      "apps": [
+        {
+          "appStoreId": "1645639057",
+          "name": "Refocus: Bloquear Aplicaciones",
+          "catalogPosition": 1,
+          "subtitle": null,
+          "averageRating": 4.90323,
+          "ratingCount": 31,
+          "trackViewUrl": "https://apps.apple.com/ve/app/refocus-bloquear-aplicaciones/id1645639057?uo=4"
+        },
+        {
+          "appStoreId": "1541027222",
+          "name": "ScreenZen- Screen Time Control",
+          "catalogPosition": 2,
+          "subtitle": null,
+          "averageRating": 4.78946,
+          "ratingCount": 38,
+          "trackViewUrl": "https://apps.apple.com/ve/app/screenzen-screen-time-control/id1541027222?uo=4"
+        },
+        {
+          "appStoreId": "1497465230",
+          "name": "Opal: Tiempo de Pantalla Focus",
+          "catalogPosition": 3,
+          "subtitle": null,
+          "averageRating": 4.81651,
+          "ratingCount": 109,
+          "trackViewUrl": "https://apps.apple.com/ve/app/opal-tiempo-de-pantalla-focus/id1497465230?uo=4"
+        },
+        {
+          "appStoreId": "1532875441",
+          "name": "one sec—tiempo pantalla y foco",
+          "catalogPosition": 4,
+          "subtitle": null,
+          "averageRating": 4.67692,
+          "ratingCount": 65,
+          "trackViewUrl": "https://apps.apple.com/ve/app/one-sec-tiempo-pantalla-y-foco/id1532875441?uo=4"
+        },
+        {
+          "appStoreId": "1459096306",
+          "name": "Focus Plant: tree flora friend",
+          "catalogPosition": 5,
+          "subtitle": null,
+          "averageRating": 4.90278,
+          "ratingCount": 72,
+          "trackViewUrl": "https://apps.apple.com/ve/app/focus-plant-tree-flora-friend/id1459096306?uo=4"
+        }
+      ],
+      "source": "deep-research/markets/ve/raw/catalog-8567eb89892e.json",
+      "error": null
+    },
+    {
+      "query": "screen time",
+      "apps": [
+        {
+          "appStoreId": "1541027222",
+          "name": "ScreenZen- Screen Time Control",
+          "catalogPosition": 1,
+          "subtitle": null,
+          "averageRating": 4.78946,
+          "ratingCount": 38,
+          "trackViewUrl": "https://apps.apple.com/ve/app/screenzen-screen-time-control/id1541027222?uo=4"
+        },
+        {
+          "appStoreId": "6738397686",
+          "name": "Screen Time Tracker",
+          "catalogPosition": 2,
+          "subtitle": null,
+          "averageRating": 0,
+          "ratingCount": 0,
+          "trackViewUrl": "https://apps.apple.com/ve/app/screen-time-tracker/id6738397686?uo=4"
+        },
+        {
+          "appStoreId": "1497465230",
+          "name": "Opal: Tiempo de Pantalla Focus",
+          "catalogPosition": 3,
+          "subtitle": null,
+          "averageRating": 4.81651,
+          "ratingCount": 109,
+          "trackViewUrl": "https://apps.apple.com/ve/app/opal-tiempo-de-pantalla-focus/id1497465230?uo=4"
+        },
+        {
+          "appStoreId": "1572515807",
+          "name": "ClearSpace: Reduce Screen Time",
+          "catalogPosition": 4,
+          "subtitle": null,
+          "averageRating": 5,
+          "ratingCount": 2,
+          "trackViewUrl": "https://apps.apple.com/ve/app/clearspace-reduce-screen-time/id1572515807?uo=4"
+        },
+        {
+          "appStoreId": "1644737181",
+          "name": "BePresent: Tiempo en Pantalla",
+          "catalogPosition": 5,
+          "subtitle": null,
+          "averageRating": 5,
+          "ratingCount": 4,
+          "trackViewUrl": "https://apps.apple.com/ve/app/bepresent-tiempo-en-pantalla/id1644737181?uo=4"
+        }
+      ],
+      "source": "deep-research/markets/ve/raw/catalog-95492313e9b1.json",
+      "error": null
+    }
+  ],
+  "status": "catalog-only-complete",
+  "completedAt": "2026-11-19T06:41:08.222823+00:00",
+  "limitation": "Astro rejects this storefront. No local popularity/difficulty, no native keyword ranks, and public catalog does not return subtitles. Result count may be under five. Locale decisions require explicitly labelled language-anchor evidence."
+}

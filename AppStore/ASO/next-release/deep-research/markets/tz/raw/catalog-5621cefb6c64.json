@@ -1,0 +1,124 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=app+limits&country=tz&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "currentVersionReleaseDate": "2026-11-11T10:48:39Z",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "bundleId": "eu.mobilesoft.appblock",
+        "trackId": 1515753232,
+        "trackName": "AppBlock: App & Site Blocker",
+        "releaseDate": "2021-08-17T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "version": "4.14.1",
+        "wrapperType": "software",
+        "currency": "TZS",
+        "averageUserRating": 4.93333,
+        "trackViewUrl": "https://apps.apple.com/tz/app/appblock-app-site-blocker/id1515753232?uo=4",
+        "artistName": "MobileSoft s.r.o.",
+        "userRatingCount": 15,
+        "descriptionSHA256": "f4e2257d9c85cbaf9cd8496ddc82a9a5d41b2e0440020c527d8b3b8c4bbe4236"
+      },
+      {
+        "kind": "software",
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "bundleId": "com.withopal.opal",
+        "trackId": 1497465230,
+        "trackName": "Opal: Screen Time Control",
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "primaryGenreName": "Productivity",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "TZS",
+        "averageUserRating": 4.70213,
+        "trackViewUrl": "https://apps.apple.com/tz/app/opal-screen-time-control/id1497465230?uo=4",
+        "artistName": "Opal OS",
+        "userRatingCount": 94,
+        "descriptionSHA256": "79545dcfd9d33edf53d3567fc6a6eb5b582561ed18b9d49245fbff4af0417656"
+      },
+      {
+        "kind": "software",
+        "currentVersionReleaseDate": "2026-11-13T20:59:39Z",
+        "genres": [
+          "Medical",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "bundleId": "com.amila.pregnancy",
+        "trackId": 1243672846,
+        "trackName": "Pregnancy App.",
+        "releaseDate": "2017-06-12T13:06:38Z",
+        "primaryGenreName": "Medical",
+        "version": "1.1.50",
+        "wrapperType": "software",
+        "currency": "TZS",
+        "averageUserRating": 4.83869,
+        "trackViewUrl": "https://apps.apple.com/tz/app/pregnancy-app/id1243672846?uo=4",
+        "artistName": "Amila Tech Limited",
+        "userRatingCount": 2926,
+        "descriptionSHA256": "6c99d8deb0819e65e49b60f6699e8098158371567dd9cbdb102f9da649663d78"
+      },
+      {
+        "kind": "software",
+        "currentVersionReleaseDate": "2026-11-14T11:50:27Z",
+        "genres": [
+          "Photo & Video",
+          "Entertainment"
+        ],
+        "price": 0.0,
+        "bundleId": "io.faceapp.ios",
+        "trackId": 1180884341,
+        "trackName": "FaceApp: Perfect Face Editor",
+        "releaseDate": "2017-01-24T14:13:07Z",
+        "primaryGenreName": "Photo & Video",
+        "version": "26.10.0",
+        "wrapperType": "software",
+        "currency": "TZS",
+        "averageUserRating": 4.6201,
+        "trackViewUrl": "https://apps.apple.com/tz/app/faceapp-perfect-face-editor/id1180884341?uo=4",
+        "artistName": "FaceApp Technology Limited",
+        "userRatingCount": 14001,
+        "descriptionSHA256": "7005437c6af00e0dca408ae0b4cfb10ada33cc3e1613352a679a727e504f5036"
+      },
+      {
+        "kind": "software",
+        "currentVersionReleaseDate": "2026-11-16T09:20:20Z",
+        "genres": [
+          "Lifestyle",
+          "Social Networking"
+        ],
+        "price": 0.0,
+        "bundleId": "com.moxco.bumble",
+        "trackId": 930441707,
+        "trackName": "Bumble Dating app: Chat & Date",
+        "releaseDate": "2015-10-09T13:53:25Z",
+        "primaryGenreName": "Lifestyle",
+        "version": "5.488.0",
+        "wrapperType": "software",
+        "currency": "TZS",
+        "averageUserRating": 4.56212,
+        "trackViewUrl": "https://apps.apple.com/tz/app/bumble-dating-app-chat-date/id930441707?uo=4",
+        "artistName": "Bumble Holding Limited",
+        "userRatingCount": 3928,
+        "descriptionSHA256": "0c691e619a6d116ee27372112ef01611508fd040341d732f93eab2479f1c6680"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "831446ac1eea5a874ce0de12442f3a3eb280033a1e22fda2f9bc466cdb7c9b2c",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

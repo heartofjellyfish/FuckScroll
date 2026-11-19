@@ -1,0 +1,123 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=screen+time+control&country=bw&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "bundleId": "com.withopal.opal",
+        "averageUserRating": 4.69231,
+        "trackViewUrl": "https://apps.apple.com/bw/app/opal-screen-time-control/id1497465230?uo=4",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "trackId": 1497465230,
+        "trackName": "Opal: Screen Time Control",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "USD",
+        "artistName": "Opal OS",
+        "userRatingCount": 26,
+        "descriptionSHA256": "79545dcfd9d33edf53d3567fc6a6eb5b582561ed18b9d49245fbff4af0417656"
+      },
+      {
+        "kind": "software",
+        "bundleId": "com.scottharvey.screenzenapp.ios",
+        "averageUserRating": 4.53333,
+        "trackViewUrl": "https://apps.apple.com/bw/app/screenzen-screen-time-control/id1541027222?uo=4",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "releaseDate": "2021-07-16T07:00:00Z",
+        "trackId": 1541027222,
+        "trackName": "ScreenZen- Screen Time Control",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-09-06T14:20:14Z",
+        "version": "4.0.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "artistName": "ScreenZen LLC",
+        "userRatingCount": 15,
+        "descriptionSHA256": "def0cb7cf41c8f7b1619d270d38fe8aa23859b81147ae63a1041bc0a1b7f8cc8"
+      },
+      {
+        "kind": "software",
+        "bundleId": "com.idreamdesign.screen",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/bw/app/app-blocker-screen-time/id6456942073?uo=4",
+        "genres": [
+          "Productivity"
+        ],
+        "price": 0.0,
+        "releaseDate": "2023-10-10T07:00:00Z",
+        "trackId": 6456942073,
+        "trackName": "App Blocker - Screen Time",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-08-13T00:04:05Z",
+        "version": "3.0.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "artistName": "Deebex Tech Ltd.",
+        "userRatingCount": 0,
+        "descriptionSHA256": "97f0576b3c2db9b58153d327b549d41dd39cce7ace43d700c29f2becd85cf727"
+      },
+      {
+        "kind": "software",
+        "bundleId": "com.getpresentapp.Present",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/bw/app/bepresent-screen-time-tracker/id1644737181?uo=4",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "releaseDate": "2022-09-29T07:00:00Z",
+        "trackId": 1644737181,
+        "trackName": "BePresent: Screen Time Tracker",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-17T21:48:19Z",
+        "version": "0.18.114",
+        "wrapperType": "software",
+        "currency": "USD",
+        "artistName": "Screen Detox Inc",
+        "userRatingCount": 0,
+        "descriptionSHA256": "9e95923ffd20bc165bc1b53c7661f2d4334ba2865dd171c33d46a18826231bfe"
+      },
+      {
+        "kind": "software",
+        "bundleId": "com.dpmapps.blucky",
+        "averageUserRating": 5,
+        "trackViewUrl": "https://apps.apple.com/bw/app/screen-time-control-blucky/id6758042278?uo=4",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "releaseDate": "2026-03-27T07:00:00Z",
+        "trackId": 6758042278,
+        "trackName": "Screen Time Control - Blucky",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-08-17T13:29:57Z",
+        "version": "1.10",
+        "wrapperType": "software",
+        "currency": "USD",
+        "artistName": "DPM APPS LP",
+        "userRatingCount": 2,
+        "descriptionSHA256": "0922021d7937c732f3f668809681d6792a39f63469a0e848ea5b9fcb7444ac71"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "b3cbef5bd1e5dd3475f1898c3252455a426f33a26e08bfb0464d3b047e45fb01",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

@@ -1,0 +1,124 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=app+limits&country=bw&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "averageUserRating": 4.8,
+        "trackViewUrl": "https://apps.apple.com/bw/app/appblock-app-site-blocker/id1515753232?uo=4",
+        "artistName": "MobileSoft s.r.o.",
+        "bundleId": "eu.mobilesoft.appblock",
+        "currentVersionReleaseDate": "2026-11-11T10:48:39Z",
+        "primaryGenreName": "Productivity",
+        "version": "4.14.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackId": 1515753232,
+        "trackName": "AppBlock: App & Site Blocker",
+        "price": 0.0,
+        "releaseDate": "2021-08-17T07:00:00Z",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "userRatingCount": 5,
+        "descriptionSHA256": "f4e2257d9c85cbaf9cd8496ddc82a9a5d41b2e0440020c527d8b3b8c4bbe4236"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 4.69231,
+        "trackViewUrl": "https://apps.apple.com/bw/app/opal-screen-time-control/id1497465230?uo=4",
+        "artistName": "Opal OS",
+        "bundleId": "com.withopal.opal",
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "primaryGenreName": "Productivity",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackId": 1497465230,
+        "trackName": "Opal: Screen Time Control",
+        "price": 0.0,
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "userRatingCount": 26,
+        "descriptionSHA256": "79545dcfd9d33edf53d3567fc6a6eb5b582561ed18b9d49245fbff4af0417656"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 4.70709,
+        "trackViewUrl": "https://apps.apple.com/bw/app/fnb-banking-app/id450094779?uo=4",
+        "artistName": "FirstRand Bank Limited",
+        "bundleId": "za.co.fnb.connect.touch",
+        "currentVersionReleaseDate": "2026-11-10T08:33:47Z",
+        "primaryGenreName": "Finance",
+        "version": "7.22.0-64",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackId": 450094779,
+        "trackName": "FNB Banking App",
+        "price": 0.0,
+        "releaseDate": "2011-07-19T07:00:00Z",
+        "genres": [
+          "Finance",
+          "Lifestyle"
+        ],
+        "userRatingCount": 18900,
+        "descriptionSHA256": "514b3dddc7769ecf1d82e255e2a1c5787d849b5357e0fd1c39890b585705908a"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 5,
+        "trackViewUrl": "https://apps.apple.com/bw/app/one-sec-screen-time-focus/id1532875441?uo=4",
+        "artistName": "riedel.wtf apps S.L.",
+        "bundleId": "wtf.riedel.one-sec",
+        "currentVersionReleaseDate": "2026-11-14T18:42:34Z",
+        "primaryGenreName": "Productivity",
+        "version": "6.1.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackId": 1532875441,
+        "trackName": "one sec | screen time + focus",
+        "price": 0.0,
+        "releaseDate": "2020-09-29T07:00:00Z",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "userRatingCount": 7,
+        "descriptionSHA256": "7458286eeec2edf883eec2f9abc49582f9924be2e29f484b82b1014b4b2a0462"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 3.88889,
+        "trackViewUrl": "https://apps.apple.com/bw/app/parental-control-app-kidslox/id914825567?uo=4",
+        "artistName": "Kidslox Trading Ltd",
+        "bundleId": "com.kidslox.main",
+        "currentVersionReleaseDate": "2026-09-15T06:03:44Z",
+        "primaryGenreName": "Lifestyle",
+        "version": "11.3.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackId": 914825567,
+        "trackName": "Parental Control App - Kidslox",
+        "price": 0.0,
+        "releaseDate": "2014-09-23T23:23:11Z",
+        "genres": [
+          "Lifestyle",
+          "Utilities"
+        ],
+        "userRatingCount": 9,
+        "descriptionSHA256": "d7539daf53bb81a1e94445145b66c140d46f513f2094f6b5fa099f8287fae953"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "8c62aa45770ee4b860235977ad797a44666ce9f0c60cefdb64ed7628c77d8b56",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

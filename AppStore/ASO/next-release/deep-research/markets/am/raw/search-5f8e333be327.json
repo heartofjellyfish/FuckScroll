@@ -1,0 +1,13 @@
+{
+  "id": "f1dd4e65-99ce-428a-9789-4cdc7c9505f6",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"apps\" : [\n\n  ],\n  \"keyword\" : \"цифровой детокс\",\n  \"platform\" : \"iphone\",\n  \"store\" : \"am\",\n  \"totalResults\" : 0\n}",
+        "type": "text"
+      }
+    ],
+    "isError": false
+  }
+}

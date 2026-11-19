@@ -1,0 +1,730 @@
+{
+  "store": "se",
+  "country": "Sweden",
+  "defaultLanguage": "Swedish",
+  "additionalLanguages": "English (U.K.)",
+  "languages": [
+    "sv"
+  ],
+  "candidates": [
+    "skärmtid",
+    "app blocker",
+    "blockera appar",
+    "digital detox",
+    "sluta scrolla",
+    "mobilberoende",
+    "mindre skärmtid",
+    "begränsa skärmtid",
+    "appgräns",
+    "tidsgräns appar",
+    "blockera sociala medier",
+    "mindre sociala medier",
+    "digital avgiftning",
+    "fokus",
+    "koncentration",
+    "självkontroll",
+    "mobilpaus",
+    "apptimer",
+    "screen time",
+    "skärmtidskontroll",
+    "mobilanvändning",
+    "föräldrakontroll",
+    "använda mobilen mindre",
+    "låsa appar",
+    "screen time control",
+    "scroll blocker"
+  ],
+  "astroSupported": true,
+  "catalogQueries": [
+    "skärmtid",
+    "app blocker",
+    "blockera appar",
+    "digital detox",
+    "sluta scrolla",
+    "mobilberoende",
+    "screen time",
+    "mindre skärmtid"
+  ],
+  "startedAt": "2026-11-19T06:35:40.791918+00:00",
+  "source": "Astro MCP, iPhone storefront",
+  "metrics": [
+    {
+      "difficulty": 9,
+      "keyword": "skärmtid",
+      "popularity": 21,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 38,
+      "keyword": "app blocker",
+      "popularity": 34,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 7,
+      "keyword": "blockera appar",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 23,
+      "keyword": "digital detox",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 5,
+      "keyword": "sluta scrolla",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 5,
+      "keyword": "mobilberoende",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 9,
+      "keyword": "mindre skärmtid",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 9,
+      "keyword": "begränsa skärmtid",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 13,
+      "keyword": "appgräns",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 7,
+      "keyword": "tidsgräns appar",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 7,
+      "keyword": "blockera sociala medier",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 7,
+      "keyword": "mindre sociala medier",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 5,
+      "keyword": "digital avgiftning",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 34,
+      "keyword": "fokus",
+      "popularity": 27,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 11,
+      "keyword": "koncentration",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 5,
+      "keyword": "självkontroll",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 5,
+      "keyword": "mobilpaus",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 38,
+      "keyword": "apptimer",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 23,
+      "keyword": "screen time",
+      "popularity": 38,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 5,
+      "keyword": "skärmtidskontroll",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 5,
+      "keyword": "mobilanvändning",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 15,
+      "keyword": "föräldrakontroll",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 5,
+      "keyword": "använda mobilen mindre",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 46,
+      "keyword": "låsa appar",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 23,
+      "keyword": "screen time control",
+      "popularity": 34,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 9,
+      "keyword": "scroll blocker",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    }
+  ],
+  "queries": [
+    "skärmtid",
+    "screen time",
+    "screen time control",
+    "app blocker",
+    "fokus",
+    "sluta scrolla",
+    "mobilberoende",
+    "digital avgiftning"
+  ],
+  "searches": [
+    {
+      "query": "skärmtid",
+      "apps": [
+        {
+          "appStoreId": "6475538115",
+          "averageRating": 4.6,
+          "bundleId": "com.xteamer.applock",
+          "developer": "秀珍 黄",
+          "genre": "Verktyg",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ce/97/89/ce9789f6-31ca-08d8-68f8-a579e6a578e2/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/80x0w.webp",
+          "name": "App Lock - Lås Appar",
+          "ranking": 1,
+          "ratingCount": 88,
+          "subtitle": "Lösenord låsappar för iPhone"
+        },
+        {
+          "appStoreId": "6479197847",
+          "averageRating": 3.6,
+          "bundleId": "com.danyloternovoi.chronos",
+          "developer": "Danylo Ternovoi",
+          "genre": "Produktivitet",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/2f/de/4c2fdefa-7e0b-e519-f4cb-d0f5668a7e2a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/80x0w.webp",
+          "name": "Tempozi: Skärmtid och Fokus",
+          "ranking": 2,
+          "ratingCount": 12,
+          "subtitle": "Appblockerare, Sociala Medier"
+        },
+        {
+          "appStoreId": "6758338291",
+          "averageRating": 4.8,
+          "bundleId": "com.blox.app.Blox",
+          "developer": "Diyar Dirik",
+          "genre": "Produktivitet",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/bd/92/b9bd9232-5aea-b2f9-af9f-973d12b50d3b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/80x0w.webp",
+          "name": "Blocus: Tjäna skärmtid",
+          "ranking": 3,
+          "ratingCount": 4,
+          "subtitle": "Block, fokus & gräns"
+        },
+        {
+          "appStoreId": "1532875441",
+          "averageRating": 4.7,
+          "bundleId": "wtf.riedel.one-sec",
+          "developer": "riedel.wtf apps S.L.",
+          "genre": "Produktivitet",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/f1/83/faf18373-f0af-4b1d-2625-e47565d9ff05/one_sec_Default_App_Icon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/80x0w.webp",
+          "name": "one sec | skärmtid och fokus",
+          "ranking": 4,
+          "ratingCount": 880,
+          "subtitle": "Begränsa appar och webbplatser"
+        },
+        {
+          "appStoreId": "6757622975",
+          "averageRating": 0,
+          "bundleId": "com.malozyali.screentimecontroll",
+          "developer": "Yalcin Golayoglu",
+          "genre": "Produktivitet",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/bc/3d/70bc3dd4-d7fb-a399-26db-5a6dff4d0898/AppIcon-0-0-1x_U007epad-0-1-85-220.png/80x0w.webp",
+          "name": "Skärmtidshantering",
+          "ranking": 5,
+          "ratingCount": 0,
+          "subtitle": "Timer, Fokus och App-block"
+        }
+      ],
+      "source": "deep-research/markets/se/raw/search-eced6455ce7b.json",
+      "error": null,
+      "purpose": "Functional search hypothesis"
+    },
+    {
+      "query": "screen time",
+      "apps": [
+        {
+          "appStoreId": "1541027222",
+          "averageRating": 4.8,
+          "bundleId": "com.scottharvey.screenzenapp.ios",
+          "developer": "ScreenZen LLC",
+          "genre": "Produktivitet",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/c8/de/89c8deef-2a7e-5abf-c5ec-ac3ffa343494/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/80x0w.webp",
+          "name": "ScreenZen- Screen Time Control",
+          "ranking": 1,
+          "ratingCount": 1208
+        },
+        {
+          "appStoreId": "1497465230",
+          "averageRating": 4.6,
+          "bundleId": "com.withopal.opal",
+          "developer": "Opal OS",
+          "genre": "Produktivitet",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/49/82/784982f1-f983-4980-1fac-0d542c970db8/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/80x0w.webp",
+          "name": "Opal: Screen Time Control",
+          "ranking": 2,
+          "ratingCount": 1152
+        },
+        {
+          "appStoreId": "1645639057",
+          "averageRating": 4.6,
+          "bundleId": "com.refocus.refocus",
+          "developer": "Labi, LLC",
+          "genre": "Produktivitet",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/88/ea/0288ea6d-6953-945e-1749-944b673f6d90/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/80x0w.webp",
+          "name": "Refocus: App Blocker & Lock",
+          "ranking": 3,
+          "ratingCount": 158
+        },
+        {
+          "appStoreId": "1644737181",
+          "averageRating": 4.7,
+          "bundleId": "com.getpresentapp.Present",
+          "developer": "Screen Detox Inc",
+          "genre": "Produktivitet",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/4d/85/df4d850b-de5e-04d7-6770-2d308b4741d7/Modern_Icon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/80x0w.webp",
+          "name": "BePresent: Screen Time Control",
+          "ranking": 4,
+          "ratingCount": 850
+        },
+        {
+          "appStoreId": "6746537171",
+          "averageRating": 4.5,
+          "bundleId": "com.unrotou.unrot",
+          "developer": "Unrot OÜ",
+          "genre": "Produktivitet",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/0b/06/b90b065c-d3fd-e45e-e499-96acac1cbe4d/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/80x0w.webp",
+          "name": "Unrot: Earn your Screen Time",
+          "ranking": 5,
+          "ratingCount": 715
+        }
+      ],
+      "source": "deep-research/markets/se/raw/search-95492313e9b1.json",
+      "error": null,
+      "purpose": "Functional search hypothesis"
+    },
+    {
+      "query": "screen time control",
+      "apps": [
+        {
+          "appStoreId": "1497465230",
+          "averageRating": 4.6,
+          "bundleId": "com.withopal.opal",
+          "developer": "Opal OS",
+          "genre": "Produktivitet",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/49/82/784982f1-f983-4980-1fac-0d542c970db8/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/80x0w.webp",
+          "name": "Opal: Screen Time Control",
+          "ranking": 1,
+          "ratingCount": 1152
+        },
+        {
+          "appStoreId": "1541027222",
+          "averageRating": 4.8,
+          "bundleId": "com.scottharvey.screenzenapp.ios",
+          "developer": "ScreenZen LLC",
+          "genre": "Produktivitet",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/c8/de/89c8deef-2a7e-5abf-c5ec-ac3ffa343494/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/80x0w.webp",
+          "name": "ScreenZen- Screen Time Control",
+          "ranking": 2,
+          "ratingCount": 1208
+        },
+        {
+          "appStoreId": "1645639057",
+          "averageRating": 4.6,
+          "bundleId": "com.refocus.refocus",
+          "developer": "Labi, LLC",
+          "genre": "Produktivitet",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/88/ea/0288ea6d-6953-945e-1749-944b673f6d90/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/80x0w.webp",
+          "name": "Refocus: App Blocker & Lock",
+          "ranking": 3,
+          "ratingCount": 158
+        },
+        {
+          "appStoreId": "6738286409",
+          "averageRating": 4.6,
+          "bundleId": "to.freedom.Savor",
+          "developer": "Eighty Percent Solutions",
+          "genre": "Produktivitet",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/31/cd/5131cd52-ddd2-c7f0-7ae1-d39fe06536d8/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/80x0w.webp",
+          "name": "Limit – Control the Scroll",
+          "ranking": 4,
+          "ratingCount": 11
+        },
+        {
+          "appStoreId": "1572515807",
+          "averageRating": 4.6,
+          "bundleId": "com.betteryes.clearspace",
+          "developer": "clearspace",
+          "genre": "Produktivitet",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/c2/a0/25c2a080-e5a3-5349-2800-7f00711f683d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/80x0w.webp",
+          "name": "ClearSpace: Reduce Screen Time",
+          "ranking": 5,
+          "ratingCount": 49
+        }
+      ],
+      "source": "deep-research/markets/se/raw/search-e8a1a599cf91.json",
+      "error": null,
+      "purpose": "Functional search hypothesis"
+    },
+    {
+      "query": "app blocker",
+      "apps": [
+        {
+          "appStoreId": "1497465230",
+          "averageRating": 4.6,
+          "bundleId": "com.withopal.opal",
+          "developer": "Opal OS",
+          "genre": "Produktivitet",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/49/82/784982f1-f983-4980-1fac-0d542c970db8/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/80x0w.webp",
+          "name": "Opal: Screen Time Control",
+          "ranking": 1,
+          "ratingCount": 1152
+        },
+        {
+          "appStoreId": "1541027222",
+          "averageRating": 4.8,
+          "bundleId": "com.scottharvey.screenzenapp.ios",
+          "developer": "ScreenZen LLC",
+          "genre": "Produktivitet",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/c8/de/89c8deef-2a7e-5abf-c5ec-ac3ffa343494/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/80x0w.webp",
+          "name": "ScreenZen- Screen Time Control",
+          "ranking": 2,
+          "ratingCount": 1208
+        },
+        {
+          "appStoreId": "1645639057",
+          "averageRating": 4.6,
+          "bundleId": "com.refocus.refocus",
+          "developer": "Labi, LLC",
+          "genre": "Produktivitet",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/88/ea/0288ea6d-6953-945e-1749-944b673f6d90/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/80x0w.webp",
+          "name": "Refocus: App Blocker & Lock",
+          "ranking": 3,
+          "ratingCount": 158
+        },
+        {
+          "appStoreId": "1532875441",
+          "averageRating": 4.7,
+          "bundleId": "wtf.riedel.one-sec",
+          "developer": "riedel.wtf apps S.L.",
+          "genre": "Produktivitet",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/f1/83/faf18373-f0af-4b1d-2625-e47565d9ff05/one_sec_Default_App_Icon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/80x0w.webp",
+          "name": "one sec | skärmtid och fokus",
+          "ranking": 4,
+          "ratingCount": 880,
+          "subtitle": "Begränsa appar och webbplatser"
+        },
+        {
+          "appStoreId": "1515753232",
+          "averageRating": 4.5,
+          "bundleId": "eu.mobilesoft.appblock",
+          "developer": "MobileSoft s.r.o.",
+          "genre": "Produktivitet",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/5a/d7/9c5ad7ef-7122-af9e-baa4-4f35d377ef16/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/80x0w.webp",
+          "name": "AppBlock - Blockera appar",
+          "ranking": 5,
+          "ratingCount": 166,
+          "subtitle": "Behåll fokus & Få mer tid"
+        }
+      ],
+      "source": "all-storefronts/se.json",
+      "error": null,
+      "purpose": "Functional search hypothesis"
+    },
+    {
+      "query": "fokus",
+      "apps": [
+        {
+          "appStoreId": "6499218281",
+          "averageRating": 4.5,
+          "bundleId": "com.fokus.app",
+          "developer": "Fokus",
+          "genre": "Nyheter",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a3/91/06/a39106e0-d146-61af-f578-96fb7368aea0/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/80x0w.webp",
+          "name": "Fokus",
+          "ranking": 1,
+          "ratingCount": 15,
+          "subtitle": "Sveriges nyhetsmagasin"
+        },
+        {
+          "appStoreId": "1042954781",
+          "averageRating": 2.8,
+          "bundleId": "se.aggressive.fokus",
+          "developer": "Fokus",
+          "genre": "Nyheter",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b4/32/99/b4329987-b716-1e29-fbac-9d79378b2af9/AppIcon-0-0-1x_U007epad-0-1-85-220.png/80x0w.webp",
+          "name": "Fokus e-tidning",
+          "ranking": 2,
+          "ratingCount": 51
+        },
+        {
+          "appStoreId": "866450515",
+          "averageRating": 4.7,
+          "bundleId": "com.forestapp.Forest",
+          "developer": "SEEKRTECH CO., LTD.",
+          "genre": "Produktivitet",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/58/dc/0458dcb3-7e16-087d-eb7f-3a05d68f8bdb/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/80x0w.webp",
+          "name": "Forest: Focus for Productivity",
+          "ranking": 3,
+          "ratingCount": 1855
+        },
+        {
+          "appStoreId": "867374917",
+          "averageRating": 4.7,
+          "bundleId": "com.limepresso.pomodorofree",
+          "developer": "PIXO Incorporation",
+          "genre": "Produktivitet",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/7f/65/e17f6518-7ea4-45e3-478a-23d1b15a177a/AppIcon_Free-0-0-1x_U007epad-0-1-0-85-220.png/80x0w.webp",
+          "name": "Focus Keeper: Study Time Timer",
+          "ranking": 4,
+          "ratingCount": 1225,
+          "subtitle": "ADHD To Do List, Habit Tracker"
+        },
+        {
+          "appStoreId": "6742278016",
+          "averageRating": 4.7,
+          "bundleId": "com.underthing.focus.friend",
+          "developer": "B-Tech Consulting Group LLC",
+          "genre": "Produktivitet",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/ab/45/39ab45f6-214f-ea1d-012a-a6b3b100788e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/80x0w.webp",
+          "name": "Focus Friend, by Hank Green",
+          "ranking": 5,
+          "ratingCount": 157
+        }
+      ],
+      "source": "deep-research/markets/se/raw/search-cb07f1c74bad.json",
+      "error": null,
+      "purpose": "Intent comparator; not a claim this app provides that feature"
+    },
+    {
+      "query": "sluta scrolla",
+      "apps": [
+        {
+          "appStoreId": "6814633088",
+          "averageRating": 0,
+          "bundleId": "com.vikstudios.noreel",
+          "developer": "Vik Studios SAS",
+          "genre": "Produktivitet",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c3/24/d7/c324d79e-50b4-710e-ce56-b3509be392dd/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/80x0w.webp",
+          "name": "UnSwipe: Sluta scrolla",
+          "ranking": 1,
+          "ratingCount": 0,
+          "subtitle": "Mindre scrollande, mer liv"
+        },
+        {
+          "appStoreId": "6809352229",
+          "averageRating": 0,
+          "bundleId": "app.feedminus",
+          "developer": "ayumu kitabayashi",
+          "genre": "Produktivitet",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/a9/f7/78a9f741-8f6a-6e73-e5ea-f90a834fd419/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/80x0w.webp",
+          "name": "minulo: Blockera appar & Reels",
+          "ranking": 2,
+          "ratingCount": 0,
+          "subtitle": "Plugga mer, scrolla mindre"
+        },
+        {
+          "appStoreId": "6782510849",
+          "averageRating": 4.4,
+          "bundleId": "com.mjengwa.fluidfriction",
+          "developer": "Gustav Mtenji Bergdal Mjengwa",
+          "genre": "Produktivitet",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/94/f8/ee/94f8ee85-dfdd-23ed-d49e-b63d70a04e52/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/80x0w.webp",
+          "name": "Fluid Friction: Blockera Reels",
+          "ranking": 3,
+          "ratingCount": 5,
+          "subtitle": "Skärmtid, blockera appar"
+        },
+        {
+          "appStoreId": "6792934511",
+          "averageRating": 0,
+          "bundleId": "app.stillfeed.ios",
+          "developer": "Gokhan Tosun",
+          "genre": "Produktivitet",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/d3/d5/bad3d54d-2cf3-fd23-cbe3-1ed594aab805/AppIcon-0-0-1x_U007emarketing-0-1-85-220.png/80x0w.webp",
+          "name": "Stillfeed: Block Reels&Shorts",
+          "ranking": 4,
+          "ratingCount": 0,
+          "subtitle": "Sluta scrolla, lås appar"
+        },
+        {
+          "appStoreId": "6774138511",
+          "averageRating": 0,
+          "bundleId": "com.lockin.study",
+          "developer": "SEBASTIAN OLTEDAL THORP",
+          "genre": "Produktivitet",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4a/f5/88/4af58811-6f53-e7fd-a1cf-9e9a8f8ff607/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/80x0w.webp",
+          "name": "Unfry: Sluta scrolla",
+          "ranking": 5,
+          "ratingCount": 0,
+          "subtitle": "Blockera appar, tjäna skärmtid"
+        }
+      ],
+      "source": "deep-research/markets/se/raw/search-744809c7aa3d.json",
+      "error": null,
+      "purpose": "Functional search hypothesis"
+    },
+    {
+      "query": "mobilberoende",
+      "apps": [
+        {
+          "appStoreId": "6759556869",
+          "averageRating": 4.8,
+          "bundleId": "com.scrolltoll",
+          "developer": "Brainbox Automations",
+          "genre": "Hälsa och motion",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/69/c9/5069c9cc-640b-3a48-7ecf-c047fae1381d/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/80x0w.webp",
+          "name": "ScrollToll: Skärmtidsgym",
+          "ranking": 1,
+          "ratingCount": 44,
+          "subtitle": "Blockera appar, träna dig fri"
+        },
+        {
+          "appStoreId": "6474093604",
+          "averageRating": 4.6,
+          "bundleId": "com.why.WhyApp",
+          "developer": "Naze App LTD",
+          "genre": "Produktivitet",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/63/4e/d2634e06-c67b-07e2-a7eb-da175a5351cd/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/80x0w.webp",
+          "name": "Naze: Social Media Blocker",
+          "ranking": 2,
+          "ratingCount": 11,
+          "subtitle": "Skärmtid & Mobilberoende"
+        },
+        {
+          "appStoreId": "6788602363",
+          "averageRating": 5,
+          "bundleId": "com.nondev777.focusflower",
+          "developer": "Kenta Nobutani",
+          "genre": "Utbildning",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/9f/39/c79f39cf-f189-7124-736d-098dc3bd887e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/80x0w.webp",
+          "name": "Focus Pot: plugg- & fokustid",
+          "ranking": 3,
+          "ratingCount": 3,
+          "subtitle": "Mobilberoende? Odla en blomma"
+        },
+        {
+          "appStoreId": "6757087994",
+          "averageRating": 4.3,
+          "bundleId": "com.aidenaz.stepscroll",
+          "developer": "Matheus Mello",
+          "genre": "Hälsa och motion",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0d/06/69/0d066991-0bfb-63c5-0355-65dd65a99c05/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/80x0w.webp",
+          "name": "Step N Scroll: Skärmtid",
+          "ranking": 4,
+          "ratingCount": 4,
+          "subtitle": "Gå för att låsa upp dina appar"
+        },
+        {
+          "appStoreId": "6749428484",
+          "averageRating": 4.2,
+          "bundleId": "com.stopscrollingwith.Spool",
+          "developer": "Spooli Inc",
+          "genre": "Produktivitet",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d0/88/e2/d088e28e-8dec-562d-9506-d9ed92f97728/AppIcon-0-0-1x_U007emarketing-0-9-0-sRGB-85-220.png/80x0w.webp",
+          "name": "Spool: Screen Time Control",
+          "ranking": 5,
+          "ratingCount": 12,
+          "subtitle": "App Blocker, Focus & Limit"
+        }
+      ],
+      "source": "deep-research/markets/se/raw/search-05b91060fc3e.json",
+      "error": null,
+      "purpose": "Functional search hypothesis"
+    },
+    {
+      "query": "digital avgiftning",
+      "apps": [
+        {
+          "appStoreId": "6757323160",
+          "averageRating": 0,
+          "bundleId": "pjc.Move",
+          "developer": "Be Right Back App LLC",
+          "genre": "Hälsa och motion",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d7/59/c5/d759c5eb-21be-4609-982b-5b04e81e2bd9/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png/80x0w.webp",
+          "name": "brb: Gå för att låsa upp",
+          "ranking": 1,
+          "ratingCount": 0,
+          "subtitle": "Tjäna skärmtid med steg"
+        }
+      ],
+      "source": "deep-research/markets/se/raw/search-6291bd60bd97.json",
+      "error": null,
+      "purpose": "Functional search hypothesis"
+    }
+  ],
+  "status": "deep-astro-complete",
+  "completedAt": "2026-11-19T06:35:40.795291+00:00",
+  "fullTop5Queries": 7,
+  "limitation": "Popularity/difficulty are tool estimates, not search counts. Missing subtitles remain missing. Broad or password-lock/parental-control intent is compared, never copied as an unsupported feature."
+}

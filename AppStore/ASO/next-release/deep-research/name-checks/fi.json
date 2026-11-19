@@ -1,0 +1,21 @@
+{
+  "locale": "fi",
+  "store": "fi",
+  "proposedName": "Ruutuaika – Vahtiankka",
+  "limitations": "A public top-five name search, not App Store Connect reservation or trademark clearance.",
+  "response": {
+    "id": "732e44e9-da99-48d6-967d-f1c48aff65e2",
+    "jsonrpc": "2.0",
+    "result": {
+      "content": [
+        {
+          "text": "{\n  \"apps\" : [\n\n  ],\n  \"keyword\" : \"Ruutuaika – Vahtiankka\",\n  \"platform\" : \"iphone\",\n  \"store\" : \"fi\",\n  \"totalResults\" : 0\n}",
+          "type": "text"
+        }
+      ],
+      "isError": false
+    }
+  },
+  "error": null,
+  "exactOtherAppMatches": []
+}

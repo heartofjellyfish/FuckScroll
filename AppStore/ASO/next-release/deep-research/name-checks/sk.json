@@ -1,0 +1,21 @@
+{
+  "locale": "sk",
+  "store": "sk",
+  "proposedName": "Screen Time – Kačka",
+  "limitations": "A public top-five name search, not App Store Connect reservation or trademark clearance.",
+  "response": {
+    "id": "e0d6325e-70de-4824-b86b-40562af03595",
+    "jsonrpc": "2.0",
+    "result": {
+      "content": [
+        {
+          "text": "{\n  \"apps\" : [\n\n  ],\n  \"keyword\" : \"Screen Time – Kačka\",\n  \"platform\" : \"iphone\",\n  \"store\" : \"sk\",\n  \"totalResults\" : 0\n}",
+          "type": "text"
+        }
+      ],
+      "isError": false
+    }
+  },
+  "error": null,
+  "exactOtherAppMatches": []
+}

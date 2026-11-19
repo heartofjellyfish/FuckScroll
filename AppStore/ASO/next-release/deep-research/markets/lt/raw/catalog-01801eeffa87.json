@@ -1,0 +1,123 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=scroll+blocker&country=lt&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/lt/app/sociallite-block-reels-shorts/id6757661674?uo=4",
+        "currentVersionReleaseDate": "2026-10-16T11:04:41Z",
+        "averageUserRating": 4.07895,
+        "artistName": "Sociallite LLC",
+        "trackId": 6757661674,
+        "trackName": "SocialLite-Block Reels&Shorts",
+        "bundleId": "social.Social-lite",
+        "releaseDate": "2026-01-29T08:00:00Z",
+        "primaryGenreName": "Productivity",
+        "version": "3.1.5",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "price": 0.0,
+        "genres": [
+          "Productivity",
+          "Social Networking"
+        ],
+        "userRatingCount": 38,
+        "descriptionSHA256": "9dbd89f368c17dc50b7187fccb2c303ea2893d4ea389e2290954ac38e87b7144"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/lt/app/scrollguard-block-reels/id6754183872?uo=4",
+        "currentVersionReleaseDate": "2026-11-18T13:35:55Z",
+        "averageUserRating": 1,
+        "artistName": "BreakTheScroll",
+        "trackId": 6754183872,
+        "trackName": "ScrollGuard: Block Reels",
+        "bundleId": "com.breakthescroll.scrollguard",
+        "releaseDate": "2026-02-10T08:00:00Z",
+        "primaryGenreName": "Productivity",
+        "version": "1.2.8",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "price": 0.0,
+        "genres": [
+          "Productivity",
+          "Utilities"
+        ],
+        "userRatingCount": 1,
+        "descriptionSHA256": "f86ed0e555432bea394b8f50474532f41318c3cabc1e1d389bee5024f909e63c"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/lt/app/no-scroll-limit-screen-time/id6474079216?uo=4",
+        "currentVersionReleaseDate": "2026-10-24T00:10:19Z",
+        "averageUserRating": 0,
+        "artistName": "Self Invest LLC",
+        "trackId": 6474079216,
+        "trackName": "No Scroll - Limit Screen Time",
+        "bundleId": "com.SelfInvest.Cooldown",
+        "releaseDate": "2024-03-19T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "version": "2.2.6",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "price": 0.0,
+        "genres": [
+          "Productivity"
+        ],
+        "userRatingCount": 0,
+        "descriptionSHA256": "e85c59d401bb05cd788cfe2856c6e9f23c9d5da9a2e87d896908ece3b872d41b"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/lt/app/one-sec-screen-time-focus/id1532875441?uo=4",
+        "currentVersionReleaseDate": "2026-11-14T18:42:34Z",
+        "averageUserRating": 4.86869,
+        "artistName": "riedel.wtf apps S.L.",
+        "trackId": 1532875441,
+        "trackName": "one sec | screen time + focus",
+        "bundleId": "wtf.riedel.one-sec",
+        "releaseDate": "2020-09-29T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "version": "6.1.3",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "price": 0.0,
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "userRatingCount": 99,
+        "descriptionSHA256": "7458286eeec2edf883eec2f9abc49582f9924be2e29f484b82b1014b4b2a0462"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/lt/app/undoomed-reels-feed-blocker/id6751837079?uo=4",
+        "currentVersionReleaseDate": "2026-10-22T07:12:34Z",
+        "averageUserRating": 5,
+        "artistName": "ARCKONE",
+        "trackId": 6751837079,
+        "trackName": "UNDOOMED: Reels & Feed Blocker",
+        "bundleId": "app.sevag.undoomed",
+        "releaseDate": "2025-10-09T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "version": "1.5.3",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "price": 0.0,
+        "genres": [
+          "Productivity",
+          "Social Networking"
+        ],
+        "userRatingCount": 1,
+        "descriptionSHA256": "232ab2f0149d52cbaf0134934559de8e943e2714e45f7a342a47240ee6bf1b70"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "842db791c1541add494148dd343e721f972bbb19cee09d1836102fef9c8a8813",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

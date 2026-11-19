@@ -1,0 +1,124 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=app+limits&country=me&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/me/app/appblock-app-site-blocker/id1515753232?uo=4",
+        "averageUserRating": 4.25,
+        "price": 0.0,
+        "artistName": "MobileSoft s.r.o.",
+        "trackId": 1515753232,
+        "trackName": "AppBlock: App & Site Blocker",
+        "bundleId": "eu.mobilesoft.appblock",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-11T10:48:39Z",
+        "version": "4.14.1",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "releaseDate": "2021-08-17T07:00:00Z",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "userRatingCount": 4,
+        "descriptionSHA256": "f4e2257d9c85cbaf9cd8496ddc82a9a5d41b2e0440020c527d8b3b8c4bbe4236"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/me/app/opal-screen-time-control/id1497465230?uo=4",
+        "averageUserRating": 4.72727,
+        "price": 0.0,
+        "artistName": "Opal OS",
+        "trackId": 1497465230,
+        "trackName": "Opal: Screen Time Control",
+        "bundleId": "com.withopal.opal",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "userRatingCount": 22,
+        "descriptionSHA256": "79545dcfd9d33edf53d3567fc6a6eb5b582561ed18b9d49245fbff4af0417656"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/me/app/parental-control-app-kidslox/id914825567?uo=4",
+        "averageUserRating": 4.09091,
+        "price": 0.0,
+        "artistName": "Kidslox Trading Ltd",
+        "trackId": 914825567,
+        "trackName": "Parental Control App - Kidslox",
+        "bundleId": "com.kidslox.main",
+        "primaryGenreName": "Lifestyle",
+        "currentVersionReleaseDate": "2026-09-15T06:03:44Z",
+        "version": "11.3.0",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "releaseDate": "2020-04-10T07:00:00Z",
+        "genres": [
+          "Lifestyle",
+          "Utilities"
+        ],
+        "userRatingCount": 22,
+        "descriptionSHA256": "d7539daf53bb81a1e94445145b66c140d46f513f2094f6b5fa099f8287fae953"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/me/app/one-sec-screen-time-focus/id1532875441?uo=4",
+        "averageUserRating": 4.93333,
+        "price": 0.0,
+        "artistName": "riedel.wtf apps S.L.",
+        "trackId": 1532875441,
+        "trackName": "one sec | screen time + focus",
+        "bundleId": "wtf.riedel.one-sec",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-14T18:42:34Z",
+        "version": "6.1.3",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "releaseDate": "2020-09-29T07:00:00Z",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "userRatingCount": 15,
+        "descriptionSHA256": "7458286eeec2edf883eec2f9abc49582f9924be2e29f484b82b1014b4b2a0462"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/me/app/faceapp-perfect-face-editor/id1180884341?uo=4",
+        "averageUserRating": 4.75566,
+        "price": 0.0,
+        "artistName": "FaceApp Technology Limited",
+        "trackId": 1180884341,
+        "trackName": "FaceApp: Perfect Face Editor",
+        "bundleId": "io.faceapp.ios",
+        "primaryGenreName": "Photo & Video",
+        "currentVersionReleaseDate": "2026-11-14T11:50:27Z",
+        "version": "26.10.0",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "releaseDate": "2020-04-10T07:00:00Z",
+        "genres": [
+          "Photo & Video",
+          "Entertainment"
+        ],
+        "userRatingCount": 1723,
+        "descriptionSHA256": "7005437c6af00e0dca408ae0b4cfb10ada33cc3e1613352a679a727e504f5036"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "28e6392fd39c9c69bd61eb44031c7678b0a6db448e6b023590b41a94c179c098",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

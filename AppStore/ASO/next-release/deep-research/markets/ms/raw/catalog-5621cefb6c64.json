@@ -1,0 +1,123 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=app+limits&country=ms&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/ms/app/appblock-app-site-blocker/id1515753232?uo=4",
+        "artistName": "MobileSoft s.r.o.",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2021-08-17T07:00:00Z",
+        "trackId": 1515753232,
+        "trackName": "AppBlock: App & Site Blocker",
+        "currentVersionReleaseDate": "2026-11-11T10:48:39Z",
+        "version": "4.14.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "eu.mobilesoft.appblock",
+        "userRatingCount": 0,
+        "descriptionSHA256": "f4e2257d9c85cbaf9cd8496ddc82a9a5d41b2e0440020c527d8b3b8c4bbe4236"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 5,
+        "trackViewUrl": "https://apps.apple.com/ms/app/parental-control-app-kidslox/id914825567?uo=4",
+        "artistName": "Kidslox Trading Ltd",
+        "genres": [
+          "Lifestyle",
+          "Utilities"
+        ],
+        "price": 0.0,
+        "primaryGenreName": "Lifestyle",
+        "releaseDate": "2014-09-23T23:23:11Z",
+        "trackId": 914825567,
+        "trackName": "Parental Control App - Kidslox",
+        "currentVersionReleaseDate": "2026-09-15T06:03:44Z",
+        "version": "11.3.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.kidslox.main",
+        "userRatingCount": 1,
+        "descriptionSHA256": "d7539daf53bb81a1e94445145b66c140d46f513f2094f6b5fa099f8287fae953"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/ms/app/fonepay-app/id1478083267?uo=4",
+        "artistName": "Fonepay Payment Service Limited",
+        "genres": [
+          "Finance"
+        ],
+        "price": 0.0,
+        "primaryGenreName": "Finance",
+        "releaseDate": "2020-01-16T08:00:00Z",
+        "trackId": 1478083267,
+        "trackName": "Fonepay App",
+        "currentVersionReleaseDate": "2026-07-08T23:26:22Z",
+        "version": "2.3.12",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.fonepay",
+        "userRatingCount": 0,
+        "descriptionSHA256": "05379191f64923f2641afb16a1a830d4c904a993341bb4cf4e80590191aa47ef"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 4.85714,
+        "trackViewUrl": "https://apps.apple.com/ms/app/aliexpress-shopping-app/id436672029?uo=4",
+        "artistName": "Alibaba",
+        "genres": [
+          "Shopping",
+          "Lifestyle"
+        ],
+        "price": 0.0,
+        "primaryGenreName": "Shopping",
+        "releaseDate": "2011-07-10T12:53:05Z",
+        "trackId": 436672029,
+        "trackName": "AliExpress Shopping App",
+        "currentVersionReleaseDate": "2026-11-17T02:47:32Z",
+        "version": "8.180.2",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.alibaba.iAliexpress",
+        "userRatingCount": 7,
+        "descriptionSHA256": "5d415fb9c4186913ead74b5dec21f79d617069ac1754cf6fcad89020a3b8736e"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 5,
+        "trackViewUrl": "https://apps.apple.com/ms/app/clear-scan-doc-scanner-app/id684155862?uo=4",
+        "artistName": "INDY MOBILE APP COMPANY LIMITED",
+        "genres": [
+          "Business",
+          "Utilities"
+        ],
+        "price": 0.0,
+        "primaryGenreName": "Business",
+        "releaseDate": "2013-10-09T00:29:12Z",
+        "trackId": 684155862,
+        "trackName": "Clear Scan: Doc Scanner App",
+        "currentVersionReleaseDate": "2026-11-18T01:39:27Z",
+        "version": "10.0.78",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.nikorn.mobile.ClearScanner",
+        "userRatingCount": 1,
+        "descriptionSHA256": "0f15cd896a0221605365d1f179393cafe5dd08a4f4aa133953c565bd2ed77baa"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "ec5fd05102847b72b48c356bf06b8a17d0bce2f6dc76a2af047c3642ff7604d1",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

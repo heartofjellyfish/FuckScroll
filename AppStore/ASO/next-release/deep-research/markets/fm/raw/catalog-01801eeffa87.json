@@ -1,0 +1,124 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=scroll+blocker&country=fm&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/fm/app/scroll-block-pornblocker-app/id6755958698?uo=4",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "bundleId": "com.blaneoroark.ScrollBlock",
+        "artistName": "ByteBloom Solutions",
+        "price": 0.0,
+        "releaseDate": "2025-12-02T08:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-06-14T10:07:56Z",
+        "version": "2.7",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackId": 6755958698,
+        "trackName": "Scroll Block: pornblocker App",
+        "userRatingCount": 0,
+        "descriptionSHA256": "80b054d982e29ebbdbf58291a259b2fdae2adf40f9a9c88782be7381831b6a91"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/fm/app/scrollr-app-blocker/id6811619023?uo=4",
+        "genres": [
+          "Productivity",
+          "Education"
+        ],
+        "bundleId": "com.doomlingo.app",
+        "artistName": "Attila Meste",
+        "price": 0.0,
+        "releaseDate": "2026-10-04T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-18T00:40:52Z",
+        "version": "2.5",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackId": 6811619023,
+        "trackName": "Scrollr - App Blocker",
+        "userRatingCount": 0,
+        "descriptionSHA256": "cd895924d4b880f12e9c4825819fc101e330977b7877a3c9ecfb30f94c1e3024"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/fm/app/sociallite-block-reels-shorts/id6757661674?uo=4",
+        "genres": [
+          "Productivity",
+          "Social Networking"
+        ],
+        "bundleId": "social.Social-lite",
+        "artistName": "Sociallite LLC",
+        "price": 0.0,
+        "releaseDate": "2026-01-29T08:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-10-16T11:04:41Z",
+        "version": "3.1.5",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackId": 6757661674,
+        "trackName": "SocialLite-Block Reels&Shorts",
+        "userRatingCount": 0,
+        "descriptionSHA256": "9dbd89f368c17dc50b7187fccb2c303ea2893d4ea389e2290954ac38e87b7144"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/fm/app/icare-social-media-addiction/id6751171049?uo=4",
+        "genres": [
+          "Social Networking",
+          "Productivity"
+        ],
+        "bundleId": "com.delmaass.icare",
+        "artistName": "Louis Delmas",
+        "price": 0.0,
+        "releaseDate": "2025-09-12T07:00:00Z",
+        "primaryGenreName": "Social Networking",
+        "currentVersionReleaseDate": "2026-11-05T01:51:47Z",
+        "version": "1.4.2",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackId": 6751171049,
+        "trackName": "Icare: Social Media Addiction",
+        "userRatingCount": 0,
+        "descriptionSHA256": "3511f5b35ab761ee0055ade34d071ce1392bbbe94873742eaf9255794b0986d0"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 5,
+        "trackViewUrl": "https://apps.apple.com/fm/app/pushscroll-exercise-to-scroll/id6741765734?uo=4",
+        "genres": [
+          "Health & Fitness",
+          "Productivity"
+        ],
+        "bundleId": "com.capyapps.speedbump",
+        "artistName": "Pushscroll GmbH",
+        "price": 0.0,
+        "releaseDate": "2025-06-24T07:00:00Z",
+        "primaryGenreName": "Health & Fitness",
+        "currentVersionReleaseDate": "2026-11-14T01:14:08Z",
+        "version": "1.313",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackId": 6741765734,
+        "trackName": "Pushscroll: Exercise To Scroll",
+        "userRatingCount": 1,
+        "descriptionSHA256": "71725bf1e68759565ca948a512e12029764e07971f344a18bf01a25889dd6da8"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "0a452561fe87716af0d6bad65a9c0cfd974c3cbdcad59f32a0c96dbe9e1670a1",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

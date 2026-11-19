@@ -1,0 +1,124 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=app+limits&country=bs&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/bs/app/appblock-app-site-blocker/id1515753232?uo=4",
+        "price": 0.0,
+        "artistName": "MobileSoft s.r.o.",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "releaseDate": "2021-08-17T07:00:00Z",
+        "trackId": 1515753232,
+        "trackName": "AppBlock: App & Site Blocker",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-11T10:48:39Z",
+        "version": "4.14.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "eu.mobilesoft.appblock",
+        "userRatingCount": 0,
+        "descriptionSHA256": "f4e2257d9c85cbaf9cd8496ddc82a9a5d41b2e0440020c527d8b3b8c4bbe4236"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 5,
+        "trackViewUrl": "https://apps.apple.com/bs/app/parental-control-app-kidslox/id914825567?uo=4",
+        "price": 0.0,
+        "artistName": "Kidslox Trading Ltd",
+        "genres": [
+          "Lifestyle",
+          "Utilities"
+        ],
+        "releaseDate": "2014-09-23T23:23:11Z",
+        "trackId": 914825567,
+        "trackName": "Parental Control App - Kidslox",
+        "primaryGenreName": "Lifestyle",
+        "currentVersionReleaseDate": "2026-09-15T06:03:44Z",
+        "version": "11.3.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.kidslox.main",
+        "userRatingCount": 4,
+        "descriptionSHA256": "d7539daf53bb81a1e94445145b66c140d46f513f2094f6b5fa099f8287fae953"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 5,
+        "trackViewUrl": "https://apps.apple.com/bs/app/dj-it-virtual-music-mixer-app/id1470224073?uo=4",
+        "price": 0.0,
+        "artistName": "Gismart Limited",
+        "genres": [
+          "Music",
+          "Entertainment"
+        ],
+        "releaseDate": "2019-07-22T07:00:00Z",
+        "trackId": 1470224073,
+        "trackName": "DJ it! Virtual Music Mixer app",
+        "primaryGenreName": "Music",
+        "currentVersionReleaseDate": "2026-04-17T06:25:32Z",
+        "version": "1.61",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "dj.edu",
+        "userRatingCount": 8,
+        "descriptionSHA256": "92d5b7bf3fd206c672b53a203988b8a43f4e960ab7dff9827c3bcdfdbc0fdf15"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 4.7619,
+        "trackViewUrl": "https://apps.apple.com/bs/app/clear-scan-doc-scanner-app/id684155862?uo=4",
+        "price": 0.0,
+        "artistName": "INDY MOBILE APP COMPANY LIMITED",
+        "genres": [
+          "Business",
+          "Utilities"
+        ],
+        "releaseDate": "2013-10-09T00:29:12Z",
+        "trackId": 684155862,
+        "trackName": "Clear Scan: Doc Scanner App",
+        "primaryGenreName": "Business",
+        "currentVersionReleaseDate": "2026-11-18T01:39:27Z",
+        "version": "10.0.78",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.nikorn.mobile.ClearScanner",
+        "userRatingCount": 21,
+        "descriptionSHA256": "0f15cd896a0221605365d1f179393cafe5dd08a4f4aa133953c565bd2ed77baa"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 4.75904,
+        "trackViewUrl": "https://apps.apple.com/bs/app/aliexpress-shopping-app/id436672029?uo=4",
+        "price": 0.0,
+        "artistName": "Alibaba",
+        "genres": [
+          "Shopping",
+          "Lifestyle"
+        ],
+        "releaseDate": "2011-07-10T12:53:05Z",
+        "trackId": 436672029,
+        "trackName": "AliExpress Shopping App",
+        "primaryGenreName": "Shopping",
+        "currentVersionReleaseDate": "2026-11-17T02:47:32Z",
+        "version": "8.180.2",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.alibaba.iAliexpress",
+        "userRatingCount": 332,
+        "descriptionSHA256": "5d415fb9c4186913ead74b5dec21f79d617069ac1754cf6fcad89020a3b8736e"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "f94b301b8481c0d24d1441760624e0ced5bf40da1b1e5225e9c9d411cc4ea126",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

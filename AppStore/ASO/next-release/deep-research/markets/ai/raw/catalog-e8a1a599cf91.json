@@ -1,0 +1,123 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=screen+time+control&country=ai&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/ai/app/screenzen-screen-time-control/id1541027222?uo=4",
+        "averageUserRating": 4.66667,
+        "artistName": "ScreenZen LLC",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "trackId": 1541027222,
+        "trackName": "ScreenZen- Screen Time Control",
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2021-07-16T07:00:00Z",
+        "currentVersionReleaseDate": "2026-09-06T14:20:14Z",
+        "version": "4.0.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.scottharvey.screenzenapp.ios",
+        "userRatingCount": 3,
+        "descriptionSHA256": "def0cb7cf41c8f7b1619d270d38fe8aa23859b81147ae63a1041bc0a1b7f8cc8"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/ai/app/opal-screen-time-control/id1497465230?uo=4",
+        "averageUserRating": 3.6,
+        "artistName": "Opal OS",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "trackId": 1497465230,
+        "trackName": "Opal: Screen Time Control",
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.withopal.opal",
+        "userRatingCount": 5,
+        "descriptionSHA256": "79545dcfd9d33edf53d3567fc6a6eb5b582561ed18b9d49245fbff4af0417656"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/ai/app/app-blocker-screen-time/id6456942073?uo=4",
+        "averageUserRating": 0,
+        "artistName": "Deebex Tech Ltd.",
+        "genres": [
+          "Productivity"
+        ],
+        "price": 0.0,
+        "trackId": 6456942073,
+        "trackName": "App Blocker - Screen Time",
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2023-10-10T07:00:00Z",
+        "currentVersionReleaseDate": "2026-08-13T00:04:05Z",
+        "version": "3.0.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.idreamdesign.screen",
+        "userRatingCount": 0,
+        "descriptionSHA256": "97f0576b3c2db9b58153d327b549d41dd39cce7ace43d700c29f2becd85cf727"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/ai/app/screen-time-parental-control/id1055315077?uo=4",
+        "averageUserRating": 0,
+        "artistName": "Screen Time Labs",
+        "genres": [
+          "Lifestyle",
+          "Productivity"
+        ],
+        "price": 0.0,
+        "trackId": 1055315077,
+        "trackName": "Screen Time Parental Control",
+        "primaryGenreName": "Lifestyle",
+        "releaseDate": "2015-12-15T20:43:11Z",
+        "currentVersionReleaseDate": "2022-12-07T13:43:25Z",
+        "version": "3.72",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.screentime",
+        "userRatingCount": 0,
+        "descriptionSHA256": "4304fa45bc672e931bb3f98d3b8232f55d3f776c5eb880d3d113c7227a932ad6"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/ai/app/offscreen-screen-time-control/id1474340105?uo=4",
+        "averageUserRating": 2,
+        "artistName": "MD Studio",
+        "genres": [
+          "Health & Fitness",
+          "Productivity"
+        ],
+        "price": 0.0,
+        "trackId": 1474340105,
+        "trackName": "OffScreen: Screen Time Control",
+        "primaryGenreName": "Health & Fitness",
+        "releaseDate": "2019-09-10T07:00:00Z",
+        "currentVersionReleaseDate": "2026-11-16T15:54:59Z",
+        "version": "3.22.6",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "tech.miidii.off-screen",
+        "userRatingCount": 1,
+        "descriptionSHA256": "079a343ef3820f7b726bc6a79a3cc60eb0f9faf0dc1070c1af73e61123346c28"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "dffb0f44a69fd5b714eb42f29b467b032ff1c6f15283b80bc0627477790a3cd6",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

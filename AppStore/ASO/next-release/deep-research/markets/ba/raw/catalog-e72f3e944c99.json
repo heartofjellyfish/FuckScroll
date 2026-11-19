@@ -1,0 +1,123 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=vrijeme+na+zaslonu&country=ba&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/ba/app/retime-screen-time/id6752255113?uo=4",
+        "genres": [
+          "Productivity",
+          "Utilities"
+        ],
+        "artistName": "Benjamin GIRARD",
+        "price": 0.0,
+        "primaryGenreName": "Productivity",
+        "trackId": 6752255113,
+        "trackName": "Retime: Screen Time",
+        "currentVersionReleaseDate": "2026-10-12T15:05:43Z",
+        "version": "1.2.1",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "bundleId": "focusup.retime",
+        "releaseDate": "2025-10-09T07:00:00Z",
+        "userRatingCount": 0,
+        "descriptionSHA256": "5b9e24f70e4720db81a2ce2b229e0d70492df0de191e9819bc2e530d0f20ab46"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 4.55556,
+        "trackViewUrl": "https://apps.apple.com/ba/app/clock-face-desktop-alarm/id1435058152?uo=4",
+        "genres": [
+          "Lifestyle",
+          "Reference"
+        ],
+        "artistName": "化媚 席",
+        "price": 0.0,
+        "primaryGenreName": "Lifestyle",
+        "trackId": 1435058152,
+        "trackName": "Clock Face - desktop alarm",
+        "currentVersionReleaseDate": "2026-09-14T19:56:37Z",
+        "version": "3.14",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "bundleId": "com.analogclock.clockface",
+        "releaseDate": "2020-04-10T07:00:00Z",
+        "userRatingCount": 9,
+        "descriptionSHA256": "128f39836f4c8e3c23188598eb800cab6f3093759a4fd89ef1f6b73f26eaf6fd"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/ba/app/weathersafe/id6806646516?uo=4",
+        "genres": [
+          "Weather",
+          "Utilities"
+        ],
+        "artistName": "Levin Gorgs",
+        "price": 0.99,
+        "primaryGenreName": "Weather",
+        "trackId": 6806646516,
+        "trackName": "WeatherSafe",
+        "currentVersionReleaseDate": "2026-09-26T11:06:01Z",
+        "version": "1.1",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "bundleId": "ch.gorgs.weathershield",
+        "releaseDate": "2026-09-03T07:00:00Z",
+        "userRatingCount": 0,
+        "descriptionSHA256": "ac49722d60e692b9ff42356c177349a22ab82e5055c68e637f52bd92f425dfad"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/ba/app/kiraf-parental-control/id6822597890?uo=4",
+        "genres": [
+          "Lifestyle"
+        ],
+        "artistName": "GEOAXIS, TOO",
+        "price": 0.0,
+        "primaryGenreName": "Lifestyle",
+        "trackId": 6822597890,
+        "trackName": "Kiraf: Parental Control",
+        "currentVersionReleaseDate": "2026-11-10T20:37:15Z",
+        "version": "2.0.4",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "bundleId": "kz.kakai.parent",
+        "releaseDate": "2026-10-27T07:00:00Z",
+        "userRatingCount": 0,
+        "descriptionSHA256": "ec8330e8b42b5a70f0e4b6d8ae7d3ac1474e1cc3c3897764a6c0557e151ea8df"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/ba/app/replan-daily-planner-to-do/id6758959846?uo=4",
+        "genres": [
+          "Productivity",
+          "Lifestyle"
+        ],
+        "artistName": "Leonid Merkulov",
+        "price": 0.0,
+        "primaryGenreName": "Productivity",
+        "trackId": 6758959846,
+        "trackName": "RePlan: Daily Planner & To-Do",
+        "currentVersionReleaseDate": "2026-10-30T23:10:11Z",
+        "version": "2.0.1",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "bundleId": "com.merkulov.replan",
+        "releaseDate": "2026-02-18T08:00:00Z",
+        "userRatingCount": 0,
+        "descriptionSHA256": "93a6d679b0d555c12a1022c5fb2a286ddeea1f14d45eaaa14c6e27865a078a98"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "c16863380640d855d5824db4fad6b83110cb24537840b0d8039dadb157949bcc",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

@@ -1,0 +1,122 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=app+limits&country=ng&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "averageUserRating": 4.66038,
+        "trackViewUrl": "https://apps.apple.com/ng/app/appblock-app-site-blocker/id1515753232?uo=4",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "artistName": "MobileSoft s.r.o.",
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2021-08-17T07:00:00Z",
+        "bundleId": "eu.mobilesoft.appblock",
+        "trackId": 1515753232,
+        "trackName": "AppBlock: App & Site Blocker",
+        "currentVersionReleaseDate": "2026-11-11T10:48:39Z",
+        "version": "4.14.1",
+        "wrapperType": "software",
+        "currency": "NGN",
+        "userRatingCount": 159,
+        "descriptionSHA256": "f4e2257d9c85cbaf9cd8496ddc82a9a5d41b2e0440020c527d8b3b8c4bbe4236"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 4.34966,
+        "trackViewUrl": "https://apps.apple.com/ng/app/ask-app-for-siri-for-use/id1478654749?uo=4",
+        "genres": [
+          "Entertainment",
+          "Reference"
+        ],
+        "price": 0.0,
+        "artistName": "PHP SOFTWARE COMPANY LIMITED",
+        "primaryGenreName": "Entertainment",
+        "releaseDate": "2019-09-14T07:00:00Z",
+        "bundleId": "com.buildnow.asksiri",
+        "trackId": 1478654749,
+        "trackName": "Ask app for Siri for use",
+        "currentVersionReleaseDate": "2024-04-04T07:01:08Z",
+        "version": "1.4.12",
+        "wrapperType": "software",
+        "currency": "NGN",
+        "userRatingCount": 3692,
+        "descriptionSHA256": "f0461ecf5364e209b1042122c9cfb5f6da1843ded3cb79db64ae6c05cc2c89a2"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 4.35539,
+        "trackViewUrl": "https://apps.apple.com/ng/app/eager-loan-instant-loan-app/id6744963232?uo=4",
+        "genres": [
+          "Finance"
+        ],
+        "price": 0.0,
+        "artistName": "EAGER WINGS NIGERIA LIMITED",
+        "primaryGenreName": "Finance",
+        "releaseDate": "2025-04-23T07:00:00Z",
+        "bundleId": "ng.eager.wings.loan.online",
+        "trackId": 6744963232,
+        "trackName": "Eager Loan: Instant Loan App",
+        "currentVersionReleaseDate": "2026-11-13T09:23:04Z",
+        "version": "1.0.24",
+        "wrapperType": "software",
+        "currency": "NGN",
+        "userRatingCount": 6016,
+        "descriptionSHA256": "8e59ab8db5117c5decdc629456371023bb71402ea552397ac8e4612393a0b69a"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 4.23958,
+        "trackViewUrl": "https://apps.apple.com/ng/app/app-lock-hide-app-lock-apps/id1616433953?uo=4",
+        "genres": [
+          "Utilities"
+        ],
+        "price": 0.0,
+        "artistName": "KINGSMEN VIETNAM COMPANY LIMITED",
+        "primaryGenreName": "Utilities",
+        "releaseDate": "2022-03-30T07:00:00Z",
+        "bundleId": "com.kingsmen.lockdatamanager",
+        "trackId": 1616433953,
+        "trackName": "App Lock, Hide App & Lock Apps",
+        "currentVersionReleaseDate": "2022-11-09T19:44:17Z",
+        "version": "1.6",
+        "wrapperType": "software",
+        "currency": "NGN",
+        "userRatingCount": 7772,
+        "descriptionSHA256": "a9a10fab975dea91f7d622ac28f56cc89c7ac676e92e3c3e0d06fd1a1df131e8"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 4.58619,
+        "trackViewUrl": "https://apps.apple.com/ng/app/cdcare-pay-small-small-app/id1500264724?uo=4",
+        "genres": [
+          "Shopping",
+          "Lifestyle"
+        ],
+        "price": 0.0,
+        "artistName": "EMAXIE LIMITED",
+        "primaryGenreName": "Shopping",
+        "releaseDate": "2020-03-06T08:00:00Z",
+        "bundleId": "com.nipek.cdcare",
+        "trackId": 1500264724,
+        "trackName": "CDcare Pay Small Small App",
+        "currentVersionReleaseDate": "2026-11-18T18:15:43Z",
+        "version": "4.0.6",
+        "wrapperType": "software",
+        "currency": "NGN",
+        "userRatingCount": 9212,
+        "descriptionSHA256": "f0864d2f5d6fff0cf6c17d28fd4f71360056c9cdd490ebc0d1388ddde7cf5af8"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "a79d39fd66090d054a1ea82d219bab739661714a842ebc0c179b68cb5eb34652",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

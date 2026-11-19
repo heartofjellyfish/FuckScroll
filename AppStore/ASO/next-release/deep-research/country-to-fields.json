@@ -1,0 +1,3978 @@
+{
+  "caveat": "These are shared language/region localizations from Apple's reference, not independent per-country editable titles. Display depends on device/store language and supplied localizations. Current live per-app availability was not re-read.",
+  "countries": [
+    {
+      "store": "af",
+      "country": "Afghanistan",
+      "researchLanguages": [
+        "en"
+      ],
+      "evidenceType": "Public catalog only; no local heat scores",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "al",
+      "country": "Albania",
+      "researchLanguages": [
+        "en"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "dz",
+      "country": "Algeria",
+      "researchLanguages": [
+        "ar",
+        "fr"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        },
+        {
+          "name": "Screen Time – بطّة الحراسة",
+          "subtitle": "حظر التطبيقات واستراحات",
+          "keywords": "وقت الشاشة,تركيز,حدود,مؤقت,app,blocker,control",
+          "locale": "ar-SA"
+        },
+        {
+          "name": "Screen Time – Canard de garde",
+          "subtitle": "Bloqueur d’apps, vraies pauses",
+          "keywords": "control,scroll,blocker,limite,concentration,minuteur,réseaux,sociaux,détox",
+          "locale": "fr-FR"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "ao",
+      "country": "Angola",
+      "researchLanguages": [
+        "pt-PT"
+      ],
+      "evidenceType": "Public catalog only; no local heat scores",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "ai",
+      "country": "Anguilla",
+      "researchLanguages": [
+        "en"
+      ],
+      "evidenceType": "Public catalog only; no local heat scores",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "ag",
+      "country": "Antigua and Barbuda",
+      "researchLanguages": [
+        "en"
+      ],
+      "evidenceType": "Public catalog only; no local heat scores",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "ar",
+      "country": "Argentina",
+      "researchLanguages": [
+        "es"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "es-MX",
+      "sharedDrafts": [
+        {
+          "name": "Tiempo en pantalla – Pato",
+          "subtitle": "Bloquear aplicaciones y pausar",
+          "keywords": "límites,concentración,temporizador,redes,sociales,descanso,app,blocker,screen,time,control",
+          "locale": "es-MX"
+        },
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "am",
+      "country": "Armenia",
+      "researchLanguages": [
+        "ru",
+        "en"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "au",
+      "country": "Australia",
+      "researchLanguages": [
+        "en"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "en-AU",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Limits & Focus",
+          "keywords": "scroll,social,media,break,digital,detox,doomscrolling,distraction,timer,self,reduce,stop,control",
+          "locale": "en-AU"
+        },
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "at",
+      "country": "Austria",
+      "researchLanguages": [
+        "de"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "de-DE",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Ente im Dienst",
+          "subtitle": "Bildschirmzeit, feste Pausen",
+          "keywords": "fokus,timer,scrollen,handyzeit,sperren,digital,detox,limit,gewohnheit,screen,time,control",
+          "locale": "de-DE"
+        },
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "az",
+      "country": "Azerbaijan",
+      "researchLanguages": [
+        "en",
+        "ru"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "bs",
+      "country": "Bahamas",
+      "researchLanguages": [
+        "en"
+      ],
+      "evidenceType": "Public catalog only; no local heat scores",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "bh",
+      "country": "Bahrain",
+      "researchLanguages": [
+        "ar",
+        "en"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        },
+        {
+          "name": "Screen Time – بطّة الحراسة",
+          "subtitle": "حظر التطبيقات واستراحات",
+          "keywords": "وقت الشاشة,تركيز,حدود,مؤقت,app,blocker,control",
+          "locale": "ar-SA"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "bb",
+      "country": "Barbados",
+      "researchLanguages": [
+        "en"
+      ],
+      "evidenceType": "Public catalog only; no local heat scores",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "by",
+      "country": "Belarus",
+      "researchLanguages": [
+        "ru"
+      ],
+      "evidenceType": "Public catalog only; no local heat scores",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "be",
+      "country": "Belgium",
+      "researchLanguages": [
+        "nl",
+        "fr",
+        "de"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        },
+        {
+          "name": "Schermtijd – Eend op wacht",
+          "subtitle": "App Blocker met vaste pauzes",
+          "keywords": "limiet,focus,scrollen,sociale,media,digitale,detox,timer,afleiding,gebruik,screen,time,control",
+          "locale": "nl-NL"
+        },
+        {
+          "name": "Screen Time – Canard de garde",
+          "subtitle": "Bloqueur d’apps, vraies pauses",
+          "keywords": "control,scroll,blocker,limite,concentration,minuteur,réseaux,sociaux,détox",
+          "locale": "fr-FR"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "bz",
+      "country": "Belize",
+      "researchLanguages": [
+        "en"
+      ],
+      "evidenceType": "Public catalog only; no local heat scores",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        },
+        {
+          "name": "Tiempo en pantalla – Pato",
+          "subtitle": "Bloquear aplicaciones y pausar",
+          "keywords": "límites,concentración,temporizador,redes,sociales,descanso,app,blocker,screen,time,control",
+          "locale": "es-MX"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "bj",
+      "country": "Benin",
+      "researchLanguages": [
+        "fr"
+      ],
+      "evidenceType": "Public catalog only; no local heat scores",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        },
+        {
+          "name": "Screen Time – Canard de garde",
+          "subtitle": "Bloqueur d’apps, vraies pauses",
+          "keywords": "control,scroll,blocker,limite,concentration,minuteur,réseaux,sociaux,détox",
+          "locale": "fr-FR"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "bm",
+      "country": "Bermuda",
+      "researchLanguages": [
+        "en"
+      ],
+      "evidenceType": "Public catalog only; no local heat scores",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "bt",
+      "country": "Bhutan",
+      "researchLanguages": [
+        "en"
+      ],
+      "evidenceType": "Public catalog only; no local heat scores",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "bo",
+      "country": "Bolivia",
+      "researchLanguages": [
+        "es"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "es-MX",
+      "sharedDrafts": [
+        {
+          "name": "Tiempo en pantalla – Pato",
+          "subtitle": "Bloquear aplicaciones y pausar",
+          "keywords": "límites,concentración,temporizador,redes,sociales,descanso,app,blocker,screen,time,control",
+          "locale": "es-MX"
+        },
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "ba",
+      "country": "Bosnia and Herzegovina",
+      "researchLanguages": [
+        "hr",
+        "en"
+      ],
+      "evidenceType": "Public catalog only; no local heat scores",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        },
+        {
+          "name": "Screen Time – Patka",
+          "subtitle": "Limiti aplikacija i predasi",
+          "keywords": "zaslon,blokiranje,fokus,mobitel,ovisnost,digitalni,detoks,app,blocker,control",
+          "locale": "hr"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "bw",
+      "country": "Botswana",
+      "researchLanguages": [
+        "en"
+      ],
+      "evidenceType": "Public catalog only; no local heat scores",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "br",
+      "country": "Brazil",
+      "researchLanguages": [
+        "pt-BR"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "pt-BR",
+      "sharedDrafts": [
+        {
+          "name": "Tempo de Tela: Pato de Plantão",
+          "subtitle": "Bloqueie apps e faça pausas",
+          "keywords": "limite,foco,celular,redes,sociais,digital,detox,cronômetro,hábito,screen,time,control,blocker",
+          "locale": "pt-BR"
+        },
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "vg",
+      "country": "British Virgin Islands",
+      "researchLanguages": [
+        "en"
+      ],
+      "evidenceType": "Public catalog only; no local heat scores",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "bn",
+      "country": "Brunei",
+      "researchLanguages": [
+        "en"
+      ],
+      "evidenceType": "Public catalog only; no local heat scores",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "bg",
+      "country": "Bulgaria",
+      "researchLanguages": [
+        "en"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "bf",
+      "country": "Burkina Faso",
+      "researchLanguages": [
+        "fr"
+      ],
+      "evidenceType": "Public catalog only; no local heat scores",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        },
+        {
+          "name": "Screen Time – Canard de garde",
+          "subtitle": "Bloqueur d’apps, vraies pauses",
+          "keywords": "control,scroll,blocker,limite,concentration,minuteur,réseaux,sociaux,détox",
+          "locale": "fr-FR"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "kh",
+      "country": "Cambodia",
+      "researchLanguages": [
+        "en"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        },
+        {
+          "name": "Screen Time – Canard de garde",
+          "subtitle": "Bloqueur d’apps, vraies pauses",
+          "keywords": "control,scroll,blocker,limite,concentration,minuteur,réseaux,sociaux,détox",
+          "locale": "fr-FR"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "cm",
+      "country": "Cameroon",
+      "researchLanguages": [
+        "fr",
+        "en"
+      ],
+      "evidenceType": "Public catalog only; no local heat scores",
+      "defaultLocaleGroup": "fr-FR",
+      "sharedDrafts": [
+        {
+          "name": "Screen Time – Canard de garde",
+          "subtitle": "Bloqueur d’apps, vraies pauses",
+          "keywords": "control,scroll,blocker,limite,concentration,minuteur,réseaux,sociaux,détox",
+          "locale": "fr-FR"
+        },
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "ca",
+      "country": "Canada",
+      "researchLanguages": [
+        "en",
+        "fr"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "en-CA",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-CA"
+        },
+        {
+          "name": "App Blocker – Canard de garde",
+          "subtitle": "Temps d’écran, pauses imposées",
+          "keywords": "screen,time,control,scroll,limite,concentration,minuteur,réseaux,sociaux,détox,self,digital",
+          "locale": "fr-CA"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "cv",
+      "country": "Cape Verde",
+      "researchLanguages": [
+        "pt-PT"
+      ],
+      "evidenceType": "Public catalog only; no local heat scores",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "ky",
+      "country": "Cayman Islands",
+      "researchLanguages": [
+        "en"
+      ],
+      "evidenceType": "Public catalog only; no local heat scores",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "td",
+      "country": "Chad",
+      "researchLanguages": [
+        "fr",
+        "ar"
+      ],
+      "evidenceType": "Public catalog only; no local heat scores",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        },
+        {
+          "name": "Screen Time – Canard de garde",
+          "subtitle": "Bloqueur d’apps, vraies pauses",
+          "keywords": "control,scroll,blocker,limite,concentration,minuteur,réseaux,sociaux,détox",
+          "locale": "fr-FR"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "cl",
+      "country": "Chile",
+      "researchLanguages": [
+        "es"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "es-MX",
+      "sharedDrafts": [
+        {
+          "name": "Tiempo en pantalla – Pato",
+          "subtitle": "Bloquear aplicaciones y pausar",
+          "keywords": "límites,concentración,temporizador,redes,sociales,descanso,app,blocker,screen,time,control",
+          "locale": "es-MX"
+        },
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "cn",
+      "country": "China mainland",
+      "researchLanguages": [
+        "zh-Hans"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "zh-Hans",
+      "sharedDrafts": [
+        {
+          "name": "自觉鸭：戒手机与屏幕使用时间",
+          "subtitle": "少刷社交媒体，应用限时，到点休息",
+          "keywords": "app,blocker,screen,time,control,防沉迷,专注,自律,数字健康,定时,自控力",
+          "locale": "zh-Hans"
+        },
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "co",
+      "country": "Colombia",
+      "researchLanguages": [
+        "es"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "es-MX",
+      "sharedDrafts": [
+        {
+          "name": "Tiempo en pantalla – Pato",
+          "subtitle": "Bloquear aplicaciones y pausar",
+          "keywords": "límites,concentración,temporizador,redes,sociales,descanso,app,blocker,screen,time,control",
+          "locale": "es-MX"
+        },
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "cd",
+      "country": "Congo, Democratic Republic of the",
+      "researchLanguages": [
+        "fr"
+      ],
+      "evidenceType": "Public catalog only; no local heat scores",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        },
+        {
+          "name": "Screen Time – Canard de garde",
+          "subtitle": "Bloqueur d’apps, vraies pauses",
+          "keywords": "control,scroll,blocker,limite,concentration,minuteur,réseaux,sociaux,détox",
+          "locale": "fr-FR"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "cg",
+      "country": "Congo, Republic of the",
+      "researchLanguages": [
+        "fr"
+      ],
+      "evidenceType": "Public catalog only; no local heat scores",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        },
+        {
+          "name": "Screen Time – Canard de garde",
+          "subtitle": "Bloqueur d’apps, vraies pauses",
+          "keywords": "control,scroll,blocker,limite,concentration,minuteur,réseaux,sociaux,détox",
+          "locale": "fr-FR"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "cr",
+      "country": "Costa Rica",
+      "researchLanguages": [
+        "es"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "es-MX",
+      "sharedDrafts": [
+        {
+          "name": "Tiempo en pantalla – Pato",
+          "subtitle": "Bloquear aplicaciones y pausar",
+          "keywords": "límites,concentración,temporizador,redes,sociales,descanso,app,blocker,screen,time,control",
+          "locale": "es-MX"
+        },
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "ci",
+      "country": "Cote d’Ivoire",
+      "researchLanguages": [
+        "fr"
+      ],
+      "evidenceType": "Public catalog only; no local heat scores",
+      "defaultLocaleGroup": "fr-FR",
+      "sharedDrafts": [
+        {
+          "name": "Screen Time – Canard de garde",
+          "subtitle": "Bloqueur d’apps, vraies pauses",
+          "keywords": "control,scroll,blocker,limite,concentration,minuteur,réseaux,sociaux,détox",
+          "locale": "fr-FR"
+        },
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "hr",
+      "country": "Croatia",
+      "researchLanguages": [
+        "hr",
+        "en"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        },
+        {
+          "name": "Screen Time – Patka",
+          "subtitle": "Limiti aplikacija i predasi",
+          "keywords": "zaslon,blokiranje,fokus,mobitel,ovisnost,digitalni,detoks,app,blocker,control",
+          "locale": "hr"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "cy",
+      "country": "Cyprus",
+      "researchLanguages": [
+        "el",
+        "en"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        },
+        {
+          "name": "App Blocker – Πάπια",
+          "subtitle": "Όρια εφαρμογών και διαλείμματα",
+          "keywords": "συγκέντρωση,χρόνος,οθόνης,αποκλεισμός,screen,time,control",
+          "locale": "el"
+        },
+        {
+          "name": "Ekran Süresi – Nöbetçi Ördek",
+          "subtitle": "Uygulama sınırları ve molalar",
+          "keywords": "engelleme,odak,dijital,detoks,telefon,bağımlılık,app,blocker,screen,time,control",
+          "locale": "tr"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "cz",
+      "country": "Czechia",
+      "researchLanguages": [
+        "cs",
+        "en"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        },
+        {
+          "name": "Screen Time – Kachna",
+          "subtitle": "Blokování aplikací a přestávky",
+          "keywords": "čas,obrazovka,limit,soustředění,telefon,detox,digitální,app,blocker,control",
+          "locale": "cs"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "dk",
+      "country": "Denmark",
+      "researchLanguages": [
+        "da",
+        "en"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        },
+        {
+          "name": "Skærmtid – And på vagt",
+          "subtitle": "Bloker apps. Hold en pause.",
+          "keywords": "fokus,mobil,afhængighed,grænser,digital,detox,timer,screen,time,blocker,control",
+          "locale": "da"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "dm",
+      "country": "Dominica",
+      "researchLanguages": [
+        "en"
+      ],
+      "evidenceType": "Public catalog only; no local heat scores",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "do",
+      "country": "Dominican Republic",
+      "researchLanguages": [
+        "es"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "es-MX",
+      "sharedDrafts": [
+        {
+          "name": "Tiempo en pantalla – Pato",
+          "subtitle": "Bloquear aplicaciones y pausar",
+          "keywords": "límites,concentración,temporizador,redes,sociales,descanso,app,blocker,screen,time,control",
+          "locale": "es-MX"
+        },
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "ec",
+      "country": "Ecuador",
+      "researchLanguages": [
+        "es"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "es-MX",
+      "sharedDrafts": [
+        {
+          "name": "Tiempo en pantalla – Pato",
+          "subtitle": "Bloquear aplicaciones y pausar",
+          "keywords": "límites,concentración,temporizador,redes,sociales,descanso,app,blocker,screen,time,control",
+          "locale": "es-MX"
+        },
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "eg",
+      "country": "Egypt",
+      "researchLanguages": [
+        "ar",
+        "en"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        },
+        {
+          "name": "Screen Time – بطّة الحراسة",
+          "subtitle": "حظر التطبيقات واستراحات",
+          "keywords": "وقت الشاشة,تركيز,حدود,مؤقت,app,blocker,control",
+          "locale": "ar-SA"
+        },
+        {
+          "name": "Screen Time – Canard de garde",
+          "subtitle": "Bloqueur d’apps, vraies pauses",
+          "keywords": "control,scroll,blocker,limite,concentration,minuteur,réseaux,sociaux,détox",
+          "locale": "fr-FR"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "sv",
+      "country": "El Salvador",
+      "researchLanguages": [
+        "es"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "es-MX",
+      "sharedDrafts": [
+        {
+          "name": "Tiempo en pantalla – Pato",
+          "subtitle": "Bloquear aplicaciones y pausar",
+          "keywords": "límites,concentración,temporizador,redes,sociales,descanso,app,blocker,screen,time,control",
+          "locale": "es-MX"
+        },
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "ee",
+      "country": "Estonia",
+      "researchLanguages": [
+        "en"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "sz",
+      "country": "Eswatini",
+      "researchLanguages": [
+        "en"
+      ],
+      "evidenceType": "Public catalog only; no local heat scores",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "fj",
+      "country": "Fiji",
+      "researchLanguages": [
+        "en"
+      ],
+      "evidenceType": "Public catalog only; no local heat scores",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "fi",
+      "country": "Finland",
+      "researchLanguages": [
+        "fi",
+        "en"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        },
+        {
+          "name": "Ruutuaika – Vahtiankka",
+          "subtitle": "Sovellusrajat ja tauot",
+          "keywords": "esto,keskittyminen,puhelin,digipaasto,ajastin,app,blocker,screen,time,control",
+          "locale": "fi"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "fr",
+      "country": "France",
+      "researchLanguages": [
+        "fr"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "fr-FR",
+      "sharedDrafts": [
+        {
+          "name": "Screen Time – Canard de garde",
+          "subtitle": "Bloqueur d’apps, vraies pauses",
+          "keywords": "control,scroll,blocker,limite,concentration,minuteur,réseaux,sociaux,détox",
+          "locale": "fr-FR"
+        },
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "ga",
+      "country": "Gabon",
+      "researchLanguages": [
+        "fr"
+      ],
+      "evidenceType": "Public catalog only; no local heat scores",
+      "defaultLocaleGroup": "fr-FR",
+      "sharedDrafts": [
+        {
+          "name": "Screen Time – Canard de garde",
+          "subtitle": "Bloqueur d’apps, vraies pauses",
+          "keywords": "control,scroll,blocker,limite,concentration,minuteur,réseaux,sociaux,détox",
+          "locale": "fr-FR"
+        },
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "gm",
+      "country": "Gambia",
+      "researchLanguages": [
+        "en"
+      ],
+      "evidenceType": "Public catalog only; no local heat scores",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "ge",
+      "country": "Georgia",
+      "researchLanguages": [
+        "en"
+      ],
+      "evidenceType": "Public catalog only; no local heat scores",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "de",
+      "country": "Germany",
+      "researchLanguages": [
+        "de"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "de-DE",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Ente im Dienst",
+          "subtitle": "Bildschirmzeit, feste Pausen",
+          "keywords": "fokus,timer,scrollen,handyzeit,sperren,digital,detox,limit,gewohnheit,screen,time,control",
+          "locale": "de-DE"
+        },
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "gh",
+      "country": "Ghana",
+      "researchLanguages": [
+        "en"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "gr",
+      "country": "Greece",
+      "researchLanguages": [
+        "el",
+        "en"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        },
+        {
+          "name": "App Blocker – Πάπια",
+          "subtitle": "Όρια εφαρμογών και διαλείμματα",
+          "keywords": "συγκέντρωση,χρόνος,οθόνης,αποκλεισμός,screen,time,control",
+          "locale": "el"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "gd",
+      "country": "Grenada",
+      "researchLanguages": [
+        "en"
+      ],
+      "evidenceType": "Public catalog only; no local heat scores",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "gt",
+      "country": "Guatemala",
+      "researchLanguages": [
+        "es"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "es-MX",
+      "sharedDrafts": [
+        {
+          "name": "Tiempo en pantalla – Pato",
+          "subtitle": "Bloquear aplicaciones y pausar",
+          "keywords": "límites,concentración,temporizador,redes,sociales,descanso,app,blocker,screen,time,control",
+          "locale": "es-MX"
+        },
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "gw",
+      "country": "Guinea-Bissau",
+      "researchLanguages": [
+        "pt-PT"
+      ],
+      "evidenceType": "Public catalog only; no local heat scores",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        },
+        {
+          "name": "Screen Time – Canard de garde",
+          "subtitle": "Bloqueur d’apps, vraies pauses",
+          "keywords": "control,scroll,blocker,limite,concentration,minuteur,réseaux,sociaux,détox",
+          "locale": "fr-FR"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "gy",
+      "country": "Guyana",
+      "researchLanguages": [
+        "en"
+      ],
+      "evidenceType": "Public catalog only; no local heat scores",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        },
+        {
+          "name": "Screen Time – Canard de garde",
+          "subtitle": "Bloqueur d’apps, vraies pauses",
+          "keywords": "control,scroll,blocker,limite,concentration,minuteur,réseaux,sociaux,détox",
+          "locale": "fr-FR"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "hn",
+      "country": "Honduras",
+      "researchLanguages": [
+        "es"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "es-MX",
+      "sharedDrafts": [
+        {
+          "name": "Tiempo en pantalla – Pato",
+          "subtitle": "Bloquear aplicaciones y pausar",
+          "keywords": "límites,concentración,temporizador,redes,sociales,descanso,app,blocker,screen,time,control",
+          "locale": "es-MX"
+        },
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "hk",
+      "country": "Hong Kong",
+      "researchLanguages": [
+        "zh-Hant",
+        "en"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "zh-Hant",
+      "sharedDrafts": [
+        {
+          "name": "自覺鴨：戒手機與螢幕使用時間",
+          "subtitle": "少滑社群動態，應用限時，到點休息",
+          "keywords": "app,blocker,screen,time,control,專注,防沉迷,數位健康,自律",
+          "locale": "zh-Hant"
+        },
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "hu",
+      "country": "Hungary",
+      "researchLanguages": [
+        "hu",
+        "en"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        },
+        {
+          "name": "App Blocker – Őrkacsa",
+          "subtitle": "Appkorlátok és szünetek",
+          "keywords": "képernyőidő,fókusz,telefon,függőség,blokkoló,digitális,detox,screen,time,control",
+          "locale": "hu"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "is",
+      "country": "Iceland",
+      "researchLanguages": [
+        "en"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "in",
+      "country": "India",
+      "researchLanguages": [
+        "en",
+        "hi"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        },
+        {
+          "name": "Screen Time – पहरेदार बत्तख",
+          "subtitle": "ऐप की सीमा और फोन से ब्रेक",
+          "keywords": "app,blocker,focus,digital,detox,लत,स्क्रीन टाइम,control,scroll",
+          "locale": "hi"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": [
+        "Bangla",
+        "Gujarati",
+        "Kannada",
+        "Malayalam",
+        "Marathi",
+        "Odia",
+        "Punjabi",
+        "Tamil",
+        "Telugu",
+        "Urdu"
+      ]
+    },
+    {
+      "store": "id",
+      "country": "Indonesia",
+      "researchLanguages": [
+        "id",
+        "en"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        },
+        {
+          "name": "Screen Time Control – Bebek",
+          "subtitle": "Batasi aplikasi. Istirahat.",
+          "keywords": "layar,fokus,kecanduan,ponsel,sosial,media,detoks,digital,app,blocker",
+          "locale": "id"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "iq",
+      "country": "Iraq",
+      "researchLanguages": [
+        "ar",
+        "en"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        },
+        {
+          "name": "Screen Time – بطّة الحراسة",
+          "subtitle": "حظر التطبيقات واستراحات",
+          "keywords": "وقت الشاشة,تركيز,حدود,مؤقت,app,blocker,control",
+          "locale": "ar-SA"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "ie",
+      "country": "Ireland",
+      "researchLanguages": [
+        "en"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "il",
+      "country": "Israel",
+      "researchLanguages": [
+        "he",
+        "ar",
+        "en"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        },
+        {
+          "name": "זמן מסך – ברווז במשמרת",
+          "subtitle": "הגבלת אפליקציות והפסקות",
+          "keywords": "ריכוז,טלפון,חסימה,התמכרות,app,blocker,screen,time,control",
+          "locale": "he"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "it",
+      "country": "Italy",
+      "researchLanguages": [
+        "it"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "it",
+      "sharedDrafts": [
+        {
+          "name": "Tempo di utilizzo – Papero",
+          "subtitle": "Limiti app, pause obbligatorie",
+          "keywords": "concentrazione,timer,digitale,detox,scroll,abitudini,bloccare,screen,time,blocker,control,digital",
+          "locale": "it"
+        },
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "jm",
+      "country": "Jamaica",
+      "researchLanguages": [
+        "en"
+      ],
+      "evidenceType": "Public catalog only; no local heat scores",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "jp",
+      "country": "Japan",
+      "researchLanguages": [
+        "ja"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "ja",
+      "sharedDrafts": [
+        {
+          "name": "スマホ制限 – みてるアヒル",
+          "subtitle": "スクリーンタイム管理、アプリごとに休憩",
+          "keywords": "スマホ依存,デジタルデトックス,集中,タイマー,SNS,screen,time,control,app,blocker",
+          "locale": "ja"
+        },
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,digital,detox,doomscrolling,distraction,habit,timer,self,reduce,stop",
+          "locale": "en-US"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "jo",
+      "country": "Jordan",
+      "researchLanguages": [
+        "ar",
+        "en"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        },
+        {
+          "name": "Screen Time – بطّة الحراسة",
+          "subtitle": "حظر التطبيقات واستراحات",
+          "keywords": "وقت الشاشة,تركيز,حدود,مؤقت,app,blocker,control",
+          "locale": "ar-SA"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "kz",
+      "country": "Kazakhstan",
+      "researchLanguages": [
+        "ru",
+        "en"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "ke",
+      "country": "Kenya",
+      "researchLanguages": [
+        "en"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "xk",
+      "country": "Kosovo",
+      "researchLanguages": [
+        "en"
+      ],
+      "evidenceType": "Public catalog only; no local heat scores",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "kw",
+      "country": "Kuwait",
+      "researchLanguages": [
+        "ar",
+        "en"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        },
+        {
+          "name": "Screen Time – بطّة الحراسة",
+          "subtitle": "حظر التطبيقات واستراحات",
+          "keywords": "وقت الشاشة,تركيز,حدود,مؤقت,app,blocker,control",
+          "locale": "ar-SA"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "kg",
+      "country": "Kyrgyzstan",
+      "researchLanguages": [
+        "ru",
+        "en"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "la",
+      "country": "Laos",
+      "researchLanguages": [
+        "en"
+      ],
+      "evidenceType": "Public catalog only; no local heat scores",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        },
+        {
+          "name": "Screen Time – Canard de garde",
+          "subtitle": "Bloqueur d’apps, vraies pauses",
+          "keywords": "control,scroll,blocker,limite,concentration,minuteur,réseaux,sociaux,détox",
+          "locale": "fr-FR"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "lv",
+      "country": "Latvia",
+      "researchLanguages": [
+        "en"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "lb",
+      "country": "Lebanon",
+      "researchLanguages": [
+        "ar",
+        "fr",
+        "en"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        },
+        {
+          "name": "Screen Time – بطّة الحراسة",
+          "subtitle": "حظر التطبيقات واستراحات",
+          "keywords": "وقت الشاشة,تركيز,حدود,مؤقت,app,blocker,control",
+          "locale": "ar-SA"
+        },
+        {
+          "name": "Screen Time – Canard de garde",
+          "subtitle": "Bloqueur d’apps, vraies pauses",
+          "keywords": "control,scroll,blocker,limite,concentration,minuteur,réseaux,sociaux,détox",
+          "locale": "fr-FR"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "lr",
+      "country": "Liberia",
+      "researchLanguages": [
+        "en"
+      ],
+      "evidenceType": "Public catalog only; no local heat scores",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "ly",
+      "country": "Libya",
+      "researchLanguages": [
+        "ar"
+      ],
+      "evidenceType": "Public catalog only; no local heat scores",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        },
+        {
+          "name": "Screen Time – بطّة الحراسة",
+          "subtitle": "حظر التطبيقات واستراحات",
+          "keywords": "وقت الشاشة,تركيز,حدود,مؤقت,app,blocker,control",
+          "locale": "ar-SA"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "lt",
+      "country": "Lithuania",
+      "researchLanguages": [
+        "en"
+      ],
+      "evidenceType": "Public catalog only; no local heat scores",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "lu",
+      "country": "Luxembourg",
+      "researchLanguages": [
+        "fr",
+        "de",
+        "en"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        },
+        {
+          "name": "Screen Time – Canard de garde",
+          "subtitle": "Bloqueur d’apps, vraies pauses",
+          "keywords": "control,scroll,blocker,limite,concentration,minuteur,réseaux,sociaux,détox",
+          "locale": "fr-FR"
+        },
+        {
+          "name": "App Blocker – Ente im Dienst",
+          "subtitle": "Bildschirmzeit, feste Pausen",
+          "keywords": "fokus,timer,scrollen,handyzeit,sperren,digital,detox,limit,gewohnheit,screen,time,control",
+          "locale": "de-DE"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "mo",
+      "country": "Macau",
+      "researchLanguages": [
+        "zh-Hant",
+        "en"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "zh-Hant",
+      "sharedDrafts": [
+        {
+          "name": "自覺鴨：戒手機與螢幕使用時間",
+          "subtitle": "少滑社群動態，應用限時，到點休息",
+          "keywords": "app,blocker,screen,time,control,專注,防沉迷,數位健康,自律",
+          "locale": "zh-Hant"
+        },
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "mg",
+      "country": "Madagascar",
+      "researchLanguages": [
+        "fr"
+      ],
+      "evidenceType": "Public catalog only; no local heat scores",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        },
+        {
+          "name": "Screen Time – Canard de garde",
+          "subtitle": "Bloqueur d’apps, vraies pauses",
+          "keywords": "control,scroll,blocker,limite,concentration,minuteur,réseaux,sociaux,détox",
+          "locale": "fr-FR"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "mw",
+      "country": "Malawi",
+      "researchLanguages": [
+        "en"
+      ],
+      "evidenceType": "Public catalog only; no local heat scores",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "my",
+      "country": "Malaysia",
+      "researchLanguages": [
+        "ms",
+        "en",
+        "zh-Hans"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        },
+        {
+          "name": "App Blocker – Itik Bertugas",
+          "subtitle": "Had aplikasi dan rehat wajib",
+          "keywords": "masa,skrin,fokus,sekat,telefon,ketagihan,sosial,media,detoks,digital,screen,time,control",
+          "locale": "ms"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "mv",
+      "country": "Maldives",
+      "researchLanguages": [
+        "en"
+      ],
+      "evidenceType": "Public catalog only; no local heat scores",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "ml",
+      "country": "Mali",
+      "researchLanguages": [
+        "fr"
+      ],
+      "evidenceType": "Public catalog only; no local heat scores",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        },
+        {
+          "name": "Screen Time – Canard de garde",
+          "subtitle": "Bloqueur d’apps, vraies pauses",
+          "keywords": "control,scroll,blocker,limite,concentration,minuteur,réseaux,sociaux,détox",
+          "locale": "fr-FR"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "mt",
+      "country": "Malta",
+      "researchLanguages": [
+        "en"
+      ],
+      "evidenceType": "Public catalog only; no local heat scores",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "mr",
+      "country": "Mauritania",
+      "researchLanguages": [
+        "ar",
+        "fr"
+      ],
+      "evidenceType": "Public catalog only; no local heat scores",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        },
+        {
+          "name": "Screen Time – بطّة الحراسة",
+          "subtitle": "حظر التطبيقات واستراحات",
+          "keywords": "وقت الشاشة,تركيز,حدود,مؤقت,app,blocker,control",
+          "locale": "ar-SA"
+        },
+        {
+          "name": "Screen Time – Canard de garde",
+          "subtitle": "Bloqueur d’apps, vraies pauses",
+          "keywords": "control,scroll,blocker,limite,concentration,minuteur,réseaux,sociaux,détox",
+          "locale": "fr-FR"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "mu",
+      "country": "Mauritius",
+      "researchLanguages": [
+        "en",
+        "fr"
+      ],
+      "evidenceType": "Public catalog only; no local heat scores",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        },
+        {
+          "name": "Screen Time – Canard de garde",
+          "subtitle": "Bloqueur d’apps, vraies pauses",
+          "keywords": "control,scroll,blocker,limite,concentration,minuteur,réseaux,sociaux,détox",
+          "locale": "fr-FR"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "mx",
+      "country": "Mexico",
+      "researchLanguages": [
+        "es"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "es-MX",
+      "sharedDrafts": [
+        {
+          "name": "Tiempo en pantalla – Pato",
+          "subtitle": "Bloquear aplicaciones y pausar",
+          "keywords": "límites,concentración,temporizador,redes,sociales,descanso,app,blocker,screen,time,control",
+          "locale": "es-MX"
+        },
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "fm",
+      "country": "Micronesia",
+      "researchLanguages": [
+        "en"
+      ],
+      "evidenceType": "Public catalog only; no local heat scores",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "md",
+      "country": "Moldova",
+      "researchLanguages": [
+        "ro",
+        "ru"
+      ],
+      "evidenceType": "Public catalog only; no local heat scores",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "mn",
+      "country": "Mongolia",
+      "researchLanguages": [
+        "en"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "me",
+      "country": "Montenegro",
+      "researchLanguages": [
+        "en"
+      ],
+      "evidenceType": "Public catalog only; no local heat scores",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        },
+        {
+          "name": "Screen Time – Patka",
+          "subtitle": "Limiti aplikacija i predasi",
+          "keywords": "zaslon,blokiranje,fokus,mobitel,ovisnost,digitalni,detoks,app,blocker,control",
+          "locale": "hr"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "ms",
+      "country": "Montserrat",
+      "researchLanguages": [
+        "en"
+      ],
+      "evidenceType": "Public catalog only; no local heat scores",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "ma",
+      "country": "Morocco",
+      "researchLanguages": [
+        "ar",
+        "fr"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        },
+        {
+          "name": "Screen Time – بطّة الحراسة",
+          "subtitle": "حظر التطبيقات واستراحات",
+          "keywords": "وقت الشاشة,تركيز,حدود,مؤقت,app,blocker,control",
+          "locale": "ar-SA"
+        },
+        {
+          "name": "Screen Time – Canard de garde",
+          "subtitle": "Bloqueur d’apps, vraies pauses",
+          "keywords": "control,scroll,blocker,limite,concentration,minuteur,réseaux,sociaux,détox",
+          "locale": "fr-FR"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "mz",
+      "country": "Mozambique",
+      "researchLanguages": [
+        "pt-PT"
+      ],
+      "evidenceType": "Public catalog only; no local heat scores",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "mm",
+      "country": "Myanmar",
+      "researchLanguages": [
+        "en"
+      ],
+      "evidenceType": "Public catalog only; no local heat scores",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "na",
+      "country": "Namibia",
+      "researchLanguages": [
+        "en"
+      ],
+      "evidenceType": "Public catalog only; no local heat scores",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "nr",
+      "country": "Nauru",
+      "researchLanguages": [
+        "en"
+      ],
+      "evidenceType": "Public catalog only; no local heat scores",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "np",
+      "country": "Nepal",
+      "researchLanguages": [
+        "en"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "nl",
+      "country": "Netherlands",
+      "researchLanguages": [
+        "nl"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "nl-NL",
+      "sharedDrafts": [
+        {
+          "name": "Schermtijd – Eend op wacht",
+          "subtitle": "App Blocker met vaste pauzes",
+          "keywords": "limiet,focus,scrollen,sociale,media,digitale,detox,timer,afleiding,gebruik,screen,time,control",
+          "locale": "nl-NL"
+        },
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "nz",
+      "country": "New Zealand",
+      "researchLanguages": [
+        "en"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "en-AU",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Limits & Focus",
+          "keywords": "scroll,social,media,break,digital,detox,doomscrolling,distraction,timer,self,reduce,stop,control",
+          "locale": "en-AU"
+        },
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "ni",
+      "country": "Nicaragua",
+      "researchLanguages": [
+        "es"
+      ],
+      "evidenceType": "Public catalog only; no local heat scores",
+      "defaultLocaleGroup": "es-MX",
+      "sharedDrafts": [
+        {
+          "name": "Tiempo en pantalla – Pato",
+          "subtitle": "Bloquear aplicaciones y pausar",
+          "keywords": "límites,concentración,temporizador,redes,sociales,descanso,app,blocker,screen,time,control",
+          "locale": "es-MX"
+        },
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "ne",
+      "country": "Niger",
+      "researchLanguages": [
+        "fr"
+      ],
+      "evidenceType": "Public catalog only; no local heat scores",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        },
+        {
+          "name": "Screen Time – Canard de garde",
+          "subtitle": "Bloqueur d’apps, vraies pauses",
+          "keywords": "control,scroll,blocker,limite,concentration,minuteur,réseaux,sociaux,détox",
+          "locale": "fr-FR"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "ng",
+      "country": "Nigeria",
+      "researchLanguages": [
+        "en"
+      ],
+      "evidenceType": "Public catalog only; no local heat scores",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "mk",
+      "country": "North Macedonia",
+      "researchLanguages": [
+        "en"
+      ],
+      "evidenceType": "Public catalog only; no local heat scores",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "no",
+      "country": "Norway",
+      "researchLanguages": [
+        "no",
+        "en"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        },
+        {
+          "name": "Skjermtid – And på vakt",
+          "subtitle": "Blokker apper. Ta en pause.",
+          "keywords": "fokus,mobil,avhengighet,grenser,digital,detox,timer,screen,time,blocker,app,control",
+          "locale": "no"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "om",
+      "country": "Oman",
+      "researchLanguages": [
+        "ar",
+        "en"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        },
+        {
+          "name": "Screen Time – بطّة الحراسة",
+          "subtitle": "حظر التطبيقات واستراحات",
+          "keywords": "وقت الشاشة,تركيز,حدود,مؤقت,app,blocker,control",
+          "locale": "ar-SA"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "pk",
+      "country": "Pakistan",
+      "researchLanguages": [
+        "en"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": [
+        "Urdu"
+      ]
+    },
+    {
+      "store": "pw",
+      "country": "Palau",
+      "researchLanguages": [
+        "en"
+      ],
+      "evidenceType": "Public catalog only; no local heat scores",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "pa",
+      "country": "Panama",
+      "researchLanguages": [
+        "es"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "es-MX",
+      "sharedDrafts": [
+        {
+          "name": "Tiempo en pantalla – Pato",
+          "subtitle": "Bloquear aplicaciones y pausar",
+          "keywords": "límites,concentración,temporizador,redes,sociales,descanso,app,blocker,screen,time,control",
+          "locale": "es-MX"
+        },
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "pg",
+      "country": "Papua New Guinea",
+      "researchLanguages": [
+        "en"
+      ],
+      "evidenceType": "Public catalog only; no local heat scores",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "py",
+      "country": "Paraguay",
+      "researchLanguages": [
+        "es"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "es-MX",
+      "sharedDrafts": [
+        {
+          "name": "Tiempo en pantalla – Pato",
+          "subtitle": "Bloquear aplicaciones y pausar",
+          "keywords": "límites,concentración,temporizador,redes,sociales,descanso,app,blocker,screen,time,control",
+          "locale": "es-MX"
+        },
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "pe",
+      "country": "Peru",
+      "researchLanguages": [
+        "es"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "es-MX",
+      "sharedDrafts": [
+        {
+          "name": "Tiempo en pantalla – Pato",
+          "subtitle": "Bloquear aplicaciones y pausar",
+          "keywords": "límites,concentración,temporizador,redes,sociales,descanso,app,blocker,screen,time,control",
+          "locale": "es-MX"
+        },
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "ph",
+      "country": "Philippines",
+      "researchLanguages": [
+        "en"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "pl",
+      "country": "Poland",
+      "researchLanguages": [
+        "pl",
+        "en"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        },
+        {
+          "name": "Czas przed ekranem – Kaczka",
+          "subtitle": "Blokuj aplikacje, rób przerwy",
+          "keywords": "limit,skupienie,telefon,detoks,cyfrowy,scroll,app,blocker,screen,time,control",
+          "locale": "pl"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "pt",
+      "country": "Portugal",
+      "researchLanguages": [
+        "pt-PT"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "pt-PT",
+      "sharedDrafts": [
+        {
+          "name": "Screen Time – Pato de Vigia",
+          "subtitle": "Limites de apps e pausas",
+          "keywords": "ecrã,control,blocker,telemóvel,foco,bloquear,redes,sociais,detox",
+          "locale": "pt-PT"
+        },
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "qa",
+      "country": "Qatar",
+      "researchLanguages": [
+        "ar",
+        "en"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        },
+        {
+          "name": "Screen Time – بطّة الحراسة",
+          "subtitle": "حظر التطبيقات واستراحات",
+          "keywords": "وقت الشاشة,تركيز,حدود,مؤقت,app,blocker,control",
+          "locale": "ar-SA"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "kr",
+      "country": "Republic of Korea",
+      "researchLanguages": [
+        "ko"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "ko",
+      "sharedDrafts": [
+        {
+          "name": "스크린타임 – 지켜보는 오리",
+          "subtitle": "앱마다 사용 한도와 쉬는 시간을 따로",
+          "keywords": "앱차단,스마트폰중독,집중,타이머,디지털디톡스",
+          "locale": "ko"
+        },
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "ro",
+      "country": "Romania",
+      "researchLanguages": [
+        "ro",
+        "en"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        },
+        {
+          "name": "Screen Time – Rața de pază",
+          "subtitle": "Blochează aplicații, ia pauze",
+          "keywords": "ecran,blocare,concentrare,telefon,dependență,detox,digital,app,blocker,control",
+          "locale": "ro"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "ru",
+      "country": "Russia",
+      "researchLanguages": [
+        "ru"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "ru",
+      "sharedDrafts": [
+        {
+          "name": "Экранное время – Утка на посту",
+          "subtitle": "Лимиты приложений и перерывы",
+          "keywords": "фокус,пауза,таймер,ограничение,screen,time,control,app,blocker",
+          "locale": "ru"
+        },
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        },
+        {
+          "name": "Екранний час – Качка на варті",
+          "subtitle": "Ліміти застосунків і перерви",
+          "keywords": "фокус,таймер,блокування,телефон,screen,time,control,app,blocker",
+          "locale": "uk"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "rw",
+      "country": "Rwanda",
+      "researchLanguages": [
+        "en"
+      ],
+      "evidenceType": "Public catalog only; no local heat scores",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        },
+        {
+          "name": "Screen Time – Canard de garde",
+          "subtitle": "Bloqueur d’apps, vraies pauses",
+          "keywords": "control,scroll,blocker,limite,concentration,minuteur,réseaux,sociaux,détox",
+          "locale": "fr-FR"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "st",
+      "country": "Sao Tome and Principe",
+      "researchLanguages": [
+        "pt-PT"
+      ],
+      "evidenceType": "Public catalog only; no local heat scores",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "sa",
+      "country": "Saudi Arabia",
+      "researchLanguages": [
+        "ar",
+        "en"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        },
+        {
+          "name": "Screen Time – بطّة الحراسة",
+          "subtitle": "حظر التطبيقات واستراحات",
+          "keywords": "وقت الشاشة,تركيز,حدود,مؤقت,app,blocker,control",
+          "locale": "ar-SA"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "sn",
+      "country": "Senegal",
+      "researchLanguages": [
+        "fr"
+      ],
+      "evidenceType": "Public catalog only; no local heat scores",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        },
+        {
+          "name": "Screen Time – Canard de garde",
+          "subtitle": "Bloqueur d’apps, vraies pauses",
+          "keywords": "control,scroll,blocker,limite,concentration,minuteur,réseaux,sociaux,détox",
+          "locale": "fr-FR"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "rs",
+      "country": "Serbia",
+      "researchLanguages": [
+        "en"
+      ],
+      "evidenceType": "Public catalog only; no local heat scores",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        },
+        {
+          "name": "Screen Time – Patka",
+          "subtitle": "Limiti aplikacija i predasi",
+          "keywords": "zaslon,blokiranje,fokus,mobitel,ovisnost,digitalni,detoks,app,blocker,control",
+          "locale": "hr"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "sc",
+      "country": "Seychelles",
+      "researchLanguages": [
+        "en",
+        "fr"
+      ],
+      "evidenceType": "Public catalog only; no local heat scores",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        },
+        {
+          "name": "Screen Time – Canard de garde",
+          "subtitle": "Bloqueur d’apps, vraies pauses",
+          "keywords": "control,scroll,blocker,limite,concentration,minuteur,réseaux,sociaux,détox",
+          "locale": "fr-FR"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "sl",
+      "country": "Sierra Leone",
+      "researchLanguages": [
+        "en"
+      ],
+      "evidenceType": "Public catalog only; no local heat scores",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "sg",
+      "country": "Singapore",
+      "researchLanguages": [
+        "en",
+        "zh-Hans",
+        "ms"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        },
+        {
+          "name": "自觉鸭：戒手机与屏幕使用时间",
+          "subtitle": "少刷社交媒体，应用限时，到点休息",
+          "keywords": "app,blocker,screen,time,control,防沉迷,专注,自律,数字健康,定时,自控力",
+          "locale": "zh-Hans"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "sk",
+      "country": "Slovakia",
+      "researchLanguages": [
+        "sk",
+        "en"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        },
+        {
+          "name": "Screen Time – Kačka",
+          "subtitle": "Limity aplikácií a prestávky",
+          "keywords": "čas,obrazovka,blokovanie,sústredenie,telefón,detox,digitálny,app,blocker,control",
+          "locale": "sk"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "si",
+      "country": "Slovenia",
+      "researchLanguages": [
+        "en"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        },
+        {
+          "name": "Screen Time – Račka",
+          "subtitle": "Omejitve aplikacij in odmori",
+          "keywords": "čas,zaslon,blokiranje,zbranost,telefon,odvisnost,digitalni,detoks,app,blocker,control",
+          "locale": "sl"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "sb",
+      "country": "Solomon Islands",
+      "researchLanguages": [
+        "en"
+      ],
+      "evidenceType": "Public catalog only; no local heat scores",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "za",
+      "country": "South Africa",
+      "researchLanguages": [
+        "en"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "es",
+      "country": "Spain",
+      "researchLanguages": [
+        "es",
+        "ca"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "es-ES",
+      "sharedDrafts": [
+        {
+          "name": "Bloquear aplicaciones – Pato",
+          "subtitle": "Tiempo de pantalla y descansos",
+          "keywords": "concentración,temporizador,redes,sociales,hábitos,pausa,app,blocker,screen,time,control",
+          "locale": "es-ES"
+        },
+        {
+          "name": "Screen Time – Ànec",
+          "subtitle": "Límits d’aplicacions i pauses",
+          "keywords": "temps,pantalla,bloquejar,concentració,mòbil,xarxes,socials,detox,app,blocker,control",
+          "locale": "ca"
+        },
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "lk",
+      "country": "Sri Lanka",
+      "researchLanguages": [
+        "en"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "kn",
+      "country": "St. Kitts and Nevis",
+      "researchLanguages": [
+        "en"
+      ],
+      "evidenceType": "Public catalog only; no local heat scores",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "lc",
+      "country": "St. Lucia",
+      "researchLanguages": [
+        "en"
+      ],
+      "evidenceType": "Public catalog only; no local heat scores",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "vc",
+      "country": "St. Vincent and the Grenadines",
+      "researchLanguages": [
+        "en"
+      ],
+      "evidenceType": "Public catalog only; no local heat scores",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "sr",
+      "country": "Suriname",
+      "researchLanguages": [
+        "en"
+      ],
+      "evidenceType": "Public catalog only; no local heat scores",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        },
+        {
+          "name": "Schermtijd – Eend op wacht",
+          "subtitle": "App Blocker met vaste pauzes",
+          "keywords": "limiet,focus,scrollen,sociale,media,digitale,detox,timer,afleiding,gebruik,screen,time,control",
+          "locale": "nl-NL"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "se",
+      "country": "Sweden",
+      "researchLanguages": [
+        "sv"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "sv",
+      "sharedDrafts": [
+        {
+          "name": "Screen Time – Anka på vakt",
+          "subtitle": "App Blocker, skärmtid & pauser",
+          "keywords": "fokus,scrolla,sociala,medier,digital,detox,timer,vanor,begränsa,control",
+          "locale": "sv"
+        },
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "ch",
+      "country": "Switzerland",
+      "researchLanguages": [
+        "de",
+        "fr",
+        "it"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "de-DE",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Ente im Dienst",
+          "subtitle": "Bildschirmzeit, feste Pausen",
+          "keywords": "fokus,timer,scrollen,handyzeit,sperren,digital,detox,limit,gewohnheit,screen,time,control",
+          "locale": "de-DE"
+        },
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        },
+        {
+          "name": "Screen Time – Canard de garde",
+          "subtitle": "Bloqueur d’apps, vraies pauses",
+          "keywords": "control,scroll,blocker,limite,concentration,minuteur,réseaux,sociaux,détox",
+          "locale": "fr-FR"
+        },
+        {
+          "name": "Tempo di utilizzo – Papero",
+          "subtitle": "Limiti app, pause obbligatorie",
+          "keywords": "concentrazione,timer,digitale,detox,scroll,abitudini,bloccare,screen,time,blocker,control,digital",
+          "locale": "it"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "tw",
+      "country": "Taiwan",
+      "researchLanguages": [
+        "zh-Hant"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "zh-Hant",
+      "sharedDrafts": [
+        {
+          "name": "自覺鴨：戒手機與螢幕使用時間",
+          "subtitle": "少滑社群動態，應用限時，到點休息",
+          "keywords": "app,blocker,screen,time,control,專注,防沉迷,數位健康,自律",
+          "locale": "zh-Hant"
+        },
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "tj",
+      "country": "Tajikistan",
+      "researchLanguages": [
+        "en"
+      ],
+      "evidenceType": "Public catalog only; no local heat scores",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "tz",
+      "country": "Tanzania",
+      "researchLanguages": [
+        "en"
+      ],
+      "evidenceType": "Public catalog only; no local heat scores",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "th",
+      "country": "Thailand",
+      "researchLanguages": [
+        "th",
+        "en"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        },
+        {
+          "name": "Screen Time – เป็ดคุมเวลา",
+          "subtitle": "จำกัดแอป แล้วพักมือถือ",
+          "keywords": "เวลาหน้าจอ,บล็อก,ติดมือถือ,app,blocker",
+          "locale": "th"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "to",
+      "country": "Tonga",
+      "researchLanguages": [
+        "en"
+      ],
+      "evidenceType": "Public catalog only; no local heat scores",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "tt",
+      "country": "Trinidad and Tobago",
+      "researchLanguages": [
+        "en"
+      ],
+      "evidenceType": "Public catalog only; no local heat scores",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        },
+        {
+          "name": "Screen Time – Canard de garde",
+          "subtitle": "Bloqueur d’apps, vraies pauses",
+          "keywords": "control,scroll,blocker,limite,concentration,minuteur,réseaux,sociaux,détox",
+          "locale": "fr-FR"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "tn",
+      "country": "Tunisia",
+      "researchLanguages": [
+        "ar",
+        "fr"
+      ],
+      "evidenceType": "Public catalog only; no local heat scores",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        },
+        {
+          "name": "Screen Time – بطّة الحراسة",
+          "subtitle": "حظر التطبيقات واستراحات",
+          "keywords": "وقت الشاشة,تركيز,حدود,مؤقت,app,blocker,control",
+          "locale": "ar-SA"
+        },
+        {
+          "name": "Screen Time – Canard de garde",
+          "subtitle": "Bloqueur d’apps, vraies pauses",
+          "keywords": "control,scroll,blocker,limite,concentration,minuteur,réseaux,sociaux,détox",
+          "locale": "fr-FR"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "tr",
+      "country": "Türkiye",
+      "researchLanguages": [
+        "tr",
+        "en"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        },
+        {
+          "name": "Ekran Süresi – Nöbetçi Ördek",
+          "subtitle": "Uygulama sınırları ve molalar",
+          "keywords": "engelleme,odak,dijital,detoks,telefon,bağımlılık,app,blocker,screen,time,control",
+          "locale": "tr"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "tm",
+      "country": "Turkmenistan",
+      "researchLanguages": [
+        "en"
+      ],
+      "evidenceType": "Public catalog only; no local heat scores",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "tc",
+      "country": "Turks and Caicos Islands",
+      "researchLanguages": [
+        "en"
+      ],
+      "evidenceType": "Public catalog only; no local heat scores",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "ug",
+      "country": "Uganda",
+      "researchLanguages": [
+        "en"
+      ],
+      "evidenceType": "Public catalog only; no local heat scores",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "ua",
+      "country": "Ukraine",
+      "researchLanguages": [
+        "uk",
+        "ru",
+        "en"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        },
+        {
+          "name": "Экранное время – Утка на посту",
+          "subtitle": "Лимиты приложений и перерывы",
+          "keywords": "фокус,пауза,таймер,ограничение,screen,time,control,app,blocker",
+          "locale": "ru"
+        },
+        {
+          "name": "Екранний час – Качка на варті",
+          "subtitle": "Ліміти застосунків і перерви",
+          "keywords": "фокус,таймер,блокування,телефон,screen,time,control,app,blocker",
+          "locale": "uk"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "ae",
+      "country": "United Arab Emirates",
+      "researchLanguages": [
+        "ar",
+        "en"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        },
+        {
+          "name": "Screen Time – بطّة الحراسة",
+          "subtitle": "حظر التطبيقات واستراحات",
+          "keywords": "وقت الشاشة,تركيز,حدود,مؤقت,app,blocker,control",
+          "locale": "ar-SA"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "gb",
+      "country": "United Kingdom",
+      "researchLanguages": [
+        "en"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "us",
+      "country": "United States",
+      "researchLanguages": [
+        "en"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "en-US",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,digital,detox,doomscrolling,distraction,habit,timer,self,reduce,stop",
+          "locale": "en-US"
+        },
+        {
+          "name": "Screen Time – بطّة الحراسة",
+          "subtitle": "حظر التطبيقات واستراحات",
+          "keywords": "وقت الشاشة,تركيز,حدود,مؤقت,app,blocker,control",
+          "locale": "ar-SA"
+        },
+        {
+          "name": "自觉鸭：戒手机与屏幕使用时间",
+          "subtitle": "少刷社交媒体，应用限时，到点休息",
+          "keywords": "app,blocker,screen,time,control,防沉迷,专注,自律,数字健康,定时,自控力",
+          "locale": "zh-Hans"
+        },
+        {
+          "name": "自覺鴨：戒手機與螢幕使用時間",
+          "subtitle": "少滑社群動態，應用限時，到點休息",
+          "keywords": "app,blocker,screen,time,control,專注,防沉迷,數位健康,自律",
+          "locale": "zh-Hant"
+        },
+        {
+          "name": "Screen Time – Canard de garde",
+          "subtitle": "Bloqueur d’apps, vraies pauses",
+          "keywords": "control,scroll,blocker,limite,concentration,minuteur,réseaux,sociaux,détox",
+          "locale": "fr-FR"
+        },
+        {
+          "name": "스크린타임 – 지켜보는 오리",
+          "subtitle": "앱마다 사용 한도와 쉬는 시간을 따로",
+          "keywords": "앱차단,스마트폰중독,집중,타이머,디지털디톡스",
+          "locale": "ko"
+        },
+        {
+          "name": "Tempo de Tela: Pato de Plantão",
+          "subtitle": "Bloqueie apps e faça pausas",
+          "keywords": "limite,foco,celular,redes,sociais,digital,detox,cronômetro,hábito,screen,time,control,blocker",
+          "locale": "pt-BR"
+        },
+        {
+          "name": "Экранное время – Утка на посту",
+          "subtitle": "Лимиты приложений и перерывы",
+          "keywords": "фокус,пауза,таймер,ограничение,screen,time,control,app,blocker",
+          "locale": "ru"
+        },
+        {
+          "name": "Tiempo en pantalla – Pato",
+          "subtitle": "Bloquear aplicaciones y pausar",
+          "keywords": "límites,concentración,temporizador,redes,sociales,descanso,app,blocker,screen,time,control",
+          "locale": "es-MX"
+        },
+        {
+          "name": "Screen Time – Vịt canh giờ",
+          "subtitle": "Giới hạn ứng dụng, nghỉ ngơi",
+          "keywords": "màn hình,thời gian,tập trung,app,blocker,control",
+          "locale": "vi"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "uy",
+      "country": "Uruguay",
+      "researchLanguages": [
+        "es"
+      ],
+      "evidenceType": "Public catalog only; no local heat scores",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        },
+        {
+          "name": "Tiempo en pantalla – Pato",
+          "subtitle": "Bloquear aplicaciones y pausar",
+          "keywords": "límites,concentración,temporizador,redes,sociales,descanso,app,blocker,screen,time,control",
+          "locale": "es-MX"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "uz",
+      "country": "Uzbekistan",
+      "researchLanguages": [
+        "en",
+        "ru"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "vu",
+      "country": "Vanuatu",
+      "researchLanguages": [
+        "en"
+      ],
+      "evidenceType": "Public catalog only; no local heat scores",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        },
+        {
+          "name": "Screen Time – Canard de garde",
+          "subtitle": "Bloqueur d’apps, vraies pauses",
+          "keywords": "control,scroll,blocker,limite,concentration,minuteur,réseaux,sociaux,détox",
+          "locale": "fr-FR"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "ve",
+      "country": "Venezuela",
+      "researchLanguages": [
+        "es"
+      ],
+      "evidenceType": "Public catalog only; no local heat scores",
+      "defaultLocaleGroup": "es-MX",
+      "sharedDrafts": [
+        {
+          "name": "Tiempo en pantalla – Pato",
+          "subtitle": "Bloquear aplicaciones y pausar",
+          "keywords": "límites,concentración,temporizador,redes,sociales,descanso,app,blocker,screen,time,control",
+          "locale": "es-MX"
+        },
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "vn",
+      "country": "Vietnam",
+      "researchLanguages": [
+        "vi",
+        "en"
+      ],
+      "evidenceType": "Astro metrics and search snapshots",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        },
+        {
+          "name": "Screen Time – Vịt canh giờ",
+          "subtitle": "Giới hạn ứng dụng, nghỉ ngơi",
+          "keywords": "màn hình,thời gian,tập trung,app,blocker,control",
+          "locale": "vi"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "ye",
+      "country": "Yemen",
+      "researchLanguages": [
+        "ar"
+      ],
+      "evidenceType": "Public catalog only; no local heat scores",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        },
+        {
+          "name": "Screen Time – بطّة الحراسة",
+          "subtitle": "حظر التطبيقات واستراحات",
+          "keywords": "وقت الشاشة,تركيز,حدود,مؤقت,app,blocker,control",
+          "locale": "ar-SA"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "zm",
+      "country": "Zambia",
+      "researchLanguages": [
+        "en"
+      ],
+      "evidenceType": "Public catalog only; no local heat scores",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    },
+    {
+      "store": "zw",
+      "country": "Zimbabwe",
+      "researchLanguages": [
+        "en"
+      ],
+      "evidenceType": "Public catalog only; no local heat scores",
+      "defaultLocaleGroup": "en-GB",
+      "sharedDrafts": [
+        {
+          "name": "App Blocker – Duck on Duty",
+          "subtitle": "Screen Time Control & Focus",
+          "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+          "locale": "en-GB"
+        }
+      ],
+      "supportedLanguageLabelsWithoutDraft": []
+    }
+  ]
+}

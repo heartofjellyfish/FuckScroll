@@ -1,0 +1,213 @@
+[
+  {
+    "difficulty": 5,
+    "keyword": "χρόνος οθόνης",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "αποκλεισμός εφαρμογών",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "κλείδωμα εφαρμογών",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "όριο εφαρμογών",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "χρονικό όριο εφαρμογών",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "εθισμός στο κινητό",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "λιγότερο κινητό",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "μείωση χρόνου οθόνης",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "αποκλεισμός social media",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "εθισμός στα social media",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "ψηφιακή αποτοξίνωση",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 15,
+    "keyword": "digital detox",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 11,
+    "keyword": "συγκέντρωση",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "εστίαση",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "αυτοέλεγχος",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "διάλειμμα από το κινητό",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "χρονόμετρο εφαρμογών",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 17,
+    "keyword": "app blocker",
+    "popularity": 35,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 13,
+    "keyword": "screen time",
+    "popularity": 27,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 13,
+    "keyword": "γονικός έλεγχος",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "σταμάτα το σκρολάρισμα",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "χρήση κινητού",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "όρια οθόνης",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "περιορισμός εφαρμογών",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 19,
+    "keyword": "screen time control",
+    "popularity": 28,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "scroll blocker",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 7,
+    "keyword": "stop scrolling",
+    "popularity": 5,
+    "ranking": 22,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 21,
+    "keyword": "social media blocker",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 19,
+    "keyword": "block apps",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 53,
+    "keyword": "app limits",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  }
+]

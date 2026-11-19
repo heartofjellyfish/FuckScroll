@@ -1,0 +1,269 @@
+[
+  {
+    "difficulty": 15,
+    "keyword": "זמן מסך",
+    "popularity": 28,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 7,
+    "keyword": "חסימת אפליקציות",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 9,
+    "keyword": "נעילת אפליקציות",
+    "popularity": 30,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 17,
+    "keyword": "הגבלת אפליקציות",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 17,
+    "keyword": "הגבלת זמן מסך",
+    "popularity": 28,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "התמכרות לטלפון",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "פחות בטלפון",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "צמצום זמן מסך",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "חסימת רשתות חברתיות",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "התמכרות לרשתות חברתיות",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 7,
+    "keyword": "גמילה דיגיטלית",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 15,
+    "keyword": "digital detox",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "ריכוז",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 9,
+    "keyword": "מיקוד",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "שליטה עצמית",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "הפסקה מהטלפון",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "טיימר אפליקציות",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 17,
+    "keyword": "app blocker",
+    "popularity": 24,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 15,
+    "keyword": "screen time",
+    "popularity": 40,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 28,
+    "keyword": "בקרת הורים",
+    "popularity": 51,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "להפסיק לגלול",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "שימוש בטלפון",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "מגבלת זמן",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "שימוש באפליקציות",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 13,
+    "keyword": "وقت الشاشة",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "مدة استخدام الجهاز",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 26,
+    "keyword": "حظر التطبيقات",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 9,
+    "keyword": "قفل التطبيقات",
+    "popularity": 42,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "تقليل وقت الشاشة",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 66,
+    "keyword": "تحديد وقت التطبيقات",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "حدود التطبيقات",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "إدمان الهاتف",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 11,
+    "keyword": "screen time control",
+    "popularity": 24,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 19,
+    "keyword": "scroll blocker",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 11,
+    "keyword": "stop scrolling",
+    "popularity": 5,
+    "ranking": 109,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 54,
+    "keyword": "social media blocker",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 15,
+    "keyword": "block apps",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 17,
+    "keyword": "app limits",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  }
+]

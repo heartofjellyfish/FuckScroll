@@ -1,0 +1,124 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=app+limits&country=af&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "averageUserRating": 4.33333,
+        "trackViewUrl": "https://apps.apple.com/af/app/opal-screen-time-control/id1497465230?uo=4",
+        "artistName": "Opal OS",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "primaryGenreName": "Productivity",
+        "trackId": 1497465230,
+        "trackName": "Opal: Screen Time Control",
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.withopal.opal",
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "userRatingCount": 15,
+        "descriptionSHA256": "79545dcfd9d33edf53d3567fc6a6eb5b582561ed18b9d49245fbff4af0417656"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 3.66667,
+        "trackViewUrl": "https://apps.apple.com/af/app/appblock-app-site-blocker/id1515753232?uo=4",
+        "artistName": "MobileSoft s.r.o.",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "primaryGenreName": "Productivity",
+        "trackId": 1515753232,
+        "trackName": "AppBlock: App & Site Blocker",
+        "currentVersionReleaseDate": "2026-11-11T10:48:39Z",
+        "version": "4.14.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "eu.mobilesoft.appblock",
+        "releaseDate": "2021-08-17T07:00:00Z",
+        "userRatingCount": 3,
+        "descriptionSHA256": "f4e2257d9c85cbaf9cd8496ddc82a9a5d41b2e0440020c527d8b3b8c4bbe4236"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 4.57651,
+        "trackViewUrl": "https://apps.apple.com/af/app/faceapp-perfect-face-editor/id1180884341?uo=4",
+        "artistName": "FaceApp Technology Limited",
+        "genres": [
+          "Photo & Video",
+          "Entertainment"
+        ],
+        "price": 0.0,
+        "primaryGenreName": "Photo & Video",
+        "trackId": 1180884341,
+        "trackName": "FaceApp: Perfect Face Editor",
+        "currentVersionReleaseDate": "2026-11-14T11:50:27Z",
+        "version": "26.10.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "io.faceapp.ios",
+        "releaseDate": "2020-04-10T07:00:00Z",
+        "userRatingCount": 2980,
+        "descriptionSHA256": "7005437c6af00e0dca408ae0b4cfb10ada33cc3e1613352a679a727e504f5036"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 4.42856,
+        "trackViewUrl": "https://apps.apple.com/af/app/parental-control-app-kidslox/id914825567?uo=4",
+        "artistName": "Kidslox Trading Ltd",
+        "genres": [
+          "Lifestyle",
+          "Utilities"
+        ],
+        "price": 0.0,
+        "primaryGenreName": "Lifestyle",
+        "trackId": 914825567,
+        "trackName": "Parental Control App - Kidslox",
+        "currentVersionReleaseDate": "2026-09-15T06:03:44Z",
+        "version": "11.3.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.kidslox.main",
+        "releaseDate": "2020-04-10T07:00:00Z",
+        "userRatingCount": 7,
+        "descriptionSHA256": "d7539daf53bb81a1e94445145b66c140d46f513f2094f6b5fa099f8287fae953"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 4,
+        "trackViewUrl": "https://apps.apple.com/af/app/one-sec-screen-time-focus/id1532875441?uo=4",
+        "artistName": "riedel.wtf apps S.L.",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "primaryGenreName": "Productivity",
+        "trackId": 1532875441,
+        "trackName": "one sec | screen time + focus",
+        "currentVersionReleaseDate": "2026-11-14T18:42:34Z",
+        "version": "6.1.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "wtf.riedel.one-sec",
+        "releaseDate": "2020-09-29T07:00:00Z",
+        "userRatingCount": 4,
+        "descriptionSHA256": "7458286eeec2edf883eec2f9abc49582f9924be2e29f484b82b1014b4b2a0462"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "ab8cd6111a6a679a650220104a9caa5b1bf88e70cb772f44ef19a5740c522643",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

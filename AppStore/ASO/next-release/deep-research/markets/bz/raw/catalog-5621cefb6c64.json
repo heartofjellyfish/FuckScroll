@@ -1,0 +1,123 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=app+limits&country=bz&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "artistName": "MobileSoft s.r.o.",
+        "price": 0.0,
+        "trackId": 1515753232,
+        "trackName": "AppBlock: App & Site Blocker",
+        "currentVersionReleaseDate": "2026-11-11T10:48:39Z",
+        "version": "4.14.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/bz/app/appblock-app-site-blocker/id1515753232?uo=4",
+        "averageUserRating": 0,
+        "primaryGenreName": "Productivity",
+        "bundleId": "eu.mobilesoft.appblock",
+        "releaseDate": "2021-08-17T07:00:00Z",
+        "userRatingCount": 0,
+        "descriptionSHA256": "f4e2257d9c85cbaf9cd8496ddc82a9a5d41b2e0440020c527d8b3b8c4bbe4236"
+      },
+      {
+        "kind": "software",
+        "genres": [
+          "Lifestyle",
+          "Utilities"
+        ],
+        "artistName": "Kidslox Trading Ltd",
+        "price": 0.0,
+        "trackId": 914825567,
+        "trackName": "Parental Control App - Kidslox",
+        "currentVersionReleaseDate": "2026-09-15T06:03:44Z",
+        "version": "11.3.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/bz/app/parental-control-app-kidslox/id914825567?uo=4",
+        "averageUserRating": 5,
+        "primaryGenreName": "Lifestyle",
+        "bundleId": "com.kidslox.main",
+        "releaseDate": "2014-09-23T23:23:11Z",
+        "userRatingCount": 6,
+        "descriptionSHA256": "d7539daf53bb81a1e94445145b66c140d46f513f2094f6b5fa099f8287fae953"
+      },
+      {
+        "kind": "software",
+        "genres": [
+          "Utilities"
+        ],
+        "artistName": "KINGSMEN VIETNAM COMPANY LIMITED",
+        "price": 0.0,
+        "trackId": 1616433953,
+        "trackName": "App Lock, Hide App & Lock Apps",
+        "currentVersionReleaseDate": "2022-11-09T19:44:17Z",
+        "version": "1.6",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/bz/app/app-lock-hide-app-lock-apps/id1616433953?uo=4",
+        "averageUserRating": 4.38095,
+        "primaryGenreName": "Utilities",
+        "bundleId": "com.kingsmen.lockdatamanager",
+        "releaseDate": "2022-03-30T07:00:00Z",
+        "userRatingCount": 21,
+        "descriptionSHA256": "a9a10fab975dea91f7d622ac28f56cc89c7ac676e92e3c3e0d06fd1a1df131e8"
+      },
+      {
+        "kind": "software",
+        "genres": [
+          "Medical",
+          "Education"
+        ],
+        "artistName": "Philips Digital UK Limited",
+        "price": 0.0,
+        "trackId": 505864483,
+        "trackName": "Pregnancy + | Tracker App",
+        "currentVersionReleaseDate": "2026-11-16T12:57:15Z",
+        "version": "8.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/bz/app/pregnancy-tracker-app/id505864483?uo=4",
+        "averageUserRating": 4.85714,
+        "primaryGenreName": "Medical",
+        "bundleId": "com.HP.PregnancyiPhonelite",
+        "releaseDate": "2012-04-05T21:54:25Z",
+        "userRatingCount": 7,
+        "descriptionSHA256": "64a0ea2bc1ec0355797c806cc7161d052b88e2722420f3edfe25e7b433de2d98"
+      },
+      {
+        "kind": "software",
+        "genres": [
+          "Social Networking",
+          "Lifestyle"
+        ],
+        "artistName": "Luxy Inc.",
+        "price": 0.0,
+        "trackId": 873518909,
+        "trackName": "Luxy: Selective Singles Dating",
+        "currentVersionReleaseDate": "2026-11-16T02:57:45Z",
+        "version": "7.37.2",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/bz/app/luxy-selective-singles-dating/id873518909?uo=4",
+        "averageUserRating": 4.73332,
+        "primaryGenreName": "Social Networking",
+        "bundleId": "US.Luxy.Luxy",
+        "releaseDate": "2014-08-14T03:20:47Z",
+        "userRatingCount": 30,
+        "descriptionSHA256": "3510e78cf756d4d785d9703032c34b621b25192ee0ee9d6bbee34219ff93fa76"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "5da596d09d972114dc900e2ef218bf0f4a03624fdb771a9f5ae98a3f5740b868",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

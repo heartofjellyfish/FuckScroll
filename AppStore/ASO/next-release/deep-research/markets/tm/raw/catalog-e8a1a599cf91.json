@@ -1,0 +1,122 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=screen+time+control&country=tm&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "artistName": "ScreenZen LLC",
+        "bundleId": "com.scottharvey.screenzenapp.ios",
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2021-07-16T07:00:00Z",
+        "currentVersionReleaseDate": "2026-09-06T14:20:14Z",
+        "version": "4.0.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/tm/app/screenzen-screen-time-control/id1541027222?uo=4",
+        "trackId": 1541027222,
+        "trackName": "ScreenZen- Screen Time Control",
+        "price": 0.0,
+        "userRatingCount": 0,
+        "descriptionSHA256": "def0cb7cf41c8f7b1619d270d38fe8aa23859b81147ae63a1041bc0a1b7f8cc8"
+      },
+      {
+        "kind": "software",
+        "genres": [
+          "Productivity",
+          "Utilities"
+        ],
+        "artistName": "文 熊",
+        "bundleId": "com.magicplugin.offscreen.mask.ios",
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2023-05-08T07:00:00Z",
+        "currentVersionReleaseDate": "2024-10-25T18:57:31Z",
+        "version": "1.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 5,
+        "trackViewUrl": "https://apps.apple.com/tm/app/xlocker-screen-time-limit/id6446263551?uo=4",
+        "trackId": 6446263551,
+        "trackName": "XLocker - Screen Time Limit",
+        "price": 0.0,
+        "userRatingCount": 2,
+        "descriptionSHA256": "dbbb78670248f40bc2c3917726bd4292331c74ab81754d54d1c9606f11efb8af"
+      },
+      {
+        "kind": "software",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "artistName": "Opal OS",
+        "bundleId": "com.withopal.opal",
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 4.66667,
+        "trackViewUrl": "https://apps.apple.com/tm/app/opal-screen-time-control/id1497465230?uo=4",
+        "trackId": 1497465230,
+        "trackName": "Opal: Screen Time Control",
+        "price": 0.0,
+        "userRatingCount": 3,
+        "descriptionSHA256": "79545dcfd9d33edf53d3567fc6a6eb5b582561ed18b9d49245fbff4af0417656"
+      },
+      {
+        "kind": "software",
+        "genres": [
+          "Productivity"
+        ],
+        "artistName": "Lilucat",
+        "bundleId": "com.lilucat.screentimecontrolapp",
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2026-02-04T08:00:00Z",
+        "currentVersionReleaseDate": "2026-02-05T10:46:49Z",
+        "version": "1.0.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/tm/app/screen-time-control-app/id6758152591?uo=4",
+        "trackId": 6758152591,
+        "trackName": "Screen Time Control App",
+        "price": 0.0,
+        "userRatingCount": 0,
+        "descriptionSHA256": "73855fbd83a22d7946f0ce5107729b4028b30b37ce29884fb4ea1b7337a423df"
+      },
+      {
+        "kind": "software",
+        "genres": [
+          "Productivity"
+        ],
+        "artistName": "Deebex Tech Ltd.",
+        "bundleId": "com.idreamdesign.screen",
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2023-10-10T07:00:00Z",
+        "currentVersionReleaseDate": "2026-08-13T00:04:05Z",
+        "version": "3.0.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/tm/app/app-blocker-screen-time/id6456942073?uo=4",
+        "trackId": 6456942073,
+        "trackName": "App Blocker - Screen Time",
+        "price": 0.0,
+        "userRatingCount": 0,
+        "descriptionSHA256": "97f0576b3c2db9b58153d327b549d41dd39cce7ace43d700c29f2becd85cf727"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "5fd9b06bae5a0a421f35878c6903525598d25385eb0d0261f3725f206594deb0",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

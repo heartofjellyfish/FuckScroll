@@ -1,0 +1,21 @@
+{
+  "locale": "ko",
+  "store": "kr",
+  "proposedName": "스크린타임 – 지켜보는 오리",
+  "limitations": "A public top-five name search, not App Store Connect reservation or trademark clearance.",
+  "response": {
+    "id": "5561fcb9-3a63-48b7-a597-a0ed89a5ccc5",
+    "jsonrpc": "2.0",
+    "result": {
+      "content": [
+        {
+          "text": "{\n  \"apps\" : [\n\n  ],\n  \"keyword\" : \"스크린타임 – 지켜보는 오리\",\n  \"platform\" : \"iphone\",\n  \"store\" : \"kr\",\n  \"totalResults\" : 0\n}",
+          "type": "text"
+        }
+      ],
+      "isError": false
+    }
+  },
+  "error": null,
+  "exactOtherAppMatches": []
+}

@@ -1,0 +1,123 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=app+limits&country=kn&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "currentVersionReleaseDate": "2026-11-11T10:48:39Z",
+        "artistName": "MobileSoft s.r.o.",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "bundleId": "eu.mobilesoft.appblock",
+        "trackId": 1515753232,
+        "trackName": "AppBlock: App & Site Blocker",
+        "releaseDate": "2021-08-17T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "version": "4.14.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/kn/app/appblock-app-site-blocker/id1515753232?uo=4",
+        "averageUserRating": 0,
+        "userRatingCount": 0,
+        "descriptionSHA256": "f4e2257d9c85cbaf9cd8496ddc82a9a5d41b2e0440020c527d8b3b8c4bbe4236"
+      },
+      {
+        "kind": "software",
+        "currentVersionReleaseDate": "2026-11-16T02:57:45Z",
+        "artistName": "Luxy Inc.",
+        "genres": [
+          "Social Networking",
+          "Lifestyle"
+        ],
+        "price": 0.0,
+        "bundleId": "US.Luxy.Luxy",
+        "trackId": 873518909,
+        "trackName": "Luxy: Selective Singles Dating",
+        "releaseDate": "2014-08-14T03:20:47Z",
+        "primaryGenreName": "Social Networking",
+        "version": "7.37.2",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/kn/app/luxy-selective-singles-dating/id873518909?uo=4",
+        "averageUserRating": 4.77778,
+        "userRatingCount": 9,
+        "descriptionSHA256": "3510e78cf756d4d785d9703032c34b621b25192ee0ee9d6bbee34219ff93fa76"
+      },
+      {
+        "kind": "software",
+        "currentVersionReleaseDate": "2026-09-15T06:03:44Z",
+        "artistName": "Kidslox Trading Ltd",
+        "genres": [
+          "Lifestyle",
+          "Utilities"
+        ],
+        "price": 0.0,
+        "bundleId": "com.kidslox.main",
+        "trackId": 914825567,
+        "trackName": "Parental Control App - Kidslox",
+        "releaseDate": "2014-09-23T23:23:11Z",
+        "primaryGenreName": "Lifestyle",
+        "version": "11.3.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/kn/app/parental-control-app-kidslox/id914825567?uo=4",
+        "averageUserRating": 1,
+        "userRatingCount": 1,
+        "descriptionSHA256": "d7539daf53bb81a1e94445145b66c140d46f513f2094f6b5fa099f8287fae953"
+      },
+      {
+        "kind": "software",
+        "currentVersionReleaseDate": "2022-11-09T19:44:17Z",
+        "artistName": "KINGSMEN VIETNAM COMPANY LIMITED",
+        "genres": [
+          "Utilities"
+        ],
+        "price": 0.0,
+        "bundleId": "com.kingsmen.lockdatamanager",
+        "trackId": 1616433953,
+        "trackName": "App Lock, Hide App & Lock Apps",
+        "releaseDate": "2022-03-30T07:00:00Z",
+        "primaryGenreName": "Utilities",
+        "version": "1.6",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/kn/app/app-lock-hide-app-lock-apps/id1616433953?uo=4",
+        "averageUserRating": 2,
+        "userRatingCount": 1,
+        "descriptionSHA256": "a9a10fab975dea91f7d622ac28f56cc89c7ac676e92e3c3e0d06fd1a1df131e8"
+      },
+      {
+        "kind": "software",
+        "currentVersionReleaseDate": "2026-11-16T09:20:20Z",
+        "artistName": "Bumble Holding Limited",
+        "genres": [
+          "Lifestyle",
+          "Social Networking"
+        ],
+        "price": 0.0,
+        "bundleId": "com.moxco.bumble",
+        "trackId": 930441707,
+        "trackName": "Bumble Dating app: Chat & Date",
+        "releaseDate": "2015-01-08T17:03:26Z",
+        "primaryGenreName": "Lifestyle",
+        "version": "5.488.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/kn/app/bumble-dating-app-chat-date/id930441707?uo=4",
+        "averageUserRating": 4.4516,
+        "userRatingCount": 31,
+        "descriptionSHA256": "0c691e619a6d116ee27372112ef01611508fd040341d732f93eab2479f1c6680"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "86dff3621b4ce0f13633610545b885a8a34695e8152b176c3778b2d1f7fbf688",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

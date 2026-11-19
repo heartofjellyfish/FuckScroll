@@ -1,0 +1,124 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=contr%C3%B4le+du+temps+d%E2%80%99%C3%A9cran&country=ci&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/ci/app/opal-temps-d%C3%A9cran-et-focus/id1497465230?uo=4",
+        "averageUserRating": 4.56707,
+        "artistName": "Opal OS",
+        "genres": [
+          "Productivité",
+          "Forme et santé"
+        ],
+        "price": 0.0,
+        "bundleId": "com.withopal.opal",
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackName": "Opal: Temps d'écran et Focus",
+        "trackId": 1497465230,
+        "userRatingCount": 164,
+        "descriptionSHA256": "c0fba23699dd09c567f31251e42122228bee0170b55079e3167ec7297b90a927"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/ci/app/contr%C3%B4le-parental-airdroid/id1525339567?uo=4",
+        "averageUserRating": 4.73529,
+        "artistName": "SAND STUDIO CORPORATION LIMITED",
+        "genres": [
+          "Style de vie",
+          "Utilitaires"
+        ],
+        "price": 0.0,
+        "bundleId": "com.sandstudio.cp-parent",
+        "releaseDate": "2022-06-07T07:00:00Z",
+        "primaryGenreName": "Lifestyle",
+        "currentVersionReleaseDate": "2026-11-05T07:26:27Z",
+        "version": "2.9.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackName": "Contrôle Parental AirDroid",
+        "trackId": 1525339567,
+        "userRatingCount": 34,
+        "descriptionSHA256": "72ac698e97b6996330a4667c5f501073cc25a5a5882b906df098dfc1ef05bea0"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/ci/app/xlocker-temps-d%C3%A9cran/id6447595893?uo=4",
+        "averageUserRating": 4,
+        "artistName": "Nanjing Mairui Software Development Co., Ltd.",
+        "genres": [
+          "Éducation",
+          "Utilitaires"
+        ],
+        "price": 0.0,
+        "bundleId": "com.omi.utility.app.locker",
+        "releaseDate": "2023-05-15T07:00:00Z",
+        "primaryGenreName": "Education",
+        "currentVersionReleaseDate": "2026-11-17T15:58:16Z",
+        "version": "2.0.15",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackName": "XLocker - Temps d’écran",
+        "trackId": 6447595893,
+        "userRatingCount": 1,
+        "descriptionSHA256": "58fb219c7f05630279efb18521806f0e2700a6e7631431948cb1e6efef1a51f1"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/ci/app/fammy-temps-d%C3%A9cran/id1559132457?uo=4",
+        "averageUserRating": 0,
+        "artistName": "Shenzhen Wondershare Software Co., Ltd",
+        "genres": [
+          "Style de vie",
+          "Éducation"
+        ],
+        "price": 0.0,
+        "bundleId": "com.wondershare.parentalcontrolkid",
+        "releaseDate": "2021-05-19T07:00:00Z",
+        "primaryGenreName": "Lifestyle",
+        "currentVersionReleaseDate": "2026-10-19T01:10:29Z",
+        "version": "9.1.5",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackName": "Fammy - Temps d'écran",
+        "trackId": 1559132457,
+        "userRatingCount": 0,
+        "descriptionSHA256": "79761a87036ad8097bae78b6d254af1116fa8cabda94e34f30826402ba8b3016"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/ci/app/contr%C3%B4le-du-temps-d%C3%A9cran/id6749958149?uo=4",
+        "averageUserRating": 0,
+        "artistName": "Virginijus Makauskas",
+        "genres": [
+          "Productivité",
+          "Forme et santé"
+        ],
+        "price": 0.0,
+        "bundleId": "com.screentime.contr.app",
+        "releaseDate": "2025-10-24T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-08-24T20:02:05Z",
+        "version": "1.0.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackName": "Contrôle du Temps D'écran",
+        "trackId": 6749958149,
+        "userRatingCount": 0,
+        "descriptionSHA256": "c189aeb38c3dd6aee2efef9ed20817ebbbf5b5806fd5ca5cc97fecf3d5dd9b00"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "c3ed9ad37c6f8b9195d2188f6781c52107838a4a6936ec389d7a40cfd2d2db85",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

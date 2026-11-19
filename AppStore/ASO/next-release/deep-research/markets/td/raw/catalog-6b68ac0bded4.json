@@ -1,0 +1,124 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=bloqueur+d%E2%80%99apps&country=td&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "artistName": "INNOXAPPS LLP",
+        "genres": [
+          "Productivity",
+          "Utilities"
+        ],
+        "price": 0.0,
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2023-01-26T08:00:00Z",
+        "trackId": 1658592224,
+        "trackName": "Stay Focused Limit Screen Time",
+        "currentVersionReleaseDate": "2026-10-01T19:56:32Z",
+        "version": "7.0.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.stayfocused",
+        "averageUserRating": 4,
+        "trackViewUrl": "https://apps.apple.com/td/app/stay-focused-limit-screen-time/id1658592224?uo=4",
+        "userRatingCount": 1,
+        "descriptionSHA256": "c6d9d0807b708d9300a29659be1fef96ca3c2eee1fb6dd681f38e56a946ce76c"
+      },
+      {
+        "kind": "software",
+        "artistName": "Rayane Sahi",
+        "genres": [
+          "Reference",
+          "Productivity"
+        ],
+        "price": 0.0,
+        "primaryGenreName": "Reference",
+        "releaseDate": "2025-10-09T07:00:00Z",
+        "trackId": 6748571304,
+        "trackName": "SalahScreen: Prayer Focus",
+        "currentVersionReleaseDate": "2026-09-02T14:13:01Z",
+        "version": "2.0.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "Zikr.SalahScreen",
+        "averageUserRating": 5,
+        "trackViewUrl": "https://apps.apple.com/td/app/salahscreen-prayer-focus/id6748571304?uo=4",
+        "userRatingCount": 1,
+        "descriptionSHA256": "f480e39c00f75ad4ff40ceb47efb6b1c044e6849c1d15aab31a66b5a510b84e9"
+      },
+      {
+        "kind": "software",
+        "artistName": "CallApp",
+        "genres": [
+          "Utilities",
+          "Productivity"
+        ],
+        "price": 0.0,
+        "primaryGenreName": "Utilities",
+        "releaseDate": "2025-10-15T07:00:00Z",
+        "trackId": 6739289261,
+        "trackName": "CallApp: Caller ID & Block",
+        "currentVersionReleaseDate": "2026-11-16T06:52:43Z",
+        "version": "1.29",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.callapp.contacts",
+        "averageUserRating": 4.4,
+        "trackViewUrl": "https://apps.apple.com/td/app/callapp-caller-id-block/id6739289261?uo=4",
+        "userRatingCount": 5,
+        "descriptionSHA256": "b7f2207593fc05fa4be803a7d37746e713c658cc1e610d9617c9f7f75c37b64c"
+      },
+      {
+        "kind": "software",
+        "artistName": "Hakan Yigit Unac",
+        "genres": [
+          "Health & Fitness",
+          "Productivity"
+        ],
+        "price": 0.0,
+        "primaryGenreName": "Health & Fitness",
+        "releaseDate": "2026-05-14T07:00:00Z",
+        "trackId": 6761304507,
+        "trackName": "App Blocker: SoberLock",
+        "currentVersionReleaseDate": "2026-08-20T21:34:29Z",
+        "version": "1.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.app.hakanyigitunac.SoberLock",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/td/app/app-blocker-soberlock/id6761304507?uo=4",
+        "userRatingCount": 0,
+        "descriptionSHA256": "9be8b212248d5d46d146b18655c8842f4c0217bd7b8353124cd8c0791882097a"
+      },
+      {
+        "kind": "software",
+        "artistName": "KOTARO OMORI",
+        "genres": [
+          "Productivity",
+          "Utilities"
+        ],
+        "price": 0.0,
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2026-02-18T08:00:00Z",
+        "trackId": 6758347792,
+        "trackName": "App Blocker for Distractions",
+        "currentVersionReleaseDate": "2026-04-17T17:31:41Z",
+        "version": "1.03",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.homia.time",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/td/app/app-blocker-for-distractions/id6758347792?uo=4",
+        "userRatingCount": 0,
+        "descriptionSHA256": "31d89f4402e58a5f2847050d88cf2ec4a656eff9fa53f82a1fe2103ad957271a"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "d94c5c7b5af0db125cacbb4b50a980bbdb9df2daac5c646cf42e4802698f47c9",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

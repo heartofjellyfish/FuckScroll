@@ -1,0 +1,21 @@
+{
+  "locale": "ar-SA",
+  "store": "sa",
+  "proposedName": "Screen Time – بطّة الحراسة",
+  "limitations": "A public top-five name search, not App Store Connect reservation or trademark clearance.",
+  "response": {
+    "id": "aca5ad25-9f9d-4296-a23a-210211941f4e",
+    "jsonrpc": "2.0",
+    "result": {
+      "content": [
+        {
+          "text": "{\n  \"apps\" : [\n\n  ],\n  \"keyword\" : \"Screen Time – بطّة الحراسة\",\n  \"platform\" : \"iphone\",\n  \"store\" : \"sa\",\n  \"totalResults\" : 0\n}",
+          "type": "text"
+        }
+      ],
+      "isError": false
+    }
+  },
+  "error": null,
+  "exactOtherAppMatches": []
+}

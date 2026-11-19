@@ -1,0 +1,124 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=bloqueur+d%E2%80%99apps&country=cg&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/cg/app/callapp-caller-id-block/id6739289261?uo=4",
+        "averageUserRating": 4.02439,
+        "currentVersionReleaseDate": "2026-11-16T06:52:43Z",
+        "price": 0.0,
+        "artistName": "CallApp",
+        "trackId": 6739289261,
+        "trackName": "CallApp: Caller ID & Block",
+        "bundleId": "com.callapp.contacts",
+        "releaseDate": "2025-10-15T07:00:00Z",
+        "primaryGenreName": "Utilities",
+        "version": "1.29",
+        "wrapperType": "software",
+        "currency": "USD",
+        "genres": [
+          "Utilities",
+          "Productivity"
+        ],
+        "userRatingCount": 41,
+        "descriptionSHA256": "b7f2207593fc05fa4be803a7d37746e713c658cc1e610d9617c9f7f75c37b64c"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/cg/app/stay-focused-limit-screen-time/id1658592224?uo=4",
+        "averageUserRating": 0,
+        "currentVersionReleaseDate": "2026-10-01T19:56:32Z",
+        "price": 0.0,
+        "artistName": "INNOXAPPS LLP",
+        "trackId": 1658592224,
+        "trackName": "Stay Focused Limit Screen Time",
+        "bundleId": "com.stayfocused",
+        "releaseDate": "2023-01-26T08:00:00Z",
+        "primaryGenreName": "Productivity",
+        "version": "7.0.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "genres": [
+          "Productivity",
+          "Utilities"
+        ],
+        "userRatingCount": 0,
+        "descriptionSHA256": "c6d9d0807b708d9300a29659be1fef96ca3c2eee1fb6dd681f38e56a946ce76c"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/cg/app/app-blocker-soberlock/id6761304507?uo=4",
+        "averageUserRating": 0,
+        "currentVersionReleaseDate": "2026-08-20T21:34:29Z",
+        "price": 0.0,
+        "artistName": "Hakan Yigit Unac",
+        "trackId": 6761304507,
+        "trackName": "App Blocker: SoberLock",
+        "bundleId": "com.app.hakanyigitunac.SoberLock",
+        "releaseDate": "2026-05-14T07:00:00Z",
+        "primaryGenreName": "Health & Fitness",
+        "version": "1.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "genres": [
+          "Health & Fitness",
+          "Productivity"
+        ],
+        "userRatingCount": 0,
+        "descriptionSHA256": "9be8b212248d5d46d146b18655c8842f4c0217bd7b8353124cd8c0791882097a"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/cg/app/app-blocker-for-distractions/id6758347792?uo=4",
+        "averageUserRating": 0,
+        "currentVersionReleaseDate": "2026-04-17T17:31:41Z",
+        "price": 0.0,
+        "artistName": "KOTARO OMORI",
+        "trackId": 6758347792,
+        "trackName": "App Blocker for Distractions",
+        "bundleId": "com.homia.time",
+        "releaseDate": "2026-02-18T08:00:00Z",
+        "primaryGenreName": "Productivity",
+        "version": "1.03",
+        "wrapperType": "software",
+        "currency": "USD",
+        "genres": [
+          "Productivity",
+          "Utilities"
+        ],
+        "userRatingCount": 0,
+        "descriptionSHA256": "31d89f4402e58a5f2847050d88cf2ec4a656eff9fa53f82a1fe2103ad957271a"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/cg/app/app-blocker-stickly/id6756774401?uo=4",
+        "averageUserRating": 0,
+        "currentVersionReleaseDate": "2026-10-10T07:30:40Z",
+        "price": 0.0,
+        "artistName": "Wystone LLC",
+        "trackId": 6756774401,
+        "trackName": "App Blocker - Stickly",
+        "bundleId": "com.wystone.Stickly",
+        "releaseDate": "2025-12-23T08:00:00Z",
+        "primaryGenreName": "Productivity",
+        "version": "3.3.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "userRatingCount": 0,
+        "descriptionSHA256": "077d71db63acbac1c3b6755a08e37364cc286d67b056adc0ae4b1e4faa577e27"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "06523600da90a845f543777fed0a91cfaacedfb53e98ca8f8e2522daf48797f0",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

@@ -1,0 +1,123 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=screen+time+control&country=lr&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/lr/app/opal-screen-time-control/id1497465230?uo=4",
+        "averageUserRating": 4.5,
+        "bundleId": "com.withopal.opal",
+        "price": 0.0,
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "artistName": "Opal OS",
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackId": 1497465230,
+        "trackName": "Opal: Screen Time Control",
+        "userRatingCount": 6,
+        "descriptionSHA256": "79545dcfd9d33edf53d3567fc6a6eb5b582561ed18b9d49245fbff4af0417656"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/lr/app/screenzen-screen-time-control/id1541027222?uo=4",
+        "averageUserRating": 0,
+        "bundleId": "com.scottharvey.screenzenapp.ios",
+        "price": 0.0,
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "artistName": "ScreenZen LLC",
+        "releaseDate": "2021-07-16T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-09-06T14:20:14Z",
+        "version": "4.0.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackId": 1541027222,
+        "trackName": "ScreenZen- Screen Time Control",
+        "userRatingCount": 0,
+        "descriptionSHA256": "def0cb7cf41c8f7b1619d270d38fe8aa23859b81147ae63a1041bc0a1b7f8cc8"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/lr/app/one-sec-screen-time-focus/id1532875441?uo=4",
+        "averageUserRating": 0,
+        "bundleId": "wtf.riedel.one-sec",
+        "price": 0.0,
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "artistName": "riedel.wtf apps S.L.",
+        "releaseDate": "2020-09-29T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-14T18:42:34Z",
+        "version": "6.1.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackId": 1532875441,
+        "trackName": "one sec | screen time + focus",
+        "userRatingCount": 0,
+        "descriptionSHA256": "7458286eeec2edf883eec2f9abc49582f9924be2e29f484b82b1014b4b2a0462"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/lr/app/screen-time-control-blucky/id6758042278?uo=4",
+        "averageUserRating": 0,
+        "bundleId": "com.dpmapps.blucky",
+        "price": 0.0,
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "artistName": "DPM APPS LP",
+        "releaseDate": "2026-03-27T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-08-17T13:29:57Z",
+        "version": "1.10",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackId": 6758042278,
+        "trackName": "Screen Time Control - Blucky",
+        "userRatingCount": 0,
+        "descriptionSHA256": "0922021d7937c732f3f668809681d6792a39f63469a0e848ea5b9fcb7444ac71"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/lr/app/screen-time-control-app/id6758152591?uo=4",
+        "averageUserRating": 0,
+        "bundleId": "com.lilucat.screentimecontrolapp",
+        "price": 0.0,
+        "genres": [
+          "Productivity"
+        ],
+        "artistName": "Lilucat",
+        "releaseDate": "2026-02-04T08:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-02-05T10:46:49Z",
+        "version": "1.0.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackId": 6758152591,
+        "trackName": "Screen Time Control App",
+        "userRatingCount": 0,
+        "descriptionSHA256": "73855fbd83a22d7946f0ce5107729b4028b30b37ce29884fb4ea1b7337a423df"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "8d3f58798feb8e67608cd50d2446fcb405ec7c540f475e6c86bb0f70c180732e",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

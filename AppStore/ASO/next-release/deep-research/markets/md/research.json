@@ -1,0 +1,334 @@
+{
+  "store": "md",
+  "country": "Moldova",
+  "defaultLanguage": "English (U.K.)",
+  "additionalLanguages": "",
+  "languages": [
+    "ro",
+    "ru"
+  ],
+  "candidates": [
+    "timp de ecran",
+    "blocare aplicații",
+    "blocator aplicații",
+    "blocare telefon",
+    "limită aplicații",
+    "limită de timp aplicații",
+    "dependență de telefon",
+    "mai puțin telefon",
+    "reducere timp de ecran",
+    "blocare rețele sociale",
+    "dependență de social media",
+    "detox digital",
+    "digital detox",
+    "concentrare",
+    "focalizare",
+    "autocontrol",
+    "pauză de telefon",
+    "temporizator aplicații",
+    "app blocker",
+    "screen time",
+    "control parental",
+    "oprește derularea",
+    "utilizare telefon",
+    "limite de ecran",
+    "экранное время",
+    "блокировка приложений",
+    "таймер приложений",
+    "цифровой детокс",
+    "лимит приложений",
+    "ограничение приложений",
+    "ограничение времени",
+    "зависимость от телефона",
+    "screen time control",
+    "scroll blocker"
+  ],
+  "astroSupported": false,
+  "catalogQueries": [
+    "timp de ecran",
+    "blocare aplicații",
+    "blocator aplicații",
+    "blocare telefon",
+    "limită aplicații",
+    "limită de timp aplicații",
+    "app blocker",
+    "screen time"
+  ],
+  "source": "Apple public software catalog search; not native App Store SERP or Astro metrics",
+  "metrics": [],
+  "searches": [
+    {
+      "query": "timp de ecran",
+      "apps": [
+        {
+          "appStoreId": "6762204162",
+          "name": "Pana La Sange",
+          "catalogPosition": 1,
+          "subtitle": null,
+          "averageRating": 0,
+          "ratingCount": 0,
+          "trackViewUrl": "https://apps.apple.com/md/app/pana-la-sange/id6762204162?uo=4"
+        }
+      ],
+      "source": "deep-research/markets/md/raw/catalog-2f8069aa22dd.json",
+      "error": null
+    },
+    {
+      "query": "blocare aplicații",
+      "apps": [
+        {
+          "appStoreId": "388627783",
+          "name": "CamScanner - PDF Scanner App",
+          "catalogPosition": 1,
+          "subtitle": null,
+          "averageRating": 4.89879,
+          "ratingCount": 2085,
+          "trackViewUrl": "https://apps.apple.com/md/app/camscanner-pdf-scanner-app/id388627783?uo=4"
+        },
+        {
+          "appStoreId": "686449807",
+          "name": "Telegram Messenger",
+          "catalogPosition": 2,
+          "subtitle": null,
+          "averageRating": 3.91026,
+          "ratingCount": 2028,
+          "trackViewUrl": "https://apps.apple.com/md/app/telegram-messenger/id686449807?uo=4"
+        },
+        {
+          "appStoreId": "698255242",
+          "name": "Geometry Dash Lite",
+          "catalogPosition": 3,
+          "subtitle": null,
+          "averageRating": 3.96861,
+          "ratingCount": 446,
+          "trackViewUrl": "https://apps.apple.com/md/app/geometry-dash-lite/id698255242?uo=4"
+        },
+        {
+          "appStoreId": "1102415991",
+          "name": "RealmCraft: mine & craft world",
+          "catalogPosition": 4,
+          "subtitle": null,
+          "averageRating": 4.45514,
+          "ratingCount": 613,
+          "trackViewUrl": "https://apps.apple.com/md/app/realmcraft-mine-craft-world/id1102415991?uo=4"
+        },
+        {
+          "appStoreId": "1617391485",
+          "name": "Block Blast!",
+          "catalogPosition": 5,
+          "subtitle": null,
+          "averageRating": 4.78908,
+          "ratingCount": 3902,
+          "trackViewUrl": "https://apps.apple.com/md/app/block-blast/id1617391485?uo=4"
+        }
+      ],
+      "source": "deep-research/markets/md/raw/catalog-77fb5f7cd165.json",
+      "error": null
+    },
+    {
+      "query": "blocator aplicații",
+      "apps": [
+        {
+          "appStoreId": "1659921547",
+          "name": "AmBlocat",
+          "catalogPosition": 1,
+          "subtitle": null,
+          "averageRating": 0,
+          "ratingCount": 0,
+          "trackViewUrl": "https://apps.apple.com/md/app/amblocat/id1659921547?uo=4"
+        },
+        {
+          "appStoreId": "6793654074",
+          "name": "Unde-o Las",
+          "catalogPosition": 2,
+          "subtitle": null,
+          "averageRating": 0,
+          "ratingCount": 0,
+          "trackViewUrl": "https://apps.apple.com/md/app/unde-o-las/id6793654074?uo=4"
+        },
+        {
+          "appStoreId": "6825851320",
+          "name": "PlateCall: Notify the owner",
+          "catalogPosition": 3,
+          "subtitle": null,
+          "averageRating": 0,
+          "ratingCount": 0,
+          "trackViewUrl": "https://apps.apple.com/md/app/platecall-notify-the-owner/id6825851320?uo=4"
+        },
+        {
+          "appStoreId": "6817051932",
+          "name": "Scuza-Ma.ro",
+          "catalogPosition": 4,
+          "subtitle": null,
+          "averageRating": 0,
+          "ratingCount": 0,
+          "trackViewUrl": "https://apps.apple.com/md/app/scuza-ma-ro/id6817051932?uo=4"
+        }
+      ],
+      "source": "deep-research/markets/md/raw/catalog-d77151c6df72.json",
+      "error": null
+    },
+    {
+      "query": "blocare telefon",
+      "apps": [],
+      "source": "deep-research/markets/md/raw/catalog-57a14973475a.json",
+      "error": null
+    },
+    {
+      "query": "limită aplicații",
+      "apps": [
+        {
+          "appStoreId": "1180884341",
+          "name": "FaceApp: Perfect Face Editor",
+          "catalogPosition": 1,
+          "subtitle": null,
+          "averageRating": 4.83912,
+          "ratingCount": 12251,
+          "trackViewUrl": "https://apps.apple.com/md/app/faceapp-perfect-face-editor/id1180884341?uo=4"
+        },
+        {
+          "appStoreId": "469463298",
+          "name": "Citymapper: Your Transport App",
+          "catalogPosition": 2,
+          "subtitle": null,
+          "averageRating": 4.88056,
+          "ratingCount": 720,
+          "trackViewUrl": "https://apps.apple.com/md/app/citymapper-your-transport-app/id469463298?uo=4"
+        },
+        {
+          "appStoreId": "505864483",
+          "name": "Pregnancy + | Tracker App",
+          "catalogPosition": 3,
+          "subtitle": null,
+          "averageRating": 4.91667,
+          "ratingCount": 216,
+          "trackViewUrl": "https://apps.apple.com/md/app/pregnancy-tracker-app/id505864483?uo=4"
+        },
+        {
+          "appStoreId": "379968583",
+          "name": "Busuu: Language Learning",
+          "catalogPosition": 4,
+          "subtitle": null,
+          "averageRating": 4.81702,
+          "ratingCount": 470,
+          "trackViewUrl": "https://apps.apple.com/md/app/busuu-language-learning/id379968583?uo=4"
+        }
+      ],
+      "source": "deep-research/markets/md/raw/catalog-a3d131a4bb82.json",
+      "error": null
+    },
+    {
+      "query": "limită de timp aplicații",
+      "apps": [],
+      "source": "deep-research/markets/md/raw/catalog-f8797f45d785.json",
+      "error": null
+    },
+    {
+      "query": "app blocker",
+      "apps": [
+        {
+          "appStoreId": "1497465230",
+          "name": "Opal: Screen Time Control",
+          "catalogPosition": 1,
+          "subtitle": null,
+          "averageRating": 4.8125,
+          "ratingCount": 64,
+          "trackViewUrl": "https://apps.apple.com/md/app/opal-screen-time-control/id1497465230?uo=4"
+        },
+        {
+          "appStoreId": "1645639057",
+          "name": "Refocus: App Blocker & Lock",
+          "catalogPosition": 2,
+          "subtitle": null,
+          "averageRating": 5,
+          "ratingCount": 3,
+          "trackViewUrl": "https://apps.apple.com/md/app/refocus-app-blocker-lock/id1645639057?uo=4"
+        },
+        {
+          "appStoreId": "1532875441",
+          "name": "one sec | screen time + focus",
+          "catalogPosition": 3,
+          "subtitle": null,
+          "averageRating": 4.92307,
+          "ratingCount": 39,
+          "trackViewUrl": "https://apps.apple.com/md/app/one-sec-screen-time-focus/id1532875441?uo=4"
+        },
+        {
+          "appStoreId": "1541027222",
+          "name": "ScreenZen- Screen Time Control",
+          "catalogPosition": 4,
+          "subtitle": null,
+          "averageRating": 4.84615,
+          "ratingCount": 26,
+          "trackViewUrl": "https://apps.apple.com/md/app/screenzen-screen-time-control/id1541027222?uo=4"
+        },
+        {
+          "appStoreId": "1459096306",
+          "name": "Focus Plant：forest app blocker",
+          "catalogPosition": 5,
+          "subtitle": null,
+          "averageRating": 4.64286,
+          "ratingCount": 14,
+          "trackViewUrl": "https://apps.apple.com/md/app/focus-plant-forest-app-blocker/id1459096306?uo=4"
+        }
+      ],
+      "source": "deep-research/markets/md/raw/catalog-8567eb89892e.json",
+      "error": null
+    },
+    {
+      "query": "screen time",
+      "apps": [
+        {
+          "appStoreId": "6738397686",
+          "name": "Screen Time Tracker",
+          "catalogPosition": 1,
+          "subtitle": null,
+          "averageRating": 0,
+          "ratingCount": 0,
+          "trackViewUrl": "https://apps.apple.com/md/app/screen-time-tracker/id6738397686?uo=4"
+        },
+        {
+          "appStoreId": "1497465230",
+          "name": "Opal: Screen Time Control",
+          "catalogPosition": 2,
+          "subtitle": null,
+          "averageRating": 4.8125,
+          "ratingCount": 64,
+          "trackViewUrl": "https://apps.apple.com/md/app/opal-screen-time-control/id1497465230?uo=4"
+        },
+        {
+          "appStoreId": "1055315077",
+          "name": "Screen Time Parental Control",
+          "catalogPosition": 3,
+          "subtitle": null,
+          "averageRating": 1,
+          "ratingCount": 1,
+          "trackViewUrl": "https://apps.apple.com/md/app/screen-time-parental-control/id1055315077?uo=4"
+        },
+        {
+          "appStoreId": "6746537171",
+          "name": "Unrot: Earn your Screen Time",
+          "catalogPosition": 4,
+          "subtitle": null,
+          "averageRating": 4.92856,
+          "ratingCount": 28,
+          "trackViewUrl": "https://apps.apple.com/md/app/unrot-earn-your-screen-time/id6746537171?uo=4"
+        },
+        {
+          "appStoreId": "1541027222",
+          "name": "ScreenZen- Screen Time Control",
+          "catalogPosition": 5,
+          "subtitle": null,
+          "averageRating": 4.84615,
+          "ratingCount": 26,
+          "trackViewUrl": "https://apps.apple.com/md/app/screenzen-screen-time-control/id1541027222?uo=4"
+        }
+      ],
+      "source": "deep-research/markets/md/raw/catalog-95492313e9b1.json",
+      "error": null
+    }
+  ],
+  "status": "catalog-only-complete",
+  "completedAt": "2026-11-19T06:25:35.606470+00:00",
+  "limitation": "Astro rejects this storefront. No local popularity/difficulty, no native keyword ranks, and public catalog does not return subtitles. Result count may be under five. Locale decisions require explicitly labelled language-anchor evidence."
+}

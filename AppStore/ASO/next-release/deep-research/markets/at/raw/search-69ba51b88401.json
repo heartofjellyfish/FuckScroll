@@ -1,0 +1,13 @@
+{
+  "id": "09f6a482-7d90-422f-97d2-d7433069e973",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"apps\" : [\n\n  ],\n  \"keyword\" : \"handy weniger nutzen\",\n  \"platform\" : \"iphone\",\n  \"store\" : \"at\",\n  \"totalResults\" : 0\n}",
+        "type": "text"
+      }
+    ],
+    "isError": false
+  }
+}

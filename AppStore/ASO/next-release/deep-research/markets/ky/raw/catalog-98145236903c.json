@@ -1,0 +1,122 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=stop+scrolling&country=ky&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "averageUserRating": 5,
+        "trackViewUrl": "https://apps.apple.com/ky/app/screenzen-screen-time-control/id1541027222?uo=4",
+        "artistName": "ScreenZen LLC",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "trackId": 1541027222,
+        "trackName": "ScreenZen- Screen Time Control",
+        "bundleId": "com.scottharvey.screenzenapp.ios",
+        "releaseDate": "2021-07-16T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-09-06T14:20:14Z",
+        "version": "4.0.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "userRatingCount": 2,
+        "descriptionSHA256": "def0cb7cf41c8f7b1619d270d38fe8aa23859b81147ae63a1041bc0a1b7f8cc8"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/ky/app/stop-scrolling/id6766318473?uo=4",
+        "artistName": "Swen Sekha",
+        "genres": [
+          "Productivity"
+        ],
+        "price": 0.0,
+        "trackId": 6766318473,
+        "trackName": "Stop Scrolling!",
+        "bundleId": "com.swens.stopscrolling",
+        "releaseDate": "2026-05-04T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-09-01T21:49:58Z",
+        "version": "3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "userRatingCount": 0,
+        "descriptionSHA256": "3dd99162afc28b6430a290c54b2f63adaa1c9cf59e848ff6109700235f111527"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/ky/app/sociallite-block-reels-shorts/id6757661674?uo=4",
+        "artistName": "Sociallite LLC",
+        "genres": [
+          "Productivity",
+          "Social Networking"
+        ],
+        "price": 0.0,
+        "trackId": 6757661674,
+        "trackName": "SocialLite-Block Reels&Shorts",
+        "bundleId": "social.Social-lite",
+        "releaseDate": "2026-01-29T08:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-10-16T11:04:41Z",
+        "version": "3.1.5",
+        "wrapperType": "software",
+        "currency": "USD",
+        "userRatingCount": 0,
+        "descriptionSHA256": "9dbd89f368c17dc50b7187fccb2c303ea2893d4ea389e2290954ac38e87b7144"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/ky/app/stop-scrolling/id6760903985?uo=4",
+        "artistName": "Granular Development Limited",
+        "genres": [
+          "Productivity",
+          "Utilities"
+        ],
+        "price": 0.0,
+        "trackId": 6760903985,
+        "trackName": "Stop Scrolling",
+        "bundleId": "com.granulardevelopment.stopscrolling",
+        "releaseDate": "2026-04-16T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-07T14:02:43Z",
+        "version": "1.12",
+        "wrapperType": "software",
+        "currency": "USD",
+        "userRatingCount": 0,
+        "descriptionSHA256": "6e0a904ea6d5f7d8f0a03fb428ea147330771d25fd090f22aecd2629aa07d082"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/ky/app/stop-scrolling-refocus-life/id6449493645?uo=4",
+        "artistName": "Dropouts Technologies LLP",
+        "genres": [
+          "Productivity"
+        ],
+        "price": 0.0,
+        "trackId": 6449493645,
+        "trackName": "Stop Scrolling - Refocus Life",
+        "bundleId": "com.dropouts.Stop-Scrolling",
+        "releaseDate": "2025-08-19T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-05-15T16:40:18Z",
+        "version": "2.0.2",
+        "wrapperType": "software",
+        "currency": "USD",
+        "userRatingCount": 0,
+        "descriptionSHA256": "94840722ae123c2cb134fa5878c662b593fe92791197c27a7ed962f04008f457"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "2e360858e615358487a5c6eeea753230c1b957a06021aa31dc68568220558255",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

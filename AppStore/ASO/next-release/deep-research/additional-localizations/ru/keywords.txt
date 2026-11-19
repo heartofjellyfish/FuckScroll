@@ -1,0 +1,1 @@
+фокус,пауза,таймер,ограничение,screen,time,control,app,blocker

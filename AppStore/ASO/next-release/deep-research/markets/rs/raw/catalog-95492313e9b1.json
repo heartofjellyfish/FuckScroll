@@ -1,0 +1,123 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=screen+time&country=rs&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "artistName": "Opal OS",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "bundleId": "com.withopal.opal",
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "trackId": 1497465230,
+        "trackName": "Opal: Screen Time Control",
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "primaryGenreName": "Productivity",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "averageUserRating": 4.75896,
+        "trackViewUrl": "https://apps.apple.com/rs/app/opal-screen-time-control/id1497465230?uo=4",
+        "userRatingCount": 195,
+        "descriptionSHA256": "79545dcfd9d33edf53d3567fc6a6eb5b582561ed18b9d49245fbff4af0417656"
+      },
+      {
+        "kind": "software",
+        "artistName": "升 徐",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "bundleId": "com.shane.indie.StayOff",
+        "currentVersionReleaseDate": "2025-07-11T03:24:41Z",
+        "trackId": 6736673615,
+        "trackName": "Screen Time Control - Stay Off",
+        "releaseDate": "2024-11-05T08:00:00Z",
+        "primaryGenreName": "Productivity",
+        "version": "2.2",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "averageUserRating": 5,
+        "trackViewUrl": "https://apps.apple.com/rs/app/screen-time-control-stay-off/id6736673615?uo=4",
+        "userRatingCount": 1,
+        "descriptionSHA256": "38ebb0243f3ee55a4715497f6b41c75a4f6353ca9ab8357549494a3c48dd35d5"
+      },
+      {
+        "kind": "software",
+        "artistName": "Unrot OÜ",
+        "genres": [
+          "Productivity"
+        ],
+        "price": 0.0,
+        "bundleId": "com.unrotou.unrot",
+        "currentVersionReleaseDate": "2026-11-17T23:57:22Z",
+        "trackId": 6746537171,
+        "trackName": "Unrot: Earn your Screen Time",
+        "releaseDate": "2025-06-04T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "version": "5.0.1",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "averageUserRating": 4.64426,
+        "trackViewUrl": "https://apps.apple.com/rs/app/unrot-earn-your-screen-time/id6746537171?uo=4",
+        "userRatingCount": 357,
+        "descriptionSHA256": "12adff6dd116c1ee691ffdde6965edfdf9a3d682b6fdc4a3214199fc9ce2beea"
+      },
+      {
+        "kind": "software",
+        "artistName": "ScreenZen LLC",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "bundleId": "com.scottharvey.screenzenapp.ios",
+        "currentVersionReleaseDate": "2026-09-06T14:20:14Z",
+        "trackId": 1541027222,
+        "trackName": "ScreenZen- Screen Time Control",
+        "releaseDate": "2021-07-16T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "version": "4.0.0",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "averageUserRating": 4.87406,
+        "trackViewUrl": "https://apps.apple.com/rs/app/screenzen-screen-time-control/id1541027222?uo=4",
+        "userRatingCount": 135,
+        "descriptionSHA256": "def0cb7cf41c8f7b1619d270d38fe8aa23859b81147ae63a1041bc0a1b7f8cc8"
+      },
+      {
+        "kind": "software",
+        "artistName": "riedel.wtf apps S.L.",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "bundleId": "wtf.riedel.one-sec",
+        "currentVersionReleaseDate": "2026-11-14T18:42:34Z",
+        "trackId": 1532875441,
+        "trackName": "one sec | screen time + focus",
+        "releaseDate": "2020-09-29T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "version": "6.1.3",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "averageUserRating": 4.90179,
+        "trackViewUrl": "https://apps.apple.com/rs/app/one-sec-screen-time-focus/id1532875441?uo=4",
+        "userRatingCount": 112,
+        "descriptionSHA256": "7458286eeec2edf883eec2f9abc49582f9924be2e29f484b82b1014b4b2a0462"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "1455387521e8fe2f928394b7379eb0ff6f7fdd747c94f624907bbba36415eaf9",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

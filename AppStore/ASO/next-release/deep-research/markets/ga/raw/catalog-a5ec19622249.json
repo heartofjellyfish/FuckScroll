@@ -1,0 +1,124 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=contr%C3%B4le+du+temps+d%E2%80%99%C3%A9cran&country=ga&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "price": 0.0,
+        "artistName": "Opal OS",
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "bundleId": "com.withopal.opal",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 4.23076,
+        "trackViewUrl": "https://apps.apple.com/ga/app/opal-temps-d%C3%A9cran-et-focus/id1497465230?uo=4",
+        "trackId": 1497465230,
+        "trackName": "Opal: Temps d'écran et Focus",
+        "genres": [
+          "Productivité",
+          "Forme et santé"
+        ],
+        "userRatingCount": 26,
+        "descriptionSHA256": "c0fba23699dd09c567f31251e42122228bee0170b55079e3167ec7297b90a927"
+      },
+      {
+        "kind": "software",
+        "price": 0.0,
+        "artistName": "Nanjing Mairui Software Development Co., Ltd.",
+        "releaseDate": "2023-05-15T07:00:00Z",
+        "bundleId": "com.omi.utility.app.locker",
+        "primaryGenreName": "Education",
+        "currentVersionReleaseDate": "2026-11-17T15:58:16Z",
+        "version": "2.0.15",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/ga/app/xlocker-temps-d%C3%A9cran/id6447595893?uo=4",
+        "trackId": 6447595893,
+        "trackName": "XLocker - Temps d’écran",
+        "genres": [
+          "Éducation",
+          "Utilitaires"
+        ],
+        "userRatingCount": 0,
+        "descriptionSHA256": "58fb219c7f05630279efb18521806f0e2700a6e7631431948cb1e6efef1a51f1"
+      },
+      {
+        "kind": "software",
+        "price": 0.0,
+        "artistName": "Shenzhen Wondershare Software Co., Ltd",
+        "releaseDate": "2021-05-19T07:00:00Z",
+        "bundleId": "com.wondershare.parentalcontrolkid",
+        "primaryGenreName": "Lifestyle",
+        "currentVersionReleaseDate": "2026-10-19T01:10:29Z",
+        "version": "9.1.5",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/ga/app/fammy-temps-d%C3%A9cran/id1559132457?uo=4",
+        "trackId": 1559132457,
+        "trackName": "Fammy - Temps d'écran",
+        "genres": [
+          "Style de vie",
+          "Éducation"
+        ],
+        "userRatingCount": 0,
+        "descriptionSHA256": "79761a87036ad8097bae78b6d254af1116fa8cabda94e34f30826402ba8b3016"
+      },
+      {
+        "kind": "software",
+        "price": 0.0,
+        "artistName": "SAND STUDIO CORPORATION LIMITED",
+        "releaseDate": "2022-06-07T07:00:00Z",
+        "bundleId": "com.sandstudio.cp-parent",
+        "primaryGenreName": "Lifestyle",
+        "currentVersionReleaseDate": "2026-11-05T07:26:27Z",
+        "version": "2.9.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 5,
+        "trackViewUrl": "https://apps.apple.com/ga/app/contr%C3%B4le-parental-airdroid/id1525339567?uo=4",
+        "trackId": 1525339567,
+        "trackName": "Contrôle Parental AirDroid",
+        "genres": [
+          "Style de vie",
+          "Utilitaires"
+        ],
+        "userRatingCount": 1,
+        "descriptionSHA256": "72ac698e97b6996330a4667c5f501073cc25a5a5882b906df098dfc1ef05bea0"
+      },
+      {
+        "kind": "software",
+        "price": 0.0,
+        "artistName": "Shenzhen Wondershare Software Co., Ltd",
+        "releaseDate": "2020-04-10T07:00:00Z",
+        "bundleId": "com.wondershare.parentalcontrol",
+        "primaryGenreName": "Lifestyle",
+        "currentVersionReleaseDate": "2026-11-05T01:34:31Z",
+        "version": "9.1.9",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/ga/app/contr%C3%B4le-parental-famisafe/id1385417904?uo=4",
+        "trackId": 1385417904,
+        "trackName": "Contrôle Parental- FamiSafe ",
+        "genres": [
+          "Style de vie",
+          "Éducation"
+        ],
+        "userRatingCount": 0,
+        "descriptionSHA256": "be2e5e11ed86f58e390ae29504a0de046e930f47d9fa5c58768bc29c25027250"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "26012c89f960495b7f98c37bf4c4bcef72e96e628f161e73f1097f2a1fbfb234",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

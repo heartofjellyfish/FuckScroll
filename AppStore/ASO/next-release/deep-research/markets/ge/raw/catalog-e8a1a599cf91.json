@@ -1,0 +1,123 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=screen+time+control&country=ge&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "averageUserRating": 4.58974,
+        "trackViewUrl": "https://apps.apple.com/ge/app/opal-screen-time-control/id1497465230?uo=4",
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "artistName": "Opal OS",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "trackName": "Opal: Screen Time Control",
+        "trackId": 1497465230,
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "primaryGenreName": "Productivity",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.withopal.opal",
+        "userRatingCount": 156,
+        "descriptionSHA256": "79545dcfd9d33edf53d3567fc6a6eb5b582561ed18b9d49245fbff4af0417656"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/ge/app/xlocker-screen-time-limit/id6446263551?uo=4",
+        "currentVersionReleaseDate": "2024-10-25T18:57:31Z",
+        "artistName": "文 熊",
+        "genres": [
+          "Productivity",
+          "Utilities"
+        ],
+        "price": 0.0,
+        "trackName": "XLocker - Screen Time Limit",
+        "trackId": 6446263551,
+        "releaseDate": "2023-05-08T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "version": "1.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.magicplugin.offscreen.mask.ios",
+        "userRatingCount": 0,
+        "descriptionSHA256": "dbbb78670248f40bc2c3917726bd4292331c74ab81754d54d1c9606f11efb8af"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 4.52941,
+        "trackViewUrl": "https://apps.apple.com/ge/app/brainmaxx-screen-time-control/id6760669409?uo=4",
+        "currentVersionReleaseDate": "2026-10-29T18:41:00Z",
+        "artistName": "Juan Vizoso Prado",
+        "genres": [
+          "Productivity"
+        ],
+        "price": 0.0,
+        "trackName": "BrainMaxx: Screen Time Control",
+        "trackId": 6760669409,
+        "releaseDate": "2026-05-25T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "version": "2.5.2",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.doerpal.app",
+        "userRatingCount": 17,
+        "descriptionSHA256": "3fddcad11ff84521fcd775d2302ab70e697c650d2c5b324cdaba08d04fe94b91"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/ge/app/screen-time-control-hush/id6744784038?uo=4",
+        "currentVersionReleaseDate": "2026-02-09T09:36:51Z",
+        "artistName": "Tabish Sheikh",
+        "genres": [
+          "Productivity",
+          "Lifestyle"
+        ],
+        "price": 0.0,
+        "trackName": "Screen Time Control: Hush",
+        "trackId": 6744784038,
+        "releaseDate": "2025-06-02T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "version": "2.7.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.hush.detoxApp",
+        "userRatingCount": 0,
+        "descriptionSHA256": "802bedb396d6422531dceb9f9db676fb8ada0ee9f670c2c37dae5ed3584f6c13"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 4.22222,
+        "trackViewUrl": "https://apps.apple.com/ge/app/brainrot-screen-time-control/id6744338972?uo=4",
+        "currentVersionReleaseDate": "2026-11-10T01:03:44Z",
+        "artistName": "Smolworks Inc",
+        "genres": [
+          "Productivity",
+          "Utilities"
+        ],
+        "price": 0.0,
+        "trackName": "Brainrot: Screen Time Control",
+        "trackId": 6744338972,
+        "releaseDate": "2025-05-20T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "version": "2.0.14",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "smobiz.brainrot",
+        "userRatingCount": 27,
+        "descriptionSHA256": "fdd84f5e733ba69c5d0a9a6e1a087401d7736a33f153ecfdce5a57ca441eb6e3"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "4d0d2bd4917efacdad497a3fc721449ea83d682bd64712488e43d08c14a8c800",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

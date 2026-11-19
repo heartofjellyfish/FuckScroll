@@ -1,0 +1,124 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=screen+time+control&country=bz&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "averageUserRating": 5,
+        "trackViewUrl": "https://apps.apple.com/bz/app/opal-screen-time-control/id1497465230?uo=4",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "artistName": "Opal OS",
+        "price": 0.0,
+        "primaryGenreName": "Productivity",
+        "trackId": 1497465230,
+        "trackName": "Opal: Screen Time Control",
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.withopal.opal",
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "userRatingCount": 2,
+        "descriptionSHA256": "79545dcfd9d33edf53d3567fc6a6eb5b582561ed18b9d49245fbff4af0417656"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/bz/app/screen-time-parental-control/id1055315077?uo=4",
+        "genres": [
+          "Lifestyle",
+          "Productivity"
+        ],
+        "artistName": "Screen Time Labs",
+        "price": 0.0,
+        "primaryGenreName": "Lifestyle",
+        "trackId": 1055315077,
+        "trackName": "Screen Time Parental Control",
+        "currentVersionReleaseDate": "2022-12-07T13:43:25Z",
+        "version": "3.72",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.screentime",
+        "releaseDate": "2015-12-15T20:43:11Z",
+        "userRatingCount": 0,
+        "descriptionSHA256": "4304fa45bc672e931bb3f98d3b8232f55d3f776c5eb880d3d113c7227a932ad6"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 5,
+        "trackViewUrl": "https://apps.apple.com/bz/app/screenzen-screen-time-control/id1541027222?uo=4",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "artistName": "ScreenZen LLC",
+        "price": 0.0,
+        "primaryGenreName": "Productivity",
+        "trackId": 1541027222,
+        "trackName": "ScreenZen- Screen Time Control",
+        "currentVersionReleaseDate": "2026-09-06T14:20:14Z",
+        "version": "4.0.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.scottharvey.screenzenapp.ios",
+        "releaseDate": "2021-07-16T07:00:00Z",
+        "userRatingCount": 1,
+        "descriptionSHA256": "def0cb7cf41c8f7b1619d270d38fe8aa23859b81147ae63a1041bc0a1b7f8cc8"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/bz/app/bepresent-screen-time-tracker/id1644737181?uo=4",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "artistName": "Screen Detox Inc",
+        "price": 0.0,
+        "primaryGenreName": "Productivity",
+        "trackId": 1644737181,
+        "trackName": "BePresent: Screen Time Tracker",
+        "currentVersionReleaseDate": "2026-11-17T21:48:19Z",
+        "version": "0.18.114",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.getpresentapp.Present",
+        "releaseDate": "2022-09-29T07:00:00Z",
+        "userRatingCount": 0,
+        "descriptionSHA256": "9e95923ffd20bc165bc1b53c7661f2d4334ba2865dd171c33d46a18826231bfe"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 4.83333,
+        "trackViewUrl": "https://apps.apple.com/bz/app/brainrot-screen-time-control/id6744338972?uo=4",
+        "genres": [
+          "Productivity",
+          "Utilities"
+        ],
+        "artistName": "Smolworks Inc",
+        "price": 0.0,
+        "primaryGenreName": "Productivity",
+        "trackId": 6744338972,
+        "trackName": "Brainrot: Screen Time Control",
+        "currentVersionReleaseDate": "2026-11-10T01:03:44Z",
+        "version": "2.0.14",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "smobiz.brainrot",
+        "releaseDate": "2025-05-20T07:00:00Z",
+        "userRatingCount": 6,
+        "descriptionSHA256": "fdd84f5e733ba69c5d0a9a6e1a087401d7736a33f153ecfdce5a57ca441eb6e3"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "70f873719fe862e1c6bba3b0f5338eadc447e9a5f6cd07cb69b43c4ccc97a1c4",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

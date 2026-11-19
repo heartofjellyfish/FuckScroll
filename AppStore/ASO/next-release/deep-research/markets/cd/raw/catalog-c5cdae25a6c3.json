@@ -1,0 +1,124 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=bloqueur+d%27apps&country=cd&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "trackId": 6739289261,
+        "trackName": "CallApp: Caller ID & Block",
+        "bundleId": "com.callapp.contacts",
+        "primaryGenreName": "Utilities",
+        "currentVersionReleaseDate": "2026-11-16T06:52:43Z",
+        "version": "1.29",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 4.84615,
+        "trackViewUrl": "https://apps.apple.com/cd/app/callapp-caller-id-block/id6739289261?uo=4",
+        "releaseDate": "2025-10-15T07:00:00Z",
+        "artistName": "CallApp",
+        "genres": [
+          "Utilities",
+          "Productivity"
+        ],
+        "price": 0.0,
+        "userRatingCount": 13,
+        "descriptionSHA256": "b7f2207593fc05fa4be803a7d37746e713c658cc1e610d9617c9f7f75c37b64c"
+      },
+      {
+        "kind": "software",
+        "trackId": 6811619023,
+        "trackName": "Scrollr - App Blocker",
+        "bundleId": "com.doomlingo.app",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-18T00:40:52Z",
+        "version": "2.5",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/cd/app/scrollr-app-blocker/id6811619023?uo=4",
+        "releaseDate": "2026-10-04T07:00:00Z",
+        "artistName": "Attila Meste",
+        "genres": [
+          "Productivity",
+          "Education"
+        ],
+        "price": 0.0,
+        "userRatingCount": 0,
+        "descriptionSHA256": "cd895924d4b880f12e9c4825819fc101e330977b7877a3c9ecfb30f94c1e3024"
+      },
+      {
+        "kind": "software",
+        "trackId": 1658592224,
+        "trackName": "Stay Focused Limit Screen Time",
+        "bundleId": "com.stayfocused",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-10-01T19:56:32Z",
+        "version": "7.0.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 4.33333,
+        "trackViewUrl": "https://apps.apple.com/cd/app/stay-focused-limit-screen-time/id1658592224?uo=4",
+        "releaseDate": "2023-01-26T08:00:00Z",
+        "artistName": "INNOXAPPS LLP",
+        "genres": [
+          "Productivity",
+          "Utilities"
+        ],
+        "price": 0.0,
+        "userRatingCount": 3,
+        "descriptionSHA256": "c6d9d0807b708d9300a29659be1fef96ca3c2eee1fb6dd681f38e56a946ce76c"
+      },
+      {
+        "kind": "software",
+        "trackId": 6748571304,
+        "trackName": "SalahScreen: Prayer Focus",
+        "bundleId": "Zikr.SalahScreen",
+        "primaryGenreName": "Reference",
+        "currentVersionReleaseDate": "2026-09-02T14:13:01Z",
+        "version": "2.0.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 5,
+        "trackViewUrl": "https://apps.apple.com/cd/app/salahscreen-prayer-focus/id6748571304?uo=4",
+        "releaseDate": "2025-10-09T07:00:00Z",
+        "artistName": "Rayane Sahi",
+        "genres": [
+          "Reference",
+          "Productivity"
+        ],
+        "price": 0.0,
+        "userRatingCount": 5,
+        "descriptionSHA256": "f480e39c00f75ad4ff40ceb47efb6b1c044e6849c1d15aab31a66b5a510b84e9"
+      },
+      {
+        "kind": "software",
+        "trackId": 6761304507,
+        "trackName": "App Blocker: SoberLock",
+        "bundleId": "com.app.hakanyigitunac.SoberLock",
+        "primaryGenreName": "Health & Fitness",
+        "currentVersionReleaseDate": "2026-08-20T21:34:29Z",
+        "version": "1.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/cd/app/app-blocker-soberlock/id6761304507?uo=4",
+        "releaseDate": "2026-05-14T07:00:00Z",
+        "artistName": "Hakan Yigit Unac",
+        "genres": [
+          "Health & Fitness",
+          "Productivity"
+        ],
+        "price": 0.0,
+        "userRatingCount": 0,
+        "descriptionSHA256": "9be8b212248d5d46d146b18655c8842f4c0217bd7b8353124cd8c0791882097a"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "0eac1b6d05334a7b6528d7226a90a3ac54dae42b9bfba1c00ea0eeb6144cf895",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

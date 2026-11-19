@@ -1,0 +1,21 @@
+{
+  "mode": "studies",
+  "results": [
+    {
+      "store": "ca",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "es",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "in",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "si",
+      "status": "deep-astro-complete"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=blocare+aplica%C8%9Bii&country=md&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "genres": [
+          "Productivity",
+          "Business"
+        ],
+        "artistName": "INTSIG Information Co., Ltd",
+        "trackId": 388627783,
+        "trackName": "CamScanner - PDF Scanner App",
+        "releaseDate": "2010-08-28T06:03:21Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-16T02:12:51Z",
+        "version": "7.29.5",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.intsig.CamScannerLite",
+        "trackViewUrl": "https://apps.apple.com/md/app/camscanner-pdf-scanner-app/id388627783?uo=4",
+        "averageUserRating": 4.89879,
+        "price": 0.0,
+        "userRatingCount": 2085,
+        "descriptionSHA256": "496d9a5ae9dd0d5cf8aa04cc68b2d2ef57cbe42545b1fca5848f749574d57b65"
+      },
+      {
+        "kind": "software",
+        "genres": [
+          "Social Networking",
+          "Productivity"
+        ],
+        "artistName": "Telegram FZ-LLC",
+        "trackId": 686449807,
+        "trackName": "Telegram Messenger",
+        "releaseDate": "2013-08-14T00:12:31Z",
+        "primaryGenreName": "Social Networking",
+        "currentVersionReleaseDate": "2026-11-16T08:10:38Z",
+        "version": "13.2.2",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "ph.telegra.Telegraph",
+        "trackViewUrl": "https://apps.apple.com/md/app/telegram-messenger/id686449807?uo=4",
+        "averageUserRating": 3.91026,
+        "price": 0.0,
+        "userRatingCount": 2028,
+        "descriptionSHA256": "84081142b8ad30e913df5f58db904b9931e5006de98f70076303a7e52af3098c"
+      },
+      {
+        "kind": "software",
+        "genres": [
+          "Games",
+          "Casual",
+          "Entertainment",
+          "Music"
+        ],
+        "artistName": "RobTop Games AB",
+        "trackId": 698255242,
+        "trackName": "Geometry Dash Lite",
+        "releaseDate": "2013-09-12T22:51:56Z",
+        "primaryGenreName": "Games",
+        "currentVersionReleaseDate": "2026-10-21T19:01:38Z",
+        "version": "2.21.8",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.robtop.geometryjumplite",
+        "trackViewUrl": "https://apps.apple.com/md/app/geometry-dash-lite/id698255242?uo=4",
+        "averageUserRating": 3.96861,
+        "price": 0.0,
+        "userRatingCount": 446,
+        "descriptionSHA256": "716b02dceb026735160e826b7e244f758b84bce24587b7023ab0dd3796d9f55f"
+      },
+      {
+        "kind": "software",
+        "genres": [
+          "Games",
+          "Simulation",
+          "Adventure",
+          "Entertainment"
+        ],
+        "artistName": "Tellurion Mobile",
+        "trackId": 1102415991,
+        "trackName": "RealmCraft: mine & craft world",
+        "releaseDate": "2016-06-04T14:39:45Z",
+        "primaryGenreName": "Games",
+        "currentVersionReleaseDate": "2026-10-28T21:46:39Z",
+        "version": "6.6.8",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.tellurionmobile.tCraft",
+        "trackViewUrl": "https://apps.apple.com/md/app/realmcraft-mine-craft-world/id1102415991?uo=4",
+        "averageUserRating": 4.45514,
+        "price": 0.0,
+        "userRatingCount": 613,
+        "descriptionSHA256": "9c5e54003ae30b2f70265e3e2af7e02a5be609ab925658f37235c495de40abf5"
+      },
+      {
+        "kind": "software",
+        "genres": [
+          "Games",
+          "Puzzle",
+          "Casual",
+          "Entertainment"
+        ],
+        "artistName": "Hungry Studio",
+        "trackId": 1617391485,
+        "trackName": "Block Blast!",
+        "releaseDate": "2022-04-03T07:00:00Z",
+        "primaryGenreName": "Games",
+        "currentVersionReleaseDate": "2026-11-18T03:13:14Z",
+        "version": "7.6.2",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.blockpuzzle.us.ios",
+        "trackViewUrl": "https://apps.apple.com/md/app/block-blast/id1617391485?uo=4",
+        "averageUserRating": 4.78908,
+        "price": 0.0,
+        "userRatingCount": 3902,
+        "descriptionSHA256": "a0dcb0cfd97c9f2370ae0a0d556cff76294c0b50706d65959914ac93ca18e783"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "631087ffa0ec8d6928b308951d8d03975e0bd4952fb4b4418e1bf82d3053a14e",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

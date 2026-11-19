@@ -1,0 +1,123 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=app+limits&country=sr&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "currentVersionReleaseDate": "2026-11-11T10:48:39Z",
+        "artistName": "MobileSoft s.r.o.",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "bundleId": "eu.mobilesoft.appblock",
+        "trackId": 1515753232,
+        "trackName": "AppBlock: App & Site Blocker",
+        "primaryGenreName": "Productivity",
+        "version": "4.14.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/sr/app/appblock-app-site-blocker/id1515753232?uo=4",
+        "averageUserRating": 0,
+        "releaseDate": "2021-08-17T07:00:00Z",
+        "userRatingCount": 0,
+        "descriptionSHA256": "f4e2257d9c85cbaf9cd8496ddc82a9a5d41b2e0440020c527d8b3b8c4bbe4236"
+      },
+      {
+        "kind": "software",
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "artistName": "Opal OS",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "bundleId": "com.withopal.opal",
+        "trackId": 1497465230,
+        "trackName": "Opal: Screen Time Control",
+        "primaryGenreName": "Productivity",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/sr/app/opal-screen-time-control/id1497465230?uo=4",
+        "averageUserRating": 4,
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "userRatingCount": 2,
+        "descriptionSHA256": "79545dcfd9d33edf53d3567fc6a6eb5b582561ed18b9d49245fbff4af0417656"
+      },
+      {
+        "kind": "software",
+        "currentVersionReleaseDate": "2026-09-15T06:03:44Z",
+        "artistName": "Kidslox Trading Ltd",
+        "genres": [
+          "Lifestyle",
+          "Utilities"
+        ],
+        "price": 0.0,
+        "bundleId": "com.kidslox.main",
+        "trackId": 914825567,
+        "trackName": "Parental Control App - Kidslox",
+        "primaryGenreName": "Lifestyle",
+        "version": "11.3.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/sr/app/parental-control-app-kidslox/id914825567?uo=4",
+        "averageUserRating": 4,
+        "releaseDate": "2014-09-23T23:23:11Z",
+        "userRatingCount": 2,
+        "descriptionSHA256": "d7539daf53bb81a1e94445145b66c140d46f513f2094f6b5fa099f8287fae953"
+      },
+      {
+        "kind": "software",
+        "currentVersionReleaseDate": "2024-10-17T16:50:10Z",
+        "artistName": "Offline Music Limited",
+        "genres": [
+          "Utilities",
+          "Entertainment"
+        ],
+        "price": 0.0,
+        "bundleId": "offline.musica.ESMusic",
+        "trackId": 1641291989,
+        "trackName": "Amerigo Music - Offline Music",
+        "primaryGenreName": "Utilities",
+        "version": "1.2.6",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/sr/app/amerigo-music-offline-music/id1641291989?uo=4",
+        "averageUserRating": 4.24,
+        "releaseDate": "2022-09-27T07:00:00Z",
+        "userRatingCount": 225,
+        "descriptionSHA256": "48d455887e93bb9315838920210b93b57e4e7c4714430efcee83bb0ffc61838b"
+      },
+      {
+        "kind": "software",
+        "currentVersionReleaseDate": "2022-11-09T19:44:17Z",
+        "artistName": "KINGSMEN VIETNAM COMPANY LIMITED",
+        "genres": [
+          "Utilities"
+        ],
+        "price": 0.0,
+        "bundleId": "com.kingsmen.lockdatamanager",
+        "trackId": 1616433953,
+        "trackName": "App Lock, Hide App & Lock Apps",
+        "primaryGenreName": "Utilities",
+        "version": "1.6",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/sr/app/app-lock-hide-app-lock-apps/id1616433953?uo=4",
+        "averageUserRating": 4.57143,
+        "releaseDate": "2022-03-30T07:00:00Z",
+        "userRatingCount": 14,
+        "descriptionSHA256": "a9a10fab975dea91f7d622ac28f56cc89c7ac676e92e3c3e0d06fd1a1df131e8"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "9e72d437df47e436cb997770f80cc3489fd5131266d0fbe7fde1780402b2b66d",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

@@ -1,1 +1,1 @@
-application,limite,concentration,minuteur,réseaux,sociaux,détox,habitude
+control,scroll,blocker,limite,concentration,minuteur,réseaux,sociaux,détox

@@ -1,0 +1,213 @@
+[
+  {
+    "difficulty": 5,
+    "keyword": "čas pred obrazovkou",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "blokovanie aplikácií",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "blokovač aplikácií",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "zámok aplikácií",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 7,
+    "keyword": "limit aplikácií",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "časový limit aplikácií",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "závislosť od telefónu",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "menej telefónu",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "obmedziť čas na mobile",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "blokovanie sociálnych sietí",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "menej sociálnych sietí",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "digitálny detox",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 13,
+    "keyword": "digital detox",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 9,
+    "keyword": "sústredenie",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "koncentrácia",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "sebakontrola",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "prestávka od telefónu",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "časovač aplikácií",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 11,
+    "keyword": "app blocker",
+    "popularity": 35,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 15,
+    "keyword": "screen time",
+    "popularity": 38,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 11,
+    "keyword": "rodičovská kontrola",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "prestať scrollovať",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "používanie telefónu",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "obmedzenie aplikácií",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 15,
+    "keyword": "screen time control",
+    "popularity": 24,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 9,
+    "keyword": "scroll blocker",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 11,
+    "keyword": "stop scrolling",
+    "popularity": 5,
+    "ranking": 48,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 23,
+    "keyword": "social media blocker",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 21,
+    "keyword": "block apps",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 42,
+    "keyword": "app limits",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  }
+]

@@ -1,0 +1,124 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=app+limits&country=mu&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "artistName": "Opal OS",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "bundleId": "com.withopal.opal",
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 4.53846,
+        "trackViewUrl": "https://apps.apple.com/mu/app/opal-screen-time-control/id1497465230?uo=4",
+        "price": 0.0,
+        "trackId": 1497465230,
+        "trackName": "Opal: Screen Time Control",
+        "userRatingCount": 13,
+        "descriptionSHA256": "79545dcfd9d33edf53d3567fc6a6eb5b582561ed18b9d49245fbff4af0417656"
+      },
+      {
+        "kind": "software",
+        "currentVersionReleaseDate": "2026-11-11T10:48:39Z",
+        "artistName": "MobileSoft s.r.o.",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "bundleId": "eu.mobilesoft.appblock",
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2021-08-17T07:00:00Z",
+        "version": "4.14.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 4,
+        "trackViewUrl": "https://apps.apple.com/mu/app/appblock-app-site-blocker/id1515753232?uo=4",
+        "price": 0.0,
+        "trackId": 1515753232,
+        "trackName": "AppBlock: App & Site Blocker",
+        "userRatingCount": 4,
+        "descriptionSHA256": "f4e2257d9c85cbaf9cd8496ddc82a9a5d41b2e0440020c527d8b3b8c4bbe4236"
+      },
+      {
+        "kind": "software",
+        "currentVersionReleaseDate": "2026-11-17T02:47:32Z",
+        "artistName": "Alibaba",
+        "genres": [
+          "Shopping",
+          "Lifestyle"
+        ],
+        "bundleId": "com.alibaba.iAliexpress",
+        "primaryGenreName": "Shopping",
+        "releaseDate": "2011-05-27T02:51:53Z",
+        "version": "8.180.2",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 4.6753,
+        "trackViewUrl": "https://apps.apple.com/mu/app/aliexpress-shopping-app/id436672029?uo=4",
+        "price": 0.0,
+        "trackId": 436672029,
+        "trackName": "AliExpress Shopping App",
+        "userRatingCount": 3394,
+        "descriptionSHA256": "5d415fb9c4186913ead74b5dec21f79d617069ac1754cf6fcad89020a3b8736e"
+      },
+      {
+        "kind": "software",
+        "currentVersionReleaseDate": "2026-11-14T11:50:27Z",
+        "artistName": "FaceApp Technology Limited",
+        "genres": [
+          "Photo & Video",
+          "Entertainment"
+        ],
+        "bundleId": "io.faceapp.ios",
+        "primaryGenreName": "Photo & Video",
+        "releaseDate": "2017-01-24T14:13:07Z",
+        "version": "26.10.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 4.59654,
+        "trackViewUrl": "https://apps.apple.com/mu/app/faceapp-perfect-face-editor/id1180884341?uo=4",
+        "price": 0.0,
+        "trackId": 1180884341,
+        "trackName": "FaceApp: Perfect Face Editor",
+        "userRatingCount": 984,
+        "descriptionSHA256": "7005437c6af00e0dca408ae0b4cfb10ada33cc3e1613352a679a727e504f5036"
+      },
+      {
+        "kind": "software",
+        "currentVersionReleaseDate": "2026-09-15T06:03:44Z",
+        "artistName": "Kidslox Trading Ltd",
+        "genres": [
+          "Lifestyle",
+          "Utilities"
+        ],
+        "bundleId": "com.kidslox.main",
+        "primaryGenreName": "Lifestyle",
+        "releaseDate": "2014-09-23T23:23:11Z",
+        "version": "11.3.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 4,
+        "trackViewUrl": "https://apps.apple.com/mu/app/parental-control-app-kidslox/id914825567?uo=4",
+        "price": 0.0,
+        "trackId": 914825567,
+        "trackName": "Parental Control App - Kidslox",
+        "userRatingCount": 15,
+        "descriptionSHA256": "d7539daf53bb81a1e94445145b66c140d46f513f2094f6b5fa099f8287fae953"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "444cb14aba639fd73c438c361c1f5772173db17d36be7b14342829b47c7a5e7c",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

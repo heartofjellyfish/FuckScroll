@@ -1,0 +1,13 @@
+{
+  "id": "1902b350-db64-49c0-8214-3705788fbe31",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"apps\" : [\n    {\n      \"appStoreId\" : \"6746193907\",\n      \"averageRating\" : 0,\n      \"bundleId\" : \"moc.Test.timer.last\",\n      \"developer\" : \"NaviStack LLC\",\n      \"genre\" : \"Productivity\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple211\\/v4\\/42\\/fa\\/7d\\/42fa7dc8-8d04-a1bb-9b68-7faab5a2b957\\/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png\\/80x0w.webp\",\n      \"name\" : \"Limit Screen Time: Limitly\",\n      \"ranking\" : 1,\n      \"ratingCount\" : 0,\n      \"subtitle\" : \"App Blocker & Focus Schedules\"\n    },\n    {\n      \"appStoreId\" : \"6828037736\",\n      \"averageRating\" : 0,\n      \"bundleId\" : \"com.sihamaater.peaje\",\n      \"developer\" : \"Siham Aater Taleb\",\n      \"genre\" : \"Productivity\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple221\\/v4\\/3a\\/9a\\/a3\\/3a9aa3c2-36d7-8602-5110-b8122165e57c\\/AppIcon-0-0-1x_U007ephone-0-1-85-220.png\\/80x0w.webp\",\n      \"name\" : \"App Blocker & Scroll: Playlock\",\n      \"ranking\" : 2,\n      \"ratingCount\" : 0,\n      \"subtitle\" : \"Play to Unlock Screen Time\"\n    },\n    {\n      \"appStoreId\" : \"6751270808\",\n      \"averageRating\" : 0,\n      \"bundleId\" : \"com.TimeShieldHelper559nmb.app\",\n      \"developer\" : \"Tamar Ben-David\",\n      \"genre\" : \"Productivity\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple211\\/v4\\/09\\/78\\/0d\\/09780d9d-f356-4747-ce7c-f52858710607\\/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png\\/80x0w.webp\",\n      \"name\" : \"Screen Time Control app +\",\n      \"ranking\" : 3,\n      \"ratingCount\" : 0,\n      \"subtitle\" : \"App Blocker, Focus & Timer\"\n    }\n  ],\n  \"keyword\" : \"časový limit aplikácií\",\n  \"platform\" : \"iphone\",\n  \"store\" : \"sk\",\n  \"totalResults\" : 3\n}",
+        "type": "text"
+      }
+    ],
+    "isError": false
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "locale": "ja",
+  "store": "jp",
+  "proposedName": "スマホ制限 – みてるアヒル",
+  "limitations": "A public top-five name search, not App Store Connect reservation or trademark clearance.",
+  "response": {
+    "id": "d11d7711-8b4f-4a42-b07a-13258f1faade",
+    "jsonrpc": "2.0",
+    "result": {
+      "content": [
+        {
+          "text": "{\n  \"apps\" : [\n    {\n      \"appStoreId\" : \"6828375672\",\n      \"averageRating\" : 0,\n      \"bundleId\" : \"com.zy.dukki\",\n      \"developer\" : \"翼 张\",\n      \"genre\" : \"仕事効率化\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple211\\/v4\\/ac\\/3c\\/9d\\/ac3c9d59-2045-4115-071d-7536528ee094\\/AppIcon-0-0-1x_U007epad-0-1-85-220.png\\/80x0w.webp\",\n      \"name\" : \"Dukki: 集中タイマー・ポモドーロ\",\n      \"ranking\" : 1,\n      \"ratingCount\" : 0,\n      \"subtitle\" : \"小鴨と旅する勉強・作業タイマー\"\n    }\n  ],\n  \"keyword\" : \"スマホ制限 – みてるアヒル\",\n  \"platform\" : \"iphone\",\n  \"store\" : \"jp\",\n  \"totalResults\" : 1\n}",
+          "type": "text"
+        }
+      ],
+      "isError": false
+    }
+  },
+  "error": null,
+  "exactOtherAppMatches": []
+}

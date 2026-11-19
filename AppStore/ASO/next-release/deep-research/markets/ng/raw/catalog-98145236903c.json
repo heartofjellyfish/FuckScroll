@@ -1,0 +1,123 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=stop+scrolling&country=ng&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "averageUserRating": 5,
+        "trackViewUrl": "https://apps.apple.com/ng/app/sociallite-block-reels-shorts/id6757661674?uo=4",
+        "artistName": "Sociallite LLC",
+        "genres": [
+          "Productivity",
+          "Social Networking"
+        ],
+        "price": 0.0,
+        "currentVersionReleaseDate": "2026-10-16T11:04:41Z",
+        "releaseDate": "2026-01-29T08:00:00Z",
+        "trackId": 6757661674,
+        "trackName": "SocialLite-Block Reels&Shorts",
+        "primaryGenreName": "Productivity",
+        "version": "3.1.5",
+        "wrapperType": "software",
+        "currency": "NGN",
+        "bundleId": "social.Social-lite",
+        "userRatingCount": 7,
+        "descriptionSHA256": "9dbd89f368c17dc50b7187fccb2c303ea2893d4ea389e2290954ac38e87b7144"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/ng/app/starpause-stop-scrolling/id6757177033?uo=4",
+        "artistName": "Hangzhou Jihe Digital Culture and Creativity Co., Ltd.",
+        "genres": [
+          "Health & Fitness",
+          "Productivity"
+        ],
+        "price": 0.0,
+        "currentVersionReleaseDate": "2026-11-04T01:21:10Z",
+        "releaseDate": "2026-09-30T07:00:00Z",
+        "trackId": 6757177033,
+        "trackName": "StarPause - Stop Scrolling",
+        "primaryGenreName": "Health & Fitness",
+        "version": "1.1.8",
+        "wrapperType": "software",
+        "currency": "NGN",
+        "bundleId": "com.htxstudio.timesentinel",
+        "userRatingCount": 0,
+        "descriptionSHA256": "0f3ed2c64f96ea023b1b4a21bb162928333b6002073d30a6db335cdf09124d4d"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 4.80556,
+        "trackViewUrl": "https://apps.apple.com/ng/app/screenzen-screen-time-control/id1541027222?uo=4",
+        "artistName": "ScreenZen LLC",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "currentVersionReleaseDate": "2026-09-06T14:20:14Z",
+        "releaseDate": "2021-07-16T07:00:00Z",
+        "trackId": 1541027222,
+        "trackName": "ScreenZen- Screen Time Control",
+        "primaryGenreName": "Productivity",
+        "version": "4.0.0",
+        "wrapperType": "software",
+        "currency": "NGN",
+        "bundleId": "com.scottharvey.screenzenapp.ios",
+        "userRatingCount": 288,
+        "descriptionSHA256": "def0cb7cf41c8f7b1619d270d38fe8aa23859b81147ae63a1041bc0a1b7f8cc8"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/ng/app/stop-scrolling/id6766318473?uo=4",
+        "artistName": "Swen Sekha",
+        "genres": [
+          "Productivity"
+        ],
+        "price": 0.0,
+        "currentVersionReleaseDate": "2026-09-01T21:49:58Z",
+        "releaseDate": "2026-05-04T07:00:00Z",
+        "trackId": 6766318473,
+        "trackName": "Stop Scrolling!",
+        "primaryGenreName": "Productivity",
+        "version": "3",
+        "wrapperType": "software",
+        "currency": "NGN",
+        "bundleId": "com.swens.stopscrolling",
+        "userRatingCount": 0,
+        "descriptionSHA256": "3dd99162afc28b6430a290c54b2f63adaa1c9cf59e848ff6109700235f111527"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 4.7381,
+        "trackViewUrl": "https://apps.apple.com/ng/app/one-sec-screen-time-focus/id1532875441?uo=4",
+        "artistName": "riedel.wtf apps S.L.",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "currentVersionReleaseDate": "2026-11-14T18:42:34Z",
+        "releaseDate": "2020-09-29T07:00:00Z",
+        "trackId": 1532875441,
+        "trackName": "one sec | screen time + focus",
+        "primaryGenreName": "Productivity",
+        "version": "6.1.3",
+        "wrapperType": "software",
+        "currency": "NGN",
+        "bundleId": "wtf.riedel.one-sec",
+        "userRatingCount": 126,
+        "descriptionSHA256": "7458286eeec2edf883eec2f9abc49582f9924be2e29f484b82b1014b4b2a0462"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "936e254db8ce2e8c544f95da3ef1047ebdf253904577e6a2787c985e737eb6bf",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

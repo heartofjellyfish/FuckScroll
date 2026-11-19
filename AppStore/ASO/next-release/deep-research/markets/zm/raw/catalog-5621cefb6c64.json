@@ -1,0 +1,124 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=app+limits&country=zm&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "averageUserRating": 4.5,
+        "trackViewUrl": "https://apps.apple.com/zm/app/appblock-app-site-blocker/id1515753232?uo=4",
+        "artistName": "MobileSoft s.r.o.",
+        "price": 0.0,
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "trackId": 1515753232,
+        "trackName": "AppBlock: App & Site Blocker",
+        "releaseDate": "2021-08-17T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-11T10:48:39Z",
+        "version": "4.14.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "eu.mobilesoft.appblock",
+        "userRatingCount": 2,
+        "descriptionSHA256": "f4e2257d9c85cbaf9cd8496ddc82a9a5d41b2e0440020c527d8b3b8c4bbe4236"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 4.65517,
+        "trackViewUrl": "https://apps.apple.com/zm/app/opal-screen-time-control/id1497465230?uo=4",
+        "artistName": "Opal OS",
+        "price": 0.0,
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "trackId": 1497465230,
+        "trackName": "Opal: Screen Time Control",
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.withopal.opal",
+        "userRatingCount": 29,
+        "descriptionSHA256": "79545dcfd9d33edf53d3567fc6a6eb5b582561ed18b9d49245fbff4af0417656"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 4.76301,
+        "trackViewUrl": "https://apps.apple.com/zm/app/fnb-banking-app/id450094779?uo=4",
+        "artistName": "FirstRand Bank Limited",
+        "price": 0.0,
+        "genres": [
+          "Finance",
+          "Lifestyle"
+        ],
+        "trackId": 450094779,
+        "trackName": "FNB Banking App",
+        "releaseDate": "2020-04-18T07:00:00Z",
+        "primaryGenreName": "Finance",
+        "currentVersionReleaseDate": "2026-11-10T08:33:47Z",
+        "version": "7.22.0-64",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "za.co.fnb.connect.touch",
+        "userRatingCount": 6380,
+        "descriptionSHA256": "514b3dddc7769ecf1d82e255e2a1c5787d849b5357e0fd1c39890b585705908a"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/zm/app/dual-app-duo-web-scanner/id6476390122?uo=4",
+        "artistName": "Senyao Interconnect Technology Co., Limited",
+        "price": 0.0,
+        "genres": [
+          "Social Networking",
+          "Utilities"
+        ],
+        "trackId": 6476390122,
+        "trackName": "Dual App - Duo Web Scanner",
+        "releaseDate": "2024-02-06T08:00:00Z",
+        "primaryGenreName": "Social Networking",
+        "currentVersionReleaseDate": "2026-10-14T06:48:45Z",
+        "version": "2.8.5",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.WhatsTools.fanxin.net",
+        "userRatingCount": 0,
+        "descriptionSHA256": "a095eeeb44551efb5c836b2d5ffaf02ed1d0b0ae81a0b509e8e39e11b39aed0a"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 4.8205,
+        "trackViewUrl": "https://apps.apple.com/zm/app/pregnancy-tracker-app/id505864483?uo=4",
+        "artistName": "Philips Digital UK Limited",
+        "price": 0.0,
+        "genres": [
+          "Medical",
+          "Education"
+        ],
+        "trackId": 505864483,
+        "trackName": "Pregnancy + | Tracker App",
+        "releaseDate": "2020-04-10T07:00:00Z",
+        "primaryGenreName": "Medical",
+        "currentVersionReleaseDate": "2026-11-16T12:57:15Z",
+        "version": "8.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.HP.PregnancyiPhonelite",
+        "userRatingCount": 39,
+        "descriptionSHA256": "64a0ea2bc1ec0355797c806cc7161d052b88e2722420f3edfe25e7b433de2d98"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "47bde64b92f9546bc6a7f80636e95dc5a248ada25091d5d70e57323737461b2b",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

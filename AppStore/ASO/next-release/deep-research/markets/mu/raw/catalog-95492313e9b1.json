@@ -1,0 +1,124 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=screen+time&country=mu&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "averageUserRating": 4.16667,
+        "trackViewUrl": "https://apps.apple.com/mu/app/screenzen-screen-time-control/id1541027222?uo=4",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "releaseDate": "2021-07-16T07:00:00Z",
+        "trackId": 1541027222,
+        "trackName": "ScreenZen- Screen Time Control",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-09-06T14:20:14Z",
+        "version": "4.0.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.scottharvey.screenzenapp.ios",
+        "price": 0.0,
+        "artistName": "ScreenZen LLC",
+        "userRatingCount": 6,
+        "descriptionSHA256": "def0cb7cf41c8f7b1619d270d38fe8aa23859b81147ae63a1041bc0a1b7f8cc8"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 4.53846,
+        "trackViewUrl": "https://apps.apple.com/mu/app/opal-screen-time-control/id1497465230?uo=4",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "trackId": 1497465230,
+        "trackName": "Opal: Screen Time Control",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.withopal.opal",
+        "price": 0.0,
+        "artistName": "Opal OS",
+        "userRatingCount": 13,
+        "descriptionSHA256": "79545dcfd9d33edf53d3567fc6a6eb5b582561ed18b9d49245fbff4af0417656"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 4.71429,
+        "trackViewUrl": "https://apps.apple.com/mu/app/refocus-app-blocker-lock/id1645639057?uo=4",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "releaseDate": "2022-09-22T07:00:00Z",
+        "trackId": 1645639057,
+        "trackName": "Refocus: App Blocker & Lock",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-18T15:32:47Z",
+        "version": "2.2.11",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.refocus.refocus",
+        "price": 0.0,
+        "artistName": "Labi, LLC",
+        "userRatingCount": 7,
+        "descriptionSHA256": "31bd6049418a698d36c61b2eafbe2ca02a56d8aa24878c1963caa5895db876a1"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 5,
+        "trackViewUrl": "https://apps.apple.com/mu/app/bepresent-screen-time-tracker/id1644737181?uo=4",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "releaseDate": "2022-09-29T07:00:00Z",
+        "trackId": 1644737181,
+        "trackName": "BePresent: Screen Time Tracker",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-17T21:48:19Z",
+        "version": "0.18.114",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.getpresentapp.Present",
+        "price": 0.0,
+        "artistName": "Screen Detox Inc",
+        "userRatingCount": 1,
+        "descriptionSHA256": "9e95923ffd20bc165bc1b53c7661f2d4334ba2865dd171c33d46a18826231bfe"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/mu/app/screen-time-tracker/id6738397686?uo=4",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "releaseDate": "2024-12-17T08:00:00Z",
+        "trackId": 6738397686,
+        "trackName": "Screen Time Tracker",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2025-10-21T22:49:43Z",
+        "version": "2.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.jackfinnis.ScreenTimeTracker",
+        "price": 0.0,
+        "artistName": "Jack Finnis",
+        "userRatingCount": 0,
+        "descriptionSHA256": "818e2b4d99d866d797722d84f7e4cb5f38639db2d2e8c74030a03e53a20ba82b"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "21c9d345a7ac58a32a0f4f670160c4b7b1636c912754dab6f92717d58d11812f",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

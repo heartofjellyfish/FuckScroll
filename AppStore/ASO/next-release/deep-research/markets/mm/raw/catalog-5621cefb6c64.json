@@ -1,0 +1,123 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=app+limits&country=mm&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/mm/app/appblock-app-site-blocker/id1515753232?uo=4",
+        "artistName": "MobileSoft s.r.o.",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "trackName": "AppBlock: App & Site Blocker",
+        "trackId": 1515753232,
+        "bundleId": "eu.mobilesoft.appblock",
+        "releaseDate": "2021-08-17T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "version": "4.14.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 5,
+        "currentVersionReleaseDate": "2026-11-11T10:48:39Z",
+        "userRatingCount": 1,
+        "descriptionSHA256": "f4e2257d9c85cbaf9cd8496ddc82a9a5d41b2e0440020c527d8b3b8c4bbe4236"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/mm/app/opal-screen-time-control/id1497465230?uo=4",
+        "artistName": "Opal OS",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "trackName": "Opal: Screen Time Control",
+        "trackId": 1497465230,
+        "bundleId": "com.withopal.opal",
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "primaryGenreName": "Productivity",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 4.78571,
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "userRatingCount": 14,
+        "descriptionSHA256": "79545dcfd9d33edf53d3567fc6a6eb5b582561ed18b9d49245fbff4af0417656"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/mm/app/u9-app/id976062898?uo=4",
+        "artistName": "Ooredoo Myanmar Limited",
+        "genres": [
+          "Productivity"
+        ],
+        "price": 0.0,
+        "trackName": "U9 App",
+        "trackId": 976062898,
+        "bundleId": "com.ooredoo.myooredoo",
+        "releaseDate": "2020-04-11T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "version": "13.0.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 3.36547,
+        "currentVersionReleaseDate": "2026-06-26T07:15:54Z",
+        "userRatingCount": 695,
+        "descriptionSHA256": "bf5e0d7de77c4871c3aa58054ede53d22ff3dc835441bcd59f8d76ed987ad6b9"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/mm/app/parental-control-app-kidslox/id914825567?uo=4",
+        "artistName": "Kidslox Trading Ltd",
+        "genres": [
+          "Lifestyle",
+          "Utilities"
+        ],
+        "price": 0.0,
+        "trackName": "Parental Control App - Kidslox",
+        "trackId": 914825567,
+        "bundleId": "com.kidslox.main",
+        "releaseDate": "2020-04-10T07:00:00Z",
+        "primaryGenreName": "Lifestyle",
+        "version": "11.3.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 4,
+        "currentVersionReleaseDate": "2026-09-15T06:03:44Z",
+        "userRatingCount": 15,
+        "descriptionSHA256": "d7539daf53bb81a1e94445145b66c140d46f513f2094f6b5fa099f8287fae953"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/mm/app/pregnancy-tracker-app/id505864483?uo=4",
+        "artistName": "Philips Digital UK Limited",
+        "genres": [
+          "Medical",
+          "Education"
+        ],
+        "price": 0.0,
+        "trackName": "Pregnancy + | Tracker App",
+        "trackId": 505864483,
+        "bundleId": "com.HP.PregnancyiPhonelite",
+        "releaseDate": "2020-04-10T07:00:00Z",
+        "primaryGenreName": "Medical",
+        "version": "8.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 5,
+        "currentVersionReleaseDate": "2026-11-16T12:57:15Z",
+        "userRatingCount": 6,
+        "descriptionSHA256": "64a0ea2bc1ec0355797c806cc7161d052b88e2722420f3edfe25e7b433de2d98"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "a8838be640d94aa5fa41524fec1d61a18e6f07bbb9de6200c8729c4989a5a6b2",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

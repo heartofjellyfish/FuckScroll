@@ -1,0 +1,123 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=screen+time&country=md&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "artistName": "Jack Finnis",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "bundleId": "com.jackfinnis.ScreenTimeTracker",
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2024-12-17T08:00:00Z",
+        "trackId": 6738397686,
+        "trackName": "Screen Time Tracker",
+        "currentVersionReleaseDate": "2025-10-21T22:49:43Z",
+        "version": "2.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/md/app/screen-time-tracker/id6738397686?uo=4",
+        "userRatingCount": 0,
+        "descriptionSHA256": "818e2b4d99d866d797722d84f7e4cb5f38639db2d2e8c74030a03e53a20ba82b"
+      },
+      {
+        "kind": "software",
+        "artistName": "Opal OS",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "bundleId": "com.withopal.opal",
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "trackId": 1497465230,
+        "trackName": "Opal: Screen Time Control",
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 4.8125,
+        "trackViewUrl": "https://apps.apple.com/md/app/opal-screen-time-control/id1497465230?uo=4",
+        "userRatingCount": 64,
+        "descriptionSHA256": "79545dcfd9d33edf53d3567fc6a6eb5b582561ed18b9d49245fbff4af0417656"
+      },
+      {
+        "kind": "software",
+        "artistName": "Screen Time Labs",
+        "genres": [
+          "Lifestyle",
+          "Productivity"
+        ],
+        "price": 0.0,
+        "bundleId": "com.screentime",
+        "primaryGenreName": "Lifestyle",
+        "releaseDate": "2015-12-15T20:43:11Z",
+        "trackId": 1055315077,
+        "trackName": "Screen Time Parental Control",
+        "currentVersionReleaseDate": "2022-12-07T13:43:25Z",
+        "version": "3.72",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 1,
+        "trackViewUrl": "https://apps.apple.com/md/app/screen-time-parental-control/id1055315077?uo=4",
+        "userRatingCount": 1,
+        "descriptionSHA256": "4304fa45bc672e931bb3f98d3b8232f55d3f776c5eb880d3d113c7227a932ad6"
+      },
+      {
+        "kind": "software",
+        "artistName": "Unrot OÜ",
+        "genres": [
+          "Productivity"
+        ],
+        "price": 0.0,
+        "bundleId": "com.unrotou.unrot",
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2025-06-04T07:00:00Z",
+        "trackId": 6746537171,
+        "trackName": "Unrot: Earn your Screen Time",
+        "currentVersionReleaseDate": "2026-11-17T23:57:22Z",
+        "version": "5.0.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 4.92856,
+        "trackViewUrl": "https://apps.apple.com/md/app/unrot-earn-your-screen-time/id6746537171?uo=4",
+        "userRatingCount": 28,
+        "descriptionSHA256": "12adff6dd116c1ee691ffdde6965edfdf9a3d682b6fdc4a3214199fc9ce2beea"
+      },
+      {
+        "kind": "software",
+        "artistName": "ScreenZen LLC",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "bundleId": "com.scottharvey.screenzenapp.ios",
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2021-07-16T07:00:00Z",
+        "trackId": 1541027222,
+        "trackName": "ScreenZen- Screen Time Control",
+        "currentVersionReleaseDate": "2026-09-06T14:20:14Z",
+        "version": "4.0.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 4.84615,
+        "trackViewUrl": "https://apps.apple.com/md/app/screenzen-screen-time-control/id1541027222?uo=4",
+        "userRatingCount": 26,
+        "descriptionSHA256": "def0cb7cf41c8f7b1619d270d38fe8aa23859b81147ae63a1041bc0a1b7f8cc8"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "aea34dd26a1b0d7d6fc19a5152471b2fd5574e801ab0c8031f4bed33722c689a",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

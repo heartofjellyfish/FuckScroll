@@ -1,0 +1,124 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=app+limits&country=sz&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/sz/app/appblock-app-site-blocker/id1515753232?uo=4",
+        "averageUserRating": 0,
+        "artistName": "MobileSoft s.r.o.",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "trackId": 1515753232,
+        "trackName": "AppBlock: App & Site Blocker",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-11T10:48:39Z",
+        "version": "4.14.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "eu.mobilesoft.appblock",
+        "releaseDate": "2021-08-17T07:00:00Z",
+        "price": 0.0,
+        "userRatingCount": 0,
+        "descriptionSHA256": "f4e2257d9c85cbaf9cd8496ddc82a9a5d41b2e0440020c527d8b3b8c4bbe4236"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/sz/app/opal-screen-time-control/id1497465230?uo=4",
+        "averageUserRating": 4.66667,
+        "artistName": "Opal OS",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "trackId": 1497465230,
+        "trackName": "Opal: Screen Time Control",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.withopal.opal",
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "price": 0.0,
+        "userRatingCount": 3,
+        "descriptionSHA256": "79545dcfd9d33edf53d3567fc6a6eb5b582561ed18b9d49245fbff4af0417656"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/sz/app/fnb-banking-app/id450094779?uo=4",
+        "averageUserRating": 4.71511,
+        "artistName": "FirstRand Bank Limited",
+        "genres": [
+          "Finance",
+          "Lifestyle"
+        ],
+        "trackId": 450094779,
+        "trackName": "FNB Banking App",
+        "primaryGenreName": "Finance",
+        "currentVersionReleaseDate": "2026-11-10T08:33:47Z",
+        "version": "7.22.0-64",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "za.co.fnb.connect.touch",
+        "releaseDate": "2012-06-03T17:42:53Z",
+        "price": 0.0,
+        "userRatingCount": 3640,
+        "descriptionSHA256": "514b3dddc7769ecf1d82e255e2a1c5787d849b5357e0fd1c39890b585705908a"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/sz/app/parental-control-app-kidslox/id914825567?uo=4",
+        "averageUserRating": 5,
+        "artistName": "Kidslox Trading Ltd",
+        "genres": [
+          "Lifestyle",
+          "Utilities"
+        ],
+        "trackId": 914825567,
+        "trackName": "Parental Control App - Kidslox",
+        "primaryGenreName": "Lifestyle",
+        "currentVersionReleaseDate": "2026-09-15T06:03:44Z",
+        "version": "11.3.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.kidslox.main",
+        "releaseDate": "2014-09-23T23:23:11Z",
+        "price": 0.0,
+        "userRatingCount": 1,
+        "descriptionSHA256": "d7539daf53bb81a1e94445145b66c140d46f513f2094f6b5fa099f8287fae953"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/sz/app/mtn-app-za/id6478032901?uo=4",
+        "averageUserRating": 0,
+        "artistName": "MTN South Africa (Pty) LTD",
+        "genres": [
+          "Lifestyle",
+          "Utilities"
+        ],
+        "trackId": 6478032901,
+        "trackName": "MTN App ZA",
+        "primaryGenreName": "Lifestyle",
+        "currentVersionReleaseDate": "2026-11-17T22:31:01Z",
+        "version": "1.22.46",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.mtn.nextgenapp",
+        "releaseDate": "2025-02-14T08:00:00Z",
+        "price": 0.0,
+        "userRatingCount": 0,
+        "descriptionSHA256": "c0c36d0d7d1cadef51c8125b04cb306f76d7bcdd3d1f290247f368fb2f6b4f7b"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "06177bc6f3feda0ede5fcc086b35a619b0686cc4d54458b388747e71c020c044",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

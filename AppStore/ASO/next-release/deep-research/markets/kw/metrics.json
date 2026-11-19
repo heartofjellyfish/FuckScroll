@@ -1,0 +1,215 @@
+[
+  {
+    "difficulty": 11,
+    "keyword": "وقت الشاشة",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "مدة استخدام الجهاز",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 7,
+    "keyword": "حظر التطبيقات",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 7,
+    "keyword": "قفل التطبيقات",
+    "popularity": 35,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "تقليل وقت الشاشة",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 37,
+    "keyword": "تحديد وقت التطبيقات",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 23,
+    "keyword": "حدود التطبيقات",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "إدمان الهاتف",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 11,
+    "keyword": "إدمان الجوال",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "تقليل استخدام الهاتف",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "تقليل استخدام الجوال",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 7,
+    "keyword": "حظر وسائل التواصل",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "إدمان السوشيال ميديا",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "التخلص من إدمان الهاتف",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "ديتوكس رقمي",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 19,
+    "keyword": "تركيز",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "التحكم بالنفس",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "استراحة من الهاتف",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 13,
+    "keyword": "مؤقت التطبيقات",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 9,
+    "keyword": "app blocker",
+    "popularity": 21,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 11,
+    "keyword": "screen time",
+    "popularity": 27,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 11,
+    "keyword": "الرقابة الأبوية",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "إيقاف التمرير",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 7,
+    "keyword": "تنظيم وقت الجوال",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 11,
+    "keyword": "screen time control",
+    "popularity": 22,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 13,
+    "keyword": "scroll blocker",
+    "popularity": 5,
+    "ranking": 27,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "stop scrolling",
+    "popularity": 5,
+    "ranking": 9,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 54,
+    "keyword": "social media blocker",
+    "popularity": 5,
+    "ranking": 75,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 11,
+    "keyword": "block apps",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 13,
+    "keyword": "app limits",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  }
+]

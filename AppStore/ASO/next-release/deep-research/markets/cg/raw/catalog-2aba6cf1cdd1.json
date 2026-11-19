@@ -1,0 +1,122 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=limite+temps+%C3%A9cran&country=cg&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "averageUserRating": 4.57143,
+        "trackViewUrl": "https://apps.apple.com/cg/app/opal-screen-time-control/id1497465230?uo=4",
+        "price": 0.0,
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "artistName": "Opal OS",
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "bundleId": "com.withopal.opal",
+        "primaryGenreName": "Productivity",
+        "trackId": 1497465230,
+        "trackName": "Opal: Screen Time Control",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "USD",
+        "userRatingCount": 28,
+        "descriptionSHA256": "79545dcfd9d33edf53d3567fc6a6eb5b582561ed18b9d49245fbff4af0417656"
+      },
+      {
+        "kind": "software",
+        "currentVersionReleaseDate": "2026-11-18T16:29:32Z",
+        "averageUserRating": 4.44444,
+        "trackViewUrl": "https://apps.apple.com/cg/app/jomo-app-blocker-focus/id1609960918?uo=4",
+        "price": 0.0,
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "artistName": "Jomo",
+        "releaseDate": "2022-10-16T07:00:00Z",
+        "bundleId": "com.jomo.Jomo",
+        "primaryGenreName": "Productivity",
+        "trackId": 1609960918,
+        "trackName": "Jomo - App Blocker & Focus",
+        "version": "2.1.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "userRatingCount": 9,
+        "descriptionSHA256": "1c3ac2d7f7c364ecfc9b0dc94651160ac123d989dbde44be1172ac15c9b753d8"
+      },
+      {
+        "kind": "software",
+        "currentVersionReleaseDate": "2026-08-13T00:04:05Z",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/cg/app/app-blocker-screen-time/id6456942073?uo=4",
+        "price": 0.0,
+        "genres": [
+          "Productivity"
+        ],
+        "artistName": "Deebex Tech Ltd.",
+        "releaseDate": "2023-10-10T07:00:00Z",
+        "bundleId": "com.idreamdesign.screen",
+        "primaryGenreName": "Productivity",
+        "trackId": 6456942073,
+        "trackName": "App Blocker - Screen Time",
+        "version": "3.0.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "userRatingCount": 0,
+        "descriptionSHA256": "97f0576b3c2db9b58153d327b549d41dd39cce7ace43d700c29f2becd85cf727"
+      },
+      {
+        "kind": "software",
+        "currentVersionReleaseDate": "2026-11-14T18:10:39Z",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/cg/app/detox-app-website-blocker/id6450723324?uo=4",
+        "price": 0.0,
+        "genres": [
+          "Productivity"
+        ],
+        "artistName": "Detox",
+        "releaseDate": "2023-09-05T07:00:00Z",
+        "bundleId": "io.filos.focus",
+        "primaryGenreName": "Productivity",
+        "trackId": 6450723324,
+        "trackName": "Detox: App & Website Blocker",
+        "version": "5.0.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "userRatingCount": 0,
+        "descriptionSHA256": "6e0788e2930ac96f19a9b17d97898ea78121777c0ae610a895d55dea1f5bfa7e"
+      },
+      {
+        "kind": "software",
+        "currentVersionReleaseDate": "2026-09-15T06:03:44Z",
+        "averageUserRating": 5,
+        "trackViewUrl": "https://apps.apple.com/cg/app/parental-control-app-kidslox/id914825567?uo=4",
+        "price": 0.0,
+        "genres": [
+          "Lifestyle",
+          "Utilities"
+        ],
+        "artistName": "Kidslox Trading Ltd",
+        "releaseDate": "2014-09-23T23:23:11Z",
+        "bundleId": "com.kidslox.main",
+        "primaryGenreName": "Lifestyle",
+        "trackId": 914825567,
+        "trackName": "Parental Control App - Kidslox",
+        "version": "11.3.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "userRatingCount": 6,
+        "descriptionSHA256": "d7539daf53bb81a1e94445145b66c140d46f513f2094f6b5fa099f8287fae953"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "7c985d6d675fe6a3847087a8d8e74ab4081ecbc5ad10d0d2581c25333fe0535a",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

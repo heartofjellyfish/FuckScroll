@@ -1,0 +1,124 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=bloquer+des+applications&country=cm&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "artistName": "MobileSoft s.r.o.",
+        "genres": [
+          "Productivité",
+          "Forme et santé"
+        ],
+        "price": 0.0,
+        "bundleId": "eu.mobilesoft.appblock",
+        "trackId": 1515753232,
+        "trackName": "AppBlock: bloquer des applis",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-11T10:48:39Z",
+        "version": "4.14.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/cm/app/appblock-bloquer-des-applis/id1515753232?uo=4",
+        "averageUserRating": 3.90909,
+        "releaseDate": "2021-08-17T07:00:00Z",
+        "userRatingCount": 11,
+        "descriptionSHA256": "ba16ffb8042ef29530994b670aced6f5b47302eebfab4a3c47ad2691f82a1e91"
+      },
+      {
+        "kind": "software",
+        "artistName": "GrittyApps",
+        "genres": [
+          "Productivité",
+          "Forme et santé"
+        ],
+        "price": 0.0,
+        "bundleId": "stoope.Grit",
+        "trackId": 6446997766,
+        "trackName": "Grit: Habitudes Routines TDAH",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-09T14:58:19Z",
+        "version": "6.2.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/cm/app/grit-habitudes-routines-tdah/id6446997766?uo=4",
+        "averageUserRating": 3.94194,
+        "releaseDate": "2023-05-17T07:00:00Z",
+        "userRatingCount": 155,
+        "descriptionSHA256": "de3e3fb2cac20a38cf3c4a8326527727ee29e1d0854a6e96fd9ba18de8f1efdc"
+      },
+      {
+        "kind": "software",
+        "artistName": "CallApp",
+        "genres": [
+          "Utilitaires",
+          "Productivité"
+        ],
+        "price": 0.0,
+        "bundleId": "com.callapp.contacts",
+        "trackId": 6739289261,
+        "trackName": "Callapp: ID & Bloqueur d'appel",
+        "primaryGenreName": "Utilities",
+        "currentVersionReleaseDate": "2026-11-16T06:52:43Z",
+        "version": "1.29",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/cm/app/callapp-id-bloqueur-dappel/id6739289261?uo=4",
+        "averageUserRating": 4.26316,
+        "releaseDate": "2025-09-29T07:00:00Z",
+        "userRatingCount": 95,
+        "descriptionSHA256": "e36fb910d9a54f134eabe7b917d4ebd086ab80c96a06de8d407a4da1984f4665"
+      },
+      {
+        "kind": "software",
+        "artistName": "Aer Co., Ltd",
+        "genres": [
+          "Photo et vidéo",
+          "Musique"
+        ],
+        "price": 0.0,
+        "bundleId": "co.aer.ubecasttv",
+        "trackId": 6743932291,
+        "trackName": "UbeCast : Bloquer pubs vidéo",
+        "primaryGenreName": "Photo & Video",
+        "currentVersionReleaseDate": "2026-10-22T01:31:28Z",
+        "version": "42.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/cm/app/ubecast-bloquer-pubs-vid%C3%A9o/id6743932291?uo=4",
+        "averageUserRating": 4.3125,
+        "releaseDate": "2025-03-30T07:00:00Z",
+        "userRatingCount": 80,
+        "descriptionSHA256": "2b9fa783a10a0deb73e6c5aa069203fd1306a57e184148532db8e5a91a0b2620"
+      },
+      {
+        "kind": "software",
+        "artistName": "OnOff Labs",
+        "genres": [
+          "Productivité",
+          "Utilitaires"
+        ],
+        "price": 0.0,
+        "bundleId": "pony.tothemoon.Cold.Turkey",
+        "trackId": 6504188981,
+        "trackName": "Detox Lock:Bloquer Application",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-12T07:35:43Z",
+        "version": "2.46.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/cm/app/detox-lock-bloquer-application/id6504188981?uo=4",
+        "averageUserRating": 2,
+        "releaseDate": "2024-07-24T07:00:00Z",
+        "userRatingCount": 1,
+        "descriptionSHA256": "dce984060bb407fe418d3b24c9da7e5f14b36e8e3a54724edaa7d9599e7cda69"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "337e8684d5795935bf9a26f3efde3e7abd57bfc8e6d252aaa6b0b2c8e23cb2ea",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

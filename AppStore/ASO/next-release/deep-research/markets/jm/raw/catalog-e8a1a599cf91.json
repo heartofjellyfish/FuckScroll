@@ -1,0 +1,124 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=screen+time+control&country=jm&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "averageUserRating": 4.77273,
+        "trackViewUrl": "https://apps.apple.com/jm/app/opal-screen-time-control/id1497465230?uo=4",
+        "artistName": "Opal OS",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "primaryGenreName": "Productivity",
+        "price": 0.0,
+        "trackId": 1497465230,
+        "trackName": "Opal: Screen Time Control",
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.withopal.opal",
+        "userRatingCount": 44,
+        "descriptionSHA256": "79545dcfd9d33edf53d3567fc6a6eb5b582561ed18b9d49245fbff4af0417656"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/jm/app/screen-time-control-inscreen/id6737131495?uo=4",
+        "artistName": "Vaibhav Negi",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "primaryGenreName": "Productivity",
+        "price": 0.0,
+        "trackId": 6737131495,
+        "trackName": "Screen Time Control: Inscreen",
+        "releaseDate": "2024-12-16T08:00:00Z",
+        "currentVersionReleaseDate": "2026-02-10T18:45:54Z",
+        "version": "1.6.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.inscreen.app",
+        "userRatingCount": 0,
+        "descriptionSHA256": "79a4d2da17032d2581f733fe1c13c4f6dd648e0dba345de097bd680acd0f2534"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 4.92307,
+        "trackViewUrl": "https://apps.apple.com/jm/app/screenzen-screen-time-control/id1541027222?uo=4",
+        "artistName": "ScreenZen LLC",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "primaryGenreName": "Productivity",
+        "price": 0.0,
+        "trackId": 1541027222,
+        "trackName": "ScreenZen- Screen Time Control",
+        "releaseDate": "2021-07-16T07:00:00Z",
+        "currentVersionReleaseDate": "2026-09-06T14:20:14Z",
+        "version": "4.0.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.scottharvey.screenzenapp.ios",
+        "userRatingCount": 26,
+        "descriptionSHA256": "def0cb7cf41c8f7b1619d270d38fe8aa23859b81147ae63a1041bc0a1b7f8cc8"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 5,
+        "trackViewUrl": "https://apps.apple.com/jm/app/bepresent-screen-time-tracker/id1644737181?uo=4",
+        "artistName": "Screen Detox Inc",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "primaryGenreName": "Productivity",
+        "price": 0.0,
+        "trackId": 1644737181,
+        "trackName": "BePresent: Screen Time Tracker",
+        "releaseDate": "2022-09-29T07:00:00Z",
+        "currentVersionReleaseDate": "2026-11-17T21:48:19Z",
+        "version": "0.18.114",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.getpresentapp.Present",
+        "userRatingCount": 2,
+        "descriptionSHA256": "9e95923ffd20bc165bc1b53c7661f2d4334ba2865dd171c33d46a18826231bfe"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 4.94444,
+        "trackViewUrl": "https://apps.apple.com/jm/app/one-sec-screen-time-focus/id1532875441?uo=4",
+        "artistName": "riedel.wtf apps S.L.",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "primaryGenreName": "Productivity",
+        "price": 0.0,
+        "trackId": 1532875441,
+        "trackName": "one sec | screen time + focus",
+        "releaseDate": "2020-09-29T07:00:00Z",
+        "currentVersionReleaseDate": "2026-11-14T18:42:34Z",
+        "version": "6.1.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "wtf.riedel.one-sec",
+        "userRatingCount": 18,
+        "descriptionSHA256": "7458286eeec2edf883eec2f9abc49582f9924be2e29f484b82b1014b4b2a0462"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "f6ce3b3763150258850edc54c31cc7e9bdb5467b2945747bae0dd030ae8fe282",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

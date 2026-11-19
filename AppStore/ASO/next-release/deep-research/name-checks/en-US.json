@@ -1,0 +1,21 @@
+{
+  "locale": "en-US",
+  "store": "us",
+  "proposedName": "App Blocker – Duck on Duty",
+  "limitations": "A public top-five name search, not App Store Connect reservation or trademark clearance.",
+  "response": {
+    "id": "324767ea-61a3-4155-a421-a614db1c637e",
+    "jsonrpc": "2.0",
+    "result": {
+      "content": [
+        {
+          "text": "{\n  \"apps\" : [\n    {\n      \"appStoreId\" : \"6754953790\",\n      \"averageRating\" : 4.7,\n      \"bundleId\" : \"com.moniqtap.blocker.site.app\",\n      \"developer\" : \"Phong Pham\",\n      \"genre\" : \"Productivity\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple211\\/v4\\/a6\\/06\\/7d\\/a6067d4b-138a-59fd-27eb-37e76e7f6e5e\\/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png\\/80x0w.webp\",\n      \"name\" : \"BlockerPro: Block Site & Apps\",\n      \"ranking\" : 1,\n      \"ratingCount\" : 15,\n      \"subtitle\" : \"Block Apps, Websites & Focus\"\n    },\n    {\n      \"appStoreId\" : \"6822023409\",\n      \"averageRating\" : 0,\n      \"bundleId\" : \"io.github.weldingarc.arclock\",\n      \"developer\" : \"JUN HYUK CHOI\",\n      \"genre\" : \"Productivity\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple221\\/v4\\/d2\\/eb\\/58\\/d2eb580c-5688-d009-4d4c-257a159b6686\\/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png\\/80x0w.webp\",\n      \"name\" : \"Arc Lock – App Blocker\",\n      \"ranking\" : 2,\n      \"ratingCount\" : 0,\n      \"subtitle\" : \"Open source, no account needed\"\n    },\n    {\n      \"appStoreId\" : \"6832822647\",\n      \"averageRating\" : 5,\n      \"bundleId\" : \"com.heartofjellyfish.scrollstopper\",\n      \"developer\" : \"Qi Liu\",\n      \"genre\" : \"Productivity\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple221\\/v4\\/ac\\/fd\\/7d\\/acfd7dfb-3d27-02b7-e372-802ea02ad663\\/AppIcon-0-0-1x_U007ephone-0-1-85-220.png\\/80x0w.webp\",\n      \"name\" : \"Stop Scrolling – Duck on Duty\",\n      \"ranking\" : 3,\n      \"ratingCount\" : 1,\n      \"subtitle\" : \"Social Media App Blocker\"\n    },\n    {\n      \"appStoreId\" : \"6466579327\",\n      \"averageRating\" : 4.6,\n      \"bundleId\" : \"com.ljc.stc\",\n      \"developer\" : \"嘉纯 赖\",\n      \"genre\" : \"Utilities\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple122\\/v4\\/3d\\/e8\\/dc\\/3de8dcfb-88ef-d174-25f0-27ac8c604fcc\\/AppIcon-0-0-1x_U007ephone-0-0-85-220.png\\/80x0w.webp\",\n      \"name\" : \"Lock Apps - Block App\",\n      \"ranking\" : 4,\n      \"ratingCount\" : 21,\n      \"subtitle\" : \"Control Screen Time for iPhone\"\n    },\n    {\n      \"appStoreId\" : \"6810352102\",\n      \"averageRating\" : 0,\n      \"bundleId\" : \"com.georgeyiberg.AppBlocker\",\n      \"developer\" : \"春乔 杨\",\n      \"genre\" : \"Entertainment\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple211\\/v4\\/5b\\/f5\\/ea\\/5bf5ea43-9517-2367-6b50-905e1b0e60e4\\/AppIcon-0-0-1x_U007epad-0-1-85-220.png\\/80x0w.webp\",\n      \"name\" : \"App Blocker Assistant\",\n      \"ranking\" : 5,\n      \"ratingCount\" : 0,\n      \"subtitle\" : \"block app,make u not addicted\"\n    }\n  ],\n  \"keyword\" : \"App Blocker – Duck on Duty\",\n  \"platform\" : \"iphone\",\n  \"store\" : \"us\",\n  \"totalResults\" : 50\n}",
+          "type": "text"
+        }
+      ],
+      "isError": false
+    }
+  },
+  "error": null,
+  "exactOtherAppMatches": []
+}

@@ -1,0 +1,124 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=bloqueur+d%27apps&country=mg&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/mg/app/stay-focused-limit-screen-time/id1658592224?uo=4",
+        "averageUserRating": 0,
+        "artistName": "INNOXAPPS LLP",
+        "genres": [
+          "Productivity",
+          "Utilities"
+        ],
+        "price": 0.0,
+        "bundleId": "com.stayfocused",
+        "trackId": 1658592224,
+        "trackName": "Stay Focused Limit Screen Time",
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2023-01-26T08:00:00Z",
+        "currentVersionReleaseDate": "2026-10-01T19:56:32Z",
+        "version": "7.0.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "userRatingCount": 0,
+        "descriptionSHA256": "c6d9d0807b708d9300a29659be1fef96ca3c2eee1fb6dd681f38e56a946ce76c"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/mg/app/callapp-caller-id-block/id6739289261?uo=4",
+        "averageUserRating": 5,
+        "artistName": "CallApp",
+        "genres": [
+          "Utilities",
+          "Productivity"
+        ],
+        "price": 0.0,
+        "bundleId": "com.callapp.contacts",
+        "trackId": 6739289261,
+        "trackName": "CallApp: Caller ID & Block",
+        "primaryGenreName": "Utilities",
+        "releaseDate": "2025-10-15T07:00:00Z",
+        "currentVersionReleaseDate": "2026-11-16T06:52:43Z",
+        "version": "1.29",
+        "wrapperType": "software",
+        "currency": "USD",
+        "userRatingCount": 2,
+        "descriptionSHA256": "b7f2207593fc05fa4be803a7d37746e713c658cc1e610d9617c9f7f75c37b64c"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/mg/app/one-sec-screen-time-focus/id1532875441?uo=4",
+        "averageUserRating": 4.375,
+        "artistName": "riedel.wtf apps S.L.",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "bundleId": "wtf.riedel.one-sec",
+        "trackId": 1532875441,
+        "trackName": "one sec | screen time + focus",
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2020-09-29T07:00:00Z",
+        "currentVersionReleaseDate": "2026-11-14T18:42:34Z",
+        "version": "6.1.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "userRatingCount": 16,
+        "descriptionSHA256": "7458286eeec2edf883eec2f9abc49582f9924be2e29f484b82b1014b4b2a0462"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/mg/app/app-blocker-lockkun/id6787695392?uo=4",
+        "averageUserRating": 0,
+        "artistName": "Sora Yazawa",
+        "genres": [
+          "Productivity",
+          "Utilities"
+        ],
+        "price": 0.0,
+        "bundleId": "com.sorayazawa.applocksolo",
+        "trackId": 6787695392,
+        "trackName": "App Blocker: LockKun",
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2026-08-06T07:00:00Z",
+        "currentVersionReleaseDate": "2026-11-12T18:56:40Z",
+        "version": "1.0.11",
+        "wrapperType": "software",
+        "currency": "USD",
+        "userRatingCount": 0,
+        "descriptionSHA256": "ee1f1e6228e079aef08e5c625acbae448692053855ce0d11644b9bbab0099f05"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/mg/app/app-blocker-runlock/id6761887443?uo=4",
+        "averageUserRating": 0,
+        "artistName": "Mehmet Babacan",
+        "genres": [
+          "Health & Fitness",
+          "Lifestyle"
+        ],
+        "price": 0.0,
+        "bundleId": "com.lumiostudio.runlock",
+        "trackId": 6761887443,
+        "trackName": "App Blocker: Runlock",
+        "primaryGenreName": "Health & Fitness",
+        "releaseDate": "2026-05-14T07:00:00Z",
+        "currentVersionReleaseDate": "2026-09-02T22:43:32Z",
+        "version": "1.0.4",
+        "wrapperType": "software",
+        "currency": "USD",
+        "userRatingCount": 0,
+        "descriptionSHA256": "4143499cc2e0e2eedcee889f7e7a158202260060eb3e88580ebcb00ec843610a"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "1023544bc4330e268988d755144596c8bed65a21bfab4c6c91a2ccf817e7cf2f",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

@@ -1,0 +1,21 @@
+{
+  "locale": "de-DE",
+  "store": "de",
+  "proposedName": "App Blocker – Ente im Dienst",
+  "limitations": "A public top-five name search, not App Store Connect reservation or trademark clearance.",
+  "response": {
+    "id": "678d0a6b-96b6-436c-bd74-45dfa09304e2",
+    "jsonrpc": "2.0",
+    "result": {
+      "content": [
+        {
+          "text": "{\n  \"apps\" : [\n    {\n      \"appStoreId\" : \"454638411\",\n      \"averageRating\" : 4.5,\n      \"bundleId\" : \"com.facebook.Messenger\",\n      \"developer\" : \"Meta Platforms, Inc.\",\n      \"genre\" : \"Soziale Netze\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple211\\/v4\\/d4\\/27\\/a1\\/d427a1e9-a426-5b5e-b3b5-d2b2f44c9171\\/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png\\/80x0w.webp\",\n      \"name\" : \"Messenger\",\n      \"ranking\" : 1,\n      \"ratingCount\" : 326155,\n      \"subtitle\" : \"Text, audio and video calls\"\n    },\n    {\n      \"appStoreId\" : \"6761032678\",\n      \"averageRating\" : 0,\n      \"bundleId\" : \"com.igorshevchenko.EarnYourScroll\",\n      \"developer\" : \"Igor Shevchenko\",\n      \"genre\" : \"Dienst­programme\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple211\\/v4\\/07\\/3f\\/f4\\/073ff414-22de-606f-ca15-a4317fb4dc6c\\/AppIcon-0-0-1x_U007epad-0-1-85-220.png\\/80x0w.webp\",\n      \"name\" : \"Earn Your Scroll: App-Blocker\",\n      \"ranking\" : 2,\n      \"ratingCount\" : 0,\n      \"subtitle\" : \"Bewegen und Apps entsperren\"\n    }\n  ],\n  \"keyword\" : \"App Blocker – Ente im Dienst\",\n  \"platform\" : \"iphone\",\n  \"store\" : \"de\",\n  \"totalResults\" : 2\n}",
+          "type": "text"
+        }
+      ],
+      "isError": false
+    }
+  },
+  "error": null,
+  "exactOtherAppMatches": []
+}

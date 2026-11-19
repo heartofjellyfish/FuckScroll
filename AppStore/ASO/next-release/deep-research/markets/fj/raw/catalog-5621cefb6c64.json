@@ -1,0 +1,123 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=app+limits&country=fj&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "bundleId": "eu.mobilesoft.appblock",
+        "averageUserRating": 5,
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "artistName": "MobileSoft s.r.o.",
+        "releaseDate": "2021-08-17T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-11T10:48:39Z",
+        "version": "4.14.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/fj/app/appblock-app-site-blocker/id1515753232?uo=4",
+        "price": 0.0,
+        "trackName": "AppBlock: App & Site Blocker",
+        "trackId": 1515753232,
+        "userRatingCount": 2,
+        "descriptionSHA256": "f4e2257d9c85cbaf9cd8496ddc82a9a5d41b2e0440020c527d8b3b8c4bbe4236"
+      },
+      {
+        "kind": "software",
+        "bundleId": "com.kidslox.main",
+        "averageUserRating": 4.33333,
+        "genres": [
+          "Lifestyle",
+          "Utilities"
+        ],
+        "artistName": "Kidslox Trading Ltd",
+        "releaseDate": "2014-09-23T23:23:11Z",
+        "primaryGenreName": "Lifestyle",
+        "currentVersionReleaseDate": "2026-09-15T06:03:44Z",
+        "version": "11.3.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/fj/app/parental-control-app-kidslox/id914825567?uo=4",
+        "price": 0.0,
+        "trackName": "Parental Control App - Kidslox",
+        "trackId": 914825567,
+        "userRatingCount": 9,
+        "descriptionSHA256": "d7539daf53bb81a1e94445145b66c140d46f513f2094f6b5fa099f8287fae953"
+      },
+      {
+        "kind": "software",
+        "bundleId": "com.pdf.scanner.editor.lite",
+        "averageUserRating": 4.66667,
+        "genres": [
+          "Business",
+          "Utilities"
+        ],
+        "artistName": "UNITEMAN TECHNOLOGY (HK) LIMITED",
+        "releaseDate": "2025-10-19T07:00:00Z",
+        "primaryGenreName": "Business",
+        "currentVersionReleaseDate": "2026-08-08T22:02:34Z",
+        "version": "11.7",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/fj/app/scanner-app-scan-documents/id6753972326?uo=4",
+        "price": 0.0,
+        "trackName": "Scanner App: Scan Documents",
+        "trackId": 6753972326,
+        "userRatingCount": 21,
+        "descriptionSHA256": "3ab8359639ddc13568c345aaef8e10c4670856df0d5485ad6cdc019b9bc90e7e"
+      },
+      {
+        "kind": "software",
+        "bundleId": "com.kingsmen.lockdatamanager",
+        "averageUserRating": 4.32432,
+        "genres": [
+          "Utilities"
+        ],
+        "artistName": "KINGSMEN VIETNAM COMPANY LIMITED",
+        "releaseDate": "2022-03-30T07:00:00Z",
+        "primaryGenreName": "Utilities",
+        "currentVersionReleaseDate": "2022-11-09T19:44:17Z",
+        "version": "1.6",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/fj/app/app-lock-hide-app-lock-apps/id1616433953?uo=4",
+        "price": 0.0,
+        "trackName": "App Lock, Hide App & Lock Apps",
+        "trackId": 1616433953,
+        "userRatingCount": 37,
+        "descriptionSHA256": "a9a10fab975dea91f7d622ac28f56cc89c7ac676e92e3c3e0d06fd1a1df131e8"
+      },
+      {
+        "kind": "software",
+        "bundleId": "com.amzero.ios",
+        "averageUserRating": 4.33333,
+        "genres": [
+          "Productivity",
+          "Utilities"
+        ],
+        "artistName": "Bloop LTD",
+        "releaseDate": "2019-07-01T07:03:02Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-09-30T16:41:16Z",
+        "version": "27.0.2",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/fj/app/mail-app-for-gmail/id1462419097?uo=4",
+        "price": 0.0,
+        "trackName": "Mail App for Gmail",
+        "trackId": 1462419097,
+        "userRatingCount": 3,
+        "descriptionSHA256": "9187a21bc54ae924077648f250d6393e91af0b62a53e26e2b11a649e5c690054"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "d067f1c1ecfd09247f7b613c22c830d9b14b85c012f369dad0ac4a543c4535d5",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

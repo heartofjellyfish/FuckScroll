@@ -1,0 +1,21 @@
+{
+  "locale": "el",
+  "store": "gr",
+  "proposedName": "App Blocker – Πάπια",
+  "limitations": "A public top-five name search, not App Store Connect reservation or trademark clearance.",
+  "response": {
+    "id": "f95de878-a8f9-4b4f-9cea-97973744158b",
+    "jsonrpc": "2.0",
+    "result": {
+      "content": [
+        {
+          "text": "{\n  \"apps\" : [\n\n  ],\n  \"keyword\" : \"App Blocker – Πάπια\",\n  \"platform\" : \"iphone\",\n  \"store\" : \"gr\",\n  \"totalResults\" : 0\n}",
+          "type": "text"
+        }
+      ],
+      "isError": false
+    }
+  },
+  "error": null,
+  "exactOtherAppMatches": []
+}

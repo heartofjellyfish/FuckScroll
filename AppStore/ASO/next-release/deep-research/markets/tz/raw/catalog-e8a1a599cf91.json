@@ -1,0 +1,123 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=screen+time+control&country=tz&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "artistName": "Opal OS",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "bundleId": "com.withopal.opal",
+        "primaryGenreName": "Productivity",
+        "trackId": 1497465230,
+        "trackName": "Opal: Screen Time Control",
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "TZS",
+        "trackViewUrl": "https://apps.apple.com/tz/app/opal-screen-time-control/id1497465230?uo=4",
+        "averageUserRating": 4.70213,
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "userRatingCount": 94,
+        "descriptionSHA256": "79545dcfd9d33edf53d3567fc6a6eb5b582561ed18b9d49245fbff4af0417656"
+      },
+      {
+        "kind": "software",
+        "artistName": "ScreenZen LLC",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "bundleId": "com.scottharvey.screenzenapp.ios",
+        "primaryGenreName": "Productivity",
+        "trackId": 1541027222,
+        "trackName": "ScreenZen- Screen Time Control",
+        "currentVersionReleaseDate": "2026-09-06T14:20:14Z",
+        "version": "4.0.0",
+        "wrapperType": "software",
+        "currency": "TZS",
+        "trackViewUrl": "https://apps.apple.com/tz/app/screenzen-screen-time-control/id1541027222?uo=4",
+        "averageUserRating": 4.47619,
+        "releaseDate": "2021-07-16T07:00:00Z",
+        "userRatingCount": 21,
+        "descriptionSHA256": "def0cb7cf41c8f7b1619d270d38fe8aa23859b81147ae63a1041bc0a1b7f8cc8"
+      },
+      {
+        "kind": "software",
+        "artistName": "Deebex Tech Ltd.",
+        "genres": [
+          "Productivity"
+        ],
+        "price": 0.0,
+        "bundleId": "com.idreamdesign.screen",
+        "primaryGenreName": "Productivity",
+        "trackId": 6456942073,
+        "trackName": "App Blocker - Screen Time",
+        "currentVersionReleaseDate": "2026-08-13T00:04:05Z",
+        "version": "3.0.1",
+        "wrapperType": "software",
+        "currency": "TZS",
+        "trackViewUrl": "https://apps.apple.com/tz/app/app-blocker-screen-time/id6456942073?uo=4",
+        "averageUserRating": 0,
+        "releaseDate": "2023-10-10T07:00:00Z",
+        "userRatingCount": 0,
+        "descriptionSHA256": "97f0576b3c2db9b58153d327b549d41dd39cce7ace43d700c29f2becd85cf727"
+      },
+      {
+        "kind": "software",
+        "artistName": "Smolworks Inc",
+        "genres": [
+          "Productivity",
+          "Utilities"
+        ],
+        "price": 0.0,
+        "bundleId": "smobiz.brainrot",
+        "primaryGenreName": "Productivity",
+        "trackId": 6744338972,
+        "trackName": "Brainrot: Screen Time Control",
+        "currentVersionReleaseDate": "2026-11-10T01:03:44Z",
+        "version": "2.0.14",
+        "wrapperType": "software",
+        "currency": "TZS",
+        "trackViewUrl": "https://apps.apple.com/tz/app/brainrot-screen-time-control/id6744338972?uo=4",
+        "averageUserRating": 4.375,
+        "releaseDate": "2025-05-20T07:00:00Z",
+        "userRatingCount": 16,
+        "descriptionSHA256": "fdd84f5e733ba69c5d0a9a6e1a087401d7736a33f153ecfdce5a57ca441eb6e3"
+      },
+      {
+        "kind": "software",
+        "artistName": "Screen Detox Inc",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "bundleId": "com.getpresentapp.Present",
+        "primaryGenreName": "Productivity",
+        "trackId": 1644737181,
+        "trackName": "BePresent: Screen Time Tracker",
+        "currentVersionReleaseDate": "2026-11-17T21:48:19Z",
+        "version": "0.18.114",
+        "wrapperType": "software",
+        "currency": "TZS",
+        "trackViewUrl": "https://apps.apple.com/tz/app/bepresent-screen-time-tracker/id1644737181?uo=4",
+        "averageUserRating": 0,
+        "releaseDate": "2022-09-29T07:00:00Z",
+        "userRatingCount": 0,
+        "descriptionSHA256": "9e95923ffd20bc165bc1b53c7661f2d4334ba2865dd171c33d46a18826231bfe"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "1ae53bd540c709aa2440cb12de3b178a4044fe2c7c06e5d074c5ec65d5875716",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

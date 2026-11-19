@@ -1,0 +1,124 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=temps+d%E2%80%99%C3%A9cran&country=ne&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "artistName": "riedel.wtf apps S.L.",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "trackId": 1532875441,
+        "trackName": "one sec | screen time + focus",
+        "releaseDate": "2020-09-29T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-14T18:42:34Z",
+        "version": "6.1.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/ne/app/one-sec-screen-time-focus/id1532875441?uo=4",
+        "averageUserRating": 5,
+        "bundleId": "wtf.riedel.one-sec",
+        "userRatingCount": 3,
+        "descriptionSHA256": "7458286eeec2edf883eec2f9abc49582f9924be2e29f484b82b1014b4b2a0462"
+      },
+      {
+        "kind": "software",
+        "artistName": "Opal OS",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "trackId": 1497465230,
+        "trackName": "Opal: Screen Time Control",
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/ne/app/opal-screen-time-control/id1497465230?uo=4",
+        "averageUserRating": 4.4,
+        "bundleId": "com.withopal.opal",
+        "userRatingCount": 10,
+        "descriptionSHA256": "79545dcfd9d33edf53d3567fc6a6eb5b582561ed18b9d49245fbff4af0417656"
+      },
+      {
+        "kind": "software",
+        "artistName": "Jomo",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "trackId": 1609960918,
+        "trackName": "Jomo - App Blocker & Focus",
+        "releaseDate": "2022-10-16T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-18T16:29:32Z",
+        "version": "2.1.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/ne/app/jomo-app-blocker-focus/id1609960918?uo=4",
+        "averageUserRating": 4,
+        "bundleId": "com.jomo.Jomo",
+        "userRatingCount": 1,
+        "descriptionSHA256": "1c3ac2d7f7c364ecfc9b0dc94651160ac123d989dbde44be1172ac15c9b753d8"
+      },
+      {
+        "kind": "software",
+        "artistName": "Shenzhen Wondershare Software Co., Ltd",
+        "genres": [
+          "Lifestyle",
+          "Education"
+        ],
+        "price": 0.0,
+        "trackId": 1559132457,
+        "trackName": "Fammy - Blocksite",
+        "releaseDate": "2021-05-19T07:00:00Z",
+        "primaryGenreName": "Lifestyle",
+        "currentVersionReleaseDate": "2026-10-19T01:10:29Z",
+        "version": "9.1.5",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/ne/app/fammy-blocksite/id1559132457?uo=4",
+        "averageUserRating": 0,
+        "bundleId": "com.wondershare.parentalcontrolkid",
+        "userRatingCount": 0,
+        "descriptionSHA256": "a5924d43d9379b07f9b7ed32bbd382b0045af4ca5218a0a3f496472a48c6f6af"
+      },
+      {
+        "kind": "software",
+        "artistName": "Yheb Kanzari",
+        "genres": [
+          "Lifestyle",
+          "Productivity"
+        ],
+        "price": 0.0,
+        "trackId": 6758681989,
+        "trackName": "Khushu: Track Muslim Prayer",
+        "releaseDate": "2026-02-28T08:00:00Z",
+        "primaryGenreName": "Lifestyle",
+        "currentVersionReleaseDate": "2026-11-18T19:27:52Z",
+        "version": "1.2.2",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/ne/app/khushu-track-muslim-prayer/id6758681989?uo=4",
+        "averageUserRating": 4.375,
+        "bundleId": "com.khushuapp.ios",
+        "userRatingCount": 8,
+        "descriptionSHA256": "ea9453423344d36030a77cf3d09553261901baae0f276e051072f0845e2915b5"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "feaa9108bfaf3c1df8cf60ee84aeafde260b7158cfa2e697aaf3522a23d3e037",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

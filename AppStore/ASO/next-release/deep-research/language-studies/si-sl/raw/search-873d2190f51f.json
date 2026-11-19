@@ -1,0 +1,13 @@
+{
+  "id": "1efaf086-2c8a-4c70-8c5f-51330bae0a97",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"apps\" : [\n    {\n      \"appStoreId\" : \"1214691817\",\n      \"averageRating\" : 0,\n      \"bundleId\" : \"com.neyho.alergoalarm\",\n      \"developer\" : \"Salveo d.o.o.\",\n      \"genre\" : \"Health & Fitness\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple118\\/v4\\/a4\\/64\\/74\\/a46474c3-be53-f08a-9e5c-3d40ef66f793\\/pr_source.png\\/80x0w.webp\",\n      \"name\" : \"Alergo Alarm\",\n      \"ranking\" : 1,\n      \"ratingCount\" : 0\n    },\n    {\n      \"appStoreId\" : \"6762191480\",\n      \"averageRating\" : 0,\n      \"bundleId\" : \"echo.thoughts.deprivation\",\n      \"developer\" : \"Darius Jonaitis\",\n      \"genre\" : \"Utilities\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple221\\/v4\\/58\\/29\\/83\\/58298335-5ff6-2d8c-95df-9dfe5136a4f4\\/AppIcon-0-0-1x_U007ephone-0-1-85-220.png\\/80x0w.webp\",\n      \"name\" : \"Black Flag - Sensory\",\n      \"ranking\" : 2,\n      \"ratingCount\" : 0\n    },\n    {\n      \"appStoreId\" : \"6760826523\",\n      \"averageRating\" : 0,\n      \"bundleId\" : \"com.softsplit.detoxmozga\",\n      \"developer\" : \"Cosmic Production d.o.o.\",\n      \"genre\" : \"Health & Fitness\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple221\\/v4\\/6a\\/b3\\/4b\\/6ab34b9e-4a4c-0d0a-f6a9-b5fb9e339654\\/AppIcon-0-0-1x_U007epad-0-1-85-220.png\\/80x0w.webp\",\n      \"name\" : \"DetoxMozga\",\n      \"ranking\" : 3,\n      \"ratingCount\" : 0,\n      \"subtitle\" : \"Digital Detox & Focus\"\n    },\n    {\n      \"appStoreId\" : \"6746812576\",\n      \"averageRating\" : 0,\n      \"bundleId\" : \"com.jogamaster.app\",\n      \"developer\" : \"Appollo Fortyone DOO\",\n      \"genre\" : \"Health & Fitness\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple211\\/v4\\/bd\\/73\\/57\\/bd735758-33e1-2447-90ec-0d183980eecf\\/AppIcon-0-0-1x_U007epad-0-1-85-220.png\\/80x0w.webp\",\n      \"name\" : \"Yogamaster Meditations\",\n      \"ranking\" : 4,\n      \"ratingCount\" : 0,\n      \"subtitle\" : \"Meditations & Energy Training\"\n    }\n  ],\n  \"keyword\" : \"koncentracija\",\n  \"platform\" : \"iphone\",\n  \"store\" : \"si\",\n  \"totalResults\" : 4\n}",
+        "type": "text"
+      }
+    ],
+    "isError": false
+  }
+}

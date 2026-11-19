@@ -1,0 +1,124 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=app+limits&country=mv&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "artistName": "MobileSoft s.r.o.",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "bundleId": "eu.mobilesoft.appblock",
+        "trackId": 1515753232,
+        "trackName": "AppBlock: App & Site Blocker",
+        "releaseDate": "2021-08-17T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-11T10:48:39Z",
+        "version": "4.14.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/mv/app/appblock-app-site-blocker/id1515753232?uo=4",
+        "userRatingCount": 0,
+        "descriptionSHA256": "f4e2257d9c85cbaf9cd8496ddc82a9a5d41b2e0440020c527d8b3b8c4bbe4236"
+      },
+      {
+        "kind": "software",
+        "artistName": "Opal OS",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "bundleId": "com.withopal.opal",
+        "trackId": 1497465230,
+        "trackName": "Opal: Screen Time Control",
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 4.2,
+        "trackViewUrl": "https://apps.apple.com/mv/app/opal-screen-time-control/id1497465230?uo=4",
+        "userRatingCount": 5,
+        "descriptionSHA256": "79545dcfd9d33edf53d3567fc6a6eb5b582561ed18b9d49245fbff4af0417656"
+      },
+      {
+        "kind": "software",
+        "artistName": "AVAS ENTERPRISES PRIVATE LIMITED",
+        "genres": [
+          "Travel",
+          "Lifestyle"
+        ],
+        "price": 0.0,
+        "bundleId": "avas.ride.taxi.maldives.passenger",
+        "trackId": 1447876849,
+        "trackName": "Avas Ride - Your Everyday App",
+        "releaseDate": "2020-04-13T07:00:00Z",
+        "primaryGenreName": "Travel",
+        "currentVersionReleaseDate": "2026-04-07T18:12:33Z",
+        "version": "0.48.03",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 4.73574,
+        "trackViewUrl": "https://apps.apple.com/mv/app/avas-ride-your-everyday-app/id1447876849?uo=4",
+        "userRatingCount": 4261,
+        "descriptionSHA256": "04aae140c2ee8b2bbb090ed9c93aee2c8525d86f7a208f2b34ed2f1a854b9865"
+      },
+      {
+        "kind": "software",
+        "artistName": "Kidslox Trading Ltd",
+        "genres": [
+          "Lifestyle",
+          "Utilities"
+        ],
+        "price": 0.0,
+        "bundleId": "com.kidslox.main",
+        "trackId": 914825567,
+        "trackName": "Parental Control App - Kidslox",
+        "releaseDate": "2020-04-10T07:00:00Z",
+        "primaryGenreName": "Lifestyle",
+        "currentVersionReleaseDate": "2026-09-15T06:03:44Z",
+        "version": "11.3.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 4.18421,
+        "trackViewUrl": "https://apps.apple.com/mv/app/parental-control-app-kidslox/id914825567?uo=4",
+        "userRatingCount": 38,
+        "descriptionSHA256": "d7539daf53bb81a1e94445145b66c140d46f513f2094f6b5fa099f8287fae953"
+      },
+      {
+        "kind": "software",
+        "artistName": "Alibaba",
+        "genres": [
+          "Shopping",
+          "Lifestyle"
+        ],
+        "price": 0.0,
+        "bundleId": "com.alibaba.iAliexpress",
+        "trackId": 436672029,
+        "trackName": "AliExpress Shopping App",
+        "releaseDate": "2020-04-12T07:00:00Z",
+        "primaryGenreName": "Shopping",
+        "currentVersionReleaseDate": "2026-11-17T02:47:32Z",
+        "version": "8.180.2",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 4.77662,
+        "trackViewUrl": "https://apps.apple.com/mv/app/aliexpress-shopping-app/id436672029?uo=4",
+        "userRatingCount": 2207,
+        "descriptionSHA256": "5d415fb9c4186913ead74b5dec21f79d617069ac1754cf6fcad89020a3b8736e"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "de1e4dec2721ef90660d83684940eab84bf69e15802f824e973f805cbe0fda51",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

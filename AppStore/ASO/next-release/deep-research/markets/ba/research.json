@@ -1,0 +1,449 @@
+{
+  "store": "ba",
+  "country": "Bosnia and Herzegovina",
+  "defaultLanguage": "English (U.K.)",
+  "additionalLanguages": "Croatian",
+  "languages": [
+    "hr",
+    "en"
+  ],
+  "candidates": [
+    "vrijeme uporabe zaslona",
+    "vrijeme na zaslonu",
+    "blokiranje aplikacija",
+    "blokator aplikacija",
+    "zaključavanje aplikacija",
+    "ograničenje aplikacija",
+    "vremensko ograničenje",
+    "ovisnost o mobitelu",
+    "manje mobitela",
+    "smanji vrijeme na mobitelu",
+    "blokiranje društvenih mreža",
+    "manje društvenih mreža",
+    "digitalni detoks",
+    "digital detox",
+    "fokus",
+    "koncentracija",
+    "samokontrola",
+    "pauza od mobitela",
+    "timer aplikacija",
+    "app blocker",
+    "screen time",
+    "roditeljski nadzor",
+    "prestani skrolati",
+    "uporaba mobitela",
+    "screen time control",
+    "scroll blocker",
+    "stop scrolling",
+    "social media blocker",
+    "block apps",
+    "app limits"
+  ],
+  "astroSupported": false,
+  "catalogQueries": [
+    "vrijeme uporabe zaslona",
+    "vrijeme na zaslonu",
+    "blokiranje aplikacija",
+    "blokator aplikacija",
+    "zaključavanje aplikacija",
+    "ograničenje aplikacija",
+    "app blocker",
+    "screen time"
+  ],
+  "source": "Apple public software catalog search; not native App Store SERP or Astro metrics",
+  "metrics": [],
+  "searches": [
+    {
+      "query": "vrijeme uporabe zaslona",
+      "apps": [
+        {
+          "appStoreId": "1365784521",
+          "name": "Parental Control - Kroha",
+          "catalogPosition": 1,
+          "subtitle": null,
+          "averageRating": 4.8,
+          "ratingCount": 5,
+          "trackViewUrl": "https://apps.apple.com/ba/app/parental-control-kroha/id1365784521?uo=4"
+        },
+        {
+          "appStoreId": "6776689183",
+          "name": "BSpace: Screen Time Control",
+          "catalogPosition": 2,
+          "subtitle": null,
+          "averageRating": 0,
+          "ratingCount": 0,
+          "trackViewUrl": "https://apps.apple.com/ba/app/bspace-screen-time-control/id6776689183?uo=4"
+        }
+      ],
+      "source": "deep-research/markets/ba/raw/catalog-8b40d0ad27b0.json",
+      "error": null
+    },
+    {
+      "query": "vrijeme na zaslonu",
+      "apps": [
+        {
+          "appStoreId": "6752255113",
+          "name": "Retime: Screen Time",
+          "catalogPosition": 1,
+          "subtitle": null,
+          "averageRating": 0,
+          "ratingCount": 0,
+          "trackViewUrl": "https://apps.apple.com/ba/app/retime-screen-time/id6752255113?uo=4"
+        },
+        {
+          "appStoreId": "1435058152",
+          "name": "Clock Face - desktop alarm",
+          "catalogPosition": 2,
+          "subtitle": null,
+          "averageRating": 4.55556,
+          "ratingCount": 9,
+          "trackViewUrl": "https://apps.apple.com/ba/app/clock-face-desktop-alarm/id1435058152?uo=4"
+        },
+        {
+          "appStoreId": "6806646516",
+          "name": "WeatherSafe",
+          "catalogPosition": 3,
+          "subtitle": null,
+          "averageRating": 0,
+          "ratingCount": 0,
+          "trackViewUrl": "https://apps.apple.com/ba/app/weathersafe/id6806646516?uo=4"
+        },
+        {
+          "appStoreId": "6822597890",
+          "name": "Kiraf: Parental Control",
+          "catalogPosition": 4,
+          "subtitle": null,
+          "averageRating": 0,
+          "ratingCount": 0,
+          "trackViewUrl": "https://apps.apple.com/ba/app/kiraf-parental-control/id6822597890?uo=4"
+        },
+        {
+          "appStoreId": "6758959846",
+          "name": "RePlan: Daily Planner & To-Do",
+          "catalogPosition": 5,
+          "subtitle": null,
+          "averageRating": 0,
+          "ratingCount": 0,
+          "trackViewUrl": "https://apps.apple.com/ba/app/replan-daily-planner-to-do/id6758959846?uo=4"
+        }
+      ],
+      "source": "deep-research/markets/ba/raw/catalog-e72f3e944c99.json",
+      "error": null
+    },
+    {
+      "query": "blokiranje aplikacija",
+      "apps": [
+        {
+          "appStoreId": "6758555012",
+          "name": "App Blocker: Screen Time",
+          "catalogPosition": 1,
+          "subtitle": null,
+          "averageRating": 0,
+          "ratingCount": 0,
+          "trackViewUrl": "https://apps.apple.com/ba/app/app-blocker-screen-time/id6758555012?uo=4"
+        },
+        {
+          "appStoreId": "6761037446",
+          "name": "App Blocker & Focus: ARCO",
+          "catalogPosition": 2,
+          "subtitle": null,
+          "averageRating": 0,
+          "ratingCount": 0,
+          "trackViewUrl": "https://apps.apple.com/ba/app/app-blocker-focus-arco/id6761037446?uo=4"
+        },
+        {
+          "appStoreId": "1505796584",
+          "name": "Spam Call Blocker: Stop Scam",
+          "catalogPosition": 3,
+          "subtitle": null,
+          "averageRating": 0,
+          "ratingCount": 0,
+          "trackViewUrl": "https://apps.apple.com/ba/app/spam-call-blocker-stop-scam/id1505796584?uo=4"
+        },
+        {
+          "appStoreId": "448142450",
+          "name": "Truecaller: Premium Caller ID",
+          "catalogPosition": 4,
+          "subtitle": null,
+          "averageRating": 4,
+          "ratingCount": 4,
+          "trackViewUrl": "https://apps.apple.com/ba/app/truecaller-premium-caller-id/id448142450?uo=4"
+        },
+        {
+          "appStoreId": "1441909643",
+          "name": "YPT - Study Group & Timer",
+          "catalogPosition": 5,
+          "subtitle": null,
+          "averageRating": 5,
+          "ratingCount": 1,
+          "trackViewUrl": "https://apps.apple.com/ba/app/ypt-study-group-timer/id1441909643?uo=4"
+        }
+      ],
+      "source": "deep-research/markets/ba/raw/catalog-8fdc7e8380eb.json",
+      "error": null
+    },
+    {
+      "query": "blokator aplikacija",
+      "apps": [
+        {
+          "appStoreId": "6469686557",
+          "name": "App Lock - Lock Apps .",
+          "catalogPosition": 1,
+          "subtitle": null,
+          "averageRating": 4.4,
+          "ratingCount": 5,
+          "trackViewUrl": "https://apps.apple.com/ba/app/app-lock-lock-apps/id6469686557?uo=4"
+        },
+        {
+          "appStoreId": "6801801357",
+          "name": "App Blocker & Focus: Hermit",
+          "catalogPosition": 2,
+          "subtitle": null,
+          "averageRating": 0,
+          "ratingCount": 0,
+          "trackViewUrl": "https://apps.apple.com/ba/app/app-blocker-focus-hermit/id6801801357?uo=4"
+        },
+        {
+          "appStoreId": "6792724236",
+          "name": "Block Apps & Websites: Unsway",
+          "catalogPosition": 3,
+          "subtitle": null,
+          "averageRating": 0,
+          "ratingCount": 0,
+          "trackViewUrl": "https://apps.apple.com/ba/app/block-apps-websites-unsway/id6792724236?uo=4"
+        },
+        {
+          "appStoreId": "6766120727",
+          "name": "Unscroll: Screen Time Control",
+          "catalogPosition": 4,
+          "subtitle": null,
+          "averageRating": 0,
+          "ratingCount": 0,
+          "trackViewUrl": "https://apps.apple.com/ba/app/unscroll-screen-time-control/id6766120727?uo=4"
+        },
+        {
+          "appStoreId": "6784962499",
+          "name": "No Scroll: Stop Doom Scrolling",
+          "catalogPosition": 5,
+          "subtitle": null,
+          "averageRating": 0,
+          "ratingCount": 0,
+          "trackViewUrl": "https://apps.apple.com/ba/app/no-scroll-stop-doom-scrolling/id6784962499?uo=4"
+        }
+      ],
+      "source": "deep-research/markets/ba/raw/catalog-0991f99d3e20.json",
+      "error": null
+    },
+    {
+      "query": "zaključavanje aplikacija",
+      "apps": [
+        {
+          "appStoreId": "6452721618",
+          "name": "App Lock - AppLock Apps",
+          "catalogPosition": 1,
+          "subtitle": null,
+          "averageRating": 0,
+          "ratingCount": 0,
+          "trackViewUrl": "https://apps.apple.com/ba/app/app-lock-applock-apps/id6452721618?uo=4"
+        },
+        {
+          "appStoreId": "6458880741",
+          "name": "App Lock - Lock Apps ™",
+          "catalogPosition": 2,
+          "subtitle": null,
+          "averageRating": 5,
+          "ratingCount": 1,
+          "trackViewUrl": "https://apps.apple.com/ba/app/app-lock-lock-apps/id6458880741?uo=4"
+        },
+        {
+          "appStoreId": "1663668785",
+          "name": "aLock - App Lock",
+          "catalogPosition": 3,
+          "subtitle": null,
+          "averageRating": 0,
+          "ratingCount": 0,
+          "trackViewUrl": "https://apps.apple.com/ba/app/alock-app-lock/id1663668785?uo=4"
+        },
+        {
+          "appStoreId": "1491995968",
+          "name": "Priva: Photo Vault App",
+          "catalogPosition": 4,
+          "subtitle": null,
+          "averageRating": 1,
+          "ratingCount": 1,
+          "trackViewUrl": "https://apps.apple.com/ba/app/priva-photo-vault-app/id1491995968?uo=4"
+        },
+        {
+          "appStoreId": "6469686557",
+          "name": "App Lock - Lock Apps .",
+          "catalogPosition": 5,
+          "subtitle": null,
+          "averageRating": 4.4,
+          "ratingCount": 5,
+          "trackViewUrl": "https://apps.apple.com/ba/app/app-lock-lock-apps/id6469686557?uo=4"
+        }
+      ],
+      "source": "deep-research/markets/ba/raw/catalog-5be2db080d35.json",
+      "error": null
+    },
+    {
+      "query": "ograničenje aplikacija",
+      "apps": [
+        {
+          "appStoreId": "6458880741",
+          "name": "App Lock - Lock Apps ™",
+          "catalogPosition": 1,
+          "subtitle": null,
+          "averageRating": 5,
+          "ratingCount": 1,
+          "trackViewUrl": "https://apps.apple.com/ba/app/app-lock-lock-apps/id6458880741?uo=4"
+        },
+        {
+          "appStoreId": "914825567",
+          "name": "Parental Control App - Kidslox",
+          "catalogPosition": 2,
+          "subtitle": null,
+          "averageRating": 4.54762,
+          "ratingCount": 42,
+          "trackViewUrl": "https://apps.apple.com/ba/app/parental-control-app-kidslox/id914825567?uo=4"
+        },
+        {
+          "appStoreId": "1365784521",
+          "name": "Parental Control - Kroha",
+          "catalogPosition": 3,
+          "subtitle": null,
+          "averageRating": 4.8,
+          "ratingCount": 5,
+          "trackViewUrl": "https://apps.apple.com/ba/app/parental-control-kroha/id1365784521?uo=4"
+        },
+        {
+          "appStoreId": "1459737793",
+          "name": "Speedometer ..",
+          "catalogPosition": 4,
+          "subtitle": null,
+          "averageRating": 4.40909,
+          "ratingCount": 22,
+          "trackViewUrl": "https://apps.apple.com/ba/app/speedometer/id1459737793?uo=4"
+        },
+        {
+          "appStoreId": "1553721110",
+          "name": "RadarAll Speed Camera Detector",
+          "catalogPosition": 5,
+          "subtitle": null,
+          "averageRating": 4.65942,
+          "ratingCount": 138,
+          "trackViewUrl": "https://apps.apple.com/ba/app/radarall-speed-camera-detector/id1553721110?uo=4"
+        }
+      ],
+      "source": "deep-research/markets/ba/raw/catalog-104cd9748fb2.json",
+      "error": null
+    },
+    {
+      "query": "app blocker",
+      "apps": [
+        {
+          "appStoreId": "1645639057",
+          "name": "Refocus: App Blocker & Lock",
+          "catalogPosition": 1,
+          "subtitle": null,
+          "averageRating": 5,
+          "ratingCount": 5,
+          "trackViewUrl": "https://apps.apple.com/ba/app/refocus-app-blocker-lock/id1645639057?uo=4"
+        },
+        {
+          "appStoreId": "1541027222",
+          "name": "ScreenZen- Screen Time Control",
+          "catalogPosition": 2,
+          "subtitle": null,
+          "averageRating": 4.91303,
+          "ratingCount": 23,
+          "trackViewUrl": "https://apps.apple.com/ba/app/screenzen-screen-time-control/id1541027222?uo=4"
+        },
+        {
+          "appStoreId": "1497465230",
+          "name": "Opal: Screen Time Control",
+          "catalogPosition": 3,
+          "subtitle": null,
+          "averageRating": 4.85185,
+          "ratingCount": 54,
+          "trackViewUrl": "https://apps.apple.com/ba/app/opal-screen-time-control/id1497465230?uo=4"
+        },
+        {
+          "appStoreId": "1532875441",
+          "name": "one sec | screen time + focus",
+          "catalogPosition": 4,
+          "subtitle": null,
+          "averageRating": 5,
+          "ratingCount": 16,
+          "trackViewUrl": "https://apps.apple.com/ba/app/one-sec-screen-time-focus/id1532875441?uo=4"
+        },
+        {
+          "appStoreId": "1459096306",
+          "name": "Focus Plant：forest app blocker",
+          "catalogPosition": 5,
+          "subtitle": null,
+          "averageRating": 5,
+          "ratingCount": 15,
+          "trackViewUrl": "https://apps.apple.com/ba/app/focus-plant-forest-app-blocker/id1459096306?uo=4"
+        }
+      ],
+      "source": "deep-research/markets/ba/raw/catalog-8567eb89892e.json",
+      "error": null
+    },
+    {
+      "query": "screen time",
+      "apps": [
+        {
+          "appStoreId": "1497465230",
+          "name": "Opal: Screen Time Control",
+          "catalogPosition": 1,
+          "subtitle": null,
+          "averageRating": 4.85185,
+          "ratingCount": 54,
+          "trackViewUrl": "https://apps.apple.com/ba/app/opal-screen-time-control/id1497465230?uo=4"
+        },
+        {
+          "appStoreId": "6746537171",
+          "name": "Unrot: Earn your Screen Time",
+          "catalogPosition": 2,
+          "subtitle": null,
+          "averageRating": 4.79464,
+          "ratingCount": 112,
+          "trackViewUrl": "https://apps.apple.com/ba/app/unrot-earn-your-screen-time/id6746537171?uo=4"
+        },
+        {
+          "appStoreId": "6738397686",
+          "name": "Screen Time Tracker",
+          "catalogPosition": 3,
+          "subtitle": null,
+          "averageRating": 5,
+          "ratingCount": 1,
+          "trackViewUrl": "https://apps.apple.com/ba/app/screen-time-tracker/id6738397686?uo=4"
+        },
+        {
+          "appStoreId": "1532875441",
+          "name": "one sec | screen time + focus",
+          "catalogPosition": 4,
+          "subtitle": null,
+          "averageRating": 5,
+          "ratingCount": 16,
+          "trackViewUrl": "https://apps.apple.com/ba/app/one-sec-screen-time-focus/id1532875441?uo=4"
+        },
+        {
+          "appStoreId": "1055315077",
+          "name": "Screen Time Parental Control",
+          "catalogPosition": 5,
+          "subtitle": null,
+          "averageRating": 5,
+          "ratingCount": 2,
+          "trackViewUrl": "https://apps.apple.com/ba/app/screen-time-parental-control/id1055315077?uo=4"
+        }
+      ],
+      "source": "deep-research/markets/ba/raw/catalog-95492313e9b1.json",
+      "error": null
+    }
+  ],
+  "status": "catalog-only-complete",
+  "completedAt": "2026-11-19T06:09:47.188092+00:00",
+  "limitation": "Astro rejects this storefront. No local popularity/difficulty, no native keyword ranks, and public catalog does not return subtitles. Result count may be under five. Locale decisions require explicitly labelled language-anchor evidence."
+}

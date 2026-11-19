@@ -1,0 +1,121 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=bloquear+aplicaciones&country=ve&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "genres": [
+          "Utilidades"
+        ],
+        "artistName": "LYKOV STUDIO LTD",
+        "releaseDate": "2025-06-26T07:00:00Z",
+        "bundleId": "com.lykovstudio.AppLock",
+        "trackId": 6746766591,
+        "trackName": "Bloquear aplicaciones: AppLock",
+        "primaryGenreName": "Utilities",
+        "currentVersionReleaseDate": "2026-11-10T16:00:02Z",
+        "version": "1.0.30",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/ve/app/bloquear-aplicaciones-applock/id6746766591?uo=4",
+        "averageUserRating": 4,
+        "price": 0.0,
+        "userRatingCount": 4,
+        "descriptionSHA256": "6a2615782e5f3d6f19e5f3f5b4924bb0985a5d6460d203e9f95fb93d4ddadeaa"
+      },
+      {
+        "kind": "software",
+        "genres": [
+          "Productividad",
+          "Salud y fitness"
+        ],
+        "artistName": "Labi, LLC",
+        "releaseDate": "2022-09-22T07:00:00Z",
+        "bundleId": "com.refocus.refocus",
+        "trackId": 1645639057,
+        "trackName": "Refocus: Bloquear Aplicaciones",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-18T15:32:47Z",
+        "version": "2.2.11",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/ve/app/refocus-bloquear-aplicaciones/id1645639057?uo=4",
+        "averageUserRating": 4.90323,
+        "price": 0.0,
+        "userRatingCount": 31,
+        "descriptionSHA256": "5af728bf34683f8d8cc16da34fc547279e90e9330521b01704a76d15740488e6"
+      },
+      {
+        "kind": "software",
+        "genres": [
+          "Productividad"
+        ],
+        "artistName": "宝锋 张",
+        "releaseDate": "2026-06-23T07:00:00Z",
+        "bundleId": "com.zhang.lockapps",
+        "trackId": 6777914542,
+        "trackName": "Bloqueo De Aplicaciones - App.",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-07-21T21:55:13Z",
+        "version": "1.0.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/ve/app/bloqueo-de-aplicaciones-app/id6777914542?uo=4",
+        "averageUserRating": 0,
+        "price": 0.0,
+        "userRatingCount": 0,
+        "descriptionSHA256": "6ba84e749b2264c584aa70d5d2b6f92b5e1770b0d39c457c30722007305f143e"
+      },
+      {
+        "kind": "software",
+        "genres": [
+          "Utilidades"
+        ],
+        "artistName": "友财 徐",
+        "releaseDate": "2023-11-07T08:00:00Z",
+        "bundleId": "com.xu.applock",
+        "trackId": 6469686557,
+        "trackName": "Bloqueo De Aplicaciones -",
+        "primaryGenreName": "Utilities",
+        "currentVersionReleaseDate": "2026-06-22T01:26:35Z",
+        "version": "1.5.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/ve/app/bloqueo-de-aplicaciones/id6469686557?uo=4",
+        "averageUserRating": 4.01266,
+        "price": 0.0,
+        "userRatingCount": 79,
+        "descriptionSHA256": "a1f6f5a6e93e3c93fb8902ee294b2f62e481f5bb0709d7976190b888ad918b35"
+      },
+      {
+        "kind": "software",
+        "genres": [
+          "Utilidades",
+          "Estilo de vida"
+        ],
+        "artistName": "Joao Victor Flores da Costa",
+        "releaseDate": "2025-12-22T08:00:00Z",
+        "bundleId": "com.gambit.applock",
+        "trackId": 6755939574,
+        "trackName": "Cloak: Bloquear y Ocultar Apps",
+        "primaryGenreName": "Utilities",
+        "currentVersionReleaseDate": "2026-06-01T16:39:15Z",
+        "version": "9.6",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/ve/app/cloak-bloquear-y-ocultar-apps/id6755939574?uo=4",
+        "averageUserRating": 0,
+        "price": 0.0,
+        "userRatingCount": 0,
+        "descriptionSHA256": "7469abd46e80878e8d93c0656cde9509b3c5852051900657cb59e8a908dca187"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "d7c869f18bd294d38cff57f3bf8f5ac6f357b7c9fcfe7e8679ac003af8d88fdf",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

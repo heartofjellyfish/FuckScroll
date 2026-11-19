@@ -1,0 +1,123 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=screen+time&country=zw&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "genres": [
+          "Productivity"
+        ],
+        "price": 0.0,
+        "artistName": "Unrot OÜ",
+        "bundleId": "com.unrotou.unrot",
+        "trackId": 6746537171,
+        "primaryGenreName": "Productivity",
+        "version": "5.0.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/zw/app/unrot-earn-your-screen-time/id6746537171?uo=4",
+        "averageUserRating": 4,
+        "currentVersionReleaseDate": "2026-11-17T23:57:22Z",
+        "trackName": "Unrot: Earn your Screen Time",
+        "releaseDate": "2025-06-04T07:00:00Z",
+        "userRatingCount": 5,
+        "descriptionSHA256": "12adff6dd116c1ee691ffdde6965edfdf9a3d682b6fdc4a3214199fc9ce2beea"
+      },
+      {
+        "kind": "software",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "artistName": "ScreenZen LLC",
+        "bundleId": "com.scottharvey.screenzenapp.ios",
+        "trackId": 1541027222,
+        "primaryGenreName": "Productivity",
+        "version": "4.0.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/zw/app/screenzen-screen-time-control/id1541027222?uo=4",
+        "averageUserRating": 4.77778,
+        "currentVersionReleaseDate": "2026-09-06T14:20:14Z",
+        "trackName": "ScreenZen- Screen Time Control",
+        "releaseDate": "2021-07-16T07:00:00Z",
+        "userRatingCount": 27,
+        "descriptionSHA256": "def0cb7cf41c8f7b1619d270d38fe8aa23859b81147ae63a1041bc0a1b7f8cc8"
+      },
+      {
+        "kind": "software",
+        "genres": [
+          "Lifestyle",
+          "Productivity"
+        ],
+        "price": 0.0,
+        "artistName": "Screen Time Labs",
+        "bundleId": "com.screentime",
+        "trackId": 1055315077,
+        "primaryGenreName": "Lifestyle",
+        "version": "3.72",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/zw/app/screen-time-parental-control/id1055315077?uo=4",
+        "averageUserRating": 0,
+        "currentVersionReleaseDate": "2022-12-07T13:43:25Z",
+        "trackName": "Screen Time Parental Control",
+        "releaseDate": "2015-12-15T20:43:11Z",
+        "userRatingCount": 0,
+        "descriptionSHA256": "4304fa45bc672e931bb3f98d3b8232f55d3f776c5eb880d3d113c7227a932ad6"
+      },
+      {
+        "kind": "software",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "artistName": "Opal OS",
+        "bundleId": "com.withopal.opal",
+        "trackId": 1497465230,
+        "primaryGenreName": "Productivity",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/zw/app/opal-screen-time-control/id1497465230?uo=4",
+        "averageUserRating": 4.63095,
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "trackName": "Opal: Screen Time Control",
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "userRatingCount": 84,
+        "descriptionSHA256": "79545dcfd9d33edf53d3567fc6a6eb5b582561ed18b9d49245fbff4af0417656"
+      },
+      {
+        "kind": "software",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "artistName": "Jack Finnis",
+        "bundleId": "com.jackfinnis.ScreenTimeTracker",
+        "trackId": 6738397686,
+        "primaryGenreName": "Productivity",
+        "version": "2.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/zw/app/screen-time-tracker/id6738397686?uo=4",
+        "averageUserRating": 0,
+        "currentVersionReleaseDate": "2025-10-21T22:49:43Z",
+        "trackName": "Screen Time Tracker",
+        "releaseDate": "2024-12-17T08:00:00Z",
+        "userRatingCount": 0,
+        "descriptionSHA256": "818e2b4d99d866d797722d84f7e4cb5f38639db2d2e8c74030a03e53a20ba82b"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "966466142da35bed0049d6a81193aed2f7c0f2db0d93d0df31cbc351e2dfdd66",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

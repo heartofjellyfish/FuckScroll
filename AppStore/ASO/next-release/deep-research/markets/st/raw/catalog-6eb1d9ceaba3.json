@@ -1,0 +1,10 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=controlo+do+tempo+de+ecr%C3%A3&country=st&entity=software&limit=5",
+  "response": {
+    "resultCount": 0,
+    "results": []
+  },
+  "error": null,
+  "responseMetadataSHA256BeforeProjection": "736dd919c462bec822f39fcf05bb8520f8f69b4ed49e7801f605d0ad861113ee",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

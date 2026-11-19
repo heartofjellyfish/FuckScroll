@@ -1,0 +1,213 @@
+[
+  {
+    "difficulty": 17,
+    "keyword": "čas u obrazovky",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 11,
+    "keyword": "blokování aplikací",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "blokátor aplikací",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 9,
+    "keyword": "zámek aplikací",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 52,
+    "keyword": "limit aplikací",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "časový limit aplikací",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "závislost na telefonu",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 9,
+    "keyword": "méně telefonu",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 24,
+    "keyword": "omezit čas na telefonu",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "blokování sociálních sítí",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 27,
+    "keyword": "méně sociálních sítí",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 9,
+    "keyword": "digitální detox",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 19,
+    "keyword": "digital detox",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 11,
+    "keyword": "soustředění",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 13,
+    "keyword": "koncentrace",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "sebekontrola",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "pauza od telefonu",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "časovač aplikací",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 23,
+    "keyword": "app blocker",
+    "popularity": 32,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 23,
+    "keyword": "screen time",
+    "popularity": 35,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 21,
+    "keyword": "rodičovská kontrola",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "přestat scrollovat",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 5,
+    "keyword": "používání telefonu",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 7,
+    "keyword": "omezení aplikací",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 21,
+    "keyword": "screen time control",
+    "popularity": 29,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 11,
+    "keyword": "scroll blocker",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 13,
+    "keyword": "stop scrolling",
+    "popularity": 5,
+    "ranking": 32,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 23,
+    "keyword": "social media blocker",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 19,
+    "keyword": "block apps",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 52,
+    "keyword": "app limits",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  }
+]

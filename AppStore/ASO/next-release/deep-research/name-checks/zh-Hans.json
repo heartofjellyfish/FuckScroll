@@ -1,0 +1,21 @@
+{
+  "locale": "zh-Hans",
+  "store": "cn",
+  "proposedName": "自觉鸭：戒手机与屏幕使用时间",
+  "limitations": "A public top-five name search, not App Store Connect reservation or trademark clearance.",
+  "response": {
+    "id": "83c64c2d-8391-4b9d-ba70-560d2ca707b4",
+    "jsonrpc": "2.0",
+    "result": {
+      "content": [
+        {
+          "text": "{\n  \"apps\" : [\n\n  ],\n  \"keyword\" : \"自觉鸭：戒手机与屏幕使用时间\",\n  \"platform\" : \"iphone\",\n  \"store\" : \"cn\",\n  \"totalResults\" : 0\n}",
+          "type": "text"
+        }
+      ],
+      "isError": false
+    }
+  },
+  "error": null,
+  "exactOtherAppMatches": []
+}

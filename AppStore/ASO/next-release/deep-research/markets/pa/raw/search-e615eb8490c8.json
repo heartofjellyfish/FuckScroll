@@ -1,0 +1,13 @@
+{
+  "id": "6d66726b-ccec-4b89-9db8-af0ba6995ddc",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"apps\" : [\n\n  ],\n  \"keyword\" : \"dejar de usar el celular\",\n  \"platform\" : \"iphone\",\n  \"store\" : \"pa\",\n  \"totalResults\" : 0\n}",
+        "type": "text"
+      }
+    ],
+    "isError": false
+  }
+}

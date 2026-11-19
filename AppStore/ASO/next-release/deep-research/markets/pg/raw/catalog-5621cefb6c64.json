@@ -1,0 +1,124 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=app+limits&country=pg&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "artistName": "Opal OS",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "trackId": 1497465230,
+        "trackName": "Opal: Screen Time Control",
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/pg/app/opal-screen-time-control/id1497465230?uo=4",
+        "averageUserRating": 4.5,
+        "bundleId": "com.withopal.opal",
+        "userRatingCount": 2,
+        "descriptionSHA256": "79545dcfd9d33edf53d3567fc6a6eb5b582561ed18b9d49245fbff4af0417656"
+      },
+      {
+        "kind": "software",
+        "artistName": "MobileSoft s.r.o.",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "trackId": 1515753232,
+        "trackName": "AppBlock: App & Site Blocker",
+        "releaseDate": "2021-08-17T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-11T10:48:39Z",
+        "version": "4.14.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/pg/app/appblock-app-site-blocker/id1515753232?uo=4",
+        "averageUserRating": 0,
+        "bundleId": "eu.mobilesoft.appblock",
+        "userRatingCount": 0,
+        "descriptionSHA256": "f4e2257d9c85cbaf9cd8496ddc82a9a5d41b2e0440020c527d8b3b8c4bbe4236"
+      },
+      {
+        "kind": "software",
+        "artistName": "Kidslox Trading Ltd",
+        "genres": [
+          "Lifestyle",
+          "Utilities"
+        ],
+        "price": 0.0,
+        "trackId": 914825567,
+        "trackName": "Parental Control App - Kidslox",
+        "releaseDate": "2014-09-23T23:23:11Z",
+        "primaryGenreName": "Lifestyle",
+        "currentVersionReleaseDate": "2026-09-15T06:03:44Z",
+        "version": "11.3.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/pg/app/parental-control-app-kidslox/id914825567?uo=4",
+        "averageUserRating": 4.5,
+        "bundleId": "com.kidslox.main",
+        "userRatingCount": 2,
+        "descriptionSHA256": "d7539daf53bb81a1e94445145b66c140d46f513f2094f6b5fa099f8287fae953"
+      },
+      {
+        "kind": "software",
+        "artistName": "UNITEMAN TECHNOLOGY (HK) LIMITED",
+        "genres": [
+          "Business",
+          "Utilities"
+        ],
+        "price": 0.0,
+        "trackId": 6753972326,
+        "trackName": "Scanner App: Scan Documents",
+        "releaseDate": "2025-10-19T07:00:00Z",
+        "primaryGenreName": "Business",
+        "currentVersionReleaseDate": "2026-08-08T22:02:34Z",
+        "version": "11.7",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/pg/app/scanner-app-scan-documents/id6753972326?uo=4",
+        "averageUserRating": 4,
+        "bundleId": "com.pdf.scanner.editor.lite",
+        "userRatingCount": 4,
+        "descriptionSHA256": "3ab8359639ddc13568c345aaef8e10c4670856df0d5485ad6cdc019b9bc90e7e"
+      },
+      {
+        "kind": "software",
+        "artistName": "Alibaba",
+        "genres": [
+          "Shopping",
+          "Lifestyle"
+        ],
+        "price": 0.0,
+        "trackId": 436672029,
+        "trackName": "AliExpress Shopping App",
+        "releaseDate": "2012-06-01T03:30:00Z",
+        "primaryGenreName": "Shopping",
+        "currentVersionReleaseDate": "2026-11-17T02:47:32Z",
+        "version": "8.180.2",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/pg/app/aliexpress-shopping-app/id436672029?uo=4",
+        "averageUserRating": 4.82432,
+        "bundleId": "com.alibaba.iAliexpress",
+        "userRatingCount": 74,
+        "descriptionSHA256": "5d415fb9c4186913ead74b5dec21f79d617069ac1754cf6fcad89020a3b8736e"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "65ff046ef1711a5589ba7cd50a25b31b0fd948b91e27ef56b1b87e042f5c3e01",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

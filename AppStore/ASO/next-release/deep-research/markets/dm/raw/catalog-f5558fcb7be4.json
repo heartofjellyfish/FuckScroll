@@ -1,0 +1,126 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=block+apps&country=dm&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "price": 0.0,
+        "artistName": "MobileSoft s.r.o.",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "trackName": "AppBlock: App & Site Blocker",
+        "trackId": 1515753232,
+        "bundleId": "eu.mobilesoft.appblock",
+        "releaseDate": "2021-08-17T07:00:00Z",
+        "currentVersionReleaseDate": "2026-11-11T10:48:39Z",
+        "version": "4.14.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 4.5,
+        "trackViewUrl": "https://apps.apple.com/dm/app/appblock-app-site-blocker/id1515753232?uo=4",
+        "primaryGenreName": "Productivity",
+        "userRatingCount": 2,
+        "descriptionSHA256": "f4e2257d9c85cbaf9cd8496ddc82a9a5d41b2e0440020c527d8b3b8c4bbe4236"
+      },
+      {
+        "kind": "software",
+        "price": 0.0,
+        "artistName": "BlockSite LP",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "trackName": "BlockSite: Block Apps & Focus",
+        "trackId": 1474967653,
+        "bundleId": "co.ios.BlockSite",
+        "releaseDate": "2019-09-01T07:00:00Z",
+        "currentVersionReleaseDate": "2026-10-18T07:41:00Z",
+        "version": "4.4.5",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/dm/app/blocksite-block-apps-focus/id1474967653?uo=4",
+        "primaryGenreName": "Productivity",
+        "userRatingCount": 0,
+        "descriptionSHA256": "3eb447725c9fc35e830b2ea7ff4f799cbbf9f0a174fb4879e2041c2cb7805265"
+      },
+      {
+        "kind": "software",
+        "price": 0.0,
+        "artistName": "riedel.wtf apps S.L.",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "trackName": "one sec | screen time + focus",
+        "trackId": 1532875441,
+        "bundleId": "wtf.riedel.one-sec",
+        "releaseDate": "2020-09-29T07:00:00Z",
+        "currentVersionReleaseDate": "2026-11-14T18:42:34Z",
+        "version": "6.1.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/dm/app/one-sec-screen-time-focus/id1532875441?uo=4",
+        "primaryGenreName": "Productivity",
+        "userRatingCount": 0,
+        "descriptionSHA256": "7458286eeec2edf883eec2f9abc49582f9924be2e29f484b82b1014b4b2a0462"
+      },
+      {
+        "kind": "software",
+        "price": 0.0,
+        "artistName": "Muhammet Yalcın Ozdemir Halil Ibrahim Karahan Mustafa Ayten Kupertino Bilisim Yazılım K.S",
+        "genres": [
+          "Utilities",
+          "Productivity"
+        ],
+        "trackName": "App Lock - Lock Apps & Photos",
+        "trackId": 1569973513,
+        "bundleId": "co.appnation.applocker",
+        "releaseDate": "2021-06-12T07:00:00Z",
+        "currentVersionReleaseDate": "2026-09-25T07:10:51Z",
+        "version": "2.2.4",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 3.28571,
+        "trackViewUrl": "https://apps.apple.com/dm/app/app-lock-lock-apps-photos/id1569973513?uo=4",
+        "primaryGenreName": "Utilities",
+        "userRatingCount": 7,
+        "descriptionSHA256": "7ba2ea3794744905bae3c370c1d34f9ff79f824d3ed6e187d44098d261070cc2"
+      },
+      {
+        "kind": "software",
+        "price": 0.0,
+        "artistName": "Shikudo",
+        "genres": [
+          "Productivity",
+          "Games",
+          "Simulation",
+          "Casual"
+        ],
+        "trackName": "Focus Plant：forest app blocker",
+        "trackId": 1459096306,
+        "bundleId": "com.shikudo.focus",
+        "releaseDate": "2019-09-02T07:00:00Z",
+        "currentVersionReleaseDate": "2026-11-14T00:10:28Z",
+        "version": "4.6.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 4,
+        "trackViewUrl": "https://apps.apple.com/dm/app/focus-plant-forest-app-blocker/id1459096306?uo=4",
+        "primaryGenreName": "Productivity",
+        "userRatingCount": 2,
+        "descriptionSHA256": "fe05cd0e5d57fda1dd718d682f963e8ebc60dcf414c417b33b853ed6df9bd015"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "83053b7251c226af2f5b6853dc8364f1e7edcb21ca13dd292bbd1e87173aa9bc",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

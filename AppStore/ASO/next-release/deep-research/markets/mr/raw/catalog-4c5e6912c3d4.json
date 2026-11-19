@@ -1,0 +1,123 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=%D8%AD%D8%B8%D8%B1+%D8%A7%D9%84%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A7%D8%AA&country=mr&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "artistName": "MobileSoft s.r.o.",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "releaseDate": "2021-08-17T07:00:00Z",
+        "trackId": 1515753232,
+        "trackName": "AppBlock: App & Site Blocker",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-11T10:48:39Z",
+        "version": "4.14.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 4.45455,
+        "bundleId": "eu.mobilesoft.appblock",
+        "trackViewUrl": "https://apps.apple.com/mr/app/appblock-app-site-blocker/id1515753232?uo=4",
+        "userRatingCount": 11,
+        "descriptionSHA256": "f4e2257d9c85cbaf9cd8496ddc82a9a5d41b2e0440020c527d8b3b8c4bbe4236"
+      },
+      {
+        "kind": "software",
+        "artistName": "INNOXAPPS LLP",
+        "genres": [
+          "Productivity",
+          "Utilities"
+        ],
+        "price": 0.0,
+        "releaseDate": "2023-01-26T08:00:00Z",
+        "trackId": 1658592224,
+        "trackName": "Stay Focused Limit Screen Time",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-10-01T19:56:32Z",
+        "version": "7.0.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 4.22222,
+        "bundleId": "com.stayfocused",
+        "trackViewUrl": "https://apps.apple.com/mr/app/stay-focused-limit-screen-time/id1658592224?uo=4",
+        "userRatingCount": 18,
+        "descriptionSHA256": "c6d9d0807b708d9300a29659be1fef96ca3c2eee1fb6dd681f38e56a946ce76c"
+      },
+      {
+        "kind": "software",
+        "artistName": "Deebex Tech Ltd.",
+        "genres": [
+          "Productivity"
+        ],
+        "price": 0.0,
+        "releaseDate": "2023-10-10T07:00:00Z",
+        "trackId": 6456942073,
+        "trackName": "App Blocker - Screen Time",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-08-13T00:04:05Z",
+        "version": "3.0.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 0,
+        "bundleId": "com.idreamdesign.screen",
+        "trackViewUrl": "https://apps.apple.com/mr/app/app-blocker-screen-time/id6456942073?uo=4",
+        "userRatingCount": 0,
+        "descriptionSHA256": "97f0576b3c2db9b58153d327b549d41dd39cce7ace43d700c29f2becd85cf727"
+      },
+      {
+        "kind": "software",
+        "artistName": "Yurii Koshkin",
+        "genres": [
+          "Productivity",
+          "Utilities"
+        ],
+        "price": 0.0,
+        "releaseDate": "2026-06-06T07:00:00Z",
+        "trackId": 6758555012,
+        "trackName": "App Blocker: Screen Time",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-11T20:33:57Z",
+        "version": "1.5.4",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 0,
+        "bundleId": "app.qadry.ios",
+        "trackViewUrl": "https://apps.apple.com/mr/app/app-blocker-screen-time/id6758555012?uo=4",
+        "userRatingCount": 0,
+        "descriptionSHA256": "8c8bc179d3229190dbae8e558ef22395d692a1cc58db103c3c8cbb517b5e44ea"
+      },
+      {
+        "kind": "software",
+        "artistName": "Sora Yazawa",
+        "genres": [
+          "Productivity",
+          "Utilities"
+        ],
+        "price": 0.0,
+        "releaseDate": "2026-08-06T07:00:00Z",
+        "trackId": 6787695392,
+        "trackName": "App Blocker: LockKun",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-12T18:56:40Z",
+        "version": "1.0.11",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 0,
+        "bundleId": "com.sorayazawa.applocksolo",
+        "trackViewUrl": "https://apps.apple.com/mr/app/app-blocker-lockkun/id6787695392?uo=4",
+        "userRatingCount": 0,
+        "descriptionSHA256": "ee1f1e6228e079aef08e5c625acbae448692053855ce0d11644b9bbab0099f05"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "990d6a8e2ab110a77f9cefb1671698f5f2ead5485e7e04cc45e3684dafaf73af",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

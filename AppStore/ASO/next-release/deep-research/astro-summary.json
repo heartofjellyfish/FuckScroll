@@ -1,0 +1,369 @@
+{
+  "mode": "astro",
+  "results": [
+    {
+      "store": "us",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "gb",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "ca",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "au",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "cn",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "tw",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "hk",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "jp",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "kr",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "de",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "fr",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "es",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "mx",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "it",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "br",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "pt",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "nl",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "ru",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "se",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "sa",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "tr",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "in",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "id",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "my",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "th",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "vn",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "pl",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "cz",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "dk",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "fi",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "no",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "gr",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "il",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "hu",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "ro",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "sk",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "ua",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "hr",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "be",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "ch",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "sg",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "al",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "dz",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "ar",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "am",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "at",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "az",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "bh",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "bo",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "bg",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "kh",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "cl",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "co",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "cr",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "cy",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "do",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "ec",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "eg",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "sv",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "ee",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "gh",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "gt",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "hn",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "is",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "iq",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "ie",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "jo",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "kz",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "ke",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "kw",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "kg",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "lv",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "lb",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "lu",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "mo",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "mn",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "ma",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "np",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "nz",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "om",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "pk",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "pa",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "py",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "pe",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "ph",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "qa",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "si",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "za",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "lk",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "ae",
+      "status": "deep-astro-complete"
+    },
+    {
+      "store": "uz",
+      "status": "deep-astro-complete"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=app+limits&country=dm&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/dm/app/appblock-app-site-blocker/id1515753232?uo=4",
+        "averageUserRating": 4.5,
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "trackId": 1515753232,
+        "trackName": "AppBlock: App & Site Blocker",
+        "bundleId": "eu.mobilesoft.appblock",
+        "artistName": "MobileSoft s.r.o.",
+        "price": 0.0,
+        "releaseDate": "2021-08-17T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-11T10:48:39Z",
+        "version": "4.14.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "userRatingCount": 2,
+        "descriptionSHA256": "f4e2257d9c85cbaf9cd8496ddc82a9a5d41b2e0440020c527d8b3b8c4bbe4236"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/dm/app/opal-screen-time-control/id1497465230?uo=4",
+        "averageUserRating": 5,
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "trackId": 1497465230,
+        "trackName": "Opal: Screen Time Control",
+        "bundleId": "com.withopal.opal",
+        "artistName": "Opal OS",
+        "price": 0.0,
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "USD",
+        "userRatingCount": 2,
+        "descriptionSHA256": "79545dcfd9d33edf53d3567fc6a6eb5b582561ed18b9d49245fbff4af0417656"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/dm/app/parental-control-app-kidslox/id914825567?uo=4",
+        "averageUserRating": 5,
+        "genres": [
+          "Lifestyle",
+          "Utilities"
+        ],
+        "trackId": 914825567,
+        "trackName": "Parental Control App - Kidslox",
+        "bundleId": "com.kidslox.main",
+        "artistName": "Kidslox Trading Ltd",
+        "price": 0.0,
+        "releaseDate": "2014-09-23T23:23:11Z",
+        "primaryGenreName": "Lifestyle",
+        "currentVersionReleaseDate": "2026-09-15T06:03:44Z",
+        "version": "11.3.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "userRatingCount": 1,
+        "descriptionSHA256": "d7539daf53bb81a1e94445145b66c140d46f513f2094f6b5fa099f8287fae953"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/dm/app/podcast-player-app-castbox/id1243410543?uo=4",
+        "averageUserRating": 5,
+        "genres": [
+          "News",
+          "Entertainment"
+        ],
+        "trackId": 1243410543,
+        "trackName": "Podcast Player App - Castbox",
+        "bundleId": "fm.castbox.audiobook.radio.podcast",
+        "artistName": "Guru Network Limited",
+        "price": 0.0,
+        "releaseDate": "2017-06-15T01:00:46Z",
+        "primaryGenreName": "News",
+        "currentVersionReleaseDate": "2026-11-13T06:09:07Z",
+        "version": "10.32.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "userRatingCount": 2,
+        "descriptionSHA256": "82a31e09af8dfa1d1b2a81a6a24ecfc1f5575175f6c5548832051fa976f72e7c"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/dm/app/luxy-selective-singles-dating/id873518909?uo=4",
+        "averageUserRating": 5,
+        "genres": [
+          "Social Networking",
+          "Lifestyle"
+        ],
+        "trackId": 873518909,
+        "trackName": "Luxy: Selective Singles Dating",
+        "bundleId": "US.Luxy.Luxy",
+        "artistName": "Luxy Inc.",
+        "price": 0.0,
+        "releaseDate": "2014-08-14T03:20:47Z",
+        "primaryGenreName": "Social Networking",
+        "currentVersionReleaseDate": "2026-11-16T02:57:45Z",
+        "version": "7.37.2",
+        "wrapperType": "software",
+        "currency": "USD",
+        "userRatingCount": 6,
+        "descriptionSHA256": "3510e78cf756d4d785d9703032c34b621b25192ee0ee9d6bbee34219ff93fa76"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "31cbaf351dbb8de58d8c83e5ce3fe835808657cb4fe578f853c4ab19251a1535",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

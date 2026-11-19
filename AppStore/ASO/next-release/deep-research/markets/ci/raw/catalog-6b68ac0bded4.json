@@ -1,0 +1,124 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=bloqueur+d%E2%80%99apps&country=ci&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "averageUserRating": 4.42494,
+        "trackViewUrl": "https://apps.apple.com/ci/app/callapp-id-bloqueur-dappel/id6739289261?uo=4",
+        "artistName": "CallApp",
+        "genres": [
+          "Utilitaires",
+          "Productivité"
+        ],
+        "price": 0.0,
+        "trackName": "Callapp: ID & Bloqueur d'appel",
+        "bundleId": "com.callapp.contacts",
+        "trackId": 6739289261,
+        "releaseDate": "2025-09-29T07:00:00Z",
+        "currentVersionReleaseDate": "2026-11-16T06:52:43Z",
+        "version": "1.29",
+        "wrapperType": "software",
+        "currency": "USD",
+        "primaryGenreName": "Utilities",
+        "userRatingCount": 393,
+        "descriptionSHA256": "e36fb910d9a54f134eabe7b917d4ebd086ab80c96a06de8d407a4da1984f4665"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 4.04444,
+        "trackViewUrl": "https://apps.apple.com/ci/app/salahscreen-bloqueur-dapps/id6748571304?uo=4",
+        "artistName": "Rayane Sahi",
+        "genres": [
+          "Références",
+          "Productivité"
+        ],
+        "price": 0.0,
+        "trackName": "SalahScreen : Bloqueur d’apps",
+        "bundleId": "Zikr.SalahScreen",
+        "trackId": 6748571304,
+        "releaseDate": "2025-10-09T07:00:00Z",
+        "currentVersionReleaseDate": "2026-09-02T14:13:01Z",
+        "version": "2.0.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "primaryGenreName": "Reference",
+        "userRatingCount": 90,
+        "descriptionSHA256": "eee21246fec604e38cca1a69cd88193f71e085fd7ad913c60f108af12c790f18"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 4.875,
+        "trackViewUrl": "https://apps.apple.com/ci/app/stay-focused-bloqueur-dapps/id1658592224?uo=4",
+        "artistName": "INNOXAPPS LLP",
+        "genres": [
+          "Productivité",
+          "Utilitaires"
+        ],
+        "price": 0.0,
+        "trackName": "Stay Focused - Bloqueur d'apps",
+        "bundleId": "com.stayfocused",
+        "trackId": 1658592224,
+        "releaseDate": "2023-01-26T08:00:00Z",
+        "currentVersionReleaseDate": "2026-10-01T19:56:32Z",
+        "version": "7.0.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "primaryGenreName": "Productivity",
+        "userRatingCount": 8,
+        "descriptionSHA256": "bedbf23117848478cf17d309abe20d4a17dc09265b4a7ed4ee6a57d387671805"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 5,
+        "trackViewUrl": "https://apps.apple.com/ci/app/mora-bloqueur-dapps/id6762023115?uo=4",
+        "artistName": "Teiva Lebeau",
+        "genres": [
+          "Forme et santé",
+          "Productivité"
+        ],
+        "price": 0.0,
+        "trackName": "MORA : Bloqueur d'apps",
+        "bundleId": "com.kmgzora.replock",
+        "trackId": 6762023115,
+        "releaseDate": "2026-09-14T07:00:00Z",
+        "currentVersionReleaseDate": "2026-10-31T07:53:07Z",
+        "version": "1.5.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "primaryGenreName": "Health & Fitness",
+        "userRatingCount": 1,
+        "descriptionSHA256": "5d9984ccabd4b785cbf2c0e45f6f31e3901a7e5a6d188bdbf084d3fba030777d"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/ci/app/bloqueur-dapps-soberlock/id6761304507?uo=4",
+        "artistName": "Hakan Yigit Unac",
+        "genres": [
+          "Forme et santé",
+          "Productivité"
+        ],
+        "price": 0.0,
+        "trackName": "Bloqueur d'Apps: SoberLock",
+        "bundleId": "com.app.hakanyigitunac.SoberLock",
+        "trackId": 6761304507,
+        "releaseDate": "2026-05-14T07:00:00Z",
+        "currentVersionReleaseDate": "2026-08-20T21:34:29Z",
+        "version": "1.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "primaryGenreName": "Health & Fitness",
+        "userRatingCount": 0,
+        "descriptionSHA256": "dfb96f59a750437e7e69e4935d489a54ef57be4333c4c0a0e79a888f738073b0"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "df433e945a4acc1ac169852138097a5f6566750aa57ef498aefc4e6fd23f7577",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

@@ -1,0 +1,21 @@
+{
+  "locale": "ca",
+  "store": "es",
+  "proposedName": "Screen Time – Ànec",
+  "limitations": "A public top-five name search, not App Store Connect reservation or trademark clearance.",
+  "response": {
+    "id": "71bdb7ec-aafc-4eb9-9f8a-483187c18e34",
+    "jsonrpc": "2.0",
+    "result": {
+      "content": [
+        {
+          "text": "{\n  \"apps\" : [\n\n  ],\n  \"keyword\" : \"Screen Time – Ànec\",\n  \"platform\" : \"iphone\",\n  \"store\" : \"es\",\n  \"totalResults\" : 0\n}",
+          "type": "text"
+        }
+      ],
+      "isError": false
+    }
+  },
+  "error": null,
+  "exactOtherAppMatches": []
+}

@@ -1,0 +1,123 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=stop+scrolling&country=mk&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "averageUserRating": 4.09999,
+        "trackViewUrl": "https://apps.apple.com/mk/app/sociallite-block-reels-shorts/id6757661674?uo=4",
+        "genres": [
+          "Productivity",
+          "Social Networking"
+        ],
+        "artistName": "Sociallite LLC",
+        "price": 0.0,
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2026-01-29T08:00:00Z",
+        "trackId": 6757661674,
+        "trackName": "SocialLite-Block Reels&Shorts",
+        "currentVersionReleaseDate": "2026-10-16T11:04:41Z",
+        "version": "3.1.5",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "social.Social-lite",
+        "userRatingCount": 10,
+        "descriptionSHA256": "9dbd89f368c17dc50b7187fccb2c303ea2893d4ea389e2290954ac38e87b7144"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 5,
+        "trackViewUrl": "https://apps.apple.com/mk/app/one-sec-screen-time-focus/id1532875441?uo=4",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "artistName": "riedel.wtf apps S.L.",
+        "price": 0.0,
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2020-09-29T07:00:00Z",
+        "trackId": 1532875441,
+        "trackName": "one sec | screen time + focus",
+        "currentVersionReleaseDate": "2026-11-14T18:42:34Z",
+        "version": "6.1.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "wtf.riedel.one-sec",
+        "userRatingCount": 12,
+        "descriptionSHA256": "7458286eeec2edf883eec2f9abc49582f9924be2e29f484b82b1014b4b2a0462"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 4.77778,
+        "trackViewUrl": "https://apps.apple.com/mk/app/screenzen-screen-time-control/id1541027222?uo=4",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "artistName": "ScreenZen LLC",
+        "price": 0.0,
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2021-07-16T07:00:00Z",
+        "trackId": 1541027222,
+        "trackName": "ScreenZen- Screen Time Control",
+        "currentVersionReleaseDate": "2026-09-06T14:20:14Z",
+        "version": "4.0.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.scottharvey.screenzenapp.ios",
+        "userRatingCount": 27,
+        "descriptionSHA256": "def0cb7cf41c8f7b1619d270d38fe8aa23859b81147ae63a1041bc0a1b7f8cc8"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/mk/app/stop-scrolling/id6766318473?uo=4",
+        "genres": [
+          "Productivity"
+        ],
+        "artistName": "Swen Sekha",
+        "price": 0.0,
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2026-05-04T07:00:00Z",
+        "trackId": 6766318473,
+        "trackName": "Stop Scrolling!",
+        "currentVersionReleaseDate": "2026-09-01T21:49:58Z",
+        "version": "3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.swens.stopscrolling",
+        "userRatingCount": 0,
+        "descriptionSHA256": "3dd99162afc28b6430a290c54b2f63adaa1c9cf59e848ff6109700235f111527"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/mk/app/fluid-friction-block-reels/id6782510849?uo=4",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "artistName": "Gustav Mtenji Bergdal Mjengwa",
+        "price": 0.0,
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2026-07-27T07:00:00Z",
+        "trackId": 6782510849,
+        "trackName": "Fluid Friction: Block Reels",
+        "currentVersionReleaseDate": "2026-11-18T22:05:22Z",
+        "version": "2.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.mjengwa.fluidfriction",
+        "userRatingCount": 0,
+        "descriptionSHA256": "b160b295c2bb9d19081a3442f697f4855cc6cc9192ac21b5c1c73275645cbe59"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "ca34ec10297154a842a76f7121742c0896cefe9c81e88542915105a53f056b2a",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

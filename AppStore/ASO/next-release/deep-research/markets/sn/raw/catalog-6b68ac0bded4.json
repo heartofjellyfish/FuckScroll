@@ -1,0 +1,124 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=bloqueur+d%E2%80%99apps&country=sn&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "genres": [
+          "Utilities",
+          "Productivity"
+        ],
+        "price": 0.0,
+        "artistName": "CallApp",
+        "primaryGenreName": "Utilities",
+        "releaseDate": "2025-10-15T07:00:00Z",
+        "currentVersionReleaseDate": "2026-11-16T06:52:43Z",
+        "version": "1.29",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.callapp.contacts",
+        "trackViewUrl": "https://apps.apple.com/sn/app/callapp-caller-id-block/id6739289261?uo=4",
+        "averageUserRating": 4.44841,
+        "trackId": 6739289261,
+        "trackName": "CallApp: Caller ID & Block",
+        "userRatingCount": 533,
+        "descriptionSHA256": "b7f2207593fc05fa4be803a7d37746e713c658cc1e610d9617c9f7f75c37b64c"
+      },
+      {
+        "kind": "software",
+        "genres": [
+          "Reference",
+          "Productivity"
+        ],
+        "price": 0.0,
+        "artistName": "Rayane Sahi",
+        "primaryGenreName": "Reference",
+        "releaseDate": "2025-10-09T07:00:00Z",
+        "currentVersionReleaseDate": "2026-09-02T14:13:01Z",
+        "version": "2.0.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "Zikr.SalahScreen",
+        "trackViewUrl": "https://apps.apple.com/sn/app/salahscreen-prayer-focus/id6748571304?uo=4",
+        "averageUserRating": 4.24224,
+        "trackId": 6748571304,
+        "trackName": "SalahScreen: Prayer Focus",
+        "userRatingCount": 161,
+        "descriptionSHA256": "f480e39c00f75ad4ff40ceb47efb6b1c044e6849c1d15aab31a66b5a510b84e9"
+      },
+      {
+        "kind": "software",
+        "genres": [
+          "Productivity",
+          "Utilities"
+        ],
+        "price": 0.0,
+        "artistName": "INNOXAPPS LLP",
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2023-01-26T08:00:00Z",
+        "currentVersionReleaseDate": "2026-10-01T19:56:32Z",
+        "version": "7.0.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.stayfocused",
+        "trackViewUrl": "https://apps.apple.com/sn/app/stay-focused-limit-screen-time/id1658592224?uo=4",
+        "averageUserRating": 4.5,
+        "trackId": 1658592224,
+        "trackName": "Stay Focused Limit Screen Time",
+        "userRatingCount": 28,
+        "descriptionSHA256": "c6d9d0807b708d9300a29659be1fef96ca3c2eee1fb6dd681f38e56a946ce76c"
+      },
+      {
+        "kind": "software",
+        "genres": [
+          "Productivity",
+          "Education"
+        ],
+        "price": 0.0,
+        "artistName": "Attila Meste",
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2026-10-04T07:00:00Z",
+        "currentVersionReleaseDate": "2026-11-18T00:40:52Z",
+        "version": "2.5",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.doomlingo.app",
+        "trackViewUrl": "https://apps.apple.com/sn/app/scrollr-app-blocker/id6811619023?uo=4",
+        "averageUserRating": 5,
+        "trackId": 6811619023,
+        "trackName": "Scrollr - App Blocker",
+        "userRatingCount": 1,
+        "descriptionSHA256": "cd895924d4b880f12e9c4825819fc101e330977b7877a3c9ecfb30f94c1e3024"
+      },
+      {
+        "kind": "software",
+        "genres": [
+          "Health & Fitness",
+          "Productivity"
+        ],
+        "price": 0.0,
+        "artistName": "Hakan Yigit Unac",
+        "primaryGenreName": "Health & Fitness",
+        "releaseDate": "2026-05-14T07:00:00Z",
+        "currentVersionReleaseDate": "2026-08-20T21:34:29Z",
+        "version": "1.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.app.hakanyigitunac.SoberLock",
+        "trackViewUrl": "https://apps.apple.com/sn/app/app-blocker-soberlock/id6761304507?uo=4",
+        "averageUserRating": 0,
+        "trackId": 6761304507,
+        "trackName": "App Blocker: SoberLock",
+        "userRatingCount": 0,
+        "descriptionSHA256": "9be8b212248d5d46d146b18655c8842f4c0217bd7b8353124cd8c0791882097a"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "5d642131f0517fc173f6f794d6e9024dcd640792bebb1fc5e0c2992885e1be7b",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

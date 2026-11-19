@@ -1,0 +1,13 @@
+{
+  "id": "3f71e5f9-9344-459a-ae44-afc30cd3c104",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"apps\" : [\n    {\n      \"appStoreId\" : \"6749849986\",\n      \"averageRating\" : 0,\n      \"bundleId\" : \"julienhrt.ScrollCutV5\",\n      \"developer\" : \"Julien Hourt\",\n      \"genre\" : \"Productividad\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple211\\/v4\\/ab\\/13\\/e8\\/ab13e872-4718-6e5a-8624-c4886e429544\\/AppIcon-0-0-1x_U007ephone-0-1-85-220.png\\/80x0w.webp\",\n      \"name\" : \"Scrollcut: Tiempo de Pantalla\",\n      \"ranking\" : 1,\n      \"ratingCount\" : 0,\n      \"subtitle\" : \"Bloquea apps, detox dopamina\"\n    }\n  ],\n  \"keyword\" : \"dejar de hacer scroll\",\n  \"platform\" : \"iphone\",\n  \"store\" : \"cr\",\n  \"totalResults\" : 1\n}",
+        "type": "text"
+      }
+    ],
+    "isError": false
+  }
+}

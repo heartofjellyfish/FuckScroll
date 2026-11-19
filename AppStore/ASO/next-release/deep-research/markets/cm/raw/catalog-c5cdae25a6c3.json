@@ -1,0 +1,124 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=bloqueur+d%27apps&country=cm&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "averageUserRating": 4.26316,
+        "trackViewUrl": "https://apps.apple.com/cm/app/callapp-id-bloqueur-dappel/id6739289261?uo=4",
+        "artistName": "CallApp",
+        "price": 0.0,
+        "bundleId": "com.callapp.contacts",
+        "primaryGenreName": "Utilities",
+        "releaseDate": "2025-09-29T07:00:00Z",
+        "trackId": 6739289261,
+        "trackName": "Callapp: ID & Bloqueur d'appel",
+        "currentVersionReleaseDate": "2026-11-16T06:52:43Z",
+        "version": "1.29",
+        "wrapperType": "software",
+        "currency": "USD",
+        "genres": [
+          "Utilitaires",
+          "Productivité"
+        ],
+        "userRatingCount": 95,
+        "descriptionSHA256": "e36fb910d9a54f134eabe7b917d4ebd086ab80c96a06de8d407a4da1984f4665"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 4.25,
+        "trackViewUrl": "https://apps.apple.com/cm/app/salahscreen-bloqueur-dapps/id6748571304?uo=4",
+        "artistName": "Rayane Sahi",
+        "price": 0.0,
+        "bundleId": "Zikr.SalahScreen",
+        "primaryGenreName": "Reference",
+        "releaseDate": "2025-10-09T07:00:00Z",
+        "trackId": 6748571304,
+        "trackName": "SalahScreen : Bloqueur d’apps",
+        "currentVersionReleaseDate": "2026-09-02T14:13:01Z",
+        "version": "2.0.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "genres": [
+          "Références",
+          "Productivité"
+        ],
+        "userRatingCount": 4,
+        "descriptionSHA256": "eee21246fec604e38cca1a69cd88193f71e085fd7ad913c60f108af12c790f18"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/cm/app/stay-focused-bloqueur-dapps/id1658592224?uo=4",
+        "artistName": "INNOXAPPS LLP",
+        "price": 0.0,
+        "bundleId": "com.stayfocused",
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2023-01-26T08:00:00Z",
+        "trackId": 1658592224,
+        "trackName": "Stay Focused - Bloqueur d'apps",
+        "currentVersionReleaseDate": "2026-10-01T19:56:32Z",
+        "version": "7.0.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "genres": [
+          "Productivité",
+          "Utilitaires"
+        ],
+        "userRatingCount": 0,
+        "descriptionSHA256": "bedbf23117848478cf17d309abe20d4a17dc09265b4a7ed4ee6a57d387671805"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/cm/app/bloqueur-dapps-soberlock/id6761304507?uo=4",
+        "artistName": "Hakan Yigit Unac",
+        "price": 0.0,
+        "bundleId": "com.app.hakanyigitunac.SoberLock",
+        "primaryGenreName": "Health & Fitness",
+        "releaseDate": "2026-05-14T07:00:00Z",
+        "trackId": 6761304507,
+        "trackName": "Bloqueur d'Apps: SoberLock",
+        "currentVersionReleaseDate": "2026-08-20T21:34:29Z",
+        "version": "1.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "genres": [
+          "Forme et santé",
+          "Productivité"
+        ],
+        "userRatingCount": 0,
+        "descriptionSHA256": "dfb96f59a750437e7e69e4935d489a54ef57be4333c4c0a0e79a888f738073b0"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/cm/app/bloqueur-dapps-lockkun/id6787695392?uo=4",
+        "artistName": "Sora Yazawa",
+        "price": 0.0,
+        "bundleId": "com.sorayazawa.applocksolo",
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2026-08-06T07:00:00Z",
+        "trackId": 6787695392,
+        "trackName": "Bloqueur d’apps : LockKun",
+        "currentVersionReleaseDate": "2026-11-12T18:56:40Z",
+        "version": "1.0.11",
+        "wrapperType": "software",
+        "currency": "USD",
+        "genres": [
+          "Productivité",
+          "Utilitaires"
+        ],
+        "userRatingCount": 0,
+        "descriptionSHA256": "54cc0c23a03f6abf22366390e83ccb90147efd55dfc75776ed46aa767d069f34"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "2026851bf0f0330fd424c119a1c02e57355b306b61175ca7decda68b8298f115",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

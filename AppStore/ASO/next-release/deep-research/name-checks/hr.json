@@ -1,0 +1,21 @@
+{
+  "locale": "hr",
+  "store": "hr",
+  "proposedName": "Screen Time – Patka",
+  "limitations": "A public top-five name search, not App Store Connect reservation or trademark clearance.",
+  "response": {
+    "id": "10fc56ca-9644-4292-bcad-b23bf4a053f3",
+    "jsonrpc": "2.0",
+    "result": {
+      "content": [
+        {
+          "text": "{\n  \"apps\" : [\n\n  ],\n  \"keyword\" : \"Screen Time – Patka\",\n  \"platform\" : \"iphone\",\n  \"store\" : \"hr\",\n  \"totalResults\" : 0\n}",
+          "type": "text"
+        }
+      ],
+      "isError": false
+    }
+  },
+  "error": null,
+  "exactOtherAppMatches": []
+}

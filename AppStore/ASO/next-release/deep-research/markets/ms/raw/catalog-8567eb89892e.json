@@ -1,0 +1,125 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=app+blocker&country=ms&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "bundleId": "com.withopal.opal",
+        "averageUserRating": 5,
+        "trackViewUrl": "https://apps.apple.com/ms/app/opal-screen-time-control/id1497465230?uo=4",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "trackId": 1497465230,
+        "trackName": "Opal: Screen Time Control",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "USD",
+        "artistName": "Opal OS",
+        "userRatingCount": 1,
+        "descriptionSHA256": "79545dcfd9d33edf53d3567fc6a6eb5b582561ed18b9d49245fbff4af0417656"
+      },
+      {
+        "kind": "software",
+        "bundleId": "com.refocus.refocus",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/ms/app/refocus-app-blocker-lock/id1645639057?uo=4",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "releaseDate": "2022-09-22T07:00:00Z",
+        "trackId": 1645639057,
+        "trackName": "Refocus: App Blocker & Lock",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-18T15:32:47Z",
+        "version": "2.2.11",
+        "wrapperType": "software",
+        "currency": "USD",
+        "artistName": "Labi, LLC",
+        "userRatingCount": 0,
+        "descriptionSHA256": "31bd6049418a698d36c61b2eafbe2ca02a56d8aa24878c1963caa5895db876a1"
+      },
+      {
+        "kind": "software",
+        "bundleId": "com.shikudo.focus",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/ms/app/focus-plant-forest-app-blocker/id1459096306?uo=4",
+        "genres": [
+          "Productivity",
+          "Games",
+          "Simulation",
+          "Casual"
+        ],
+        "price": 0.0,
+        "releaseDate": "2019-09-02T07:00:00Z",
+        "trackId": 1459096306,
+        "trackName": "Focus Plant：forest app blocker",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-14T00:10:28Z",
+        "version": "4.6.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "artistName": "Shikudo",
+        "userRatingCount": 0,
+        "descriptionSHA256": "fe05cd0e5d57fda1dd718d682f963e8ebc60dcf414c417b33b853ed6df9bd015"
+      },
+      {
+        "kind": "software",
+        "bundleId": "io.zeroplay.appblocker",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/ms/app/app-blocker-focus-lock/id6790254505?uo=4",
+        "genres": [
+          "Utilities"
+        ],
+        "price": 0.0,
+        "releaseDate": "2026-07-30T07:00:00Z",
+        "trackId": 6790254505,
+        "trackName": "App Blocker・Focus Lock",
+        "primaryGenreName": "Utilities",
+        "currentVersionReleaseDate": "2026-07-31T00:30:34Z",
+        "version": "1.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "artistName": "ZeroPlay Ltd.",
+        "userRatingCount": 0,
+        "descriptionSHA256": "dc0cf1186778e3f18d03df99a7293ea77946761a4c86d0f7b8fa35e4a7e9ff0c"
+      },
+      {
+        "kind": "software",
+        "bundleId": "net.whatsapp.WhatsApp",
+        "averageUserRating": 4.53951,
+        "trackViewUrl": "https://apps.apple.com/ms/app/whatsapp-messenger/id310633997?uo=4",
+        "genres": [
+          "Social Networking",
+          "Utilities"
+        ],
+        "price": 0.0,
+        "releaseDate": "2011-10-14T19:28:42Z",
+        "trackId": 310633997,
+        "trackName": "WhatsApp Messenger",
+        "primaryGenreName": "Social Networking",
+        "currentVersionReleaseDate": "2026-11-15T12:50:07Z",
+        "version": "26.45.75",
+        "wrapperType": "software",
+        "currency": "USD",
+        "artistName": "WhatsApp Inc.",
+        "userRatingCount": 367,
+        "descriptionSHA256": "bb83ab014fedddca5b50dfacf164cd10dea5ff40d543397916afa82d0d87ffab"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "3438036edcf218bfa3fb174c8d00835395c8784fb75cba2f726e8d5dad999b3e",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

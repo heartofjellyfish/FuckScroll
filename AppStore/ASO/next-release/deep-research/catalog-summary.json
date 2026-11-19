@@ -1,0 +1,341 @@
+{
+  "mode": "catalog",
+  "results": [
+    {
+      "store": "af",
+      "status": "catalog-only-complete"
+    },
+    {
+      "store": "ao",
+      "status": "catalog-only-complete"
+    },
+    {
+      "store": "ai",
+      "status": "catalog-only-complete"
+    },
+    {
+      "store": "ag",
+      "status": "catalog-only-complete"
+    },
+    {
+      "store": "bs",
+      "status": "catalog-only-complete"
+    },
+    {
+      "store": "bb",
+      "status": "catalog-only-complete"
+    },
+    {
+      "store": "by",
+      "status": "catalog-only-complete"
+    },
+    {
+      "store": "bz",
+      "status": "catalog-only-complete"
+    },
+    {
+      "store": "bj",
+      "status": "catalog-only-complete"
+    },
+    {
+      "store": "bm",
+      "status": "catalog-only-complete"
+    },
+    {
+      "store": "bt",
+      "status": "catalog-only-complete"
+    },
+    {
+      "store": "ba",
+      "status": "catalog-only-complete"
+    },
+    {
+      "store": "bw",
+      "status": "catalog-only-complete"
+    },
+    {
+      "store": "vg",
+      "status": "catalog-only-complete"
+    },
+    {
+      "store": "bn",
+      "status": "catalog-only-complete"
+    },
+    {
+      "store": "bf",
+      "status": "catalog-only-complete"
+    },
+    {
+      "store": "cm",
+      "status": "catalog-only-complete"
+    },
+    {
+      "store": "cv",
+      "status": "catalog-only-complete"
+    },
+    {
+      "store": "ky",
+      "status": "catalog-only-complete"
+    },
+    {
+      "store": "td",
+      "status": "catalog-only-complete"
+    },
+    {
+      "store": "cd",
+      "status": "catalog-only-complete"
+    },
+    {
+      "store": "cg",
+      "status": "catalog-only-complete"
+    },
+    {
+      "store": "ci",
+      "status": "catalog-only-complete"
+    },
+    {
+      "store": "dm",
+      "status": "catalog-only-complete"
+    },
+    {
+      "store": "sz",
+      "status": "catalog-only-complete"
+    },
+    {
+      "store": "fj",
+      "status": "catalog-only-complete"
+    },
+    {
+      "store": "ga",
+      "status": "catalog-only-complete"
+    },
+    {
+      "store": "gm",
+      "status": "catalog-only-complete"
+    },
+    {
+      "store": "ge",
+      "status": "catalog-only-complete"
+    },
+    {
+      "store": "gd",
+      "status": "catalog-only-complete"
+    },
+    {
+      "store": "gw",
+      "status": "catalog-only-complete"
+    },
+    {
+      "store": "gy",
+      "status": "catalog-only-complete"
+    },
+    {
+      "store": "jm",
+      "status": "catalog-only-complete"
+    },
+    {
+      "store": "xk",
+      "status": "catalog-only-complete"
+    },
+    {
+      "store": "la",
+      "status": "catalog-only-complete"
+    },
+    {
+      "store": "lr",
+      "status": "catalog-only-complete"
+    },
+    {
+      "store": "ly",
+      "status": "catalog-only-complete"
+    },
+    {
+      "store": "lt",
+      "status": "catalog-only-complete"
+    },
+    {
+      "store": "mg",
+      "status": "catalog-only-complete"
+    },
+    {
+      "store": "mw",
+      "status": "catalog-only-complete"
+    },
+    {
+      "store": "mv",
+      "status": "catalog-only-complete"
+    },
+    {
+      "store": "ml",
+      "status": "catalog-only-complete"
+    },
+    {
+      "store": "mt",
+      "status": "catalog-only-complete"
+    },
+    {
+      "store": "mr",
+      "status": "catalog-only-complete"
+    },
+    {
+      "store": "mu",
+      "status": "catalog-only-complete"
+    },
+    {
+      "store": "fm",
+      "status": "catalog-only-complete"
+    },
+    {
+      "store": "md",
+      "status": "catalog-only-complete"
+    },
+    {
+      "store": "me",
+      "status": "catalog-only-complete"
+    },
+    {
+      "store": "ms",
+      "status": "catalog-only-complete"
+    },
+    {
+      "store": "mz",
+      "status": "catalog-only-complete"
+    },
+    {
+      "store": "mm",
+      "status": "catalog-only-complete"
+    },
+    {
+      "store": "na",
+      "status": "catalog-only-complete"
+    },
+    {
+      "store": "nr",
+      "status": "catalog-only-complete"
+    },
+    {
+      "store": "ni",
+      "status": "catalog-only-complete"
+    },
+    {
+      "store": "ne",
+      "status": "catalog-only-complete"
+    },
+    {
+      "store": "ng",
+      "status": "catalog-only-complete"
+    },
+    {
+      "store": "mk",
+      "status": "catalog-only-complete"
+    },
+    {
+      "store": "pw",
+      "status": "catalog-only-complete"
+    },
+    {
+      "store": "pg",
+      "status": "catalog-only-complete"
+    },
+    {
+      "store": "rw",
+      "status": "catalog-only-complete"
+    },
+    {
+      "store": "st",
+      "status": "catalog-only-complete"
+    },
+    {
+      "store": "sn",
+      "status": "catalog-only-complete"
+    },
+    {
+      "store": "rs",
+      "status": "catalog-only-complete"
+    },
+    {
+      "store": "sc",
+      "status": "catalog-only-complete"
+    },
+    {
+      "store": "sl",
+      "status": "catalog-only-complete"
+    },
+    {
+      "store": "sb",
+      "status": "catalog-only-complete"
+    },
+    {
+      "store": "kn",
+      "status": "catalog-only-complete"
+    },
+    {
+      "store": "lc",
+      "status": "catalog-only-complete"
+    },
+    {
+      "store": "vc",
+      "status": "catalog-only-complete"
+    },
+    {
+      "store": "sr",
+      "status": "catalog-only-complete"
+    },
+    {
+      "store": "tj",
+      "status": "catalog-only-complete"
+    },
+    {
+      "store": "tz",
+      "status": "catalog-only-complete"
+    },
+    {
+      "store": "to",
+      "status": "catalog-only-complete"
+    },
+    {
+      "store": "tt",
+      "status": "catalog-only-complete"
+    },
+    {
+      "store": "tn",
+      "status": "catalog-only-complete"
+    },
+    {
+      "store": "tm",
+      "status": "catalog-only-complete"
+    },
+    {
+      "store": "tc",
+      "status": "catalog-only-complete"
+    },
+    {
+      "store": "ug",
+      "status": "catalog-only-complete"
+    },
+    {
+      "store": "uy",
+      "status": "catalog-only-complete"
+    },
+    {
+      "store": "vu",
+      "status": "catalog-only-complete"
+    },
+    {
+      "store": "ve",
+      "status": "catalog-only-complete"
+    },
+    {
+      "store": "ye",
+      "status": "catalog-only-complete"
+    },
+    {
+      "store": "zm",
+      "status": "catalog-only-complete"
+    },
+    {
+      "store": "zw",
+      "status": "catalog-only-complete"
+    }
+  ]
+}

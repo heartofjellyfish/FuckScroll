@@ -1,0 +1,124 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5+%D0%B2%D1%80%D0%B5%D0%BC%D1%8F&country=by&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/by/app/limit-screen-time-for-focus/id6473087772?uo=4",
+        "genres": [
+          "Productivity",
+          "Utilities"
+        ],
+        "price": 0.0,
+        "artistName": "Samet Macit",
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2024-02-25T08:00:00Z",
+        "bundleId": "net.29apps.limit",
+        "trackId": 6473087772,
+        "trackName": "Limit: Screen Time for Focus",
+        "currentVersionReleaseDate": "2026-10-27T11:38:50Z",
+        "version": "2.0.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "userRatingCount": 0,
+        "descriptionSHA256": "401598d7f6d4540d8b11181f46e748a1d8536c229c62589ffa9aa63d965ee952"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/by/app/finit-screen-time-life/id6786888937?uo=4",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "artistName": "Joschka Bieri",
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2026-08-11T07:00:00Z",
+        "bundleId": "com.getfinit.app",
+        "trackId": 6786888937,
+        "trackName": "finit: Screen Time & Life",
+        "currentVersionReleaseDate": "2026-10-15T20:52:21Z",
+        "version": "1.0.4",
+        "wrapperType": "software",
+        "currency": "USD",
+        "userRatingCount": 0,
+        "descriptionSHA256": "ffb64cc50461e2de5f3c6a5da30aaa1b85edeb8c34155daf1971a20fbe1cd832"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 4.95,
+        "trackViewUrl": "https://apps.apple.com/by/app/focus-to-do-focus-timer-tasks/id966057213?uo=4",
+        "genres": [
+          "Productivity",
+          "Utilities"
+        ],
+        "price": 0.0,
+        "artistName": "Shenzhen Tomato Software Technology Co., Ltd.",
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2015-03-01T18:04:53Z",
+        "bundleId": "com.SuperElement.PomodoroToDo",
+        "trackId": 966057213,
+        "trackName": "Focus To-Do: Focus Timer&Tasks",
+        "currentVersionReleaseDate": "2026-11-13T01:54:50Z",
+        "version": "8.9",
+        "wrapperType": "software",
+        "currency": "USD",
+        "userRatingCount": 240,
+        "descriptionSHA256": "cc0d97fa9f6f5a0df9546de82ec1ca23bf0c5e8bc66bcf0e2073eb6c20b339f6"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/by/app/flocus-screen-time-blocker/id6755889415?uo=4",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "artistName": "Leonid Kuznetsov",
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2026-05-29T07:00:00Z",
+        "bundleId": "com.leokuz.flocus",
+        "trackId": 6755889415,
+        "trackName": "Flocus: Screen Time Blocker",
+        "currentVersionReleaseDate": "2026-06-06T19:51:14Z",
+        "version": "1.0.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "userRatingCount": 0,
+        "descriptionSHA256": "ecf5c9279d345cea93782c9d3ccf15055d9bc3e63042dcb3825cdb7f21ed73d2"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 4.5,
+        "trackViewUrl": "https://apps.apple.com/by/app/pocus-limit-screen-time/id1667126271?uo=4",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "artistName": "Ilia Stukalov",
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2023-04-05T07:00:00Z",
+        "bundleId": "com.iliastukalov.Focus",
+        "trackId": 1667126271,
+        "trackName": "Pocus: Limit screen time",
+        "currentVersionReleaseDate": "2026-10-27T23:52:41Z",
+        "version": "1.10.6",
+        "wrapperType": "software",
+        "currency": "USD",
+        "userRatingCount": 4,
+        "descriptionSHA256": "f9fbaeda92c796b8ab12d91d889aa758a787f973fca4f60594fa5af3282a2320"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "62e7194f6c8530cec3edbc12088ada30fb9b705f539c116ce720ba1964794090",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

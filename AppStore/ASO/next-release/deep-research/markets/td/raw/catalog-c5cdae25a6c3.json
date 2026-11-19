@@ -1,0 +1,124 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=bloqueur+d%27apps&country=td&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "averageUserRating": 4,
+        "trackViewUrl": "https://apps.apple.com/td/app/stay-focused-limit-screen-time/id1658592224?uo=4",
+        "artistName": "INNOXAPPS LLP",
+        "price": 0.0,
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2023-01-26T08:00:00Z",
+        "trackName": "Stay Focused Limit Screen Time",
+        "trackId": 1658592224,
+        "currentVersionReleaseDate": "2026-10-01T19:56:32Z",
+        "version": "7.0.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.stayfocused",
+        "genres": [
+          "Productivity",
+          "Utilities"
+        ],
+        "userRatingCount": 1,
+        "descriptionSHA256": "c6d9d0807b708d9300a29659be1fef96ca3c2eee1fb6dd681f38e56a946ce76c"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 5,
+        "trackViewUrl": "https://apps.apple.com/td/app/salahscreen-prayer-focus/id6748571304?uo=4",
+        "artistName": "Rayane Sahi",
+        "price": 0.0,
+        "primaryGenreName": "Reference",
+        "releaseDate": "2025-10-09T07:00:00Z",
+        "trackName": "SalahScreen: Prayer Focus",
+        "trackId": 6748571304,
+        "currentVersionReleaseDate": "2026-09-02T14:13:01Z",
+        "version": "2.0.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "Zikr.SalahScreen",
+        "genres": [
+          "Reference",
+          "Productivity"
+        ],
+        "userRatingCount": 1,
+        "descriptionSHA256": "f480e39c00f75ad4ff40ceb47efb6b1c044e6849c1d15aab31a66b5a510b84e9"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 4.4,
+        "trackViewUrl": "https://apps.apple.com/td/app/callapp-caller-id-block/id6739289261?uo=4",
+        "artistName": "CallApp",
+        "price": 0.0,
+        "primaryGenreName": "Utilities",
+        "releaseDate": "2025-10-15T07:00:00Z",
+        "trackName": "CallApp: Caller ID & Block",
+        "trackId": 6739289261,
+        "currentVersionReleaseDate": "2026-11-16T06:52:43Z",
+        "version": "1.29",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.callapp.contacts",
+        "genres": [
+          "Utilities",
+          "Productivity"
+        ],
+        "userRatingCount": 5,
+        "descriptionSHA256": "b7f2207593fc05fa4be803a7d37746e713c658cc1e610d9617c9f7f75c37b64c"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/td/app/app-blocker-soberlock/id6761304507?uo=4",
+        "artistName": "Hakan Yigit Unac",
+        "price": 0.0,
+        "primaryGenreName": "Health & Fitness",
+        "releaseDate": "2026-05-14T07:00:00Z",
+        "trackName": "App Blocker: SoberLock",
+        "trackId": 6761304507,
+        "currentVersionReleaseDate": "2026-08-20T21:34:29Z",
+        "version": "1.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.app.hakanyigitunac.SoberLock",
+        "genres": [
+          "Health & Fitness",
+          "Productivity"
+        ],
+        "userRatingCount": 0,
+        "descriptionSHA256": "9be8b212248d5d46d146b18655c8842f4c0217bd7b8353124cd8c0791882097a"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/td/app/app-blocker-lockkun/id6787695392?uo=4",
+        "artistName": "Sora Yazawa",
+        "price": 0.0,
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2026-08-06T07:00:00Z",
+        "trackName": "App Blocker: LockKun",
+        "trackId": 6787695392,
+        "currentVersionReleaseDate": "2026-11-12T18:56:40Z",
+        "version": "1.0.11",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.sorayazawa.applocksolo",
+        "genres": [
+          "Productivity",
+          "Utilities"
+        ],
+        "userRatingCount": 0,
+        "descriptionSHA256": "ee1f1e6228e079aef08e5c625acbae448692053855ce0d11644b9bbab0099f05"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "8595c59685e5e9ecc9d5317dc9f34668d1d91c77287599d2cdb8016d1da9e310",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

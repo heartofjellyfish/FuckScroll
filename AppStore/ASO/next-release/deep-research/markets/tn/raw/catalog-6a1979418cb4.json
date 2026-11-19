@@ -1,0 +1,121 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=%D9%82%D9%81%D9%84+%D8%A7%D9%84%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A7%D8%AA&country=tn&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "bundleId": "com.xu.applock",
+        "averageUserRating": 4.18182,
+        "trackViewUrl": "https://apps.apple.com/tn/app/app-lock-lock-apps/id6469686557?uo=4",
+        "genres": [
+          "Utilities"
+        ],
+        "artistName": "友财 徐",
+        "releaseDate": "2023-11-07T08:00:00Z",
+        "trackId": 6469686557,
+        "trackName": "App Lock - Lock Apps .",
+        "primaryGenreName": "Utilities",
+        "currentVersionReleaseDate": "2026-06-22T01:26:35Z",
+        "version": "1.5.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "price": 0.0,
+        "userRatingCount": 44,
+        "descriptionSHA256": "15b3c0f184bdcdd978e379e824c1b4e91598fa21e1c383a33a31fc4c581a3e52"
+      },
+      {
+        "kind": "software",
+        "bundleId": "com.lykovstudio.AppLock",
+        "averageUserRating": 5,
+        "trackViewUrl": "https://apps.apple.com/tn/app/app-lock-password-for-apps/id6746766591?uo=4",
+        "genres": [
+          "Utilities"
+        ],
+        "artistName": "LYKOV STUDIO LTD",
+        "releaseDate": "2025-06-26T07:00:00Z",
+        "trackId": 6746766591,
+        "trackName": "App Lock - Password For Apps",
+        "primaryGenreName": "Utilities",
+        "currentVersionReleaseDate": "2026-11-10T16:00:02Z",
+        "version": "1.0.30",
+        "wrapperType": "software",
+        "currency": "USD",
+        "price": 0.0,
+        "userRatingCount": 2,
+        "descriptionSHA256": "1a1f89cfbf97346eb5db2de5439ac39f79f6a7105b9130647317997f72456a3d"
+      },
+      {
+        "kind": "software",
+        "bundleId": "com.domobile.applock",
+        "averageUserRating": 4.42856,
+        "trackViewUrl": "https://apps.apple.com/tn/app/applock-photo-lock/id1509154892?uo=4",
+        "genres": [
+          "Utilities",
+          "Productivity"
+        ],
+        "artistName": "DoMobile Co., Ltd.",
+        "releaseDate": "2020-05-15T07:00:00Z",
+        "trackId": 1509154892,
+        "trackName": "AppLock - photo lock",
+        "primaryGenreName": "Utilities",
+        "currentVersionReleaseDate": "2026-05-27T18:29:30Z",
+        "version": "1.3.5",
+        "wrapperType": "software",
+        "currency": "USD",
+        "price": 0.0,
+        "userRatingCount": 7,
+        "descriptionSHA256": "c453f8d3c8c735b0cdf307718e751af2e5b770baccec2e38c121342cbb15676b"
+      },
+      {
+        "kind": "software",
+        "bundleId": "com.zhang.lockapps",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/tn/app/app-lock-applock/id6777914542?uo=4",
+        "genres": [
+          "Productivity"
+        ],
+        "artistName": "宝锋 张",
+        "releaseDate": "2026-06-23T07:00:00Z",
+        "trackId": 6777914542,
+        "trackName": "App Lock - AppLock .",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-07-21T21:55:13Z",
+        "version": "1.0.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "price": 0.0,
+        "userRatingCount": 0,
+        "descriptionSHA256": "efd1dc29e321e7832f358e6b5f1be130db2bc4069cd37a86d2c624161ec54dc1"
+      },
+      {
+        "kind": "software",
+        "bundleId": "co.appnation.applocker",
+        "averageUserRating": 4.52507,
+        "trackViewUrl": "https://apps.apple.com/tn/app/app-lock-lock-apps-photos/id1569973513?uo=4",
+        "genres": [
+          "Utilities",
+          "Productivity"
+        ],
+        "artistName": "Muhammet Yalcın Ozdemir Halil Ibrahim Karahan Mustafa Ayten Kupertino Bilisim Yazılım K.S",
+        "releaseDate": "2021-06-12T07:00:00Z",
+        "trackId": 1569973513,
+        "trackName": "App Lock - Lock Apps & Photos",
+        "primaryGenreName": "Utilities",
+        "currentVersionReleaseDate": "2026-09-25T07:10:51Z",
+        "version": "2.2.4",
+        "wrapperType": "software",
+        "currency": "USD",
+        "price": 0.0,
+        "userRatingCount": 379,
+        "descriptionSHA256": "7ba2ea3794744905bae3c370c1d34f9ff79f824d3ed6e187d44098d261070cc2"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "2aea8e1cecde9b86fc010466a8bc03a1061b0bafe27b9d4afa2ca7b0e72a3115",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "1e6476f7-88ca-4d54-b6d8-8a1341bb6c48",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"apps\" : [\n\n  ],\n  \"keyword\" : \"čas pred zaslonom\",\n  \"platform\" : \"iphone\",\n  \"store\" : \"si\",\n  \"totalResults\" : 0\n}",
+        "type": "text"
+      }
+    ],
+    "isError": false
+  }
+}

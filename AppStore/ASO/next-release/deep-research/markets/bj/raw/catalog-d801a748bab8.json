@@ -1,0 +1,124 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=bloquer+des+applications&country=bj&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/bj/app/appblock-app-site-blocker/id1515753232?uo=4",
+        "averageUserRating": 4.11111,
+        "price": 0.0,
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "artistName": "MobileSoft s.r.o.",
+        "releaseDate": "2021-08-17T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-11T10:48:39Z",
+        "version": "4.14.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "eu.mobilesoft.appblock",
+        "trackId": 1515753232,
+        "trackName": "AppBlock: App & Site Blocker",
+        "userRatingCount": 9,
+        "descriptionSHA256": "f4e2257d9c85cbaf9cd8496ddc82a9a5d41b2e0440020c527d8b3b8c4bbe4236"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/bj/app/grit-habits-routines-goals/id6446997766?uo=4",
+        "averageUserRating": 4.26667,
+        "price": 0.0,
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "artistName": "GrittyApps",
+        "releaseDate": "2023-05-17T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-09T14:58:19Z",
+        "version": "6.2.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "stoope.Grit",
+        "trackId": 6446997766,
+        "trackName": "Grit: Habits, Routines, Goals",
+        "userRatingCount": 105,
+        "descriptionSHA256": "08fa1a6efcccbfd06a7ded74844273bc30cfa727bb8a6871de1bbb84d7e8d69c"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/bj/app/truecaller-premium-caller-id/id448142450?uo=4",
+        "averageUserRating": 4.11756,
+        "price": 0.0,
+        "genres": [
+          "Utilities",
+          "Productivity"
+        ],
+        "artistName": "True Software Scandinavia AB",
+        "releaseDate": "2012-06-03T17:16:37Z",
+        "primaryGenreName": "Utilities",
+        "currentVersionReleaseDate": "2026-11-16T11:40:11Z",
+        "version": "26.45",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.truesoftware.TrueCallerOther",
+        "trackId": 448142450,
+        "trackName": "Truecaller: Premium Caller ID",
+        "userRatingCount": 706,
+        "descriptionSHA256": "3151c64051cb434de38b3290ed4527cdeeae10f467aff957e324abc8f9e6af22"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/bj/app/true-callerid-number-search/id6744879291?uo=4",
+        "averageUserRating": 4.61765,
+        "price": 0.0,
+        "genres": [
+          "Utilities",
+          "Productivity"
+        ],
+        "artistName": "Reena Williams",
+        "releaseDate": "2025-04-24T07:00:00Z",
+        "primaryGenreName": "Utilities",
+        "currentVersionReleaseDate": "2026-09-11T18:44:40Z",
+        "version": "2.16",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.caller.id.finder.spam.blocker.app",
+        "trackId": 6744879291,
+        "trackName": "True CallerID: Number Search",
+        "userRatingCount": 34,
+        "descriptionSHA256": "7e7ab1c43a732411fcdccb2915871ace4378a8d0e66cfd46e7caaad58edc51d8"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/bj/app/ubecast-video-ad-blocker/id6743932291?uo=4",
+        "averageUserRating": 4.88889,
+        "price": 0.0,
+        "genres": [
+          "Photo & Video",
+          "Music"
+        ],
+        "artistName": "Aer Co., Ltd",
+        "releaseDate": "2025-03-30T07:00:00Z",
+        "primaryGenreName": "Photo & Video",
+        "currentVersionReleaseDate": "2026-10-22T01:31:28Z",
+        "version": "42.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "co.aer.ubecasttv",
+        "trackId": 6743932291,
+        "trackName": "UbeCast: Video Ad Blocker",
+        "userRatingCount": 9,
+        "descriptionSHA256": "d58eed7a0fba74bd6457ed1e434ee2bb51b030241ebb49cfd6be97a36002b7e2"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "d57b392ee108b6e0e5bb5a79ea34b861b0216638b46bf58ba38129c20a06ffd7",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

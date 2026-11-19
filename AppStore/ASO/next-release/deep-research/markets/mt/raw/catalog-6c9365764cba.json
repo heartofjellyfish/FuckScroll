@@ -1,0 +1,124 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=social+media+blocker&country=mt&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "averageUserRating": 4.44444,
+        "trackViewUrl": "https://apps.apple.com/mt/app/sociallite-block-reels-shorts/id6757661674?uo=4",
+        "artistName": "Sociallite LLC",
+        "releaseDate": "2026-01-29T08:00:00Z",
+        "bundleId": "social.Social-lite",
+        "trackId": 6757661674,
+        "trackName": "SocialLite-Block Reels&Shorts",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-10-16T11:04:41Z",
+        "version": "3.1.5",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "genres": [
+          "Productivity",
+          "Social Networking"
+        ],
+        "price": 0.0,
+        "userRatingCount": 9,
+        "descriptionSHA256": "9dbd89f368c17dc50b7187fccb2c303ea2893d4ea389e2290954ac38e87b7144"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 4.85294,
+        "trackViewUrl": "https://apps.apple.com/mt/app/opal-screen-time-control/id1497465230?uo=4",
+        "artistName": "Opal OS",
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "bundleId": "com.withopal.opal",
+        "trackId": 1497465230,
+        "trackName": "Opal: Screen Time Control",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "userRatingCount": 34,
+        "descriptionSHA256": "79545dcfd9d33edf53d3567fc6a6eb5b582561ed18b9d49245fbff4af0417656"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 4.86667,
+        "trackViewUrl": "https://apps.apple.com/mt/app/one-sec-screen-time-focus/id1532875441?uo=4",
+        "artistName": "riedel.wtf apps S.L.",
+        "releaseDate": "2020-09-29T07:00:00Z",
+        "bundleId": "wtf.riedel.one-sec",
+        "trackId": 1532875441,
+        "trackName": "one sec | screen time + focus",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-14T18:42:34Z",
+        "version": "6.1.3",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "userRatingCount": 15,
+        "descriptionSHA256": "7458286eeec2edf883eec2f9abc49582f9924be2e29f484b82b1014b4b2a0462"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 4.52381,
+        "trackViewUrl": "https://apps.apple.com/mt/app/screenzen-screen-time-control/id1541027222?uo=4",
+        "artistName": "ScreenZen LLC",
+        "releaseDate": "2021-07-16T07:00:00Z",
+        "bundleId": "com.scottharvey.screenzenapp.ios",
+        "trackId": 1541027222,
+        "trackName": "ScreenZen- Screen Time Control",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-09-06T14:20:14Z",
+        "version": "4.0.0",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "userRatingCount": 21,
+        "descriptionSHA256": "def0cb7cf41c8f7b1619d270d38fe8aa23859b81147ae63a1041bc0a1b7f8cc8"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 4.78571,
+        "trackViewUrl": "https://apps.apple.com/mt/app/bepresent-screen-time-tracker/id1644737181?uo=4",
+        "artistName": "Screen Detox Inc",
+        "releaseDate": "2022-09-29T07:00:00Z",
+        "bundleId": "com.getpresentapp.Present",
+        "trackId": 1644737181,
+        "trackName": "BePresent: Screen Time Tracker",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-17T21:48:19Z",
+        "version": "0.18.114",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "userRatingCount": 14,
+        "descriptionSHA256": "9e95923ffd20bc165bc1b53c7661f2d4334ba2865dd171c33d46a18826231bfe"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "a0a81c081a145ebc2ba28f4c1cae3c0666ead4cf62e8b376f892b7e01299e724",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

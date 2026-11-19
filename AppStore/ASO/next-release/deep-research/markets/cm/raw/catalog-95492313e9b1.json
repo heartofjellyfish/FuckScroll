@@ -1,0 +1,124 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=screen+time&country=cm&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "bundleId": "com.withopal.opal",
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "artistName": "Opal OS",
+        "genres": [
+          "Productivité",
+          "Forme et santé"
+        ],
+        "price": 0.0,
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "primaryGenreName": "Productivity",
+        "trackId": 1497465230,
+        "trackName": "Opal: Temps d'écran et Focus",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 4.24,
+        "trackViewUrl": "https://apps.apple.com/cm/app/opal-temps-d%C3%A9cran-et-focus/id1497465230?uo=4",
+        "userRatingCount": 75,
+        "descriptionSHA256": "c0fba23699dd09c567f31251e42122228bee0170b55079e3167ec7297b90a927"
+      },
+      {
+        "kind": "software",
+        "bundleId": "com.screentime",
+        "currentVersionReleaseDate": "2022-12-07T13:43:25Z",
+        "artistName": "Screen Time Labs",
+        "genres": [
+          "Style de vie",
+          "Productivité"
+        ],
+        "price": 0.0,
+        "releaseDate": "2020-04-10T07:00:00Z",
+        "primaryGenreName": "Lifestyle",
+        "trackId": 1055315077,
+        "trackName": "Screen Time Parental Control",
+        "version": "3.72",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/cm/app/screen-time-parental-control/id1055315077?uo=4",
+        "userRatingCount": 0,
+        "descriptionSHA256": "3889aca9470b526e7c14cda3cc14d1ef84777199e2d715bbb560fafd3d93a51d"
+      },
+      {
+        "kind": "software",
+        "bundleId": "com.scottharvey.screenzenapp.ios",
+        "currentVersionReleaseDate": "2026-09-06T14:20:14Z",
+        "artistName": "ScreenZen LLC",
+        "genres": [
+          "Productivité",
+          "Forme et santé"
+        ],
+        "price": 0.0,
+        "releaseDate": "2021-07-16T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "trackId": 1541027222,
+        "trackName": "ScreenZen- Screen Time Control",
+        "version": "4.0.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 3.84615,
+        "trackViewUrl": "https://apps.apple.com/cm/app/screenzen-screen-time-control/id1541027222?uo=4",
+        "userRatingCount": 13,
+        "descriptionSHA256": "16a2b62301197ead5cd182f33659ddba4592411895bd5f483775b26a2b8e7224"
+      },
+      {
+        "kind": "software",
+        "bundleId": "com.jackfinnis.ScreenTimeTracker",
+        "currentVersionReleaseDate": "2025-10-21T22:49:43Z",
+        "artistName": "Jack Finnis",
+        "genres": [
+          "Productivité",
+          "Forme et santé"
+        ],
+        "price": 0.0,
+        "releaseDate": "2024-12-17T08:00:00Z",
+        "primaryGenreName": "Productivity",
+        "trackId": 6738397686,
+        "trackName": "Screen Time Tracker",
+        "version": "2.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/cm/app/screen-time-tracker/id6738397686?uo=4",
+        "userRatingCount": 0,
+        "descriptionSHA256": "818e2b4d99d866d797722d84f7e4cb5f38639db2d2e8c74030a03e53a20ba82b"
+      },
+      {
+        "kind": "software",
+        "bundleId": "wtf.riedel.one-sec",
+        "currentVersionReleaseDate": "2026-11-14T18:42:34Z",
+        "artistName": "riedel.wtf apps S.L.",
+        "genres": [
+          "Productivité",
+          "Forme et santé"
+        ],
+        "price": 0.0,
+        "releaseDate": "2020-09-29T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "trackId": 1532875441,
+        "trackName": "one sec–temps d'écran & focus",
+        "version": "6.1.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 4.53846,
+        "trackViewUrl": "https://apps.apple.com/cm/app/one-sec-temps-d%C3%A9cran-focus/id1532875441?uo=4",
+        "userRatingCount": 13,
+        "descriptionSHA256": "715bc05374e0cd89a6cc12a733a4364b877af8f965c0d4db3ea738c1f0d554a8"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "2c891dd841e0bb9e289ade349acd7a40dd21392f725732083bf7782c597d744a",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

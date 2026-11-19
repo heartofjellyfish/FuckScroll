@@ -1,0 +1,124 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=bloquer+des+applications&country=mg&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/mg/app/appblock-app-site-blocker/id1515753232?uo=4",
+        "averageUserRating": 4.75,
+        "artistName": "MobileSoft s.r.o.",
+        "price": 0.0,
+        "bundleId": "eu.mobilesoft.appblock",
+        "releaseDate": "2021-08-17T07:00:00Z",
+        "trackId": 1515753232,
+        "trackName": "AppBlock: App & Site Blocker",
+        "currentVersionReleaseDate": "2026-11-11T10:48:39Z",
+        "version": "4.14.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "primaryGenreName": "Productivity",
+        "userRatingCount": 4,
+        "descriptionSHA256": "f4e2257d9c85cbaf9cd8496ddc82a9a5d41b2e0440020c527d8b3b8c4bbe4236"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/mg/app/grit-habits-routines-goals/id6446997766?uo=4",
+        "averageUserRating": 4.1875,
+        "artistName": "GrittyApps",
+        "price": 0.0,
+        "bundleId": "stoope.Grit",
+        "releaseDate": "2023-05-17T07:00:00Z",
+        "trackId": 6446997766,
+        "trackName": "Grit: Habits, Routines, Goals",
+        "currentVersionReleaseDate": "2026-11-09T14:58:19Z",
+        "version": "6.2.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "primaryGenreName": "Productivity",
+        "userRatingCount": 32,
+        "descriptionSHA256": "08fa1a6efcccbfd06a7ded74844273bc30cfa727bb8a6871de1bbb84d7e8d69c"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/mg/app/firefox-fast-private-browser/id989804926?uo=4",
+        "averageUserRating": 4.45455,
+        "artistName": "Mozilla",
+        "price": 0.0,
+        "bundleId": "org.mozilla.ios.Firefox",
+        "releaseDate": "2015-11-12T05:17:25Z",
+        "trackId": 989804926,
+        "trackName": "Firefox Fast & Private Browser",
+        "currentVersionReleaseDate": "2026-11-16T03:08:21Z",
+        "version": "160.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "genres": [
+          "Utilities",
+          "Productivity"
+        ],
+        "primaryGenreName": "Utilities",
+        "userRatingCount": 66,
+        "descriptionSHA256": "3effe49fb7a71fc1773edda82a6dd5c62a65321706cbf9f7142c34773e2a335e"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/mg/app/adblock-plus-for-safari-apps/id1028871868?uo=4",
+        "averageUserRating": 4.34999,
+        "artistName": "Eyeo GmbH",
+        "price": 0.0,
+        "bundleId": "org.adblockplus.AdblockPlusSafari",
+        "releaseDate": "2015-10-03T11:12:13Z",
+        "trackId": 1028871868,
+        "trackName": "Adblock Plus for Safari & Apps",
+        "currentVersionReleaseDate": "2026-11-04T15:37:35Z",
+        "version": "4.0.8",
+        "wrapperType": "software",
+        "currency": "USD",
+        "genres": [
+          "Productivity",
+          "Utilities"
+        ],
+        "primaryGenreName": "Productivity",
+        "userRatingCount": 20,
+        "descriptionSHA256": "71157ae8cc34acaa7d861684f20b553bd087c764ee1ebb1f4de6c1d7976bf02f"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/mg/app/ubecast-video-ad-blocker/id6743932291?uo=4",
+        "averageUserRating": 3,
+        "artistName": "Aer Co., Ltd",
+        "price": 0.0,
+        "bundleId": "co.aer.ubecasttv",
+        "releaseDate": "2025-03-30T07:00:00Z",
+        "trackId": 6743932291,
+        "trackName": "UbeCast: Video Ad Blocker",
+        "currentVersionReleaseDate": "2026-10-22T01:31:28Z",
+        "version": "42.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "genres": [
+          "Photo & Video",
+          "Music"
+        ],
+        "primaryGenreName": "Photo & Video",
+        "userRatingCount": 3,
+        "descriptionSHA256": "d58eed7a0fba74bd6457ed1e434ee2bb51b030241ebb49cfd6be97a36002b7e2"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "e61dc632fd9a364725ed11b02b1bd168f2990cb85ffe937f60d63319fbfd963a",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

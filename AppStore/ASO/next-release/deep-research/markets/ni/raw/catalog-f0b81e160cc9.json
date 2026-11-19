@@ -1,0 +1,122 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=bloqueador+de+apps&country=ni&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "bundleId": "com.withopal.opal",
+        "averageUserRating": 4.95455,
+        "artistName": "Opal OS",
+        "genres": [
+          "Productividad",
+          "Salud y fitness"
+        ],
+        "price": 0.0,
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "trackId": 1497465230,
+        "trackName": "Opal: Tiempo de Pantalla Focus",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/ni/app/opal-tiempo-de-pantalla-focus/id1497465230?uo=4",
+        "userRatingCount": 22,
+        "descriptionSHA256": "8f565e8ece1378f7f8b279972790342748ebc0f5a8961ef24749e6a17891340e"
+      },
+      {
+        "kind": "software",
+        "bundleId": "com.refocus.refocus",
+        "averageUserRating": 5,
+        "artistName": "Labi, LLC",
+        "genres": [
+          "Productividad",
+          "Salud y fitness"
+        ],
+        "price": 0.0,
+        "releaseDate": "2022-09-22T07:00:00Z",
+        "trackId": 1645639057,
+        "trackName": "Refocus: Bloquear Aplicaciones",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-18T15:32:47Z",
+        "version": "2.2.11",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/ni/app/refocus-bloquear-aplicaciones/id1645639057?uo=4",
+        "userRatingCount": 3,
+        "descriptionSHA256": "5af728bf34683f8d8cc16da34fc547279e90e9330521b01704a76d15740488e6"
+      },
+      {
+        "kind": "software",
+        "bundleId": "com.lykovstudio.AppLock",
+        "averageUserRating": 5,
+        "artistName": "LYKOV STUDIO LTD",
+        "genres": [
+          "Utilidades"
+        ],
+        "price": 0.0,
+        "releaseDate": "2025-06-26T07:00:00Z",
+        "trackId": 6746766591,
+        "trackName": "Bloquear aplicaciones: AppLock",
+        "primaryGenreName": "Utilities",
+        "currentVersionReleaseDate": "2026-11-10T16:00:02Z",
+        "version": "1.0.30",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/ni/app/bloquear-aplicaciones-applock/id6746766591?uo=4",
+        "userRatingCount": 7,
+        "descriptionSHA256": "6a2615782e5f3d6f19e5f3f5b4924bb0985a5d6460d203e9f95fb93d4ddadeaa"
+      },
+      {
+        "kind": "software",
+        "bundleId": "eu.mobilesoft.appblock",
+        "averageUserRating": 5,
+        "artistName": "MobileSoft s.r.o.",
+        "genres": [
+          "Productividad",
+          "Salud y fitness"
+        ],
+        "price": 0.0,
+        "releaseDate": "2021-08-17T07:00:00Z",
+        "trackId": 1515753232,
+        "trackName": "AppBlock Bloquear Aplicaciones",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-11T10:48:39Z",
+        "version": "4.14.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/ni/app/appblock-bloquear-aplicaciones/id1515753232?uo=4",
+        "userRatingCount": 7,
+        "descriptionSHA256": "57129755f1276c23ea491e5ae08cd96a53959993b5c33be70bbbd0401f883185"
+      },
+      {
+        "kind": "software",
+        "bundleId": "com.xu.applock",
+        "averageUserRating": 4.23729,
+        "artistName": "友财 徐",
+        "genres": [
+          "Utilidades"
+        ],
+        "price": 0.0,
+        "releaseDate": "2023-11-07T08:00:00Z",
+        "trackId": 6469686557,
+        "trackName": "Bloqueo De Aplicaciones -",
+        "primaryGenreName": "Utilities",
+        "currentVersionReleaseDate": "2026-06-22T01:26:35Z",
+        "version": "1.5.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/ni/app/bloqueo-de-aplicaciones/id6469686557?uo=4",
+        "userRatingCount": 59,
+        "descriptionSHA256": "a1f6f5a6e93e3c93fb8902ee294b2f62e481f5bb0709d7976190b888ad918b35"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "248fbaf9249ab58571ee8c4dac24d4fd8ae41b2af8d8d40a0374dbd5bb8f4a8b",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

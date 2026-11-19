@@ -1,0 +1,21 @@
+{
+  "locale": "en-CA",
+  "store": "ca",
+  "proposedName": "App Blocker – Duck on Duty",
+  "limitations": "A public top-five name search, not App Store Connect reservation or trademark clearance.",
+  "response": {
+    "id": "dcd4d083-21ae-4472-8a6d-ea04ab1e0ef8",
+    "jsonrpc": "2.0",
+    "result": {
+      "content": [
+        {
+          "text": "{\n  \"apps\" : [\n    {\n      \"appStoreId\" : \"6754953790\",\n      \"averageRating\" : 0,\n      \"bundleId\" : \"com.moniqtap.blocker.site.app\",\n      \"developer\" : \"Phong Pham\",\n      \"genre\" : \"Productivity\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple211\\/v4\\/a6\\/06\\/7d\\/a6067d4b-138a-59fd-27eb-37e76e7f6e5e\\/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png\\/80x0w.webp\",\n      \"name\" : \"BlockerPro: Block Site & Apps\",\n      \"ranking\" : 1,\n      \"ratingCount\" : 0,\n      \"subtitle\" : \"Block Apps, Websites & Focus\"\n    },\n    {\n      \"appStoreId\" : \"6784061138\",\n      \"averageRating\" : 0,\n      \"bundleId\" : \"com.chartash.still\",\n      \"developer\" : \"Zachary Chartash\",\n      \"genre\" : \"Productivity\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple221\\/v4\\/b0\\/9b\\/59\\/b09b5985-79ef-735e-908f-cc9def59eb59\\/AppIcon-0-0-1x_U007epad-0-1-85-220.png\\/80x0w.webp\",\n      \"name\" : \"Still: Reels & Shorts Blocker\",\n      \"ranking\" : 2,\n      \"ratingCount\" : 0,\n      \"subtitle\" : \"Blocks on mobile and desktop\"\n    },\n    {\n      \"appStoreId\" : \"389801252\",\n      \"averageRating\" : 4.6,\n      \"bundleId\" : \"com.burbn.instagram\",\n      \"developer\" : \"Instagram, Inc.\",\n      \"genre\" : \"Photo & Video\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple221\\/v4\\/e3\\/33\\/79\\/e3337974-a4b4-d9c5-8fb6-ca99b98f955c\\/Prod-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png\\/80x0w.webp\",\n      \"name\" : \"Instagram\",\n      \"ranking\" : 3,\n      \"ratingCount\" : 2707160,\n      \"subtitle\" : \"Videos, creators & friends\"\n    },\n    {\n      \"appStoreId\" : \"1365531024\",\n      \"averageRating\" : 4.4,\n      \"bundleId\" : \"com.khanov.BlockerX\",\n      \"developer\" : \"1Blocker LLC\",\n      \"genre\" : \"Utilities\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple221\\/v4\\/34\\/9a\\/45\\/349a45df-583e-a011-3863-eb03250f2935\\/Blocker-AppStore-0-0-1x_U007epad-0-1-0-sRGB-85-220.png\\/80x0w.webp\",\n      \"name\" : \"1Blocker - Adblock\",\n      \"ranking\" : 4,\n      \"ratingCount\" : 1579,\n      \"subtitle\" : \"Ad blocker for Safari\"\n    },\n    {\n      \"appStoreId\" : \"6811274137\",\n      \"averageRating\" : 0,\n      \"bundleId\" : \"com.verboten.app\",\n      \"developer\" : \"Madhura Basavaraju\",\n      \"genre\" : \"Productivity\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple211\\/v4\\/5b\\/3c\\/ea\\/5b3cead1-f5dc-5613-199d-152eae524d96\\/AppIcon-0-0-1x_U007epad-0-1-85-220.png\\/80x0w.webp\",\n      \"name\" : \"Verboten: App Blocker\",\n      \"ranking\" : 5,\n      \"ratingCount\" : 0,\n      \"subtitle\" : \"app to block scrolling\"\n    }\n  ],\n  \"keyword\" : \"App Blocker – Duck on Duty\",\n  \"platform\" : \"iphone\",\n  \"store\" : \"ca\",\n  \"totalResults\" : 50\n}",
+          "type": "text"
+        }
+      ],
+      "isError": false
+    }
+  },
+  "error": null,
+  "exactOtherAppMatches": []
+}

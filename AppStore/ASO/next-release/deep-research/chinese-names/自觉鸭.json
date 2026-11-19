@@ -1,0 +1,16 @@
+{
+  "query": "自觉鸭",
+  "response": {
+    "id": "62fc8b12-f188-4d39-a1e3-ee6d279822fd",
+    "jsonrpc": "2.0",
+    "result": {
+      "content": [
+        {
+          "text": "{\n  \"apps\" : [\n\n  ],\n  \"keyword\" : \"自觉鸭\",\n  \"platform\" : \"iphone\",\n  \"store\" : \"cn\",\n  \"totalResults\" : 0\n}",
+          "type": "text"
+        }
+      ],
+      "isError": false
+    }
+  }
+}

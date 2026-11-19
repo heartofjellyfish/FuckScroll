@@ -1,0 +1,126 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=block+apps&country=rw&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "currentVersionReleaseDate": "2026-11-11T10:48:39Z",
+        "artistName": "MobileSoft s.r.o.",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "bundleId": "eu.mobilesoft.appblock",
+        "releaseDate": "2021-08-17T07:00:00Z",
+        "trackId": 1515753232,
+        "primaryGenreName": "Productivity",
+        "version": "4.14.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 4.8,
+        "trackViewUrl": "https://apps.apple.com/rw/app/appblock-app-site-blocker/id1515753232?uo=4",
+        "trackName": "AppBlock: App & Site Blocker",
+        "userRatingCount": 5,
+        "descriptionSHA256": "f4e2257d9c85cbaf9cd8496ddc82a9a5d41b2e0440020c527d8b3b8c4bbe4236"
+      },
+      {
+        "kind": "software",
+        "currentVersionReleaseDate": "2026-10-18T07:41:00Z",
+        "artistName": "BlockSite LP",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "bundleId": "co.ios.BlockSite",
+        "releaseDate": "2020-04-14T07:00:00Z",
+        "trackId": 1474967653,
+        "primaryGenreName": "Productivity",
+        "version": "4.4.5",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 4.5,
+        "trackViewUrl": "https://apps.apple.com/rw/app/blocksite-block-apps-focus/id1474967653?uo=4",
+        "trackName": "BlockSite: Block Apps & Focus",
+        "userRatingCount": 10,
+        "descriptionSHA256": "3eb447725c9fc35e830b2ea7ff4f799cbbf9f0a174fb4879e2041c2cb7805265"
+      },
+      {
+        "kind": "software",
+        "currentVersionReleaseDate": "2026-11-14T18:42:34Z",
+        "artistName": "riedel.wtf apps S.L.",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "bundleId": "wtf.riedel.one-sec",
+        "releaseDate": "2020-09-29T07:00:00Z",
+        "trackId": 1532875441,
+        "primaryGenreName": "Productivity",
+        "version": "6.1.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 4.83333,
+        "trackViewUrl": "https://apps.apple.com/rw/app/one-sec-screen-time-focus/id1532875441?uo=4",
+        "trackName": "one sec | screen time + focus",
+        "userRatingCount": 6,
+        "descriptionSHA256": "7458286eeec2edf883eec2f9abc49582f9924be2e29f484b82b1014b4b2a0462"
+      },
+      {
+        "kind": "software",
+        "currentVersionReleaseDate": "2026-11-14T00:10:28Z",
+        "artistName": "Shikudo",
+        "genres": [
+          "Productivity",
+          "Games",
+          "Simulation",
+          "Casual"
+        ],
+        "price": 0.0,
+        "bundleId": "com.shikudo.focus",
+        "releaseDate": "2020-04-10T07:00:00Z",
+        "trackId": 1459096306,
+        "primaryGenreName": "Productivity",
+        "version": "4.6.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/rw/app/focus-plant-forest-app-blocker/id1459096306?uo=4",
+        "trackName": "Focus Plant：forest app blocker",
+        "userRatingCount": 0,
+        "descriptionSHA256": "fe05cd0e5d57fda1dd718d682f963e8ebc60dcf414c417b33b853ed6df9bd015"
+      },
+      {
+        "kind": "software",
+        "currentVersionReleaseDate": "2025-08-07T14:52:49Z",
+        "artistName": "CLEARPATH ACQUISITIONS LLC",
+        "genres": [
+          "Utilities",
+          "Lifestyle"
+        ],
+        "price": 0.0,
+        "bundleId": "one.vault.password",
+        "releaseDate": "2022-05-27T07:00:00Z",
+        "trackId": 1614510749,
+        "primaryGenreName": "Utilities",
+        "version": "4.11.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 4.74074,
+        "trackViewUrl": "https://apps.apple.com/rw/app/app-locker-apps-vault/id1614510749?uo=4",
+        "trackName": "App Locker Apps & Vault",
+        "userRatingCount": 27,
+        "descriptionSHA256": "b525a8b8c2c1beee34ea44b92170795d984909ee72444e9c30d71354256583d8"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "418cacceb7312ca97dca08a8a03331bc609b2b588d6a219d072c92f3f8820dc4",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

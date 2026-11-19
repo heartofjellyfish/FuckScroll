@@ -1,0 +1,13 @@
+{
+  "id": "8a91bf5e-ee88-4c5f-aab0-47c9b0228ff4",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"apps\" : [\n    {\n      \"appStoreId\" : \"1365784521\",\n      \"averageRating\" : 4.2,\n      \"bundleId\" : \"com.meshukraina.parentalcontrol\",\n      \"developer\" : \"MESH Ukraina\",\n      \"genre\" : \"Education\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple221\\/v4\\/5d\\/b3\\/3b\\/5db33b6a-e1a6-36e6-38d3-8e8d98d8b827\\/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png\\/80x0w.webp\",\n      \"name\" : \"Parental Control - Kroha\",\n      \"ranking\" : 1,\n      \"ratingCount\" : 33,\n      \"subtitle\" : \"Family Screen Time・GPS Tracker\"\n    },\n    {\n      \"appStoreId\" : \"6736939821\",\n      \"averageRating\" : 0,\n      \"bundleId\" : \"com.appshub.HeadUp\",\n      \"developer\" : \"MIRRORHUB MCHJ\",\n      \"genre\" : \"Productivity\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple211\\/v4\\/2b\\/92\\/2c\\/2b922cc6-9626-448f-28bb-14430d0e96b8\\/AppIcon-0-0-1x_U007ephone-0-1-85-220.png\\/80x0w.webp\",\n      \"name\" : \"Screen Time Control - HeadUp\",\n      \"ranking\" : 2,\n      \"ratingCount\" : 0,\n      \"subtitle\" : \"Block Apps & Focus with Timer\"\n    },\n    {\n      \"appStoreId\" : \"6770064937\",\n      \"averageRating\" : 0,\n      \"bundleId\" : \"com.dhruvil.LockInFit\",\n      \"developer\" : \"dhruvil patel\",\n      \"genre\" : \"Health & Fitness\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple221\\/v4\\/18\\/6a\\/56\\/186a569d-9597-98e0-d446-0ff4e76f5626\\/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png\\/80x0w.webp\",\n      \"name\" : \"Lock In Fit: App Blocker\",\n      \"ranking\" : 3,\n      \"ratingCount\" : 0,\n      \"subtitle\" : \"Push Ups Earn Screen Time\"\n    },\n    {\n      \"appStoreId\" : \"6795049697\",\n      \"averageRating\" : 0,\n      \"bundleId\" : \"com.kantiva.nanishini\",\n      \"developer\" : \"Kanta Sato\",\n      \"genre\" : \"Productivity\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple221\\/v4\\/e7\\/01\\/33\\/e7013327-6160-e40b-5a23-e344db8a9cb4\\/AppIcon-0-0-1x_U007ephone-0-1-85-220.png\\/80x0w.webp\",\n      \"name\" : \"What For? App Blocker & Focus\",\n      \"ranking\" : 4,\n      \"ratingCount\" : 0,\n      \"subtitle\" : \"Screen Time, Less Scrolling\"\n    }\n  ],\n  \"keyword\" : \"vremensko ograničenje\",\n  \"platform\" : \"iphone\",\n  \"store\" : \"hr\",\n  \"totalResults\" : 4\n}",
+        "type": "text"
+      }
+    ],
+    "isError": false
+  }
+}

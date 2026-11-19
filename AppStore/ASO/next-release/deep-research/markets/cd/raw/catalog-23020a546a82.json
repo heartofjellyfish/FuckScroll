@@ -1,0 +1,124 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=temps+d%27%C3%A9cran&country=cd&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/cd/app/opal-screen-time-control/id1497465230?uo=4",
+        "averageUserRating": 4.43243,
+        "artistName": "Opal OS",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "bundleId": "com.withopal.opal",
+        "trackId": 1497465230,
+        "trackName": "Opal: Screen Time Control",
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "USD",
+        "userRatingCount": 74,
+        "descriptionSHA256": "79545dcfd9d33edf53d3567fc6a6eb5b582561ed18b9d49245fbff4af0417656"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/cd/app/one-sec-screen-time-focus/id1532875441?uo=4",
+        "averageUserRating": 4.61538,
+        "artistName": "riedel.wtf apps S.L.",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "bundleId": "wtf.riedel.one-sec",
+        "trackId": 1532875441,
+        "trackName": "one sec | screen time + focus",
+        "releaseDate": "2020-09-29T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-14T18:42:34Z",
+        "version": "6.1.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "userRatingCount": 13,
+        "descriptionSHA256": "7458286eeec2edf883eec2f9abc49582f9924be2e29f484b82b1014b4b2a0462"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/cd/app/jomo-app-blocker-focus/id1609960918?uo=4",
+        "averageUserRating": 4.5,
+        "artistName": "Jomo",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "bundleId": "com.jomo.Jomo",
+        "trackId": 1609960918,
+        "trackName": "Jomo - App Blocker & Focus",
+        "releaseDate": "2022-10-16T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-18T16:29:32Z",
+        "version": "2.1.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "userRatingCount": 10,
+        "descriptionSHA256": "1c3ac2d7f7c364ecfc9b0dc94651160ac123d989dbde44be1172ac15c9b753d8"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/cd/app/limit-screen-time-for-focus/id6473087772?uo=4",
+        "averageUserRating": 0,
+        "artistName": "Samet Macit",
+        "genres": [
+          "Productivity",
+          "Utilities"
+        ],
+        "price": 0.0,
+        "bundleId": "net.29apps.limit",
+        "trackId": 6473087772,
+        "trackName": "Limit: Screen Time for Focus",
+        "releaseDate": "2024-02-25T08:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-10-27T11:38:50Z",
+        "version": "2.0.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "userRatingCount": 0,
+        "descriptionSHA256": "401598d7f6d4540d8b11181f46e748a1d8536c229c62589ffa9aa63d965ee952"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/cd/app/cape-app-to-pause-excess/id6444819615?uo=4",
+        "averageUserRating": 4.25,
+        "artistName": "Air Matters Network Pty Ltd",
+        "genres": [
+          "Utilities",
+          "Lifestyle"
+        ],
+        "price": 0.0,
+        "bundleId": "com.air-matters.Cloak",
+        "trackId": 6444819615,
+        "trackName": "Cape: App to Pause Excess",
+        "releaseDate": "2022-12-21T08:00:00Z",
+        "primaryGenreName": "Utilities",
+        "currentVersionReleaseDate": "2026-10-29T20:05:27Z",
+        "version": "4.0.4",
+        "wrapperType": "software",
+        "currency": "USD",
+        "userRatingCount": 144,
+        "descriptionSHA256": "55c4489d8aa1369fa68c64bd4c98c99090a0a704ad1039c2b984950bf6088e00"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "718e72e883b24d1e70aba5b639ffb4abcbf082bc466968f8a31eeeb470a772cf",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

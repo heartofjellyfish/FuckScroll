@@ -1,0 +1,102 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=limit%C4%83+aplica%C8%9Bii&country=md&entity=software&limit=5",
+  "response": {
+    "resultCount": 4,
+    "results": [
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/md/app/faceapp-perfect-face-editor/id1180884341?uo=4",
+        "averageUserRating": 4.83912,
+        "artistName": "FaceApp Technology Limited",
+        "genres": [
+          "Photo & Video",
+          "Entertainment"
+        ],
+        "price": 0.0,
+        "bundleId": "io.faceapp.ios",
+        "primaryGenreName": "Photo & Video",
+        "releaseDate": "2017-01-24T14:13:07Z",
+        "trackId": 1180884341,
+        "trackName": "FaceApp: Perfect Face Editor",
+        "currentVersionReleaseDate": "2026-11-14T11:50:27Z",
+        "version": "26.10.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "userRatingCount": 12251,
+        "descriptionSHA256": "7005437c6af00e0dca408ae0b4cfb10ada33cc3e1613352a679a727e504f5036"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/md/app/citymapper-your-transport-app/id469463298?uo=4",
+        "averageUserRating": 4.88056,
+        "artistName": "Citymapper Limited",
+        "genres": [
+          "Navigation",
+          "Travel"
+        ],
+        "price": 0.0,
+        "bundleId": "azdev.citymapper",
+        "primaryGenreName": "Navigation",
+        "releaseDate": "2011-10-18T03:47:18Z",
+        "trackId": 469463298,
+        "trackName": "Citymapper: Your Transport App",
+        "currentVersionReleaseDate": "2026-11-10T20:56:11Z",
+        "version": "11.54.2",
+        "wrapperType": "software",
+        "currency": "USD",
+        "userRatingCount": 720,
+        "descriptionSHA256": "1b85e1cce8934afc2c889ec55831e90e4fd4e21fde4832ed64434c3e5dfa451c"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/md/app/pregnancy-tracker-app/id505864483?uo=4",
+        "averageUserRating": 4.91667,
+        "artistName": "Philips Digital UK Limited",
+        "genres": [
+          "Medical",
+          "Education"
+        ],
+        "price": 0.0,
+        "bundleId": "com.HP.PregnancyiPhonelite",
+        "primaryGenreName": "Medical",
+        "releaseDate": "2012-04-05T21:54:25Z",
+        "trackId": 505864483,
+        "trackName": "Pregnancy + | Tracker App",
+        "currentVersionReleaseDate": "2026-11-16T12:57:15Z",
+        "version": "8.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "userRatingCount": 216,
+        "descriptionSHA256": "64a0ea2bc1ec0355797c806cc7161d052b88e2722420f3edfe25e7b433de2d98"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/md/app/busuu-language-learning/id379968583?uo=4",
+        "averageUserRating": 4.81702,
+        "artistName": "Busuu Limited",
+        "genres": [
+          "Education",
+          "Travel"
+        ],
+        "price": 0.0,
+        "bundleId": "com.busuu.english.app",
+        "primaryGenreName": "Education",
+        "releaseDate": "2010-09-21T18:36:19Z",
+        "trackId": 379968583,
+        "trackName": "Busuu: Language Learning",
+        "currentVersionReleaseDate": "2026-11-17T22:19:36Z",
+        "version": "30.34.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "userRatingCount": 470,
+        "descriptionSHA256": "d787124cb2992167769528a3b95afe870aa97dbbedfc02ec2eab39b57cd19b8d"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "bb44f425f2d74dc78d70f6227ec46e8b62b4c05b8783e691056fc5edf75212fc",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

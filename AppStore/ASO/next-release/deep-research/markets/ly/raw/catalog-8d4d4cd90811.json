@@ -1,0 +1,123 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=%D8%AA%D9%82%D9%84%D9%8A%D9%84+%D9%88%D9%82%D8%AA+%D8%A7%D9%84%D8%B4%D8%A7%D8%B4%D8%A9&country=ly&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "artistName": "Moutaouakil Mohammed",
+        "genres": [
+          "Lifestyle"
+        ],
+        "price": 0.0,
+        "trackId": 6831379511,
+        "trackName": "مهلة - تقليل وقت الشاشة",
+        "bundleId": "com.tasafoh.com",
+        "primaryGenreName": "Lifestyle",
+        "releaseDate": "2026-11-13T08:00:00Z",
+        "currentVersionReleaseDate": "2026-11-13T17:07:08Z",
+        "version": "1.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/ly/app/%D9%85%D9%87%D9%84%D8%A9-%D8%AA%D9%82%D9%84%D9%8A%D9%84-%D9%88%D9%82%D8%AA-%D8%A7%D9%84%D8%B4%D8%A7%D8%B4%D8%A9/id6831379511?uo=4",
+        "averageUserRating": 0,
+        "userRatingCount": 0,
+        "descriptionSHA256": "6a7c969d1bbb959e9d52125a2f1b4a2d10b86162d93424172c1bb96e48744d24"
+      },
+      {
+        "kind": "software",
+        "artistName": "云燕 陈",
+        "genres": [
+          "Productivity",
+          "Utilities"
+        ],
+        "price": 1.99,
+        "trackId": 6810470665,
+        "trackName": "ScrollLess: Screen Time",
+        "bundleId": "me.starbay.ScrollLess",
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2026-09-30T07:00:00Z",
+        "currentVersionReleaseDate": "2026-09-30T20:32:15Z",
+        "version": "1.1.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/ly/app/scrollless-screen-time/id6810470665?uo=4",
+        "averageUserRating": 0,
+        "userRatingCount": 0,
+        "descriptionSHA256": "5c84011965550c3b2bdb2398c863ba013e450f5195b1cfcccc4d8db675b8a61e"
+      },
+      {
+        "kind": "software",
+        "artistName": "明昭 路",
+        "genres": [
+          "Productivity",
+          "Utilities"
+        ],
+        "price": 0.0,
+        "trackId": 6822790279,
+        "trackName": "Sassy Parrot - Stop Scrolling",
+        "bundleId": "com.dushe.app",
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2026-10-28T07:00:00Z",
+        "currentVersionReleaseDate": "2026-11-09T10:33:31Z",
+        "version": "2.0.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/ly/app/sassy-parrot-stop-scrolling/id6822790279?uo=4",
+        "averageUserRating": 0,
+        "userRatingCount": 0,
+        "descriptionSHA256": "3ab97f2d614166542203b813435eb3b1226c1dabe3be23d3bdaa19d55dd4347a"
+      },
+      {
+        "kind": "software",
+        "artistName": "少雄 路",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "trackId": 6778306891,
+        "trackName": "Yohaku: Stop Scrolling Today",
+        "bundleId": "com.pandasroom.dwalkguard",
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2026-06-21T07:00:00Z",
+        "currentVersionReleaseDate": "2026-08-19T05:57:31Z",
+        "version": "1.0.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/ly/app/yohaku-stop-scrolling-today/id6778306891?uo=4",
+        "averageUserRating": 0,
+        "userRatingCount": 0,
+        "descriptionSHA256": "3ee8aa9b0a78c4819db72e318e77b9d4caa0930114b28011bec2b0a87abd8498"
+      },
+      {
+        "kind": "software",
+        "artistName": "Studio Next Ltd",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "trackId": 6757798555,
+        "trackName": "Lento: Mindful Screen Time",
+        "bundleId": "com.StudioNext.DigitalDetox",
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2026-10-07T07:00:00Z",
+        "currentVersionReleaseDate": "2026-10-24T00:52:40Z",
+        "version": "1.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/ly/app/lento-mindful-screen-time/id6757798555?uo=4",
+        "averageUserRating": 0,
+        "userRatingCount": 0,
+        "descriptionSHA256": "11d944fa6bf1063c27f3950002004137e83299a2b8e0c871166688f4c4de1460"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "211b30bafa74682f7be30dac0e43759863a5894f4b74d1ef89da6e74dc939ab4",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

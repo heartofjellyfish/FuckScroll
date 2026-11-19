@@ -1,0 +1,123 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=screen+time&country=ge&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/ge/app/opal-screen-time-control/id1497465230?uo=4",
+        "averageUserRating": 4.58974,
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "trackName": "Opal: Screen Time Control",
+        "trackId": 1497465230,
+        "artistName": "Opal OS",
+        "price": 0.0,
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.withopal.opal",
+        "userRatingCount": 156,
+        "descriptionSHA256": "79545dcfd9d33edf53d3567fc6a6eb5b582561ed18b9d49245fbff4af0417656"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/ge/app/screenzen-screen-time-control/id1541027222?uo=4",
+        "averageUserRating": 4.80882,
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "trackName": "ScreenZen- Screen Time Control",
+        "trackId": 1541027222,
+        "artistName": "ScreenZen LLC",
+        "price": 0.0,
+        "releaseDate": "2021-07-16T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-09-06T14:20:14Z",
+        "version": "4.0.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.scottharvey.screenzenapp.ios",
+        "userRatingCount": 68,
+        "descriptionSHA256": "def0cb7cf41c8f7b1619d270d38fe8aa23859b81147ae63a1041bc0a1b7f8cc8"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/ge/app/screen-time-tracker/id6738397686?uo=4",
+        "averageUserRating": 1,
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "trackName": "Screen Time Tracker",
+        "trackId": 6738397686,
+        "artistName": "Jack Finnis",
+        "price": 0.0,
+        "releaseDate": "2024-12-17T08:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2025-10-21T22:49:43Z",
+        "version": "2.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.jackfinnis.ScreenTimeTracker",
+        "userRatingCount": 1,
+        "descriptionSHA256": "818e2b4d99d866d797722d84f7e4cb5f38639db2d2e8c74030a03e53a20ba82b"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/ge/app/unrot-earn-your-screen-time/id6746537171?uo=4",
+        "averageUserRating": 4.79688,
+        "genres": [
+          "Productivity"
+        ],
+        "trackName": "Unrot: Earn your Screen Time",
+        "trackId": 6746537171,
+        "artistName": "Unrot OÜ",
+        "price": 0.0,
+        "releaseDate": "2025-06-04T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-17T23:57:22Z",
+        "version": "5.0.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.unrotou.unrot",
+        "userRatingCount": 128,
+        "descriptionSHA256": "12adff6dd116c1ee691ffdde6965edfdf9a3d682b6fdc4a3214199fc9ce2beea"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/ge/app/one-sec-screen-time-focus/id1532875441?uo=4",
+        "averageUserRating": 4.98,
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "trackName": "one sec | screen time + focus",
+        "trackId": 1532875441,
+        "artistName": "riedel.wtf apps S.L.",
+        "price": 0.0,
+        "releaseDate": "2020-09-29T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-14T18:42:34Z",
+        "version": "6.1.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "wtf.riedel.one-sec",
+        "userRatingCount": 50,
+        "descriptionSHA256": "7458286eeec2edf883eec2f9abc49582f9924be2e29f484b82b1014b4b2a0462"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "dd66e71523234d1f07a4abbf9a650c03d5a47a6dd9cdb75685e8f1e8343e289a",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

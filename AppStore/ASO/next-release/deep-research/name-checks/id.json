@@ -1,0 +1,21 @@
+{
+  "locale": "id",
+  "store": "id",
+  "proposedName": "Screen Time Control – Bebek",
+  "limitations": "A public top-five name search, not App Store Connect reservation or trademark clearance.",
+  "response": {
+    "id": "0a5c17a4-13e5-49ac-a41f-933f826603e4",
+    "jsonrpc": "2.0",
+    "result": {
+      "content": [
+        {
+          "text": "{\n  \"apps\" : [\n\n  ],\n  \"keyword\" : \"Screen Time Control – Bebek\",\n  \"platform\" : \"iphone\",\n  \"store\" : \"id\",\n  \"totalResults\" : 0\n}",
+          "type": "text"
+        }
+      ],
+      "isError": false
+    }
+  },
+  "error": null,
+  "exactOtherAppMatches": []
+}

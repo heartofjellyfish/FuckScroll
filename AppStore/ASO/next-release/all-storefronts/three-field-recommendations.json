@@ -1,5 +1,5 @@
 {
-  "state": "Local draft only; no App Store Connect changes or name reservation.",
+  "state": "Historical 19-locale draft; superseded by ../deep-research/metadata.json",
   "scope": "Only name, subtitle, keywords. Sixteen complete existing listings updated; three new locales are metadata-only candidates.",
   "keywordEvidence": "Functional relevance plus seed demand evidence; individual keyword tokens are not all separately volume-validated. No competitor brand names, website-blocking, private-lock or continuous-session claims.",
   "localizations": {
@@ -318,5 +318,6 @@
       "subtitle": 28,
       "keywords": 64
     }
-  }
+  },
+  "supersededBy": "../deep-research/metadata.json"
 }

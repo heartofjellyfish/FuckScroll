@@ -1,0 +1,123 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=bloquer+des+applications&country=cd&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "artistName": "MobileSoft s.r.o.",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "trackId": 1515753232,
+        "trackName": "AppBlock: App & Site Blocker",
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2021-08-17T07:00:00Z",
+        "currentVersionReleaseDate": "2026-11-11T10:48:39Z",
+        "version": "4.14.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 4.4375,
+        "trackViewUrl": "https://apps.apple.com/cd/app/appblock-app-site-blocker/id1515753232?uo=4",
+        "bundleId": "eu.mobilesoft.appblock",
+        "userRatingCount": 16,
+        "descriptionSHA256": "f4e2257d9c85cbaf9cd8496ddc82a9a5d41b2e0440020c527d8b3b8c4bbe4236"
+      },
+      {
+        "kind": "software",
+        "artistName": "Huseyin Sefa Kucuk",
+        "genres": [
+          "Utilities",
+          "Productivity"
+        ],
+        "price": 0.0,
+        "trackId": 6754396629,
+        "trackName": "App Locker: Lock Apps Securely",
+        "primaryGenreName": "Utilities",
+        "releaseDate": "2025-11-04T08:00:00Z",
+        "currentVersionReleaseDate": "2026-03-12T01:45:54Z",
+        "version": "1.1.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/cd/app/app-locker-lock-apps-securely/id6754396629?uo=4",
+        "bundleId": "com.hsefak.AppLocker",
+        "userRatingCount": 0,
+        "descriptionSHA256": "75f5cafa9c254d688130c5a91c7b0d00f43e9ed6ccaa667dd20e502726f4e41d"
+      },
+      {
+        "kind": "software",
+        "artistName": "GrittyApps",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "trackId": 6446997766,
+        "trackName": "Grit: Habits, Routines, Goals",
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2023-05-17T07:00:00Z",
+        "currentVersionReleaseDate": "2026-11-09T14:58:19Z",
+        "version": "6.2.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 4.13924,
+        "trackViewUrl": "https://apps.apple.com/cd/app/grit-habits-routines-goals/id6446997766?uo=4",
+        "bundleId": "stoope.Grit",
+        "userRatingCount": 158,
+        "descriptionSHA256": "08fa1a6efcccbfd06a7ded74844273bc30cfa727bb8a6871de1bbb84d7e8d69c"
+      },
+      {
+        "kind": "software",
+        "artistName": "RUSAGROTERMINAL31, OOO",
+        "genres": [
+          "Utilities"
+        ],
+        "price": 0.0,
+        "trackId": 1553747115,
+        "trackName": "PornBlocker App",
+        "primaryGenreName": "Utilities",
+        "releaseDate": "2021-02-22T08:00:00Z",
+        "currentVersionReleaseDate": "2026-10-05T21:12:03Z",
+        "version": "1.6.2",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 3.94378,
+        "trackViewUrl": "https://apps.apple.com/cd/app/pornblocker-app/id1553747115?uo=4",
+        "bundleId": "com.pornblocker.app",
+        "userRatingCount": 249,
+        "descriptionSHA256": "917a08b2521a42cbb8d274cd95c79d7e0f3db99c64d2795ccc3af4d74fffe7e7"
+      },
+      {
+        "kind": "software",
+        "artistName": "Aer Co., Ltd",
+        "genres": [
+          "Photo & Video",
+          "Music"
+        ],
+        "price": 0.0,
+        "trackId": 6743932291,
+        "trackName": "UbeCast: Video Ad Blocker",
+        "primaryGenreName": "Photo & Video",
+        "releaseDate": "2025-03-30T07:00:00Z",
+        "currentVersionReleaseDate": "2026-10-22T01:31:28Z",
+        "version": "42.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 4.3,
+        "trackViewUrl": "https://apps.apple.com/cd/app/ubecast-video-ad-blocker/id6743932291?uo=4",
+        "bundleId": "co.aer.ubecasttv",
+        "userRatingCount": 10,
+        "descriptionSHA256": "d58eed7a0fba74bd6457ed1e434ee2bb51b030241ebb49cfd6be97a36002b7e2"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "2f55a643ff8eb365c632eece402dd6da6055085b517c4f86a6db24650601e9d1",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

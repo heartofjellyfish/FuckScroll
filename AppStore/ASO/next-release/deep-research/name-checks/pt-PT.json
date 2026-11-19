@@ -1,0 +1,21 @@
+{
+  "locale": "pt-PT",
+  "store": "pt",
+  "proposedName": "Screen Time – Pato de Vigia",
+  "limitations": "A public top-five name search, not App Store Connect reservation or trademark clearance.",
+  "response": {
+    "id": "6099516b-8d9b-46f9-b7a8-75c02d551589",
+    "jsonrpc": "2.0",
+    "result": {
+      "content": [
+        {
+          "text": "{\n  \"apps\" : [\n\n  ],\n  \"keyword\" : \"Screen Time – Pato de Vigia\",\n  \"platform\" : \"iphone\",\n  \"store\" : \"pt\",\n  \"totalResults\" : 0\n}",
+          "type": "text"
+        }
+      ],
+      "isError": false
+    }
+  },
+  "error": null,
+  "exactOtherAppMatches": []
+}

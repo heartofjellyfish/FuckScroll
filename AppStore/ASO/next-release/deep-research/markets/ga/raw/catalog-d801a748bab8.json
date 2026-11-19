@@ -1,0 +1,123 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=bloquer+des+applications&country=ga&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "artistName": "MobileSoft s.r.o.",
+        "price": 0.0,
+        "genres": [
+          "Productivité",
+          "Forme et santé"
+        ],
+        "trackId": 1515753232,
+        "trackName": "AppBlock: bloquer des applis",
+        "bundleId": "eu.mobilesoft.appblock",
+        "currentVersionReleaseDate": "2026-11-11T10:48:39Z",
+        "primaryGenreName": "Productivity",
+        "version": "4.14.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/ga/app/appblock-bloquer-des-applis/id1515753232?uo=4",
+        "averageUserRating": 4.2,
+        "releaseDate": "2021-08-17T07:00:00Z",
+        "userRatingCount": 5,
+        "descriptionSHA256": "ba16ffb8042ef29530994b670aced6f5b47302eebfab4a3c47ad2691f82a1e91"
+      },
+      {
+        "kind": "software",
+        "artistName": "Huseyin Sefa Kucuk",
+        "price": 0.0,
+        "genres": [
+          "Utilitaires",
+          "Productivité"
+        ],
+        "trackId": 6754396629,
+        "trackName": "App Locker : Bloquer des apps",
+        "bundleId": "com.hsefak.AppLocker",
+        "currentVersionReleaseDate": "2026-03-12T01:45:54Z",
+        "primaryGenreName": "Utilities",
+        "version": "1.1.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/ga/app/app-locker-bloquer-des-apps/id6754396629?uo=4",
+        "averageUserRating": 0,
+        "releaseDate": "2025-11-04T08:00:00Z",
+        "userRatingCount": 0,
+        "descriptionSHA256": "66399c6a3300094870558d426e31952b9a6afb703fa210a08fdf442f8c0823c8"
+      },
+      {
+        "kind": "software",
+        "artistName": "俏飞 李",
+        "price": 0.0,
+        "genres": [
+          "Utilitaires"
+        ],
+        "trackId": 6462785335,
+        "trackName": "Hidem: Cachez vos Apps privées",
+        "bundleId": "zone.controls.fun",
+        "currentVersionReleaseDate": "2025-01-20T00:48:48Z",
+        "primaryGenreName": "Utilities",
+        "version": "1.3.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/ga/app/hidem-cachez-vos-apps-priv%C3%A9es/id6462785335?uo=4",
+        "averageUserRating": 5,
+        "releaseDate": "2024-01-24T08:00:00Z",
+        "userRatingCount": 1,
+        "descriptionSHA256": "d21fd386460da527fde4c21e56529b321930ad81a499c9db2a592a852c531bbe"
+      },
+      {
+        "kind": "software",
+        "artistName": "OnOff Labs",
+        "price": 0.0,
+        "genres": [
+          "Productivité",
+          "Utilitaires"
+        ],
+        "trackId": 6504188981,
+        "trackName": "Detox Lock:Bloquer Application",
+        "bundleId": "pony.tothemoon.Cold.Turkey",
+        "currentVersionReleaseDate": "2026-11-12T07:35:43Z",
+        "primaryGenreName": "Productivity",
+        "version": "2.46.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/ga/app/detox-lock-bloquer-application/id6504188981?uo=4",
+        "averageUserRating": 0,
+        "releaseDate": "2024-07-24T07:00:00Z",
+        "userRatingCount": 0,
+        "descriptionSHA256": "dce984060bb407fe418d3b24c9da7e5f14b36e8e3a54724edaa7d9599e7cda69"
+      },
+      {
+        "kind": "software",
+        "artistName": "GrittyApps",
+        "price": 0.0,
+        "genres": [
+          "Productivité",
+          "Forme et santé"
+        ],
+        "trackId": 6446997766,
+        "trackName": "Grit: Habitudes Routines TDAH",
+        "bundleId": "stoope.Grit",
+        "currentVersionReleaseDate": "2026-11-09T14:58:19Z",
+        "primaryGenreName": "Productivity",
+        "version": "6.2.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/ga/app/grit-habitudes-routines-tdah/id6446997766?uo=4",
+        "averageUserRating": 4.22222,
+        "releaseDate": "2023-05-17T07:00:00Z",
+        "userRatingCount": 18,
+        "descriptionSHA256": "de3e3fb2cac20a38cf3c4a8326527727ee29e1d0854a6e96fd9ba18de8f1efdc"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "77be45c989b6b6df26961520722dcb6bfd88aab72e58724a63aaffeddc66f8da",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

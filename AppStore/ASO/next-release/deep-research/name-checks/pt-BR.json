@@ -1,0 +1,21 @@
+{
+  "locale": "pt-BR",
+  "store": "br",
+  "proposedName": "Tempo de Tela: Pato de Plantão",
+  "limitations": "A public top-five name search, not App Store Connect reservation or trademark clearance.",
+  "response": {
+    "id": "78266d3c-4ec9-44ca-85f4-ef24717d6afc",
+    "jsonrpc": "2.0",
+    "result": {
+      "content": [
+        {
+          "text": "{\n  \"apps\" : [\n    {\n      \"appStoreId\" : \"389801252\",\n      \"averageRating\" : 4.8,\n      \"bundleId\" : \"com.burbn.instagram\",\n      \"developer\" : \"Instagram, Inc.\",\n      \"genre\" : \"Foto e vídeo\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple221\\/v4\\/e3\\/33\\/79\\/e3337974-a4b4-d9c5-8fb6-ca99b98f955c\\/Prod-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png\\/80x0w.webp\",\n      \"name\" : \"Instagram\",\n      \"ranking\" : 1,\n      \"ratingCount\" : 11513067\n    }\n  ],\n  \"keyword\" : \"Tempo de Tela: Pato de Plantão\",\n  \"platform\" : \"iphone\",\n  \"store\" : \"br\",\n  \"totalResults\" : 1\n}",
+          "type": "text"
+        }
+      ],
+      "isError": false
+    }
+  },
+  "error": null,
+  "exactOtherAppMatches": []
+}

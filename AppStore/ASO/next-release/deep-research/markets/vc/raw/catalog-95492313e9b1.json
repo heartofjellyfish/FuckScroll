@@ -1,0 +1,124 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=screen+time&country=vc&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "trackId": 1541027222,
+        "trackName": "ScreenZen- Screen Time Control",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "artistName": "ScreenZen LLC",
+        "primaryGenreName": "Productivity",
+        "bundleId": "com.scottharvey.screenzenapp.ios",
+        "releaseDate": "2021-07-16T07:00:00Z",
+        "version": "4.0.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/vc/app/screenzen-screen-time-control/id1541027222?uo=4",
+        "currentVersionReleaseDate": "2026-09-06T14:20:14Z",
+        "userRatingCount": 0,
+        "descriptionSHA256": "def0cb7cf41c8f7b1619d270d38fe8aa23859b81147ae63a1041bc0a1b7f8cc8"
+      },
+      {
+        "kind": "software",
+        "trackId": 1497465230,
+        "trackName": "Opal: Screen Time Control",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "artistName": "Opal OS",
+        "primaryGenreName": "Productivity",
+        "bundleId": "com.withopal.opal",
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/vc/app/opal-screen-time-control/id1497465230?uo=4",
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "userRatingCount": 0,
+        "descriptionSHA256": "79545dcfd9d33edf53d3567fc6a6eb5b582561ed18b9d49245fbff4af0417656"
+      },
+      {
+        "kind": "software",
+        "trackId": 1055315077,
+        "trackName": "Screen Time Parental Control",
+        "genres": [
+          "Lifestyle",
+          "Productivity"
+        ],
+        "price": 0.0,
+        "artistName": "Screen Time Labs",
+        "primaryGenreName": "Lifestyle",
+        "bundleId": "com.screentime",
+        "releaseDate": "2015-12-15T20:43:11Z",
+        "version": "3.72",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/vc/app/screen-time-parental-control/id1055315077?uo=4",
+        "currentVersionReleaseDate": "2022-12-07T13:43:25Z",
+        "userRatingCount": 0,
+        "descriptionSHA256": "4304fa45bc672e931bb3f98d3b8232f55d3f776c5eb880d3d113c7227a932ad6"
+      },
+      {
+        "kind": "software",
+        "trackId": 6738397686,
+        "trackName": "Screen Time Tracker",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "artistName": "Jack Finnis",
+        "primaryGenreName": "Productivity",
+        "bundleId": "com.jackfinnis.ScreenTimeTracker",
+        "releaseDate": "2024-12-17T08:00:00Z",
+        "version": "2.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/vc/app/screen-time-tracker/id6738397686?uo=4",
+        "currentVersionReleaseDate": "2025-10-21T22:49:43Z",
+        "userRatingCount": 0,
+        "descriptionSHA256": "818e2b4d99d866d797722d84f7e4cb5f38639db2d2e8c74030a03e53a20ba82b"
+      },
+      {
+        "kind": "software",
+        "trackId": 6744338972,
+        "trackName": "Brainrot: Screen Time Control",
+        "genres": [
+          "Productivity",
+          "Utilities"
+        ],
+        "price": 0.0,
+        "artistName": "Smolworks Inc",
+        "primaryGenreName": "Productivity",
+        "bundleId": "smobiz.brainrot",
+        "releaseDate": "2025-05-20T07:00:00Z",
+        "version": "2.0.14",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/vc/app/brainrot-screen-time-control/id6744338972?uo=4",
+        "currentVersionReleaseDate": "2026-11-10T01:03:44Z",
+        "userRatingCount": 0,
+        "descriptionSHA256": "fdd84f5e733ba69c5d0a9a6e1a087401d7736a33f153ecfdce5a57ca441eb6e3"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "a9fcd87328a2e583e4937be2cfe4bd5375b9d96f750f6bc5ada7119c222e5139",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

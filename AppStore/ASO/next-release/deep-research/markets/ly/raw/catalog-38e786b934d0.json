@@ -1,0 +1,122 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=%D9%85%D8%AF%D8%A9+%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85+%D8%A7%D9%84%D8%AC%D9%87%D8%A7%D8%B2&country=ly&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "artistName": "Joschka Bieri",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "bundleId": "com.getfinit.app",
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2026-08-11T07:00:00Z",
+        "currentVersionReleaseDate": "2026-10-15T20:52:21Z",
+        "version": "1.0.4",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/ly/app/finit-screen-time-life/id6786888937?uo=4",
+        "trackId": 6786888937,
+        "trackName": "finit: Screen Time & Life",
+        "userRatingCount": 0,
+        "descriptionSHA256": "ffb64cc50461e2de5f3c6a5da30aaa1b85edeb8c34155daf1971a20fbe1cd832"
+      },
+      {
+        "kind": "software",
+        "artistName": "ANNA KUCHUMOVA",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "bundleId": "app.5learn.One-Breath",
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2026-07-14T07:00:00Z",
+        "currentVersionReleaseDate": "2026-11-02T17:22:55Z",
+        "version": "1.8",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/ly/app/bspace-screen-time-control/id6776689183?uo=4",
+        "trackId": 6776689183,
+        "trackName": "BSpace: Screen Time Control",
+        "userRatingCount": 0,
+        "descriptionSHA256": "8008fe41cccb28c9caf0b87f0ce64467b1f57552c7bb149d5490f3002ee8c009"
+      },
+      {
+        "kind": "software",
+        "artistName": "CENKER KUMLUCALI",
+        "genres": [
+          "Productivity"
+        ],
+        "price": 0.0,
+        "bundleId": "com.aheno.ios",
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2026-11-10T08:00:00Z",
+        "currentVersionReleaseDate": "2026-11-11T06:58:08Z",
+        "version": "1.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/ly/app/aheno-app-blocker-focus/id6795961801?uo=4",
+        "trackId": 6795961801,
+        "trackName": "Aheno: App Blocker & Focus",
+        "userRatingCount": 0,
+        "descriptionSHA256": "fb0879b295e65c4ba4d71bfcea3506bd40a2b416d16add08e54c360ffa9700c5"
+      },
+      {
+        "kind": "software",
+        "artistName": "Watson 3 Inc",
+        "genres": [
+          "Utilities",
+          "Photo & Video"
+        ],
+        "price": 0.0,
+        "bundleId": "com.watson3.cubby",
+        "primaryGenreName": "Utilities",
+        "releaseDate": "2026-07-19T07:00:00Z",
+        "currentVersionReleaseDate": "2026-10-01T21:14:53Z",
+        "version": "1.0.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/ly/app/toll-screen-time-app-blocker/id6770766229?uo=4",
+        "trackId": 6770766229,
+        "trackName": "Toll: Screen Time App Blocker",
+        "userRatingCount": 0,
+        "descriptionSHA256": "4343c36b53992c8da758915e75bdbea0a223c68481a01cf78fa8019faeba19b7"
+      },
+      {
+        "kind": "software",
+        "artistName": "Fezani Media LLC",
+        "genres": [
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "bundleId": "com.sunnahlock.ios",
+        "primaryGenreName": "Health & Fitness",
+        "releaseDate": "2026-09-05T07:00:00Z",
+        "currentVersionReleaseDate": "2026-11-17T03:28:15Z",
+        "version": "1.4.2",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/ly/app/sunnah-lock-app-blocker/id6806224887?uo=4",
+        "trackId": 6806224887,
+        "trackName": "Sunnah Lock: App Blocker",
+        "userRatingCount": 0,
+        "descriptionSHA256": "a3ff8e8b6ac29a861878ddab05975370dd5f9bb1c2607701095f0b5de7cf7061"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "38b97161bc9d0e92f11b2038c12f6e1e657ff4183e107ad9abc1a295a2fa7656",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

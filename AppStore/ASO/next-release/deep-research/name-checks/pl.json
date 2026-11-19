@@ -1,0 +1,21 @@
+{
+  "locale": "pl",
+  "store": "pl",
+  "proposedName": "Czas przed ekranem – Kaczka",
+  "limitations": "A public top-five name search, not App Store Connect reservation or trademark clearance.",
+  "response": {
+    "id": "b3301ca7-f846-4975-ad87-ee7fa1fc0fef",
+    "jsonrpc": "2.0",
+    "result": {
+      "content": [
+        {
+          "text": "{\n  \"apps\" : [\n\n  ],\n  \"keyword\" : \"Czas przed ekranem – Kaczka\",\n  \"platform\" : \"iphone\",\n  \"store\" : \"pl\",\n  \"totalResults\" : 0\n}",
+          "type": "text"
+        }
+      ],
+      "isError": false
+    }
+  },
+  "error": null,
+  "exactOtherAppMatches": []
+}

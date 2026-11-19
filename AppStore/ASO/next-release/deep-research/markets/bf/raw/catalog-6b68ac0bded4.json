@@ -1,0 +1,124 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=bloqueur+d%E2%80%99apps&country=bf&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/bf/app/callapp-caller-id-block/id6739289261?uo=4",
+        "averageUserRating": 4.46512,
+        "artistName": "CallApp",
+        "genres": [
+          "Utilities",
+          "Productivity"
+        ],
+        "price": 0.0,
+        "releaseDate": "2025-10-15T07:00:00Z",
+        "trackId": 6739289261,
+        "trackName": "CallApp: Caller ID & Block",
+        "primaryGenreName": "Utilities",
+        "currentVersionReleaseDate": "2026-11-16T06:52:43Z",
+        "version": "1.29",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.callapp.contacts",
+        "userRatingCount": 43,
+        "descriptionSHA256": "b7f2207593fc05fa4be803a7d37746e713c658cc1e610d9617c9f7f75c37b64c"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/bf/app/stop-scroll-by-aegis/id6738006979?uo=4",
+        "averageUserRating": 0,
+        "artistName": "Ilya Nikolenko",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "releaseDate": "2025-05-15T07:00:00Z",
+        "trackId": 6738006979,
+        "trackName": "Stop Scroll by Aegis",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-08T09:44:16Z",
+        "version": "2.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.vdcast.aegisappblocker",
+        "userRatingCount": 0,
+        "descriptionSHA256": "effa010a3d3fba425f9899eb28804bfdf4abdb3c637ecf441e5b3cfc5382f45f"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/bf/app/stay-focused-limit-screen-time/id1658592224?uo=4",
+        "averageUserRating": 5,
+        "artistName": "INNOXAPPS LLP",
+        "genres": [
+          "Productivity",
+          "Utilities"
+        ],
+        "price": 0.0,
+        "releaseDate": "2023-01-26T08:00:00Z",
+        "trackId": 1658592224,
+        "trackName": "Stay Focused Limit Screen Time",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-10-01T19:56:32Z",
+        "version": "7.0.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.stayfocused",
+        "userRatingCount": 2,
+        "descriptionSHA256": "c6d9d0807b708d9300a29659be1fef96ca3c2eee1fb6dd681f38e56a946ce76c"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/bf/app/app-blocker-soberlock/id6761304507?uo=4",
+        "averageUserRating": 0,
+        "artistName": "Hakan Yigit Unac",
+        "genres": [
+          "Health & Fitness",
+          "Productivity"
+        ],
+        "price": 0.0,
+        "releaseDate": "2026-05-14T07:00:00Z",
+        "trackId": 6761304507,
+        "trackName": "App Blocker: SoberLock",
+        "primaryGenreName": "Health & Fitness",
+        "currentVersionReleaseDate": "2026-08-20T21:34:29Z",
+        "version": "1.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.app.hakanyigitunac.SoberLock",
+        "userRatingCount": 0,
+        "descriptionSHA256": "9be8b212248d5d46d146b18655c8842f4c0217bd7b8353124cd8c0791882097a"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/bf/app/app-blocker-for-distractions/id6758347792?uo=4",
+        "averageUserRating": 0,
+        "artistName": "KOTARO OMORI",
+        "genres": [
+          "Productivity",
+          "Utilities"
+        ],
+        "price": 0.0,
+        "releaseDate": "2026-02-18T08:00:00Z",
+        "trackId": 6758347792,
+        "trackName": "App Blocker for Distractions",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-04-17T17:31:41Z",
+        "version": "1.03",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.homia.time",
+        "userRatingCount": 0,
+        "descriptionSHA256": "31d89f4402e58a5f2847050d88cf2ec4a656eff9fa53f82a1fe2103ad957271a"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "9562515adbd1c59e1e6f138886704056528710c5f2c010052f82a9d5bc938cbe",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

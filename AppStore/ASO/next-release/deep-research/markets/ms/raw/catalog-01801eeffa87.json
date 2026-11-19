@@ -1,0 +1,124 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=scroll+blocker&country=ms&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/ms/app/scroll-block-pornblocker-app/id6755958698?uo=4",
+        "artistName": "ByteBloom Solutions",
+        "releaseDate": "2025-12-02T08:00:00Z",
+        "trackId": 6755958698,
+        "trackName": "Scroll Block: pornblocker App",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-06-14T10:07:56Z",
+        "version": "2.7",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.blaneoroark.ScrollBlock",
+        "price": 0.0,
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "userRatingCount": 0,
+        "descriptionSHA256": "80b054d982e29ebbdbf58291a259b2fdae2adf40f9a9c88782be7381831b6a91"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/ms/app/scrollr-app-blocker/id6811619023?uo=4",
+        "artistName": "Attila Meste",
+        "releaseDate": "2026-10-04T07:00:00Z",
+        "trackId": 6811619023,
+        "trackName": "Scrollr - App Blocker",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-18T00:40:52Z",
+        "version": "2.5",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.doomlingo.app",
+        "price": 0.0,
+        "genres": [
+          "Productivity",
+          "Education"
+        ],
+        "userRatingCount": 0,
+        "descriptionSHA256": "cd895924d4b880f12e9c4825819fc101e330977b7877a3c9ecfb30f94c1e3024"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/ms/app/sociallite-block-reels-shorts/id6757661674?uo=4",
+        "artistName": "Sociallite LLC",
+        "releaseDate": "2026-01-29T08:00:00Z",
+        "trackId": 6757661674,
+        "trackName": "SocialLite-Block Reels&Shorts",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-10-16T11:04:41Z",
+        "version": "3.1.5",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "social.Social-lite",
+        "price": 0.0,
+        "genres": [
+          "Productivity",
+          "Social Networking"
+        ],
+        "userRatingCount": 0,
+        "descriptionSHA256": "9dbd89f368c17dc50b7187fccb2c303ea2893d4ea389e2290954ac38e87b7144"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/ms/app/unfeed-scroll-blocker/id6788027178?uo=4",
+        "artistName": "Andrii Bashta",
+        "releaseDate": "2026-07-27T07:00:00Z",
+        "trackId": 6788027178,
+        "trackName": "Unfeed: Scroll Blocker",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-07-27T18:21:21Z",
+        "version": "1.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "app.scrollblock",
+        "price": 0.0,
+        "genres": [
+          "Productivity",
+          "Lifestyle"
+        ],
+        "userRatingCount": 0,
+        "descriptionSHA256": "c5fe068dfe3a2fd3f62b5499955957d04bcbf9dffb1a7cc0f350ae51e113d59d"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/ms/app/scrollguard-block-reels/id6754183872?uo=4",
+        "artistName": "BreakTheScroll",
+        "releaseDate": "2026-02-10T08:00:00Z",
+        "trackId": 6754183872,
+        "trackName": "ScrollGuard: Block Reels",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-18T13:35:55Z",
+        "version": "1.2.8",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.breakthescroll.scrollguard",
+        "price": 0.0,
+        "genres": [
+          "Productivity",
+          "Utilities"
+        ],
+        "userRatingCount": 0,
+        "descriptionSHA256": "f86ed0e555432bea394b8f50474532f41318c3cabc1e1d389bee5024f909e63c"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "ccff0359ae093df1eb89ac57711da45aaa9979994dd77102dd7fa5dcdd21533a",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

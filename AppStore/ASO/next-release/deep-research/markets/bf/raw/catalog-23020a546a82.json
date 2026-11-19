@@ -1,0 +1,123 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=temps+d%27%C3%A9cran&country=bf&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "artistName": "Opal OS",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "primaryGenreName": "Productivity",
+        "trackId": 1497465230,
+        "trackName": "Opal: Screen Time Control",
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/bf/app/opal-screen-time-control/id1497465230?uo=4",
+        "averageUserRating": 4.45833,
+        "bundleId": "com.withopal.opal",
+        "userRatingCount": 48,
+        "descriptionSHA256": "79545dcfd9d33edf53d3567fc6a6eb5b582561ed18b9d49245fbff4af0417656"
+      },
+      {
+        "kind": "software",
+        "artistName": "riedel.wtf apps S.L.",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "releaseDate": "2020-09-29T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "trackId": 1532875441,
+        "trackName": "one sec | screen time + focus",
+        "currentVersionReleaseDate": "2026-11-14T18:42:34Z",
+        "version": "6.1.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/bf/app/one-sec-screen-time-focus/id1532875441?uo=4",
+        "averageUserRating": 4.125,
+        "bundleId": "wtf.riedel.one-sec",
+        "userRatingCount": 8,
+        "descriptionSHA256": "7458286eeec2edf883eec2f9abc49582f9924be2e29f484b82b1014b4b2a0462"
+      },
+      {
+        "kind": "software",
+        "artistName": "Jomo",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "releaseDate": "2022-10-16T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "trackId": 1609960918,
+        "trackName": "Jomo - App Blocker & Focus",
+        "currentVersionReleaseDate": "2026-11-18T16:29:32Z",
+        "version": "2.1.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/bf/app/jomo-app-blocker-focus/id1609960918?uo=4",
+        "averageUserRating": 4.875,
+        "bundleId": "com.jomo.Jomo",
+        "userRatingCount": 8,
+        "descriptionSHA256": "1c3ac2d7f7c364ecfc9b0dc94651160ac123d989dbde44be1172ac15c9b753d8"
+      },
+      {
+        "kind": "software",
+        "artistName": "Deebex Tech Ltd.",
+        "genres": [
+          "Productivity"
+        ],
+        "price": 0.0,
+        "releaseDate": "2023-10-10T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "trackId": 6456942073,
+        "trackName": "App Blocker - Screen Time",
+        "currentVersionReleaseDate": "2026-08-13T00:04:05Z",
+        "version": "3.0.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/bf/app/app-blocker-screen-time/id6456942073?uo=4",
+        "averageUserRating": 0,
+        "bundleId": "com.idreamdesign.screen",
+        "userRatingCount": 0,
+        "descriptionSHA256": "97f0576b3c2db9b58153d327b549d41dd39cce7ace43d700c29f2becd85cf727"
+      },
+      {
+        "kind": "software",
+        "artistName": "Samet Macit",
+        "genres": [
+          "Productivity",
+          "Utilities"
+        ],
+        "price": 0.0,
+        "releaseDate": "2024-02-25T08:00:00Z",
+        "primaryGenreName": "Productivity",
+        "trackId": 6473087772,
+        "trackName": "Limit: Screen Time for Focus",
+        "currentVersionReleaseDate": "2026-10-27T11:38:50Z",
+        "version": "2.0.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/bf/app/limit-screen-time-for-focus/id6473087772?uo=4",
+        "averageUserRating": 0,
+        "bundleId": "net.29apps.limit",
+        "userRatingCount": 0,
+        "descriptionSHA256": "401598d7f6d4540d8b11181f46e748a1d8536c229c62589ffa9aa63d965ee952"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "048c2c01c15601be6acbb08188886f0563bd1eb962845120b9cdfd054858d55d",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

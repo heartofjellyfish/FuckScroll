@@ -1,0 +1,13 @@
+{
+  "id": "c1a73bd9-614e-488d-a80e-a6aa9dc15749",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"apps\" : [\n    {\n      \"appStoreId\" : \"6796709153\",\n      \"averageRating\" : 5,\n      \"bundleId\" : \"com.whittleapp.ios\",\n      \"developer\" : \"MUSTAFA EMIR\",\n      \"genre\" : \"Productivity\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple221\\/v4\\/60\\/b1\\/45\\/60b14501-463a-f2bd-65b2-88593b90c59a\\/AppIcon-0-0-1x_U007ephone-0-1-85-220.png\\/80x0w.webp\",\n      \"name\" : \"Whittle Less Screen Time\",\n      \"ranking\" : 1,\n      \"ratingCount\" : 2,\n      \"subtitle\" : \"Cut back on social media\"\n    },\n    {\n      \"appStoreId\" : \"6798716634\",\n      \"averageRating\" : 0,\n      \"bundleId\" : \"com.haloutongxue.offly\",\n      \"developer\" : \"Hangzhou Hello Classmate Network Technology Co., Ltd.\",\n      \"genre\" : \"Utilities\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple211\\/v4\\/64\\/29\\/4c\\/64294c9e-1bd3-ad60-21cd-dd424a06c524\\/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png\\/80x0w.webp\",\n      \"name\" : \"手机限时锁\",\n      \"ranking\" : 2,\n      \"ratingCount\" : 0,\n      \"subtitle\" : \"重新掌控你的时光\"\n    }\n  ],\n  \"keyword\" : \"telefonu az kullan\",\n  \"platform\" : \"iphone\",\n  \"store\" : \"tr\",\n  \"totalResults\" : 2\n}",
+        "type": "text"
+      }
+    ],
+    "isError": false
+  }
+}

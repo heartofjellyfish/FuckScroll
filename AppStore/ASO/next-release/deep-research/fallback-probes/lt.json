@@ -1,0 +1,125 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=app+blocker&country=lt&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "artistName": "Opal OS",
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "bundleId": "com.withopal.opal",
+        "primaryGenreName": "Productivity",
+        "trackId": 1497465230,
+        "trackName": "Opal: Screen Time Control",
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "averageUserRating": 4.68627,
+        "trackViewUrl": "https://apps.apple.com/lt/app/opal-screen-time-control/id1497465230?uo=4",
+        "price": 0.0,
+        "userRatingCount": 204,
+        "descriptionSHA256": "79545dcfd9d33edf53d3567fc6a6eb5b582561ed18b9d49245fbff4af0417656"
+      },
+      {
+        "kind": "software",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "artistName": "Labi, LLC",
+        "releaseDate": "2022-09-22T07:00:00Z",
+        "bundleId": "com.refocus.refocus",
+        "primaryGenreName": "Productivity",
+        "trackId": 1645639057,
+        "trackName": "Refocus: App Blocker & Lock",
+        "currentVersionReleaseDate": "2026-11-18T15:32:47Z",
+        "version": "2.2.11",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "averageUserRating": 4.8125,
+        "trackViewUrl": "https://apps.apple.com/lt/app/refocus-app-blocker-lock/id1645639057?uo=4",
+        "price": 0.0,
+        "userRatingCount": 32,
+        "descriptionSHA256": "31bd6049418a698d36c61b2eafbe2ca02a56d8aa24878c1963caa5895db876a1"
+      },
+      {
+        "kind": "software",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "artistName": "ScreenZen LLC",
+        "releaseDate": "2021-07-16T07:00:00Z",
+        "bundleId": "com.scottharvey.screenzenapp.ios",
+        "primaryGenreName": "Productivity",
+        "trackId": 1541027222,
+        "trackName": "ScreenZen- Screen Time Control",
+        "currentVersionReleaseDate": "2026-09-06T14:20:14Z",
+        "version": "4.0.0",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "averageUserRating": 4.83607,
+        "trackViewUrl": "https://apps.apple.com/lt/app/screenzen-screen-time-control/id1541027222?uo=4",
+        "price": 0.0,
+        "userRatingCount": 183,
+        "descriptionSHA256": "def0cb7cf41c8f7b1619d270d38fe8aa23859b81147ae63a1041bc0a1b7f8cc8"
+      },
+      {
+        "kind": "software",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "artistName": "MobileSoft s.r.o.",
+        "releaseDate": "2021-08-17T07:00:00Z",
+        "bundleId": "eu.mobilesoft.appblock",
+        "primaryGenreName": "Productivity",
+        "trackId": 1515753232,
+        "trackName": "AppBlock: App & Site Blocker",
+        "currentVersionReleaseDate": "2026-11-11T10:48:39Z",
+        "version": "4.14.1",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "averageUserRating": 4.34999,
+        "trackViewUrl": "https://apps.apple.com/lt/app/appblock-app-site-blocker/id1515753232?uo=4",
+        "price": 0.0,
+        "userRatingCount": 20,
+        "descriptionSHA256": "f4e2257d9c85cbaf9cd8496ddc82a9a5d41b2e0440020c527d8b3b8c4bbe4236"
+      },
+      {
+        "kind": "software",
+        "genres": [
+          "Productivity",
+          "Games",
+          "Simulation",
+          "Casual"
+        ],
+        "artistName": "Shikudo",
+        "releaseDate": "2019-09-02T07:00:00Z",
+        "bundleId": "com.shikudo.focus",
+        "primaryGenreName": "Productivity",
+        "trackId": 1459096306,
+        "trackName": "Focus Plant：forest app blocker",
+        "currentVersionReleaseDate": "2026-11-14T00:10:28Z",
+        "version": "4.6.3",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "averageUserRating": 4.79781,
+        "trackViewUrl": "https://apps.apple.com/lt/app/focus-plant-forest-app-blocker/id1459096306?uo=4",
+        "price": 0.0,
+        "userRatingCount": 183,
+        "descriptionSHA256": "fe05cd0e5d57fda1dd718d682f963e8ebc60dcf414c417b33b853ed6df9bd015"
+      }
+    ]
+  },
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "de5e10720a29957b69b7aeee7ac989d7a222c4bea0c1cf9e399d23e4779e9ef8",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

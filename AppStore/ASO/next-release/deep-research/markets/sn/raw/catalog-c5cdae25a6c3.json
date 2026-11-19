@@ -1,0 +1,124 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=bloqueur+d%27apps&country=sn&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/sn/app/callapp-caller-id-block/id6739289261?uo=4",
+        "averageUserRating": 4.44841,
+        "artistName": "CallApp",
+        "genres": [
+          "Utilities",
+          "Productivity"
+        ],
+        "price": 0.0,
+        "releaseDate": "2025-10-15T07:00:00Z",
+        "primaryGenreName": "Utilities",
+        "trackId": 6739289261,
+        "trackName": "CallApp: Caller ID & Block",
+        "currentVersionReleaseDate": "2026-11-16T06:52:43Z",
+        "version": "1.29",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.callapp.contacts",
+        "userRatingCount": 533,
+        "descriptionSHA256": "b7f2207593fc05fa4be803a7d37746e713c658cc1e610d9617c9f7f75c37b64c"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/sn/app/salahscreen-prayer-focus/id6748571304?uo=4",
+        "averageUserRating": 4.24224,
+        "artistName": "Rayane Sahi",
+        "genres": [
+          "Reference",
+          "Productivity"
+        ],
+        "price": 0.0,
+        "releaseDate": "2025-10-09T07:00:00Z",
+        "primaryGenreName": "Reference",
+        "trackId": 6748571304,
+        "trackName": "SalahScreen: Prayer Focus",
+        "currentVersionReleaseDate": "2026-09-02T14:13:01Z",
+        "version": "2.0.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "Zikr.SalahScreen",
+        "userRatingCount": 161,
+        "descriptionSHA256": "f480e39c00f75ad4ff40ceb47efb6b1c044e6849c1d15aab31a66b5a510b84e9"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/sn/app/stay-focused-limit-screen-time/id1658592224?uo=4",
+        "averageUserRating": 4.5,
+        "artistName": "INNOXAPPS LLP",
+        "genres": [
+          "Productivity",
+          "Utilities"
+        ],
+        "price": 0.0,
+        "releaseDate": "2023-01-26T08:00:00Z",
+        "primaryGenreName": "Productivity",
+        "trackId": 1658592224,
+        "trackName": "Stay Focused Limit Screen Time",
+        "currentVersionReleaseDate": "2026-10-01T19:56:32Z",
+        "version": "7.0.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.stayfocused",
+        "userRatingCount": 28,
+        "descriptionSHA256": "c6d9d0807b708d9300a29659be1fef96ca3c2eee1fb6dd681f38e56a946ce76c"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/sn/app/scrollr-app-blocker/id6811619023?uo=4",
+        "averageUserRating": 5,
+        "artistName": "Attila Meste",
+        "genres": [
+          "Productivity",
+          "Education"
+        ],
+        "price": 0.0,
+        "releaseDate": "2026-10-04T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "trackId": 6811619023,
+        "trackName": "Scrollr - App Blocker",
+        "currentVersionReleaseDate": "2026-11-18T00:40:52Z",
+        "version": "2.5",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.doomlingo.app",
+        "userRatingCount": 1,
+        "descriptionSHA256": "cd895924d4b880f12e9c4825819fc101e330977b7877a3c9ecfb30f94c1e3024"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/sn/app/sleeplock-sleep-app-blocker/id6770869892?uo=4",
+        "averageUserRating": 0,
+        "artistName": "Recep Sevim",
+        "genres": [
+          "Health & Fitness",
+          "Productivity"
+        ],
+        "price": 0.0,
+        "releaseDate": "2026-05-20T07:00:00Z",
+        "primaryGenreName": "Health & Fitness",
+        "trackId": 6770869892,
+        "trackName": "SleepLock: Sleep App Blocker",
+        "currentVersionReleaseDate": "2026-09-26T01:51:17Z",
+        "version": "1.1.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.meyvelikahve.sleepLock",
+        "userRatingCount": 0,
+        "descriptionSHA256": "1cd6b5dcab26ae7698460d7012a8551346ef79fe740a5904561891c30f850d11"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "6c87c901b6fc228d2f51f6aa37eaed5639add43a3c378c154fb6bf297c670169",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

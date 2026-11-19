@@ -1,0 +1,123 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=app+limits&country=mw&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "bundleId": "com.withopal.opal",
+        "price": 0.0,
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "artistName": "Opal OS",
+        "primaryGenreName": "Productivity",
+        "trackId": 1497465230,
+        "trackName": "Opal: Screen Time Control",
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 4.93333,
+        "trackViewUrl": "https://apps.apple.com/mw/app/opal-screen-time-control/id1497465230?uo=4",
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "userRatingCount": 15,
+        "descriptionSHA256": "79545dcfd9d33edf53d3567fc6a6eb5b582561ed18b9d49245fbff4af0417656"
+      },
+      {
+        "kind": "software",
+        "bundleId": "eu.mobilesoft.appblock",
+        "price": 0.0,
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "artistName": "MobileSoft s.r.o.",
+        "primaryGenreName": "Productivity",
+        "trackId": 1515753232,
+        "trackName": "AppBlock: App & Site Blocker",
+        "currentVersionReleaseDate": "2026-11-11T10:48:39Z",
+        "version": "4.14.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 4,
+        "trackViewUrl": "https://apps.apple.com/mw/app/appblock-app-site-blocker/id1515753232?uo=4",
+        "releaseDate": "2021-08-17T07:00:00Z",
+        "userRatingCount": 3,
+        "descriptionSHA256": "f4e2257d9c85cbaf9cd8496ddc82a9a5d41b2e0440020c527d8b3b8c4bbe4236"
+      },
+      {
+        "kind": "software",
+        "bundleId": "com.kidslox.main",
+        "price": 0.0,
+        "genres": [
+          "Lifestyle",
+          "Utilities"
+        ],
+        "artistName": "Kidslox Trading Ltd",
+        "primaryGenreName": "Lifestyle",
+        "trackId": 914825567,
+        "trackName": "Parental Control App - Kidslox",
+        "currentVersionReleaseDate": "2026-09-15T06:03:44Z",
+        "version": "11.3.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 5,
+        "trackViewUrl": "https://apps.apple.com/mw/app/parental-control-app-kidslox/id914825567?uo=4",
+        "releaseDate": "2014-09-23T23:23:11Z",
+        "userRatingCount": 1,
+        "descriptionSHA256": "d7539daf53bb81a1e94445145b66c140d46f513f2094f6b5fa099f8287fae953"
+      },
+      {
+        "kind": "software",
+        "bundleId": "com.kingsmen.lockdatamanager",
+        "price": 0.0,
+        "genres": [
+          "Utilities"
+        ],
+        "artistName": "KINGSMEN VIETNAM COMPANY LIMITED",
+        "primaryGenreName": "Utilities",
+        "trackId": 1616433953,
+        "trackName": "App Lock, Hide App & Lock Apps",
+        "currentVersionReleaseDate": "2022-11-09T19:44:17Z",
+        "version": "1.6",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 4.53333,
+        "trackViewUrl": "https://apps.apple.com/mw/app/app-lock-hide-app-lock-apps/id1616433953?uo=4",
+        "releaseDate": "2022-03-30T07:00:00Z",
+        "userRatingCount": 30,
+        "descriptionSHA256": "a9a10fab975dea91f7d622ac28f56cc89c7ac676e92e3c3e0d06fd1a1df131e8"
+      },
+      {
+        "kind": "software",
+        "bundleId": "com.mtn.nextgenapp",
+        "price": 0.0,
+        "genres": [
+          "Lifestyle",
+          "Utilities"
+        ],
+        "artistName": "MTN South Africa (Pty) LTD",
+        "primaryGenreName": "Lifestyle",
+        "trackId": 6478032901,
+        "trackName": "MTN App ZA",
+        "currentVersionReleaseDate": "2026-11-17T22:31:01Z",
+        "version": "1.22.46",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 4,
+        "trackViewUrl": "https://apps.apple.com/mw/app/mtn-app-za/id6478032901?uo=4",
+        "releaseDate": "2025-02-14T08:00:00Z",
+        "userRatingCount": 1,
+        "descriptionSHA256": "c0c36d0d7d1cadef51c8125b04cb306f76d7bcdd3d1f290247f368fb2f6b4f7b"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "5572d7a753ac1e308153d0456f7349087bc620bcbaaffccefc153759d190ddc3",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

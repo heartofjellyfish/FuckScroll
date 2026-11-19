@@ -1,0 +1,1846 @@
+{
+  "generatedAt": "2026-11-19T06:50:20.935545+00:00",
+  "state": "Draft only; no Apple writes or name reservation.",
+  "scope": "Existing 16 complete listings receive only name/subtitle/keyword edits. Additional locales are three-field drafts, not claims of translated UI or complete store assets.",
+  "localizations": {
+    "en-US": {
+      "name": "App Blocker – Duck on Duty",
+      "subtitle": "Screen Time Control & Focus",
+      "keywords": "scroll,social,media,limit,break,digital,detox,doomscrolling,distraction,habit,timer,self,reduce,stop",
+      "anchorStores": [
+        "us"
+      ],
+      "rationale": "保留用户选定的大类词 App Blocker。Focus 作为宽泛目标可在副标题出现，但不取代主要拦截功能。",
+      "evidence": [
+        {
+          "store": "us",
+          "status": "deep-astro-complete",
+          "metrics": 24,
+          "queries": 8,
+          "source": "deep-research/markets/us/research.json"
+        }
+      ],
+      "measuredEnglishAdditions": [],
+      "counts": {
+        "name": 26,
+        "subtitle": 27,
+        "keywords": 100
+      },
+      "scope": "同步已有完整物料",
+      "reviewState": "Prepared draft; language and brand review required before publishing. No registration/trademark clearance."
+    },
+    "en-GB": {
+      "name": "App Blocker – Duck on Duty",
+      "subtitle": "Screen Time Control & Focus",
+      "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+      "anchorStores": [
+        "gb",
+        "ie",
+        "nz",
+        "za",
+        "in"
+      ],
+      "rationale": "英国作为英语锚点，同时保留各共用国家的差异；不能为印度、爱尔兰和南非各写一份 en-GB。",
+      "evidence": [
+        {
+          "store": "gb",
+          "status": "deep-astro-complete",
+          "metrics": 24,
+          "queries": 8,
+          "source": "deep-research/markets/gb/research.json"
+        },
+        {
+          "store": "ie",
+          "status": "deep-astro-complete",
+          "metrics": 24,
+          "queries": 8,
+          "source": "deep-research/markets/ie/research.json"
+        },
+        {
+          "store": "nz",
+          "status": "deep-astro-complete",
+          "metrics": 24,
+          "queries": 8,
+          "source": "deep-research/markets/nz/research.json"
+        },
+        {
+          "store": "za",
+          "status": "deep-astro-complete",
+          "metrics": 24,
+          "queries": 8,
+          "source": "deep-research/markets/za/research.json"
+        },
+        {
+          "store": "in",
+          "status": "deep-astro-complete",
+          "metrics": 32,
+          "queries": 8,
+          "source": "deep-research/markets/in/research.json"
+        }
+      ],
+      "measuredEnglishAdditions": [],
+      "counts": {
+        "name": 26,
+        "subtitle": 27,
+        "keywords": 99
+      },
+      "scope": "同步已有完整物料",
+      "reviewState": "Prepared draft; language and brand review required before publishing. No registration/trademark clearance."
+    },
+    "en-AU": {
+      "name": "App Blocker – Duck on Duty",
+      "subtitle": "Screen Time Limits & Focus",
+      "keywords": "scroll,social,media,break,digital,detox,doomscrolling,distraction,timer,self,reduce,stop,control",
+      "anchorStores": [
+        "au",
+        "nz"
+      ],
+      "rationale": "澳洲 Screen Time Limit 28/38 比 Screen Time Control 9/48 更符合需求，因此副标题改为 Limits，control 留隐藏字段。与美区分别研究。",
+      "evidence": [
+        {
+          "store": "au",
+          "status": "deep-astro-complete",
+          "metrics": 24,
+          "queries": 8,
+          "source": "deep-research/markets/au/research.json"
+        },
+        {
+          "store": "nz",
+          "status": "deep-astro-complete",
+          "metrics": 24,
+          "queries": 8,
+          "source": "deep-research/markets/nz/research.json"
+        }
+      ],
+      "measuredEnglishAdditions": [],
+      "counts": {
+        "name": 26,
+        "subtitle": 26,
+        "keywords": 96
+      },
+      "scope": "同步已有完整物料",
+      "reviewState": "Prepared draft; language and brand review required before publishing. No registration/trademark clearance."
+    },
+    "en-CA": {
+      "name": "App Blocker – Duck on Duty",
+      "subtitle": "Screen Time Control & Focus",
+      "keywords": "scroll,social,media,limit,break,doomscrolling,distraction,habit,timer,self,reduce,stop,stay,focused",
+      "anchorStores": [
+        "ca"
+      ],
+      "rationale": "英语、法语候选在加拿大同一 storefront 分别查；不把英语指标当成魁北克独立搜索量。",
+      "evidence": [
+        {
+          "store": "ca",
+          "status": "deep-astro-complete",
+          "metrics": 32,
+          "queries": 8,
+          "source": "deep-research/markets/ca/research.json"
+        }
+      ],
+      "measuredEnglishAdditions": [],
+      "counts": {
+        "name": 26,
+        "subtitle": 27,
+        "keywords": 99
+      },
+      "scope": "同步已有完整物料",
+      "reviewState": "Prepared draft; language and brand review required before publishing. No registration/trademark clearance."
+    },
+    "zh-Hans": {
+      "name": "自觉鸭：戒手机与屏幕使用时间",
+      "subtitle": "少刷社交媒体，应用限时，到点休息",
+      "keywords": "app,blocker,screen,time,control,防沉迷,专注,自律,数字健康,定时,自控力",
+      "anchorStores": [
+        "cn",
+        "sg",
+        "my"
+      ],
+      "rationale": "中文品牌改为自觉鸭，读音呼应“自觉呀”，功能词也全部用中文。英语功能词留在隐藏字段，不强塞英文品牌。名称查无返回不等于已注册或商标获准。",
+      "evidence": [
+        {
+          "store": "cn",
+          "status": "deep-astro-complete",
+          "metrics": 26,
+          "queries": 8,
+          "source": "deep-research/markets/cn/research.json"
+        },
+        {
+          "store": "sg",
+          "status": "deep-astro-complete",
+          "metrics": 40,
+          "queries": 8,
+          "source": "deep-research/markets/sg/research.json"
+        },
+        {
+          "store": "my",
+          "status": "deep-astro-complete",
+          "metrics": 38,
+          "queries": 8,
+          "source": "deep-research/markets/my/research.json"
+        }
+      ],
+      "measuredEnglishAdditions": [],
+      "counts": {
+        "name": 14,
+        "subtitle": 16,
+        "keywords": 85
+      },
+      "scope": "同步已有完整物料",
+      "reviewState": "Prepared draft; language and brand review required before publishing. No registration/trademark clearance."
+    },
+    "zh-Hant": {
+      "name": "自覺鴨：戒手機與螢幕使用時間",
+      "subtitle": "少滑社群動態，應用限時，到點休息",
+      "keywords": "app,blocker,screen,time,control,專注,防沉迷,數位健康,自律",
+      "anchorStores": [
+        "tw",
+        "hk",
+        "mo"
+      ],
+      "rationale": "繁体品牌跟随同一只鸭子，句子采用“滑、社群”等当地表达；台湾、香港和澳门各自的数据保留，不把三地看成同一市场。",
+      "evidence": [
+        {
+          "store": "tw",
+          "status": "deep-astro-complete",
+          "metrics": 25,
+          "queries": 8,
+          "source": "deep-research/markets/tw/research.json"
+        },
+        {
+          "store": "hk",
+          "status": "deep-astro-complete",
+          "metrics": 29,
+          "queries": 8,
+          "source": "deep-research/markets/hk/research.json"
+        },
+        {
+          "store": "mo",
+          "status": "deep-astro-complete",
+          "metrics": 29,
+          "queries": 8,
+          "source": "deep-research/markets/mo/research.json"
+        }
+      ],
+      "measuredEnglishAdditions": [],
+      "counts": {
+        "name": 14,
+        "subtitle": 16,
+        "keywords": 68
+      },
+      "scope": "同步已有完整物料",
+      "reviewState": "Prepared draft; language and brand review required before publishing. No registration/trademark clearance."
+    },
+    "ja": {
+      "name": "スマホ制限 – みてるアヒル",
+      "subtitle": "スクリーンタイム管理、アプリごとに休憩",
+      "keywords": "スマホ依存,デジタルデトックス,集中,タイマー,SNS,screen,time,control,app,blocker",
+      "anchorStores": [
+        "jp"
+      ],
+      "rationale": "みてるアヒル是“看着呢”的口语角色，搭配用户熟悉的スマホ制限；不硬译 Duck on Duty。",
+      "evidence": [
+        {
+          "store": "jp",
+          "status": "deep-astro-complete",
+          "metrics": 24,
+          "queries": 8,
+          "source": "deep-research/markets/jp/research.json"
+        }
+      ],
+      "measuredEnglishAdditions": [
+        {
+          "query": "screen time control",
+          "addedTokens": [
+            "screen",
+            "time",
+            "control"
+          ],
+          "popularity": 44,
+          "difficulty": 23,
+          "store": "jp"
+        },
+        {
+          "query": "app blocker",
+          "addedTokens": [
+            "app",
+            "blocker"
+          ],
+          "popularity": 6,
+          "difficulty": 37,
+          "store": "jp"
+        }
+      ],
+      "counts": {
+        "name": 14,
+        "subtitle": 19,
+        "keywords": 99
+      },
+      "scope": "同步已有完整物料",
+      "reviewState": "Prepared draft; language and brand review required before publishing. No registration/trademark clearance."
+    },
+    "ko": {
+      "name": "스크린타임 – 지켜보는 오리",
+      "subtitle": "앱마다 사용 한도와 쉬는 시간을 따로",
+      "keywords": "앱차단,스마트폰중독,집중,타이머,디지털디톡스",
+      "anchorStores": [
+        "kr"
+      ],
+      "rationale": "지켜보는 오리是看着你的鸭子。排除密码锁／家长保护的误解，突出每个 App 各自使用与休息。",
+      "evidence": [
+        {
+          "store": "kr",
+          "status": "deep-astro-complete",
+          "metrics": 24,
+          "queries": 8,
+          "source": "deep-research/markets/kr/research.json"
+        }
+      ],
+      "measuredEnglishAdditions": [],
+      "counts": {
+        "name": 15,
+        "subtitle": 20,
+        "keywords": 64
+      },
+      "scope": "同步已有完整物料",
+      "reviewState": "Prepared draft; language and brand review required before publishing. No registration/trademark clearance."
+    },
+    "fr-FR": {
+      "name": "Screen Time – Canard de garde",
+      "subtitle": "Bloqueur d’apps, vraies pauses",
+      "keywords": "control,scroll,blocker,limite,concentration,minuteur,réseaux,sociaux,détox",
+      "anchorStores": [
+        "fr",
+        "be",
+        "ch",
+        "lu",
+        "ma",
+        "dz"
+      ],
+      "rationale": "Canard de garde 借用看门伙伴的语感。法国英语功能词与法语词实际比较；不因 concentration 更热就把番茄钟意图当本产品。",
+      "evidence": [
+        {
+          "store": "fr",
+          "status": "deep-astro-complete",
+          "metrics": 26,
+          "queries": 8,
+          "source": "deep-research/markets/fr/research.json"
+        },
+        {
+          "store": "be",
+          "status": "deep-astro-complete",
+          "metrics": 41,
+          "queries": 8,
+          "source": "deep-research/markets/be/research.json"
+        },
+        {
+          "store": "ch",
+          "status": "deep-astro-complete",
+          "metrics": 42,
+          "queries": 8,
+          "source": "deep-research/markets/ch/research.json"
+        },
+        {
+          "store": "lu",
+          "status": "deep-astro-complete",
+          "metrics": 37,
+          "queries": 8,
+          "source": "deep-research/markets/lu/research.json"
+        },
+        {
+          "store": "ma",
+          "status": "deep-astro-complete",
+          "metrics": 34,
+          "queries": 8,
+          "source": "deep-research/markets/ma/research.json"
+        },
+        {
+          "store": "dz",
+          "status": "deep-astro-complete",
+          "metrics": 34,
+          "queries": 8,
+          "source": "deep-research/markets/dz/research.json"
+        }
+      ],
+      "measuredEnglishAdditions": [],
+      "counts": {
+        "name": 29,
+        "subtitle": 30,
+        "keywords": 76
+      },
+      "scope": "同步已有完整物料",
+      "reviewState": "Prepared draft; language and brand review required before publishing. No registration/trademark clearance."
+    },
+    "fr-CA": {
+      "name": "App Blocker – Canard de garde",
+      "subtitle": "Temps d’écran, pauses imposées",
+      "keywords": "screen,time,control,scroll,limite,concentration,minuteur,réseaux,sociaux,détox,self,digital",
+      "anchorStores": [
+        "ca"
+      ],
+      "rationale": "保留加拿大高意图的 App Blocker 功能表达，角色名与副标题用自然法语。法国与加拿大分开研究。",
+      "evidence": [
+        {
+          "store": "ca",
+          "status": "deep-astro-complete",
+          "metrics": 32,
+          "queries": 8,
+          "source": "deep-research/markets/ca/research.json"
+        },
+        {
+          "store": "ca",
+          "study": "ca-fr",
+          "status": "deep-astro-complete",
+          "metrics": 30,
+          "queries": 8,
+          "source": "deep-research/language-studies/ca-fr/research.json"
+        }
+      ],
+      "measuredEnglishAdditions": [
+        {
+          "query": "self control",
+          "addedTokens": [
+            "self"
+          ],
+          "popularity": 22,
+          "difficulty": 13,
+          "store": "ca"
+        },
+        {
+          "query": "digital detox",
+          "addedTokens": [
+            "digital"
+          ],
+          "popularity": 7,
+          "difficulty": 21,
+          "store": "ca"
+        }
+      ],
+      "counts": {
+        "name": 29,
+        "subtitle": 30,
+        "keywords": 93
+      },
+      "scope": "同步已有完整物料",
+      "reviewState": "Prepared draft; language and brand review required before publishing. No registration/trademark clearance."
+    },
+    "de-DE": {
+      "name": "App Blocker – Ente im Dienst",
+      "subtitle": "Bildschirmzeit, feste Pausen",
+      "keywords": "fokus,timer,scrollen,handyzeit,sperren,digital,detox,limit,gewohnheit,screen,time,control",
+      "anchorStores": [
+        "de",
+        "at",
+        "ch",
+        "lu"
+      ],
+      "rationale": "Ente im Dienst 是德语角色名；App Blocker 在德语同类中是常见表达，和原生 Bildschirmzeit 一起覆盖。密码保护词不做功能承诺。",
+      "evidence": [
+        {
+          "store": "de",
+          "status": "deep-astro-complete",
+          "metrics": 26,
+          "queries": 8,
+          "source": "deep-research/markets/de/research.json"
+        },
+        {
+          "store": "at",
+          "status": "deep-astro-complete",
+          "metrics": 26,
+          "queries": 8,
+          "source": "deep-research/markets/at/research.json"
+        },
+        {
+          "store": "ch",
+          "status": "deep-astro-complete",
+          "metrics": 42,
+          "queries": 8,
+          "source": "deep-research/markets/ch/research.json"
+        },
+        {
+          "store": "lu",
+          "status": "deep-astro-complete",
+          "metrics": 37,
+          "queries": 8,
+          "source": "deep-research/markets/lu/research.json"
+        }
+      ],
+      "measuredEnglishAdditions": [
+        {
+          "query": "screen time",
+          "addedTokens": [
+            "screen",
+            "time"
+          ],
+          "popularity": 42,
+          "difficulty": 45,
+          "store": "de"
+        },
+        {
+          "query": "screen time control",
+          "addedTokens": [
+            "control"
+          ],
+          "popularity": 41,
+          "difficulty": 47,
+          "store": "de"
+        }
+      ],
+      "counts": {
+        "name": 28,
+        "subtitle": 28,
+        "keywords": 89
+      },
+      "scope": "同步已有完整物料",
+      "reviewState": "Prepared draft; language and brand review required before publishing. No registration/trademark clearance."
+    },
+    "es-ES": {
+      "name": "Bloquear aplicaciones – Pato",
+      "subtitle": "Tiempo de pantalla y descansos",
+      "keywords": "concentración,temporizador,redes,sociales,hábitos,pausa,app,blocker,screen,time,control",
+      "anchorStores": [
+        "es"
+      ],
+      "rationale": "以西班牙实际搜索表达选择功能词；Pato 是本地鸭子名，不保留英文后缀。避免用 contraseña／隐私锁吸引错误人群。",
+      "evidence": [
+        {
+          "store": "es",
+          "status": "deep-astro-complete",
+          "metrics": 34,
+          "queries": 8,
+          "source": "deep-research/markets/es/research.json"
+        }
+      ],
+      "measuredEnglishAdditions": [
+        {
+          "query": "screen time",
+          "addedTokens": [
+            "screen",
+            "time"
+          ],
+          "popularity": 35,
+          "difficulty": 23,
+          "store": "es"
+        },
+        {
+          "query": "screen time control",
+          "addedTokens": [
+            "control"
+          ],
+          "popularity": 29,
+          "difficulty": 39,
+          "store": "es"
+        }
+      ],
+      "counts": {
+        "name": 28,
+        "subtitle": 30,
+        "keywords": 89
+      },
+      "scope": "同步已有完整物料",
+      "reviewState": "Prepared draft; language and brand review required before publishing. No registration/trademark clearance."
+    },
+    "es-MX": {
+      "name": "Tiempo en pantalla – Pato",
+      "subtitle": "Bloquear aplicaciones y pausar",
+      "keywords": "límites,concentración,temporizador,redes,sociales,descanso,app,blocker,screen,time,control",
+      "anchorStores": [
+        "mx",
+        "ar",
+        "cl",
+        "co",
+        "pe"
+      ],
+      "rationale": "拉美多个国家共用西语字段，显式比较 pantalla／celular 等习惯；不能按国家独立发布同一 es-MX。",
+      "evidence": [
+        {
+          "store": "mx",
+          "status": "deep-astro-complete",
+          "metrics": 26,
+          "queries": 8,
+          "source": "deep-research/markets/mx/research.json"
+        },
+        {
+          "store": "ar",
+          "status": "deep-astro-complete",
+          "metrics": 26,
+          "queries": 8,
+          "source": "deep-research/markets/ar/research.json"
+        },
+        {
+          "store": "cl",
+          "status": "deep-astro-complete",
+          "metrics": 26,
+          "queries": 8,
+          "source": "deep-research/markets/cl/research.json"
+        },
+        {
+          "store": "co",
+          "status": "deep-astro-complete",
+          "metrics": 26,
+          "queries": 8,
+          "source": "deep-research/markets/co/research.json"
+        },
+        {
+          "store": "pe",
+          "status": "deep-astro-complete",
+          "metrics": 26,
+          "queries": 8,
+          "source": "deep-research/markets/pe/research.json"
+        }
+      ],
+      "measuredEnglishAdditions": [
+        {
+          "query": "screen time control",
+          "addedTokens": [
+            "screen",
+            "time",
+            "control"
+          ],
+          "popularity": 34,
+          "difficulty": 21,
+          "store": "mx"
+        }
+      ],
+      "counts": {
+        "name": 25,
+        "subtitle": 30,
+        "keywords": 92
+      },
+      "scope": "同步已有完整物料",
+      "reviewState": "Prepared draft; language and brand review required before publishing. No registration/trademark clearance."
+    },
+    "it": {
+      "name": "Tempo di utilizzo – Papero",
+      "subtitle": "Limiti app, pause obbligatorie",
+      "keywords": "concentrazione,timer,digitale,detox,scroll,abitudini,bloccare,screen,time,blocker,control,digital",
+      "anchorStores": [
+        "it",
+        "ch"
+      ],
+      "rationale": "本地功能表达与英语候选在该国比较后再确定；角色名也本地化。不是美区字段的直接翻译。",
+      "evidence": [
+        {
+          "store": "it",
+          "status": "deep-astro-complete",
+          "metrics": 26,
+          "queries": 8,
+          "source": "deep-research/markets/it/research.json"
+        },
+        {
+          "store": "ch",
+          "status": "deep-astro-complete",
+          "metrics": 42,
+          "queries": 8,
+          "source": "deep-research/markets/ch/research.json"
+        }
+      ],
+      "measuredEnglishAdditions": [
+        {
+          "query": "screen time",
+          "addedTokens": [
+            "screen",
+            "time"
+          ],
+          "popularity": 37,
+          "difficulty": 39,
+          "store": "ch"
+        },
+        {
+          "query": "app blocker",
+          "addedTokens": [
+            "blocker"
+          ],
+          "popularity": 35,
+          "difficulty": 39,
+          "store": "ch"
+        },
+        {
+          "query": "screen time control",
+          "addedTokens": [
+            "control"
+          ],
+          "popularity": 33,
+          "difficulty": 21,
+          "store": "ch"
+        },
+        {
+          "query": "digital detox",
+          "addedTokens": [
+            "digital"
+          ],
+          "popularity": 23,
+          "difficulty": 38,
+          "store": "it"
+        }
+      ],
+      "counts": {
+        "name": 26,
+        "subtitle": 30,
+        "keywords": 97
+      },
+      "scope": "同步已有完整物料",
+      "reviewState": "Prepared draft; language and brand review required before publishing. No registration/trademark clearance."
+    },
+    "pt-BR": {
+      "name": "Tempo de Tela: Pato de Plantão",
+      "subtitle": "Bloqueie apps e faça pausas",
+      "keywords": "limite,foco,celular,redes,sociais,digital,detox,cronômetro,hábito,screen,time,control,blocker",
+      "anchorStores": [
+        "br"
+      ],
+      "rationale": "Pato de Plantão 是巴西“值班鸭”的口语角色；tela／celular 按巴西习惯写。",
+      "evidence": [
+        {
+          "store": "br",
+          "status": "deep-astro-complete",
+          "metrics": 26,
+          "queries": 8,
+          "source": "deep-research/markets/br/research.json"
+        }
+      ],
+      "measuredEnglishAdditions": [
+        {
+          "query": "screen time control",
+          "addedTokens": [
+            "screen",
+            "time",
+            "control"
+          ],
+          "popularity": 33,
+          "difficulty": 17,
+          "store": "br"
+        },
+        {
+          "query": "app blocker",
+          "addedTokens": [
+            "blocker"
+          ],
+          "popularity": 6,
+          "difficulty": 37,
+          "store": "br"
+        }
+      ],
+      "counts": {
+        "name": 30,
+        "subtitle": 27,
+        "keywords": 95
+      },
+      "scope": "同步已有完整物料",
+      "reviewState": "Prepared draft; language and brand review required before publishing. No registration/trademark clearance."
+    },
+    "pt-PT": {
+      "name": "Screen Time – Pato de Vigia",
+      "subtitle": "Limites de apps e pausas",
+      "keywords": "ecrã,control,blocker,telemóvel,foco,bloquear,redes,sociais,detox",
+      "anchorStores": [
+        "pt"
+      ],
+      "rationale": "葡萄牙角色用 Pato de Vigia，副标题与关键词保留 ecrã／telemóvel。原生核心词仅低信号 5，英语 Screen Time 29/17 更有依据，因此功能主词采用当地实际搜索的英语，品牌不留英文后缀。",
+      "evidence": [
+        {
+          "store": "pt",
+          "status": "deep-astro-complete",
+          "metrics": 26,
+          "queries": 8,
+          "source": "deep-research/markets/pt/research.json"
+        }
+      ],
+      "measuredEnglishAdditions": [],
+      "counts": {
+        "name": 27,
+        "subtitle": 24,
+        "keywords": 66
+      },
+      "scope": "同步已有完整物料",
+      "reviewState": "Prepared draft; language and brand review required before publishing. No registration/trademark clearance."
+    },
+    "nl-NL": {
+      "name": "Schermtijd – Eend op wacht",
+      "subtitle": "App Blocker met vaste pauzes",
+      "keywords": "limiet,focus,scrollen,sociale,media,digitale,detox,timer,afleiding,gebruik,screen,time,control",
+      "anchorStores": [
+        "nl",
+        "be"
+      ],
+      "rationale": "Schermtijd 是原生核心词，Eend op wacht 是自然的看守鸭角色；不是把美区标题逐字翻译。",
+      "evidence": [
+        {
+          "store": "nl",
+          "status": "deep-astro-complete",
+          "metrics": 26,
+          "queries": 8,
+          "source": "deep-research/markets/nl/research.json"
+        },
+        {
+          "store": "be",
+          "status": "deep-astro-complete",
+          "metrics": 41,
+          "queries": 8,
+          "source": "deep-research/markets/be/research.json"
+        }
+      ],
+      "measuredEnglishAdditions": [
+        {
+          "query": "screen time",
+          "addedTokens": [
+            "screen",
+            "time"
+          ],
+          "popularity": 40,
+          "difficulty": 46,
+          "store": "nl"
+        },
+        {
+          "query": "screen time control",
+          "addedTokens": [
+            "control"
+          ],
+          "popularity": 33,
+          "difficulty": 40,
+          "store": "be"
+        }
+      ],
+      "counts": {
+        "name": 26,
+        "subtitle": 28,
+        "keywords": 94
+      },
+      "scope": "三字段扩展草案；没有新增 App 内语言或完整商店资产",
+      "reviewState": "Prepared draft; language and brand review required before publishing. No registration/trademark clearance."
+    },
+    "ru": {
+      "name": "Экранное время – Утка на посту",
+      "subtitle": "Лимиты приложений и перерывы",
+      "keywords": "фокус,пауза,таймер,ограничение,screen,time,control,app,blocker",
+      "anchorStores": [
+        "ru",
+        "kz",
+        "kg",
+        "ua"
+      ],
+      "rationale": "Утка на посту 是俄语“鸭子在岗”。блокировка приложений 47/13 虽好看，前五四款偏密码锁；主名仍选 экранное время 49/17，隐藏字段也去掉含混锁词。",
+      "evidence": [
+        {
+          "store": "ru",
+          "status": "deep-astro-complete",
+          "metrics": 26,
+          "queries": 8,
+          "source": "deep-research/markets/ru/research.json"
+        },
+        {
+          "store": "kz",
+          "status": "deep-astro-complete",
+          "metrics": 30,
+          "queries": 8,
+          "source": "deep-research/markets/kz/research.json"
+        },
+        {
+          "store": "kg",
+          "status": "deep-astro-complete",
+          "metrics": 30,
+          "queries": 8,
+          "source": "deep-research/markets/kg/research.json"
+        },
+        {
+          "store": "ua",
+          "status": "deep-astro-complete",
+          "metrics": 38,
+          "queries": 8,
+          "source": "deep-research/markets/ua/research.json"
+        }
+      ],
+      "measuredEnglishAdditions": [
+        {
+          "query": "screen time control",
+          "addedTokens": [
+            "screen",
+            "time",
+            "control"
+          ],
+          "popularity": 38,
+          "difficulty": 13,
+          "store": "kz"
+        },
+        {
+          "query": "app blocker",
+          "addedTokens": [
+            "app",
+            "blocker"
+          ],
+          "popularity": 27,
+          "difficulty": 19,
+          "store": "kz"
+        }
+      ],
+      "counts": {
+        "name": 30,
+        "subtitle": 28,
+        "keywords": 89
+      },
+      "scope": "三字段扩展草案；没有新增 App 内语言或完整商店资产",
+      "reviewState": "Prepared draft; language and brand review required before publishing. No registration/trademark clearance."
+    },
+    "sv": {
+      "name": "Screen Time – Anka på vakt",
+      "subtitle": "App Blocker, skärmtid & pauser",
+      "keywords": "fokus,scrolla,sociala,medier,digital,detox,timer,vanor,begränsa,control",
+      "anchorStores": [
+        "se"
+      ],
+      "rationale": "本地角色 Anka på vakt；补查 Screen Time 38/23 同时比 App Blocker 34/38 更热且更低难度，调整主标题，后者移到副标题。",
+      "evidence": [
+        {
+          "store": "se",
+          "status": "deep-astro-complete",
+          "metrics": 26,
+          "queries": 8,
+          "source": "deep-research/markets/se/research.json"
+        }
+      ],
+      "measuredEnglishAdditions": [
+        {
+          "query": "screen time control",
+          "addedTokens": [
+            "control"
+          ],
+          "popularity": 34,
+          "difficulty": 23,
+          "store": "se"
+        }
+      ],
+      "counts": {
+        "name": 26,
+        "subtitle": 30,
+        "keywords": 72
+      },
+      "scope": "三字段扩展草案；没有新增 App 内语言或完整商店资产",
+      "reviewState": "Prepared draft; language and brand review required before publishing. No registration/trademark clearance."
+    },
+    "ar-SA": {
+      "name": "Screen Time – بطّة الحراسة",
+      "subtitle": "حظر التطبيقات واستراحات",
+      "keywords": "وقت الشاشة,تركيز,حدود,مؤقت,app,blocker,control",
+      "anchorStores": [
+        "sa",
+        "ae",
+        "eg",
+        "iq",
+        "jo",
+        "kw",
+        "qa",
+        "om",
+        "bh"
+      ],
+      "rationale": "品牌改为阿拉伯语“看守鸭”，副标题也用阿拉伯语。沙特 قفل التطبيقات 57/21 的前五全偏密码锁；功能主词选更符合用途的 Screen Time 38/21，原生 وقت الشاشة 只作补充，不伪称高热度。",
+      "evidence": [
+        {
+          "store": "sa",
+          "status": "deep-astro-complete",
+          "metrics": 30,
+          "queries": 8,
+          "source": "deep-research/markets/sa/research.json"
+        },
+        {
+          "store": "ae",
+          "status": "deep-astro-complete",
+          "metrics": 30,
+          "queries": 8,
+          "source": "deep-research/markets/ae/research.json"
+        },
+        {
+          "store": "eg",
+          "status": "deep-astro-complete",
+          "metrics": 30,
+          "queries": 8,
+          "source": "deep-research/markets/eg/research.json"
+        },
+        {
+          "store": "iq",
+          "status": "deep-astro-complete",
+          "metrics": 30,
+          "queries": 8,
+          "source": "deep-research/markets/iq/research.json"
+        },
+        {
+          "store": "jo",
+          "status": "deep-astro-complete",
+          "metrics": 30,
+          "queries": 8,
+          "source": "deep-research/markets/jo/research.json"
+        },
+        {
+          "store": "kw",
+          "status": "deep-astro-complete",
+          "metrics": 30,
+          "queries": 8,
+          "source": "deep-research/markets/kw/research.json"
+        },
+        {
+          "store": "qa",
+          "status": "deep-astro-complete",
+          "metrics": 30,
+          "queries": 8,
+          "source": "deep-research/markets/qa/research.json"
+        },
+        {
+          "store": "om",
+          "status": "deep-astro-complete",
+          "metrics": 30,
+          "queries": 8,
+          "source": "deep-research/markets/om/research.json"
+        },
+        {
+          "store": "bh",
+          "status": "deep-astro-complete",
+          "metrics": 30,
+          "queries": 8,
+          "source": "deep-research/markets/bh/research.json"
+        }
+      ],
+      "measuredEnglishAdditions": [
+        {
+          "query": "screen time control",
+          "addedTokens": [
+            "control"
+          ],
+          "popularity": 36,
+          "difficulty": 34,
+          "store": "eg"
+        }
+      ],
+      "counts": {
+        "name": 26,
+        "subtitle": 23,
+        "keywords": 68
+      },
+      "scope": "三字段扩展草案；没有新增 App 内语言或完整商店资产",
+      "reviewState": "Prepared draft; language and brand review required before publishing. No registration/trademark clearance."
+    },
+    "tr": {
+      "name": "Ekran Süresi – Nöbetçi Ördek",
+      "subtitle": "Uygulama sınırları ve molalar",
+      "keywords": "engelleme,odak,dijital,detoks,telefon,bağımlılık,app,blocker,screen,time,control",
+      "anchorStores": [
+        "tr",
+        "cy"
+      ],
+      "rationale": "Nöbetçi Ördek 是本地值班鸭。Ekran süresi 39/11 是明确的原生核心词；不追家长控制 52/38。",
+      "evidence": [
+        {
+          "store": "tr",
+          "status": "deep-astro-complete",
+          "metrics": 30,
+          "queries": 8,
+          "source": "deep-research/markets/tr/research.json"
+        },
+        {
+          "store": "cy",
+          "status": "deep-astro-complete",
+          "metrics": 30,
+          "queries": 8,
+          "source": "deep-research/markets/cy/research.json"
+        }
+      ],
+      "measuredEnglishAdditions": [
+        {
+          "query": "screen time control",
+          "addedTokens": [
+            "screen",
+            "time",
+            "control"
+          ],
+          "popularity": 39,
+          "difficulty": 19,
+          "store": "tr"
+        }
+      ],
+      "counts": {
+        "name": 28,
+        "subtitle": 29,
+        "keywords": 84
+      },
+      "scope": "三字段扩展草案；没有新增 App 内语言或完整商店资产",
+      "reviewState": "Prepared draft; language and brand review required before publishing. No registration/trademark clearance."
+    },
+    "hi": {
+      "name": "Screen Time – पहरेदार बत्तख",
+      "subtitle": "ऐप की सीमा और फोन से ब्रेक",
+      "keywords": "app,blocker,focus,digital,detox,लत,स्क्रीन टाइम,control,scroll",
+      "anchorStores": [
+        "in"
+      ],
+      "rationale": "角色名和副标题用印地语。完整专项中原生／音译功能词低信号，印度英语 Screen Time 40/42 更有依据，放主名；不把英语分数冒充印地语热度。",
+      "evidence": [
+        {
+          "store": "in",
+          "status": "deep-astro-complete",
+          "metrics": 32,
+          "queries": 8,
+          "source": "deep-research/markets/in/research.json"
+        },
+        {
+          "store": "in",
+          "study": "in-hi",
+          "status": "deep-astro-complete",
+          "metrics": 28,
+          "queries": 8,
+          "source": "deep-research/language-studies/in-hi/research.json"
+        }
+      ],
+      "measuredEnglishAdditions": [
+        {
+          "query": "screen time control",
+          "addedTokens": [
+            "control"
+          ],
+          "popularity": 38,
+          "difficulty": 52,
+          "store": "in"
+        },
+        {
+          "query": "scroll blocker",
+          "addedTokens": [
+            "scroll"
+          ],
+          "popularity": 23,
+          "difficulty": 15,
+          "store": "in"
+        }
+      ],
+      "counts": {
+        "name": 27,
+        "subtitle": 26,
+        "keywords": 88
+      },
+      "scope": "三字段扩展草案；没有新增 App 内语言或完整商店资产",
+      "reviewState": "Prepared draft; language and brand review required before publishing. No registration/trademark clearance."
+    },
+    "id": {
+      "name": "Screen Time Control – Bebek",
+      "subtitle": "Batasi aplikasi. Istirahat.",
+      "keywords": "layar,fokus,kecanduan,ponsel,sosial,media,detoks,digital,app,blocker",
+      "anchorStores": [
+        "id"
+      ],
+      "rationale": "Bebek 是当地鸭子名。印尼英语 Screen Time Control 38/17 比原生候选更有依据，完整放主名；副标题用当地语言说限制 App、休息。排除更热但偏密码锁的 kunci aplikasi。",
+      "evidence": [
+        {
+          "store": "id",
+          "status": "deep-astro-complete",
+          "metrics": 30,
+          "queries": 8,
+          "source": "deep-research/markets/id/research.json"
+        }
+      ],
+      "measuredEnglishAdditions": [
+        {
+          "query": "app blocker",
+          "addedTokens": [
+            "app",
+            "blocker"
+          ],
+          "popularity": 32,
+          "difficulty": 19,
+          "store": "id"
+        }
+      ],
+      "counts": {
+        "name": 27,
+        "subtitle": 27,
+        "keywords": 68
+      },
+      "scope": "三字段扩展草案；没有新增 App 内语言或完整商店资产",
+      "reviewState": "Prepared draft; language and brand review required before publishing. No registration/trademark clearance."
+    },
+    "ms": {
+      "name": "App Blocker – Itik Bertugas",
+      "subtitle": "Had aplikasi dan rehat wajib",
+      "keywords": "masa,skrin,fokus,sekat,telefon,ketagihan,sosial,media,detoks,digital,screen,time,control",
+      "anchorStores": [
+        "my"
+      ],
+      "rationale": "Itik Bertugas 为马来语角色。马来西亚 App Blocker 33/17 适合主名；Screen Time 32/23 由字段协调覆盖。原生功能词低信号，不靠翻译制造流量结论；不写家长控制。",
+      "evidence": [
+        {
+          "store": "my",
+          "status": "deep-astro-complete",
+          "metrics": 38,
+          "queries": 8,
+          "source": "deep-research/markets/my/research.json"
+        }
+      ],
+      "measuredEnglishAdditions": [
+        {
+          "query": "screen time control",
+          "addedTokens": [
+            "screen",
+            "time",
+            "control"
+          ],
+          "popularity": 32,
+          "difficulty": 19,
+          "store": "my"
+        }
+      ],
+      "counts": {
+        "name": 27,
+        "subtitle": 28,
+        "keywords": 88
+      },
+      "scope": "三字段扩展草案；没有新增 App 内语言或完整商店资产",
+      "reviewState": "Prepared draft; language and brand review required before publishing. No registration/trademark clearance."
+    },
+    "th": {
+      "name": "Screen Time – เป็ดคุมเวลา",
+      "subtitle": "จำกัดแอป แล้วพักมือถือ",
+      "keywords": "เวลาหน้าจอ,บล็อก,ติดมือถือ,app,blocker",
+      "anchorStores": [
+        "th"
+      ],
+      "rationale": "เป็ดคุมเวลา 是“管时间的鸭子”。当地应用锁 37/11 偏隐私，สมาธิ 32/15 偏冥想／专注；选择相关的 Screen Time 32/19，角色名、副标题及补充词用泰语。",
+      "evidence": [
+        {
+          "store": "th",
+          "status": "deep-astro-complete",
+          "metrics": 30,
+          "queries": 8,
+          "source": "deep-research/markets/th/research.json"
+        }
+      ],
+      "measuredEnglishAdditions": [],
+      "counts": {
+        "name": 25,
+        "subtitle": 22,
+        "keywords": 86
+      },
+      "scope": "三字段扩展草案；没有新增 App 内语言或完整商店资产",
+      "reviewState": "Prepared draft; language and brand review required before publishing. No registration/trademark clearance."
+    },
+    "vi": {
+      "name": "Screen Time – Vịt canh giờ",
+      "subtitle": "Giới hạn ứng dụng, nghỉ ngơi",
+      "keywords": "màn hình,thời gian,tập trung,app,blocker,control",
+      "anchorStores": [
+        "vn"
+      ],
+      "rationale": "Vịt canh giờ 是看时间的鸭子。当地英语 Screen Time 37/40 有信号，放主名；副标题自然表达限 App、休息，Control 22/17 由隐藏字段覆盖。原生低信号不当作量化胜出。",
+      "evidence": [
+        {
+          "store": "vn",
+          "status": "deep-astro-complete",
+          "metrics": 30,
+          "queries": 8,
+          "source": "deep-research/markets/vn/research.json"
+        }
+      ],
+      "measuredEnglishAdditions": [
+        {
+          "query": "screen time control",
+          "addedTokens": [
+            "control"
+          ],
+          "popularity": 22,
+          "difficulty": 17,
+          "store": "vn"
+        }
+      ],
+      "counts": {
+        "name": 26,
+        "subtitle": 28,
+        "keywords": 54
+      },
+      "scope": "三字段扩展草案；没有新增 App 内语言或完整商店资产",
+      "reviewState": "Prepared draft; language and brand review required before publishing. No registration/trademark clearance."
+    },
+    "pl": {
+      "name": "Czas przed ekranem – Kaczka",
+      "subtitle": "Blokuj aplikacje, rób przerwy",
+      "keywords": "limit,skupienie,telefon,detoks,cyfrowy,scroll,app,blocker,screen,time,control",
+      "anchorStores": [
+        "pl"
+      ],
+      "rationale": "波兰 blokada aplikacji 44/13 混有密码锁与番茄钟；改用 czas przed ekranem 36/13，前五更贴合限时功能。副标题自然表达拦应用与休息；不因热度较高就追错意图。",
+      "evidence": [
+        {
+          "store": "pl",
+          "status": "deep-astro-complete",
+          "metrics": 30,
+          "queries": 8,
+          "source": "deep-research/markets/pl/research.json"
+        }
+      ],
+      "measuredEnglishAdditions": [
+        {
+          "query": "screen time",
+          "addedTokens": [
+            "screen",
+            "time"
+          ],
+          "popularity": 39,
+          "difficulty": 23,
+          "store": "pl"
+        },
+        {
+          "query": "screen time control",
+          "addedTokens": [
+            "control"
+          ],
+          "popularity": 33,
+          "difficulty": 40,
+          "store": "pl"
+        }
+      ],
+      "counts": {
+        "name": 27,
+        "subtitle": 29,
+        "keywords": 77
+      },
+      "scope": "三字段扩展草案；没有新增 App 内语言或完整商店资产",
+      "reviewState": "Prepared draft; language and brand review required before publishing. No registration/trademark clearance."
+    },
+    "cs": {
+      "name": "Screen Time – Kachna",
+      "subtitle": "Blokování aplikací a přestávky",
+      "keywords": "čas,obrazovka,limit,soustředění,telefon,detox,digitální,app,blocker,control",
+      "anchorStores": [
+        "cz"
+      ],
+      "rationale": "Kachna 是本地鸭子。捷克原生功能词信号低，主名选本国有依据的 Screen Time 35/23；副标题及辅助词用捷克语，App Blocker 32/23 由隐藏字段覆盖。",
+      "evidence": [
+        {
+          "store": "cz",
+          "status": "deep-astro-complete",
+          "metrics": 30,
+          "queries": 8,
+          "source": "deep-research/markets/cz/research.json"
+        }
+      ],
+      "measuredEnglishAdditions": [
+        {
+          "query": "screen time control",
+          "addedTokens": [
+            "control"
+          ],
+          "popularity": 29,
+          "difficulty": 21,
+          "store": "cz"
+        }
+      ],
+      "counts": {
+        "name": 20,
+        "subtitle": 30,
+        "keywords": 81
+      },
+      "scope": "三字段扩展草案；没有新增 App 内语言或完整商店资产",
+      "reviewState": "Prepared draft; language and brand review required before publishing. No registration/trademark clearance."
+    },
+    "da": {
+      "name": "Skærmtid – And på vagt",
+      "subtitle": "Bloker apps. Hold en pause.",
+      "keywords": "fokus,mobil,afhængighed,grænser,digital,detox,timer,screen,time,blocker,control",
+      "anchorStores": [
+        "dk"
+      ],
+      "rationale": "丹麦原生 skærmtid 39/13 与英文 App Blocker 39/19 热度相同、难度更低，适合前置；角色 And på vagt，副标题是自然短句。",
+      "evidence": [
+        {
+          "store": "dk",
+          "status": "deep-astro-complete",
+          "metrics": 29,
+          "queries": 8,
+          "source": "deep-research/markets/dk/research.json"
+        }
+      ],
+      "measuredEnglishAdditions": [
+        {
+          "query": "screen time control",
+          "addedTokens": [
+            "control"
+          ],
+          "popularity": 28,
+          "difficulty": 17,
+          "store": "dk"
+        }
+      ],
+      "counts": {
+        "name": 22,
+        "subtitle": 27,
+        "keywords": 81
+      },
+      "scope": "三字段扩展草案；没有新增 App 内语言或完整商店资产",
+      "reviewState": "Prepared draft; language and brand review required before publishing. No registration/trademark clearance."
+    },
+    "fi": {
+      "name": "Ruutuaika – Vahtiankka",
+      "subtitle": "Sovellusrajat ja tauot",
+      "keywords": "esto,keskittyminen,puhelin,digipaasto,ajastin,app,blocker,screen,time,control",
+      "anchorStores": [
+        "fi"
+      ],
+      "rationale": "Ruutuaika 33/19 与英文 Screen Time 37/19 都相关，原生名便于理解，英语由隐藏字段覆盖。Vahtiankka 是角色候选，不把 lapsilukko 童锁功能照搬过来。",
+      "evidence": [
+        {
+          "store": "fi",
+          "status": "deep-astro-complete",
+          "metrics": 30,
+          "queries": 8,
+          "source": "deep-research/markets/fi/research.json"
+        }
+      ],
+      "measuredEnglishAdditions": [
+        {
+          "query": "screen time control",
+          "addedTokens": [
+            "control"
+          ],
+          "popularity": 31,
+          "difficulty": 15,
+          "store": "fi"
+        }
+      ],
+      "counts": {
+        "name": 22,
+        "subtitle": 22,
+        "keywords": 77
+      },
+      "scope": "三字段扩展草案；没有新增 App 内语言或完整商店资产",
+      "reviewState": "Prepared draft; language and brand review required before publishing. No registration/trademark clearance."
+    },
+    "no": {
+      "name": "Skjermtid – And på vakt",
+      "subtitle": "Blokker apper. Ta en pause.",
+      "keywords": "fokus,mobil,avhengighet,grenser,digital,detox,timer,screen,time,blocker,app,control",
+      "anchorStores": [
+        "no"
+      ],
+      "rationale": "挪威 skjermtid 36/23 是明确核心词，角色 And på vakt；与英文 Screen Time 34/17 一起覆盖，不追 foreldrekontroll 家长控制。",
+      "evidence": [
+        {
+          "store": "no",
+          "status": "deep-astro-complete",
+          "metrics": 30,
+          "queries": 8,
+          "source": "deep-research/markets/no/research.json"
+        }
+      ],
+      "measuredEnglishAdditions": [
+        {
+          "query": "app blocker",
+          "addedTokens": [
+            "app"
+          ],
+          "popularity": 29,
+          "difficulty": 15,
+          "store": "no"
+        },
+        {
+          "query": "screen time control",
+          "addedTokens": [
+            "control"
+          ],
+          "popularity": 28,
+          "difficulty": 17,
+          "store": "no"
+        }
+      ],
+      "counts": {
+        "name": 23,
+        "subtitle": 27,
+        "keywords": 83
+      },
+      "scope": "三字段扩展草案；没有新增 App 内语言或完整商店资产",
+      "reviewState": "Prepared draft; language and brand review required before publishing. No registration/trademark clearance."
+    },
+    "el": {
+      "name": "App Blocker – Πάπια",
+      "subtitle": "Όρια εφαρμογών και διαλείμματα",
+      "keywords": "συγκέντρωση,χρόνος,οθόνης,αποκλεισμός,screen,time,control",
+      "anchorStores": [
+        "gr",
+        "cy"
+      ],
+      "rationale": "品牌用希腊语 Πάπια。原生短语信号不足，功能主词选当地 App Blocker 35/17，副标题用希腊语说限制和休息；Screen Time 27/13 由隐藏字段承接。",
+      "evidence": [
+        {
+          "store": "gr",
+          "status": "deep-astro-complete",
+          "metrics": 30,
+          "queries": 8,
+          "source": "deep-research/markets/gr/research.json"
+        },
+        {
+          "store": "cy",
+          "status": "deep-astro-complete",
+          "metrics": 30,
+          "queries": 8,
+          "source": "deep-research/markets/cy/research.json"
+        }
+      ],
+      "measuredEnglishAdditions": [
+        {
+          "query": "screen time control",
+          "addedTokens": [
+            "screen",
+            "time",
+            "control"
+          ],
+          "popularity": 28,
+          "difficulty": 19,
+          "store": "gr"
+        }
+      ],
+      "counts": {
+        "name": 19,
+        "subtitle": 30,
+        "keywords": 91
+      },
+      "scope": "三字段扩展草案；没有新增 App 内语言或完整商店资产",
+      "reviewState": "Prepared draft; language and brand review required before publishing. No registration/trademark clearance."
+    },
+    "he": {
+      "name": "זמן מסך – ברווז במשמרת",
+      "subtitle": "הגבלת אפליקציות והפסקות",
+      "keywords": "ריכוז,טלפון,חסימה,התמכרות,app,blocker,screen,time,control",
+      "anchorStores": [
+        "il"
+      ],
+      "rationale": "品牌改为希伯来语“值班鸭”。זמן מסך 28/15 与英语 Screen Time 40/15 都记录；密码锁、家长控制更热也不照抄。",
+      "evidence": [
+        {
+          "store": "il",
+          "status": "deep-astro-complete",
+          "metrics": 38,
+          "queries": 8,
+          "source": "deep-research/markets/il/research.json"
+        }
+      ],
+      "measuredEnglishAdditions": [
+        {
+          "query": "screen time",
+          "addedTokens": [
+            "screen",
+            "time"
+          ],
+          "popularity": 40,
+          "difficulty": 15,
+          "store": "il"
+        },
+        {
+          "query": "screen time control",
+          "addedTokens": [
+            "control"
+          ],
+          "popularity": 24,
+          "difficulty": 11,
+          "store": "il"
+        }
+      ],
+      "counts": {
+        "name": 22,
+        "subtitle": 23,
+        "keywords": 79
+      },
+      "scope": "三字段扩展草案；没有新增 App 内语言或完整商店资产",
+      "reviewState": "Prepared draft; language and brand review required before publishing. No registration/trademark clearance."
+    },
+    "hu": {
+      "name": "App Blocker – Őrkacsa",
+      "subtitle": "Appkorlátok és szünetek",
+      "keywords": "képernyőidő,fókusz,telefon,függőség,blokkoló,digitális,detox,screen,time,control",
+      "anchorStores": [
+        "hu"
+      ],
+      "rationale": "Őrkacsa 是匈牙利语看守鸭候选。原生 képernyőidő 信号低，功能主词选择本国 App Blocker 41/15，副标题自然本地化；Screen Time 31/17 由隐藏字段承接，不写家长监护。",
+      "evidence": [
+        {
+          "store": "hu",
+          "status": "deep-astro-complete",
+          "metrics": 30,
+          "queries": 8,
+          "source": "deep-research/markets/hu/research.json"
+        }
+      ],
+      "measuredEnglishAdditions": [
+        {
+          "query": "screen time",
+          "addedTokens": [
+            "screen",
+            "time"
+          ],
+          "popularity": 31,
+          "difficulty": 17,
+          "store": "hu"
+        },
+        {
+          "query": "screen time control",
+          "addedTokens": [
+            "control"
+          ],
+          "popularity": 27,
+          "difficulty": 15,
+          "store": "hu"
+        }
+      ],
+      "counts": {
+        "name": 21,
+        "subtitle": 23,
+        "keywords": 89
+      },
+      "scope": "三字段扩展草案；没有新增 App 内语言或完整商店资产",
+      "reviewState": "Prepared draft; language and brand review required before publishing. No registration/trademark clearance."
+    },
+    "ro": {
+      "name": "Screen Time – Rața de pază",
+      "subtitle": "Blochează aplicații, ia pauze",
+      "keywords": "ecran,blocare,concentrare,telefon,dependență,detox,digital,app,blocker,control",
+      "anchorStores": [
+        "ro"
+      ],
+      "rationale": "Rața de pază 为当地看守鸭。原生词信号低，功能主词选 Screen Time 38/19，比同热度的 App Blocker 38/21 竞争稍低；副标题用罗马尼亚语，后者由隐藏字段覆盖。",
+      "evidence": [
+        {
+          "store": "ro",
+          "status": "deep-astro-complete",
+          "metrics": 30,
+          "queries": 8,
+          "source": "deep-research/markets/ro/research.json"
+        }
+      ],
+      "measuredEnglishAdditions": [
+        {
+          "query": "screen time control",
+          "addedTokens": [
+            "control"
+          ],
+          "popularity": 32,
+          "difficulty": 39,
+          "store": "ro"
+        }
+      ],
+      "counts": {
+        "name": 26,
+        "subtitle": 29,
+        "keywords": 80
+      },
+      "scope": "三字段扩展草案；没有新增 App 内语言或完整商店资产",
+      "reviewState": "Prepared draft; language and brand review required before publishing. No registration/trademark clearance."
+    },
+    "sk": {
+      "name": "Screen Time – Kačka",
+      "subtitle": "Limity aplikácií a prestávky",
+      "keywords": "čas,obrazovka,blokovanie,sústredenie,telefón,detox,digitálny,app,blocker,control",
+      "anchorStores": [
+        "sk"
+      ],
+      "rationale": "本地角色 Kačka。斯洛伐克原生功能词信号低，选择当地 Screen Time 38/15 配本地副标题，App Blocker 35/11 由隐藏字段覆盖；不是美区分数的移植。",
+      "evidence": [
+        {
+          "store": "sk",
+          "status": "deep-astro-complete",
+          "metrics": 30,
+          "queries": 8,
+          "source": "deep-research/markets/sk/research.json"
+        }
+      ],
+      "measuredEnglishAdditions": [
+        {
+          "query": "screen time control",
+          "addedTokens": [
+            "control"
+          ],
+          "popularity": 24,
+          "difficulty": 15,
+          "store": "sk"
+        }
+      ],
+      "counts": {
+        "name": 19,
+        "subtitle": 28,
+        "keywords": 84
+      },
+      "scope": "三字段扩展草案；没有新增 App 内语言或完整商店资产",
+      "reviewState": "Prepared draft; language and brand review required before publishing. No registration/trademark clearance."
+    },
+    "uk": {
+      "name": "Екранний час – Качка на варті",
+      "subtitle": "Ліміти застосунків і перерви",
+      "keywords": "фокус,таймер,блокування,телефон,screen,time,control,app,blocker",
+      "anchorStores": [
+        "ua"
+      ],
+      "rationale": "用乌克兰语与 Качка на варті 的本地角色。乌克兰语、俄语、英语在乌克兰各查，俄语也保留独立字段；不把俄语词量当成乌克兰语词量。",
+      "evidence": [
+        {
+          "store": "ua",
+          "status": "deep-astro-complete",
+          "metrics": 38,
+          "queries": 8,
+          "source": "deep-research/markets/ua/research.json"
+        }
+      ],
+      "measuredEnglishAdditions": [
+        {
+          "query": "screen time",
+          "addedTokens": [
+            "screen",
+            "time"
+          ],
+          "popularity": 37,
+          "difficulty": 17,
+          "store": "ua"
+        },
+        {
+          "query": "screen time control",
+          "addedTokens": [
+            "control"
+          ],
+          "popularity": 32,
+          "difficulty": 15,
+          "store": "ua"
+        },
+        {
+          "query": "app blocker",
+          "addedTokens": [
+            "app",
+            "blocker"
+          ],
+          "popularity": 24,
+          "difficulty": 23,
+          "store": "ua"
+        }
+      ],
+      "counts": {
+        "name": 29,
+        "subtitle": 28,
+        "keywords": 91
+      },
+      "scope": "三字段扩展草案；没有新增 App 内语言或完整商店资产",
+      "reviewState": "Prepared draft; language and brand review required before publishing. No registration/trademark clearance."
+    },
+    "ca": {
+      "name": "Screen Time – Ànec",
+      "subtitle": "Límits d’aplicacions i pauses",
+      "keywords": "temps,pantalla,bloquejar,concentració,mòbil,xarxes,socials,detox,app,blocker,control",
+      "anchorStores": [
+        "es"
+      ],
+      "rationale": "角色 Ànec、副标题与辅助词用加泰语。完整专项中原生词信号低，采用西班牙境内有数据的 Screen Time 35/23；不把西班牙语 50 的词量移植为加泰语证据。",
+      "evidence": [
+        {
+          "store": "es",
+          "status": "deep-astro-complete",
+          "metrics": 34,
+          "queries": 8,
+          "source": "deep-research/markets/es/research.json"
+        },
+        {
+          "store": "es",
+          "study": "es-ca",
+          "status": "deep-astro-complete",
+          "metrics": 30,
+          "queries": 8,
+          "source": "deep-research/language-studies/es-ca/research.json"
+        }
+      ],
+      "measuredEnglishAdditions": [
+        {
+          "query": "screen time control",
+          "addedTokens": [
+            "control"
+          ],
+          "popularity": 29,
+          "difficulty": 39,
+          "store": "es"
+        }
+      ],
+      "counts": {
+        "name": 18,
+        "subtitle": 29,
+        "keywords": 86
+      },
+      "scope": "三字段扩展草案；没有新增 App 内语言或完整商店资产",
+      "reviewState": "Prepared draft; language and brand review required before publishing. No registration/trademark clearance."
+    },
+    "hr": {
+      "name": "Screen Time – Patka",
+      "subtitle": "Limiti aplikacija i predasi",
+      "keywords": "zaslon,blokiranje,fokus,mobitel,ovisnost,digitalni,detoks,app,blocker,control",
+      "anchorStores": [
+        "hr"
+      ],
+      "rationale": "Patka 是当地鸭子。原生候选信号低，选 Screen Time 34/13，较同热度 App Blocker 34/21 难度低；副标题本地化，后者由隐藏字段承接。",
+      "evidence": [
+        {
+          "store": "hr",
+          "status": "deep-astro-complete",
+          "metrics": 30,
+          "queries": 8,
+          "source": "deep-research/markets/hr/research.json"
+        }
+      ],
+      "measuredEnglishAdditions": [
+        {
+          "query": "screen time control",
+          "addedTokens": [
+            "control"
+          ],
+          "popularity": 23,
+          "difficulty": 13,
+          "store": "hr"
+        }
+      ],
+      "counts": {
+        "name": 19,
+        "subtitle": 27,
+        "keywords": 77
+      },
+      "scope": "三字段扩展草案；没有新增 App 内语言或完整商店资产",
+      "reviewState": "Prepared draft; language and brand review required before publishing. No registration/trademark clearance."
+    },
+    "sl": {
+      "name": "Screen Time – Račka",
+      "subtitle": "Omejitve aplikacij in odmori",
+      "keywords": "čas,zaslon,blokiranje,zbranost,telefon,odvisnost,digitalni,detoks,app,blocker,control",
+      "anchorStores": [
+        "si"
+      ],
+      "rationale": "用斯洛文尼亚语 Račka，与斯洛伐克语 Kačka 分开。完整专项中原生词信号低，采用当地 Screen Time 43/13，加本地副标题；真实返回不足五条的查询照实保留。",
+      "evidence": [
+        {
+          "store": "si",
+          "status": "deep-astro-complete",
+          "metrics": 24,
+          "queries": 8,
+          "source": "deep-research/markets/si/research.json"
+        },
+        {
+          "store": "si",
+          "study": "si-sl",
+          "status": "deep-astro-complete",
+          "metrics": 30,
+          "queries": 8,
+          "source": "deep-research/language-studies/si-sl/research.json"
+        }
+      ],
+      "measuredEnglishAdditions": [
+        {
+          "query": "screen time control",
+          "addedTokens": [
+            "control"
+          ],
+          "popularity": 25,
+          "difficulty": 11,
+          "store": "si"
+        }
+      ],
+      "counts": {
+        "name": 19,
+        "subtitle": 28,
+        "keywords": 86
+      },
+      "scope": "三字段扩展草案；没有新增 App 内语言或完整商店资产",
+      "reviewState": "Prepared draft; language and brand review required before publishing. No registration/trademark clearance."
+    }
+  }
+}

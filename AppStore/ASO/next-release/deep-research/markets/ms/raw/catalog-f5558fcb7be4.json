@@ -1,0 +1,104 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=block+apps&country=ms&entity=software&limit=5",
+  "response": {
+    "resultCount": 4,
+    "results": [
+      {
+        "kind": "software",
+        "averageUserRating": 5,
+        "trackViewUrl": "https://apps.apple.com/ms/app/opal-screen-time-control/id1497465230?uo=4",
+        "artistName": "Opal OS",
+        "price": 0.0,
+        "bundleId": "com.withopal.opal",
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "trackId": 1497465230,
+        "trackName": "Opal: Screen Time Control",
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "USD",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "userRatingCount": 1,
+        "descriptionSHA256": "79545dcfd9d33edf53d3567fc6a6eb5b582561ed18b9d49245fbff4af0417656"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/ms/app/app-lock-lock-apps-photos/id1569973513?uo=4",
+        "artistName": "Muhammet Yalcın Ozdemir Halil Ibrahim Karahan Mustafa Ayten Kupertino Bilisim Yazılım K.S",
+        "price": 0.0,
+        "bundleId": "co.appnation.applocker",
+        "primaryGenreName": "Utilities",
+        "releaseDate": "2021-06-12T07:00:00Z",
+        "trackId": 1569973513,
+        "trackName": "App Lock - Lock Apps & Photos",
+        "currentVersionReleaseDate": "2026-09-25T07:10:51Z",
+        "version": "2.2.4",
+        "wrapperType": "software",
+        "currency": "USD",
+        "genres": [
+          "Utilities",
+          "Productivity"
+        ],
+        "userRatingCount": 0,
+        "descriptionSHA256": "7ba2ea3794744905bae3c370c1d34f9ff79f824d3ed6e187d44098d261070cc2"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/ms/app/blocksite-block-apps-focus/id1474967653?uo=4",
+        "artistName": "BlockSite LP",
+        "price": 0.0,
+        "bundleId": "co.ios.BlockSite",
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2019-09-01T07:00:00Z",
+        "trackId": 1474967653,
+        "trackName": "BlockSite: Block Apps & Focus",
+        "currentVersionReleaseDate": "2026-10-18T07:41:00Z",
+        "version": "4.4.5",
+        "wrapperType": "software",
+        "currency": "USD",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "userRatingCount": 0,
+        "descriptionSHA256": "3eb447725c9fc35e830b2ea7ff4f799cbbf9f0a174fb4879e2041c2cb7805265"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/ms/app/focus-plant-forest-app-blocker/id1459096306?uo=4",
+        "artistName": "Shikudo",
+        "price": 0.0,
+        "bundleId": "com.shikudo.focus",
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2019-09-02T07:00:00Z",
+        "trackId": 1459096306,
+        "trackName": "Focus Plant：forest app blocker",
+        "currentVersionReleaseDate": "2026-11-14T00:10:28Z",
+        "version": "4.6.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "genres": [
+          "Productivity",
+          "Games",
+          "Simulation",
+          "Casual"
+        ],
+        "userRatingCount": 0,
+        "descriptionSHA256": "fe05cd0e5d57fda1dd718d682f963e8ebc60dcf414c417b33b853ed6df9bd015"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "8686fafb32d685f775bb92681d7efea557eb62440ad193da8e4cdf490c21801b",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

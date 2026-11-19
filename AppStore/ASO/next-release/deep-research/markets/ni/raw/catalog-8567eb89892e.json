@@ -1,0 +1,124 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=app+blocker&country=ni&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/ni/app/refocus-bloquear-aplicaciones/id1645639057?uo=4",
+        "averageUserRating": 5,
+        "genres": [
+          "Productividad",
+          "Salud y fitness"
+        ],
+        "price": 0.0,
+        "artistName": "Labi, LLC",
+        "releaseDate": "2022-09-22T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "trackId": 1645639057,
+        "trackName": "Refocus: Bloquear Aplicaciones",
+        "currentVersionReleaseDate": "2026-11-18T15:32:47Z",
+        "version": "2.2.11",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.refocus.refocus",
+        "userRatingCount": 3,
+        "descriptionSHA256": "5af728bf34683f8d8cc16da34fc547279e90e9330521b01704a76d15740488e6"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/ni/app/opal-tiempo-de-pantalla-focus/id1497465230?uo=4",
+        "averageUserRating": 4.95455,
+        "genres": [
+          "Productividad",
+          "Salud y fitness"
+        ],
+        "price": 0.0,
+        "artistName": "Opal OS",
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "primaryGenreName": "Productivity",
+        "trackId": 1497465230,
+        "trackName": "Opal: Tiempo de Pantalla Focus",
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.withopal.opal",
+        "userRatingCount": 22,
+        "descriptionSHA256": "8f565e8ece1378f7f8b279972790342748ebc0f5a8961ef24749e6a17891340e"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/ni/app/screenzen-screen-time-control/id1541027222?uo=4",
+        "averageUserRating": 4.61538,
+        "genres": [
+          "Productividad",
+          "Salud y fitness"
+        ],
+        "price": 0.0,
+        "artistName": "ScreenZen LLC",
+        "releaseDate": "2021-07-16T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "trackId": 1541027222,
+        "trackName": "ScreenZen- Screen Time Control",
+        "currentVersionReleaseDate": "2026-09-06T14:20:14Z",
+        "version": "4.0.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.scottharvey.screenzenapp.ios",
+        "userRatingCount": 13,
+        "descriptionSHA256": "389b1ab973e58705bf7b31e111caf9b0ffaf2c5f102cd4234ff15666e4d36753"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/ni/app/appblock-bloquear-aplicaciones/id1515753232?uo=4",
+        "averageUserRating": 5,
+        "genres": [
+          "Productividad",
+          "Salud y fitness"
+        ],
+        "price": 0.0,
+        "artistName": "MobileSoft s.r.o.",
+        "releaseDate": "2021-08-17T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "trackId": 1515753232,
+        "trackName": "AppBlock Bloquear Aplicaciones",
+        "currentVersionReleaseDate": "2026-11-11T10:48:39Z",
+        "version": "4.14.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "eu.mobilesoft.appblock",
+        "userRatingCount": 7,
+        "descriptionSHA256": "57129755f1276c23ea491e5ae08cd96a53959993b5c33be70bbbd0401f883185"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/ni/app/one-sec-tiempo-pantalla-y-foco/id1532875441?uo=4",
+        "averageUserRating": 4.84615,
+        "genres": [
+          "Productividad",
+          "Salud y fitness"
+        ],
+        "price": 0.0,
+        "artistName": "riedel.wtf apps S.L.",
+        "releaseDate": "2020-09-29T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "trackId": 1532875441,
+        "trackName": "one sec—tiempo pantalla y foco",
+        "currentVersionReleaseDate": "2026-11-14T18:42:34Z",
+        "version": "6.1.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "wtf.riedel.one-sec",
+        "userRatingCount": 13,
+        "descriptionSHA256": "f6c3c9e01d5674616b89f50c177b04e002f0fc0dfd05be2d049d4dbad73e2344"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "5cb9f1be9494c1b0e4d409cecdc0f616e1381054fda952123d9ee1493bdc4fab",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

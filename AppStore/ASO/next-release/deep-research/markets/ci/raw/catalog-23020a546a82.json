@@ -1,0 +1,123 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=temps+d%27%C3%A9cran&country=ci&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/ci/app/opal-temps-d%C3%A9cran-et-focus/id1497465230?uo=4",
+        "averageUserRating": 4.56707,
+        "artistName": "Opal OS",
+        "genres": [
+          "Productivité",
+          "Forme et santé"
+        ],
+        "price": 0.0,
+        "trackId": 1497465230,
+        "trackName": "Opal: Temps d'écran et Focus",
+        "bundleId": "com.withopal.opal",
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "USD",
+        "userRatingCount": 164,
+        "descriptionSHA256": "c0fba23699dd09c567f31251e42122228bee0170b55079e3167ec7297b90a927"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/ci/app/jomo-meilleur-temps-d%C3%A9cran/id1609960918?uo=4",
+        "averageUserRating": 4.4,
+        "artistName": "Jomo",
+        "genres": [
+          "Productivité",
+          "Forme et santé"
+        ],
+        "price": 0.0,
+        "trackId": 1609960918,
+        "trackName": "Jomo - Meilleur temps d'écran",
+        "bundleId": "com.jomo.Jomo",
+        "releaseDate": "2022-10-16T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-18T16:29:32Z",
+        "version": "2.1.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "userRatingCount": 15,
+        "descriptionSHA256": "84834f5bd229b05f5a009f87e93f61f0d59db056ea3f4aa48c55bffdf5311a78"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/ci/app/one-sec-temps-d%C3%A9cran-focus/id1532875441?uo=4",
+        "averageUserRating": 4.36,
+        "artistName": "riedel.wtf apps S.L.",
+        "genres": [
+          "Productivité",
+          "Forme et santé"
+        ],
+        "price": 0.0,
+        "trackId": 1532875441,
+        "trackName": "one sec–temps d'écran & focus",
+        "bundleId": "wtf.riedel.one-sec",
+        "releaseDate": "2020-09-29T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-14T18:42:34Z",
+        "version": "6.1.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "userRatingCount": 25,
+        "descriptionSHA256": "715bc05374e0cd89a6cc12a733a4364b877af8f965c0d4db3ea738c1f0d554a8"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/ci/app/temps-d%C3%A9cran-verrouillage/id6456942073?uo=4",
+        "averageUserRating": 0,
+        "artistName": "Deebex Tech Ltd.",
+        "genres": [
+          "Productivité"
+        ],
+        "price": 0.0,
+        "trackId": 6456942073,
+        "trackName": "Temps d'Écran - Verrouillage",
+        "bundleId": "com.idreamdesign.screen",
+        "releaseDate": "2023-10-10T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-08-13T00:04:05Z",
+        "version": "3.0.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "userRatingCount": 0,
+        "descriptionSHA256": "c0e0b38da6b7bf63c8e25eaffb86d1c7a2adb0cf08c90398aca2df30a88cedac"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/ci/app/limit-temps-d%C3%A9cran-focus/id6473087772?uo=4",
+        "averageUserRating": 0,
+        "artistName": "Samet Macit",
+        "genres": [
+          "Productivité",
+          "Utilitaires"
+        ],
+        "price": 0.0,
+        "trackId": 6473087772,
+        "trackName": "Limit: temps d'écran focus",
+        "bundleId": "net.29apps.limit",
+        "releaseDate": "2024-02-25T08:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-10-27T11:38:50Z",
+        "version": "2.0.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "userRatingCount": 0,
+        "descriptionSHA256": "bfbec84797e7af8389e605aa3c79c4328ea22378b6d0d70f47a9f5d7345d5a19"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "082c1be5c30006c27da4a1d9ecf70378fac324224fbc46d8acce486a51493984",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

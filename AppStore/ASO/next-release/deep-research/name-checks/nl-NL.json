@@ -1,0 +1,21 @@
+{
+  "locale": "nl-NL",
+  "store": "nl",
+  "proposedName": "Schermtijd – Eend op wacht",
+  "limitations": "A public top-five name search, not App Store Connect reservation or trademark clearance.",
+  "response": {
+    "id": "5a7da4f5-85df-4e43-920e-103e0c80b40c",
+    "jsonrpc": "2.0",
+    "result": {
+      "content": [
+        {
+          "text": "{\n  \"apps\" : [\n\n  ],\n  \"keyword\" : \"Schermtijd – Eend op wacht\",\n  \"platform\" : \"iphone\",\n  \"store\" : \"nl\",\n  \"totalResults\" : 0\n}",
+          "type": "text"
+        }
+      ],
+      "isError": false
+    }
+  },
+  "error": null,
+  "exactOtherAppMatches": []
+}

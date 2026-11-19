@@ -1,0 +1,124 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=screen+time&country=gw&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/gw/app/opal-screen-time-control/id1497465230?uo=4",
+        "averageUserRating": 4.83333,
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "primaryGenreName": "Productivity",
+        "artistName": "Opal OS",
+        "price": 0.0,
+        "bundleId": "com.withopal.opal",
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackId": 1497465230,
+        "trackName": "Opal: Screen Time Control",
+        "userRatingCount": 6,
+        "descriptionSHA256": "79545dcfd9d33edf53d3567fc6a6eb5b582561ed18b9d49245fbff4af0417656"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/gw/app/screen-time-parental-control/id1055315077?uo=4",
+        "averageUserRating": 0,
+        "genres": [
+          "Lifestyle",
+          "Productivity"
+        ],
+        "primaryGenreName": "Lifestyle",
+        "artistName": "Screen Time Labs",
+        "price": 0.0,
+        "bundleId": "com.screentime",
+        "currentVersionReleaseDate": "2022-12-07T13:43:25Z",
+        "releaseDate": "2015-12-15T20:43:11Z",
+        "version": "3.72",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackId": 1055315077,
+        "trackName": "Screen Time Parental Control",
+        "userRatingCount": 0,
+        "descriptionSHA256": "4304fa45bc672e931bb3f98d3b8232f55d3f776c5eb880d3d113c7227a932ad6"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/gw/app/screen-time-tracker/id6738397686?uo=4",
+        "averageUserRating": 0,
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "primaryGenreName": "Productivity",
+        "artistName": "Jack Finnis",
+        "price": 0.0,
+        "bundleId": "com.jackfinnis.ScreenTimeTracker",
+        "currentVersionReleaseDate": "2025-10-21T22:49:43Z",
+        "releaseDate": "2024-12-17T08:00:00Z",
+        "version": "2.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackId": 6738397686,
+        "trackName": "Screen Time Tracker",
+        "userRatingCount": 0,
+        "descriptionSHA256": "818e2b4d99d866d797722d84f7e4cb5f38639db2d2e8c74030a03e53a20ba82b"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/gw/app/one-sec-screen-time-focus/id1532875441?uo=4",
+        "averageUserRating": 0,
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "primaryGenreName": "Productivity",
+        "artistName": "riedel.wtf apps S.L.",
+        "price": 0.0,
+        "bundleId": "wtf.riedel.one-sec",
+        "currentVersionReleaseDate": "2026-11-14T18:42:34Z",
+        "releaseDate": "2020-09-29T07:00:00Z",
+        "version": "6.1.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackId": 1532875441,
+        "trackName": "one sec | screen time + focus",
+        "userRatingCount": 0,
+        "descriptionSHA256": "7458286eeec2edf883eec2f9abc49582f9924be2e29f484b82b1014b4b2a0462"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/gw/app/screenzen-screen-time-control/id1541027222?uo=4",
+        "averageUserRating": 0,
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "primaryGenreName": "Productivity",
+        "artistName": "ScreenZen LLC",
+        "price": 0.0,
+        "bundleId": "com.scottharvey.screenzenapp.ios",
+        "currentVersionReleaseDate": "2026-09-06T14:20:14Z",
+        "releaseDate": "2021-07-16T07:00:00Z",
+        "version": "4.0.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackId": 1541027222,
+        "trackName": "ScreenZen- Screen Time Control",
+        "userRatingCount": 0,
+        "descriptionSHA256": "def0cb7cf41c8f7b1619d270d38fe8aa23859b81147ae63a1041bc0a1b7f8cc8"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "7cb4874d249d0302f084337f46ec67e580a0016fc2a76879dfe4d3138dd08f27",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

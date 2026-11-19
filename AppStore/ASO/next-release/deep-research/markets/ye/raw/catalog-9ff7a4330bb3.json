@@ -1,0 +1,123 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=%D9%88%D9%82%D8%AA+%D8%A7%D9%84%D8%B4%D8%A7%D8%B4%D8%A9&country=ye&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "artistName": "riedel.wtf apps S.L.",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "bundleId": "wtf.riedel.one-sec",
+        "trackId": 1532875441,
+        "trackName": "one sec | screen time + focus",
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2020-09-29T07:00:00Z",
+        "currentVersionReleaseDate": "2026-11-14T18:42:34Z",
+        "version": "6.1.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 5,
+        "trackViewUrl": "https://apps.apple.com/ye/app/one-sec-screen-time-focus/id1532875441?uo=4",
+        "userRatingCount": 8,
+        "descriptionSHA256": "7458286eeec2edf883eec2f9abc49582f9924be2e29f484b82b1014b4b2a0462"
+      },
+      {
+        "kind": "software",
+        "artistName": "Vladimir Rodzaevskiy",
+        "genres": [
+          "Education",
+          "Utilities"
+        ],
+        "price": 0.0,
+        "bundleId": "Trid.Screen-Time",
+        "trackId": 6757981439,
+        "trackName": "Earn Screen Time: Kids Chores",
+        "primaryGenreName": "Education",
+        "releaseDate": "2026-02-10T08:00:00Z",
+        "currentVersionReleaseDate": "2026-10-29T23:36:38Z",
+        "version": "6.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/ye/app/earn-screen-time-kids-chores/id6757981439?uo=4",
+        "userRatingCount": 0,
+        "descriptionSHA256": "71dd909aca4c5194ba92930cd019597781b24903aa095fc3db47faf9c7f188a3"
+      },
+      {
+        "kind": "software",
+        "artistName": "Vishwen Labs (OPC) Private Limited",
+        "genres": [
+          "Health & Fitness",
+          "Productivity"
+        ],
+        "price": 0.0,
+        "bundleId": "com.vishwesh789.burntoscroll",
+        "trackId": 6757008068,
+        "trackName": "Screen Time - BurnToScroll",
+        "primaryGenreName": "Health & Fitness",
+        "releaseDate": "2026-06-01T07:00:00Z",
+        "currentVersionReleaseDate": "2026-06-25T04:57:10Z",
+        "version": "1.0.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/ye/app/screen-time-burntoscroll/id6757008068?uo=4",
+        "userRatingCount": 0,
+        "descriptionSHA256": "463891ff3f9d7e778234ff88413dd2d9b1cb1993797df968c7d96011cd986a08"
+      },
+      {
+        "kind": "software",
+        "artistName": "少杰 李",
+        "genres": [
+          "Productivity",
+          "Utilities"
+        ],
+        "price": 0.0,
+        "bundleId": "com.screen.time.control.app.lock",
+        "trackId": 6759700381,
+        "trackName": "Screen time control - Screenza",
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2026-04-02T07:00:00Z",
+        "currentVersionReleaseDate": "2026-08-21T19:20:51Z",
+        "version": "2.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/ye/app/screen-time-control-screenza/id6759700381?uo=4",
+        "userRatingCount": 0,
+        "descriptionSHA256": "6f35c3f0821a49cd7faaed87abb63844f0ec56a5d7480ec3a79a9fb969f181b0"
+      },
+      {
+        "kind": "software",
+        "artistName": "ILYAS TORUN",
+        "genres": [
+          "Productivity"
+        ],
+        "price": 0.0,
+        "bundleId": "com.ilyastorun.unscroll",
+        "trackId": 6766120727,
+        "trackName": "Unscroll: Screen Time Control",
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2026-08-15T07:00:00Z",
+        "currentVersionReleaseDate": "2026-10-27T11:49:47Z",
+        "version": "1.3.2",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/ye/app/unscroll-screen-time-control/id6766120727?uo=4",
+        "userRatingCount": 0,
+        "descriptionSHA256": "1904b02ababed15cd89e6a1884da10d1dac215d0f761805844392242201135f1"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "a2ecde70fbf13577f9ae02955da269b9b15b3ad137399983396e319016749dd2",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

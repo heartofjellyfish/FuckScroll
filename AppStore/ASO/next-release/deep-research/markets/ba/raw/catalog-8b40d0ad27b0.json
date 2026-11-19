@@ -1,0 +1,58 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=vrijeme+uporabe+zaslona&country=ba&entity=software&limit=5",
+  "response": {
+    "resultCount": 2,
+    "results": [
+      {
+        "kind": "software",
+        "averageUserRating": 4.8,
+        "trackViewUrl": "https://apps.apple.com/ba/app/parental-control-kroha/id1365784521?uo=4",
+        "artistName": "MESH Ukraina",
+        "genres": [
+          "Education",
+          "Utilities"
+        ],
+        "price": 0.0,
+        "trackId": 1365784521,
+        "trackName": "Parental Control - Kroha",
+        "primaryGenreName": "Education",
+        "currentVersionReleaseDate": "2025-12-10T05:45:28Z",
+        "version": "4.7.4",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "bundleId": "com.meshukraina.parentalcontrol",
+        "releaseDate": "2020-04-10T07:00:00Z",
+        "userRatingCount": 5,
+        "descriptionSHA256": "5a47df5f5fc879ceef18885745a1214c8ab1c472162ff9bd8f7255d53a85bd69"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/ba/app/bspace-screen-time-control/id6776689183?uo=4",
+        "artistName": "ANNA KUCHUMOVA",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "trackId": 6776689183,
+        "trackName": "BSpace: Screen Time Control",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-02T17:22:55Z",
+        "version": "1.8",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "bundleId": "app.5learn.One-Breath",
+        "releaseDate": "2026-07-14T07:00:00Z",
+        "userRatingCount": 0,
+        "descriptionSHA256": "8008fe41cccb28c9caf0b87f0ce64467b1f57552c7bb149d5490f3002ee8c009"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "bb82fec580499f456d973f1f671ca1637ef806429586f2add62894090a5350e4",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

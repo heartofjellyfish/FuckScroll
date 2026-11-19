@@ -1,0 +1,13 @@
+{
+  "id": "b2158a9f-3d45-40c0-8138-3055453bfa46",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"apps\" : [\n    {\n      \"appStoreId\" : \"6751270808\",\n      \"averageRating\" : 0,\n      \"bundleId\" : \"com.TimeShieldHelper559nmb.app\",\n      \"developer\" : \"Tamar Ben-David\",\n      \"genre\" : \"Productivity\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple211\\/v4\\/09\\/78\\/0d\\/09780d9d-f356-4747-ce7c-f52858710607\\/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png\\/80x0w.webp\",\n      \"name\" : \"Screen Time Control app +\",\n      \"ranking\" : 1,\n      \"ratingCount\" : 0,\n      \"subtitle\" : \"App Blocker, Focus & Timer\"\n    }\n  ],\n  \"keyword\" : \"χρονικό όριο εφαρμογών\",\n  \"platform\" : \"iphone\",\n  \"store\" : \"cy\",\n  \"totalResults\" : 1\n}",
+        "type": "text"
+      }
+    ],
+    "isError": false
+  }
+}

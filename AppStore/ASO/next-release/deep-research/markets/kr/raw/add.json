@@ -1,0 +1,13 @@
+{
+  "id": "303045ea-695f-45bc-95f5-788c57097370",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"added\" : 0,\n  \"app\" : \"Stop Scrolling – Duck on Duty\",\n  \"failed\" : 0,\n  \"platform\" : \"iphone\",\n  \"results\" : [\n    {\n      \"difficulty\" : 0,\n      \"error\" : \"Already tracked\",\n      \"keyword\" : \"sns 중독\",\n      \"popularity\" : 0,\n      \"skipped\" : true,\n      \"success\" : false\n    },\n    {\n      \"difficulty\" : 0,\n      \"error\" : \"Already tracked\",\n      \"keyword\" : \"sns 차단\",\n      \"popularity\" : 0,\n      \"skipped\" : true,\n      \"success\" : false\n    }\n  ],\n  \"skipped\" : 2,\n  \"store\" : \"kr\",\n  \"total\" : 2\n}",
+        "type": "text"
+      }
+    ],
+    "isError": false
+  }
+}

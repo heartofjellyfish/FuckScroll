@@ -1,0 +1,122 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=bloqueador+de+apps&country=uy&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/uy/app/opal-screen-time-control/id1497465230?uo=4",
+        "averageUserRating": 4.83448,
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "artistName": "Opal OS",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "bundleId": "com.withopal.opal",
+        "trackId": 1497465230,
+        "trackName": "Opal: Screen Time Control",
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "primaryGenreName": "Productivity",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "USD",
+        "userRatingCount": 145,
+        "descriptionSHA256": "79545dcfd9d33edf53d3567fc6a6eb5b582561ed18b9d49245fbff4af0417656"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/uy/app/refocus-app-blocker-lock/id1645639057?uo=4",
+        "averageUserRating": 4.72727,
+        "currentVersionReleaseDate": "2026-11-18T15:32:47Z",
+        "artistName": "Labi, LLC",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "bundleId": "com.refocus.refocus",
+        "trackId": 1645639057,
+        "trackName": "Refocus: App Blocker & Lock",
+        "releaseDate": "2022-09-22T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "version": "2.2.11",
+        "wrapperType": "software",
+        "currency": "USD",
+        "userRatingCount": 22,
+        "descriptionSHA256": "31bd6049418a698d36c61b2eafbe2ca02a56d8aa24878c1963caa5895db876a1"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/uy/app/app-lock-lock-apps/id6469686557?uo=4",
+        "averageUserRating": 4.66667,
+        "currentVersionReleaseDate": "2026-06-22T01:26:35Z",
+        "artistName": "友财 徐",
+        "genres": [
+          "Utilities"
+        ],
+        "price": 0.0,
+        "bundleId": "com.xu.applock",
+        "trackId": 6469686557,
+        "trackName": "App Lock - Lock Apps .",
+        "releaseDate": "2023-11-07T08:00:00Z",
+        "primaryGenreName": "Utilities",
+        "version": "1.5.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "userRatingCount": 3,
+        "descriptionSHA256": "15b3c0f184bdcdd978e379e824c1b4e91598fa21e1c383a33a31fc4c581a3e52"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/uy/app/timeout-app-blocker/id6742079522?uo=4",
+        "averageUserRating": 0,
+        "currentVersionReleaseDate": "2025-03-17T17:44:48Z",
+        "artistName": "Lazy Tech LLC",
+        "genres": [
+          "Productivity",
+          "Utilities"
+        ],
+        "price": 0.0,
+        "bundleId": "com.lazytechllc.timeout",
+        "trackId": 6742079522,
+        "trackName": "Timeout: App Blocker",
+        "releaseDate": "2025-03-17T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "version": "1.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "userRatingCount": 0,
+        "descriptionSHA256": "58d3c1e4623ad5bcc495d186ca9bb0b630b2e1bd6911573ec6e17efdc253d5fc"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/uy/app/pornblocker-app/id1553747115?uo=4",
+        "averageUserRating": 5,
+        "currentVersionReleaseDate": "2026-10-05T21:12:03Z",
+        "artistName": "RUSAGROTERMINAL31, OOO",
+        "genres": [
+          "Utilities"
+        ],
+        "price": 0.0,
+        "bundleId": "com.pornblocker.app",
+        "trackId": 1553747115,
+        "trackName": "PornBlocker App",
+        "releaseDate": "2021-02-22T08:00:00Z",
+        "primaryGenreName": "Utilities",
+        "version": "1.6.2",
+        "wrapperType": "software",
+        "currency": "USD",
+        "userRatingCount": 2,
+        "descriptionSHA256": "917a08b2521a42cbb8d274cd95c79d7e0f3db99c64d2795ccc3af4d74fffe7e7"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "b844c4e1ba447eb219c337e6e5ce8373f329ff9c70d8b1e4d1ab68ae501d4825",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

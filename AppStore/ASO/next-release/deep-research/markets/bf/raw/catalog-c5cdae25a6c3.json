@@ -1,0 +1,124 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=bloqueur+d%27apps&country=bf&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "currentVersionReleaseDate": "2026-11-16T06:52:43Z",
+        "artistName": "CallApp",
+        "genres": [
+          "Utilities",
+          "Productivity"
+        ],
+        "price": 0.0,
+        "bundleId": "com.callapp.contacts",
+        "trackName": "CallApp: Caller ID & Block",
+        "trackId": 6739289261,
+        "releaseDate": "2025-10-15T07:00:00Z",
+        "primaryGenreName": "Utilities",
+        "version": "1.29",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 4.46512,
+        "trackViewUrl": "https://apps.apple.com/bf/app/callapp-caller-id-block/id6739289261?uo=4",
+        "userRatingCount": 43,
+        "descriptionSHA256": "b7f2207593fc05fa4be803a7d37746e713c658cc1e610d9617c9f7f75c37b64c"
+      },
+      {
+        "kind": "software",
+        "currentVersionReleaseDate": "2026-11-08T09:44:16Z",
+        "artistName": "Ilya Nikolenko",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "bundleId": "com.vdcast.aegisappblocker",
+        "trackName": "Stop Scroll by Aegis",
+        "trackId": 6738006979,
+        "releaseDate": "2025-05-15T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "version": "2.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/bf/app/stop-scroll-by-aegis/id6738006979?uo=4",
+        "userRatingCount": 0,
+        "descriptionSHA256": "effa010a3d3fba425f9899eb28804bfdf4abdb3c637ecf441e5b3cfc5382f45f"
+      },
+      {
+        "kind": "software",
+        "currentVersionReleaseDate": "2026-10-01T19:56:32Z",
+        "artistName": "INNOXAPPS LLP",
+        "genres": [
+          "Productivity",
+          "Utilities"
+        ],
+        "price": 0.0,
+        "bundleId": "com.stayfocused",
+        "trackName": "Stay Focused Limit Screen Time",
+        "trackId": 1658592224,
+        "releaseDate": "2023-01-26T08:00:00Z",
+        "primaryGenreName": "Productivity",
+        "version": "7.0.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 5,
+        "trackViewUrl": "https://apps.apple.com/bf/app/stay-focused-limit-screen-time/id1658592224?uo=4",
+        "userRatingCount": 2,
+        "descriptionSHA256": "c6d9d0807b708d9300a29659be1fef96ca3c2eee1fb6dd681f38e56a946ce76c"
+      },
+      {
+        "kind": "software",
+        "currentVersionReleaseDate": "2026-08-20T21:34:29Z",
+        "artistName": "Hakan Yigit Unac",
+        "genres": [
+          "Health & Fitness",
+          "Productivity"
+        ],
+        "price": 0.0,
+        "bundleId": "com.app.hakanyigitunac.SoberLock",
+        "trackName": "App Blocker: SoberLock",
+        "trackId": 6761304507,
+        "releaseDate": "2026-05-14T07:00:00Z",
+        "primaryGenreName": "Health & Fitness",
+        "version": "1.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/bf/app/app-blocker-soberlock/id6761304507?uo=4",
+        "userRatingCount": 0,
+        "descriptionSHA256": "9be8b212248d5d46d146b18655c8842f4c0217bd7b8353124cd8c0791882097a"
+      },
+      {
+        "kind": "software",
+        "currentVersionReleaseDate": "2026-11-12T18:56:40Z",
+        "artistName": "Sora Yazawa",
+        "genres": [
+          "Productivity",
+          "Utilities"
+        ],
+        "price": 0.0,
+        "bundleId": "com.sorayazawa.applocksolo",
+        "trackName": "App Blocker: LockKun",
+        "trackId": 6787695392,
+        "releaseDate": "2026-08-06T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "version": "1.0.11",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/bf/app/app-blocker-lockkun/id6787695392?uo=4",
+        "userRatingCount": 0,
+        "descriptionSHA256": "ee1f1e6228e079aef08e5c625acbae448692053855ce0d11644b9bbab0099f05"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "41cdc592ebea1bbdace0a74097f36855c86dd926bb8ebd873e7c318f1d6565ff",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

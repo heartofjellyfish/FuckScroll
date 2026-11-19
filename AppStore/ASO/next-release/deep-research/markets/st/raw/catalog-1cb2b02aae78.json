@@ -1,0 +1,35 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=bloquear+aplica%C3%A7%C3%B5es&country=st&entity=software&limit=5",
+  "response": {
+    "resultCount": 1,
+    "results": [
+      {
+        "kind": "software",
+        "artistName": "友财 徐",
+        "genres": [
+          "Utilities"
+        ],
+        "price": 0.0,
+        "releaseDate": "2023-11-07T08:00:00Z",
+        "primaryGenreName": "Utilities",
+        "version": "1.5.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/st/app/app-lock-lock-apps/id6469686557?uo=4",
+        "averageUserRating": 0,
+        "bundleId": "com.xu.applock",
+        "currentVersionReleaseDate": "2026-06-22T01:26:35Z",
+        "trackId": 6469686557,
+        "trackName": "App Lock - Lock Apps .",
+        "userRatingCount": 0,
+        "descriptionSHA256": "15b3c0f184bdcdd978e379e824c1b4e91598fa21e1c383a33a31fc4c581a3e52"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "804ccf655e1d1268911f06b7095cdb6a29a5ce003d4ef5036fde85c3617783c1",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

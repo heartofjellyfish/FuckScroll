@@ -1,0 +1,123 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=app+limits&country=sl&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/sl/app/opal-screen-time-control/id1497465230?uo=4",
+        "averageUserRating": 5,
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "artistName": "Opal OS",
+        "bundleId": "com.withopal.opal",
+        "trackId": 1497465230,
+        "trackName": "Opal: Screen Time Control",
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "USD",
+        "price": 0.0,
+        "userRatingCount": 11,
+        "descriptionSHA256": "79545dcfd9d33edf53d3567fc6a6eb5b582561ed18b9d49245fbff4af0417656"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/sl/app/appblock-app-site-blocker/id1515753232?uo=4",
+        "averageUserRating": 4.59999,
+        "currentVersionReleaseDate": "2026-11-11T10:48:39Z",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "artistName": "MobileSoft s.r.o.",
+        "bundleId": "eu.mobilesoft.appblock",
+        "trackId": 1515753232,
+        "trackName": "AppBlock: App & Site Blocker",
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2021-08-17T07:00:00Z",
+        "version": "4.14.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "price": 0.0,
+        "userRatingCount": 5,
+        "descriptionSHA256": "f4e2257d9c85cbaf9cd8496ddc82a9a5d41b2e0440020c527d8b3b8c4bbe4236"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/sl/app/parental-control-app-kidslox/id914825567?uo=4",
+        "averageUserRating": 4.66667,
+        "currentVersionReleaseDate": "2026-09-15T06:03:44Z",
+        "genres": [
+          "Lifestyle",
+          "Utilities"
+        ],
+        "artistName": "Kidslox Trading Ltd",
+        "bundleId": "com.kidslox.main",
+        "trackId": 914825567,
+        "trackName": "Parental Control App - Kidslox",
+        "primaryGenreName": "Lifestyle",
+        "releaseDate": "2014-09-23T23:23:11Z",
+        "version": "11.3.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "price": 0.0,
+        "userRatingCount": 3,
+        "descriptionSHA256": "d7539daf53bb81a1e94445145b66c140d46f513f2094f6b5fa099f8287fae953"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/sl/app/app-lock-hide-app-lock-apps/id1616433953?uo=4",
+        "averageUserRating": 4.42856,
+        "currentVersionReleaseDate": "2022-11-09T19:44:17Z",
+        "genres": [
+          "Utilities"
+        ],
+        "artistName": "KINGSMEN VIETNAM COMPANY LIMITED",
+        "bundleId": "com.kingsmen.lockdatamanager",
+        "trackId": 1616433953,
+        "trackName": "App Lock, Hide App & Lock Apps",
+        "primaryGenreName": "Utilities",
+        "releaseDate": "2022-03-30T07:00:00Z",
+        "version": "1.6",
+        "wrapperType": "software",
+        "currency": "USD",
+        "price": 0.0,
+        "userRatingCount": 399,
+        "descriptionSHA256": "a9a10fab975dea91f7d622ac28f56cc89c7ac676e92e3c3e0d06fd1a1df131e8"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/sl/app/faceapp-perfect-face-editor/id1180884341?uo=4",
+        "averageUserRating": 4.47659,
+        "currentVersionReleaseDate": "2026-11-14T11:50:27Z",
+        "genres": [
+          "Photo & Video",
+          "Entertainment"
+        ],
+        "artistName": "FaceApp Technology Limited",
+        "bundleId": "io.faceapp.ios",
+        "trackId": 1180884341,
+        "trackName": "FaceApp: Perfect Face Editor",
+        "primaryGenreName": "Photo & Video",
+        "releaseDate": "2017-01-24T14:13:07Z",
+        "version": "26.10.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "price": 0.0,
+        "userRatingCount": 1773,
+        "descriptionSHA256": "7005437c6af00e0dca408ae0b4cfb10ada33cc3e1613352a679a727e504f5036"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "5974be8f17e5d6de204c6cc4d9825ad362690d82aa9fb4a202e90dd6fc15b709",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

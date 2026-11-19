@@ -1,0 +1,123 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=screen+time+control&country=rs&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "trackId": 1541027222,
+        "trackName": "ScreenZen- Screen Time Control",
+        "bundleId": "com.scottharvey.screenzenapp.ios",
+        "releaseDate": "2021-07-16T07:00:00Z",
+        "currentVersionReleaseDate": "2026-09-06T14:20:14Z",
+        "version": "4.0.0",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "trackViewUrl": "https://apps.apple.com/rs/app/screenzen-screen-time-control/id1541027222?uo=4",
+        "averageUserRating": 4.87406,
+        "artistName": "ScreenZen LLC",
+        "primaryGenreName": "Productivity",
+        "price": 0.0,
+        "userRatingCount": 135,
+        "descriptionSHA256": "def0cb7cf41c8f7b1619d270d38fe8aa23859b81147ae63a1041bc0a1b7f8cc8"
+      },
+      {
+        "kind": "software",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "trackId": 1497465230,
+        "trackName": "Opal: Screen Time Control",
+        "bundleId": "com.withopal.opal",
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "trackViewUrl": "https://apps.apple.com/rs/app/opal-screen-time-control/id1497465230?uo=4",
+        "averageUserRating": 4.75896,
+        "artistName": "Opal OS",
+        "primaryGenreName": "Productivity",
+        "price": 0.0,
+        "userRatingCount": 195,
+        "descriptionSHA256": "79545dcfd9d33edf53d3567fc6a6eb5b582561ed18b9d49245fbff4af0417656"
+      },
+      {
+        "kind": "software",
+        "genres": [
+          "Productivity",
+          "Utilities"
+        ],
+        "trackId": 6744338972,
+        "trackName": "Brainrot: Screen Time Control",
+        "bundleId": "smobiz.brainrot",
+        "releaseDate": "2025-05-20T07:00:00Z",
+        "currentVersionReleaseDate": "2026-11-10T01:03:44Z",
+        "version": "2.0.14",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "trackViewUrl": "https://apps.apple.com/rs/app/brainrot-screen-time-control/id6744338972?uo=4",
+        "averageUserRating": 4.43548,
+        "artistName": "Smolworks Inc",
+        "primaryGenreName": "Productivity",
+        "price": 0.0,
+        "userRatingCount": 62,
+        "descriptionSHA256": "fdd84f5e733ba69c5d0a9a6e1a087401d7736a33f153ecfdce5a57ca441eb6e3"
+      },
+      {
+        "kind": "software",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "trackId": 1645639057,
+        "trackName": "Refocus: App Blocker & Lock",
+        "bundleId": "com.refocus.refocus",
+        "releaseDate": "2022-09-22T07:00:00Z",
+        "currentVersionReleaseDate": "2026-11-18T15:32:47Z",
+        "version": "2.2.11",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "trackViewUrl": "https://apps.apple.com/rs/app/refocus-app-blocker-lock/id1645639057?uo=4",
+        "averageUserRating": 4.65385,
+        "artistName": "Labi, LLC",
+        "primaryGenreName": "Productivity",
+        "price": 0.0,
+        "userRatingCount": 26,
+        "descriptionSHA256": "31bd6049418a698d36c61b2eafbe2ca02a56d8aa24878c1963caa5895db876a1"
+      },
+      {
+        "kind": "software",
+        "genres": [
+          "Productivity"
+        ],
+        "trackId": 6746537171,
+        "trackName": "Unrot: Earn your Screen Time",
+        "bundleId": "com.unrotou.unrot",
+        "releaseDate": "2025-06-04T07:00:00Z",
+        "currentVersionReleaseDate": "2026-11-17T23:57:22Z",
+        "version": "5.0.1",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "trackViewUrl": "https://apps.apple.com/rs/app/unrot-earn-your-screen-time/id6746537171?uo=4",
+        "averageUserRating": 4.64426,
+        "artistName": "Unrot OÜ",
+        "primaryGenreName": "Productivity",
+        "price": 0.0,
+        "userRatingCount": 357,
+        "descriptionSHA256": "12adff6dd116c1ee691ffdde6965edfdf9a3d682b6fdc4a3214199fc9ce2beea"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "76f22fec3d52d42a10bce39b7aa49feb176a97161139df52141da3abaa33aeb0",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

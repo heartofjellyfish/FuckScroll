@@ -1,0 +1,124 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=blokiranje+aplikacija&country=ba&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "price": 0.0,
+        "genres": [
+          "Productivity",
+          "Utilities"
+        ],
+        "bundleId": "app.qadry.ios",
+        "artistName": "Yurii Koshkin",
+        "releaseDate": "2026-06-06T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-11T20:33:57Z",
+        "version": "1.5.4",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "trackViewUrl": "https://apps.apple.com/ba/app/app-blocker-screen-time/id6758555012?uo=4",
+        "averageUserRating": 0,
+        "trackId": 6758555012,
+        "trackName": "App Blocker: Screen Time",
+        "userRatingCount": 0,
+        "descriptionSHA256": "8c8bc179d3229190dbae8e558ef22395d692a1cc58db103c3c8cbb517b5e44ea"
+      },
+      {
+        "kind": "software",
+        "price": 0.0,
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "bundleId": "com.thinh.sixsix.SIXSIX",
+        "artistName": "THINH TRAN",
+        "releaseDate": "2026-03-25T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-02T08:09:21Z",
+        "version": "2.1.3",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "trackViewUrl": "https://apps.apple.com/ba/app/app-blocker-focus-arco/id6761037446?uo=4",
+        "averageUserRating": 0,
+        "trackId": 6761037446,
+        "trackName": "App Blocker & Focus: ARCO",
+        "userRatingCount": 0,
+        "descriptionSHA256": "d3be315e86205de10c4ad07c7a26bfdc5ba4c7a2441642ee81dba5e07dffdb99"
+      },
+      {
+        "kind": "software",
+        "price": 0.0,
+        "genres": [
+          "Utilities",
+          "Productivity"
+        ],
+        "bundleId": "com.smartRecord.spamBlocker",
+        "artistName": "App Toro",
+        "releaseDate": "2020-04-30T07:00:00Z",
+        "primaryGenreName": "Utilities",
+        "currentVersionReleaseDate": "2026-10-14T14:35:15Z",
+        "version": "1.67",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "trackViewUrl": "https://apps.apple.com/ba/app/spam-call-blocker-stop-scam/id1505796584?uo=4",
+        "averageUserRating": 0,
+        "trackId": 1505796584,
+        "trackName": "Spam Call Blocker: Stop Scam",
+        "userRatingCount": 0,
+        "descriptionSHA256": "e24f89ab4033c4cdb8fb8bfb444ceab81cf29641b2c1d34cd5834502c900277d"
+      },
+      {
+        "kind": "software",
+        "price": 0.0,
+        "genres": [
+          "Utilities",
+          "Productivity"
+        ],
+        "bundleId": "com.truesoftware.TrueCallerOther",
+        "artistName": "True Software Scandinavia AB",
+        "releaseDate": "2020-04-10T07:00:00Z",
+        "primaryGenreName": "Utilities",
+        "currentVersionReleaseDate": "2026-11-16T11:40:11Z",
+        "version": "26.45",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "trackViewUrl": "https://apps.apple.com/ba/app/truecaller-premium-caller-id/id448142450?uo=4",
+        "averageUserRating": 4,
+        "trackId": 448142450,
+        "trackName": "Truecaller: Premium Caller ID",
+        "userRatingCount": 4,
+        "descriptionSHA256": "3151c64051cb434de38b3290ed4527cdeeae10f467aff957e324abc8f9e6af22"
+      },
+      {
+        "kind": "software",
+        "price": 0.0,
+        "genres": [
+          "Education",
+          "Productivity"
+        ],
+        "bundleId": "com.pallo.passionTimerScoped",
+        "artistName": "UnCheon Baek",
+        "releaseDate": "2020-04-10T07:00:00Z",
+        "primaryGenreName": "Education",
+        "currentVersionReleaseDate": "2026-11-16T22:50:55Z",
+        "version": "810.1.18",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "trackViewUrl": "https://apps.apple.com/ba/app/ypt-study-group-timer/id1441909643?uo=4",
+        "averageUserRating": 5,
+        "trackId": 1441909643,
+        "trackName": "YPT - Study Group & Timer",
+        "userRatingCount": 1,
+        "descriptionSHA256": "9468a4c3b797f6dd95059d27400920deb49d471eb0613261355a56eb9a81b778"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "b0f97b0ad38b145034d3a2419e8e182cb85f805c743ed9dabba4931cbfee9112",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

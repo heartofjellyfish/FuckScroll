@@ -1,0 +1,124 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=social+media+blocker&country=ms&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "averageUserRating": 5,
+        "trackViewUrl": "https://apps.apple.com/ms/app/opal-screen-time-control/id1497465230?uo=4",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "artistName": "Opal OS",
+        "primaryGenreName": "Productivity",
+        "bundleId": "com.withopal.opal",
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "trackId": 1497465230,
+        "trackName": "Opal: Screen Time Control",
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "USD",
+        "userRatingCount": 1,
+        "descriptionSHA256": "79545dcfd9d33edf53d3567fc6a6eb5b582561ed18b9d49245fbff4af0417656"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 4.53493,
+        "trackViewUrl": "https://apps.apple.com/ms/app/youtube/id544007664?uo=4",
+        "genres": [
+          "Photo & Video",
+          "Entertainment"
+        ],
+        "price": 0.0,
+        "artistName": "Google",
+        "primaryGenreName": "Photo & Video",
+        "bundleId": "com.google.ios.youtube",
+        "releaseDate": "2012-09-11T07:23:19Z",
+        "trackId": 544007664,
+        "trackName": "YouTube",
+        "currentVersionReleaseDate": "2026-11-15T17:07:14Z",
+        "version": "21.46.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "userRatingCount": 501,
+        "descriptionSHA256": "1e6f0cf91581de1c7a968a4ce4e586263baef427a78914044c88539d05cc4b2a"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/ms/app/flora-green-focus/id1225155794?uo=4",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "artistName": "AppFinca Inc.",
+        "primaryGenreName": "Productivity",
+        "bundleId": "com.appfinca.flora.ios",
+        "releaseDate": "2021-02-20T08:00:00Z",
+        "trackId": 1225155794,
+        "trackName": "Flora - Green Focus",
+        "currentVersionReleaseDate": "2026-10-30T18:18:40Z",
+        "version": "3.7.43",
+        "wrapperType": "software",
+        "currency": "USD",
+        "userRatingCount": 0,
+        "descriptionSHA256": "f3b0601a18d82058294b49e84980b702f30e769e9a7788ec2fb0bf8620b5bdf7"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 4.64179,
+        "trackViewUrl": "https://apps.apple.com/ms/app/x/id333903271?uo=4",
+        "genres": [
+          "News",
+          "Social Networking"
+        ],
+        "price": 0.0,
+        "artistName": "X Corp.",
+        "primaryGenreName": "News",
+        "bundleId": "com.atebits.Tweetie2",
+        "releaseDate": "2011-07-09T15:35:40Z",
+        "trackId": 333903271,
+        "trackName": "X",
+        "currentVersionReleaseDate": "2026-11-18T19:19:20Z",
+        "version": "12.45",
+        "wrapperType": "software",
+        "currency": "USD",
+        "userRatingCount": 67,
+        "descriptionSHA256": "01a5e16121fe79ad67563763c1546327da08ffb2381860b63e24d11b3d56ae07"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/ms/app/one-sec-screen-time-focus/id1532875441?uo=4",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "artistName": "riedel.wtf apps S.L.",
+        "primaryGenreName": "Productivity",
+        "bundleId": "wtf.riedel.one-sec",
+        "releaseDate": "2020-09-29T07:00:00Z",
+        "trackId": 1532875441,
+        "trackName": "one sec | screen time + focus",
+        "currentVersionReleaseDate": "2026-11-14T18:42:34Z",
+        "version": "6.1.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "userRatingCount": 0,
+        "descriptionSHA256": "7458286eeec2edf883eec2f9abc49582f9924be2e29f484b82b1014b4b2a0462"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "be5e821e61b3f46d645e9e2562cee1be674e8028ea42761592db4802872f0288",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

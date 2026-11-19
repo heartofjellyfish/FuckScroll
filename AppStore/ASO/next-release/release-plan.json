@@ -1,7 +1,7 @@
 {
   "plannedVersion": "1.2",
   "scope": "ASO, missing translations and localization text-fit fixes only; no new features or timing changes",
-  "status": "Prepared and checked locally; not uploaded",
+  "status": "Prepared locally and checked; this ASO/name revision has not been uploaded or submitted",
   "currentSubmissionPreserved": {
     "version": "1.1",
     "build": "74",
@@ -44,21 +44,44 @@
     "voiceLiteralKeys": "94 × ten UI languages",
     "localizedPickerUI": "French, German, Japanese and Korean save actions passed; German truncation fixed and visually rechecked",
     "timingRulesChanged": false,
-    "threeFieldMetadata": "19 passed 30/30/100 UTF-8 bytes and duplicate checks; 16 complete listings synchronized"
+    "threeFieldMetadata": "40 drafts passed 30/30/100-byte conservative budget and duplicate checks; 16 complete listings synchronized",
+    "namePublicLookup": "40 proposed names checked; no exact other-app matches within returned top five. Not a reservation or trademark check.",
+    "deepResearch": "175 records and 4 language studies passed provenance, query diversity, actual result counts and local links checks"
   },
   "storefrontsAttempted": 175,
   "unsupportedStorefronts": 84,
   "usableSignalStorefronts": 79,
   "lowSignalStorefronts": 12,
-  "threeFieldDraftLocalizations": 19,
+  "threeFieldDraftLocalizations": 40,
   "newMetadataOnlyLocales": [
     "nl-NL",
     "ru",
-    "sv"
+    "sv",
+    "ar-SA",
+    "tr",
+    "hi",
+    "id",
+    "ms",
+    "th",
+    "vi",
+    "pl",
+    "cs",
+    "da",
+    "fi",
+    "no",
+    "el",
+    "he",
+    "hu",
+    "ro",
+    "sk",
+    "uk",
+    "ca",
+    "hr",
+    "sl"
   ],
-  "latestReport": "all-storefronts/index.html",
+  "latestReport": "deep-research/index.html",
   "keywordRowsIn175SeedAudit": 428,
-  "keywordResearchScope": "175 storefront attempts; 91 tool-supported with 4–5 seed metrics and original selected-query top five; 84 unsupported. 79 have >5 signal candidates; 12 low signal. Includes earlier 44-query/21-store audit. Not exhaustive discovery, not 175 independent localizations.",
+  "keywordResearchScope": "175 country records: 91 with >=22 measured candidates and eight distinct Astro searches, 84 with eight public catalog checks and no local popularity. Four extra language studies. No exhaustive or equivalent-precision claim.",
   "previous21StorefrontCompetitorQueries": 44,
   "chinaDeepDive": {
     "candidateKeywords": 22,
@@ -67,5 +90,39 @@
     "report": "china-deep-dive/index.html",
     "newFinding": "app blocker 33/11 added to Chinese hidden keyword field"
   },
-  "keywordRowsIncludingChinaExpansion": 446
+  "keywordRowsIncludingChinaExpansion": 446,
+  "currentThreeFieldSource": "deep-research/metadata.json",
+  "all175CatalogOrAstroChecked": true,
+  "deepResearch": {
+    "generatedAt": "2026-11-19T06:53:15.601166+00:00",
+    "storefrontsPlanned": 175,
+    "storefrontRecords": 175,
+    "astroDeepComplete": 91,
+    "astroDeepPlanned": 91,
+    "catalogComplete": 84,
+    "catalogPlanned": 84,
+    "keywordMetricRows": 2586,
+    "queryRecords": 1400,
+    "astroQueries": 728,
+    "catalogQueries": 672,
+    "actualCompetitorRows": 6653,
+    "studyKeywordMetricRows": 118,
+    "studyQueryRecords": 32,
+    "studyCompetitorRows": 139,
+    "languageStudiesComplete": 4,
+    "languageStudiesPlanned": 4,
+    "complete": true,
+    "metadataDrafts": 40,
+    "statusCounts": {
+      "目录补充完成；无热度／自然排名": 84,
+      "深查完成": 91
+    },
+    "limitations": [
+      "84 storefronts have no Astro popularity or native keyword rank; Apple catalog is labelled separately.",
+      "Public catalog may omit subtitles or return fewer than five.",
+      "Country hypotheses are not individually writable locale fields.",
+      "New locale drafts do not add UI translations or complete store assets.",
+      "Names are draft candidates; search does not reserve names or clear trademarks."
+    ]
+  }
 }

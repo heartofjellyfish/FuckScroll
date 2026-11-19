@@ -1,0 +1,124 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=screen+time+control&country=vc&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "artistName": "ScreenZen LLC",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "bundleId": "com.scottharvey.screenzenapp.ios",
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2021-07-16T07:00:00Z",
+        "currentVersionReleaseDate": "2026-09-06T14:20:14Z",
+        "version": "4.0.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/vc/app/screenzen-screen-time-control/id1541027222?uo=4",
+        "averageUserRating": 0,
+        "trackId": 1541027222,
+        "trackName": "ScreenZen- Screen Time Control",
+        "userRatingCount": 0,
+        "descriptionSHA256": "def0cb7cf41c8f7b1619d270d38fe8aa23859b81147ae63a1041bc0a1b7f8cc8"
+      },
+      {
+        "kind": "software",
+        "artistName": "Opal OS",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "bundleId": "com.withopal.opal",
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/vc/app/opal-screen-time-control/id1497465230?uo=4",
+        "averageUserRating": 0,
+        "trackId": 1497465230,
+        "trackName": "Opal: Screen Time Control",
+        "userRatingCount": 0,
+        "descriptionSHA256": "79545dcfd9d33edf53d3567fc6a6eb5b582561ed18b9d49245fbff4af0417656"
+      },
+      {
+        "kind": "software",
+        "artistName": "Smolworks Inc",
+        "genres": [
+          "Productivity",
+          "Utilities"
+        ],
+        "price": 0.0,
+        "bundleId": "smobiz.brainrot",
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2025-05-20T07:00:00Z",
+        "currentVersionReleaseDate": "2026-11-10T01:03:44Z",
+        "version": "2.0.14",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/vc/app/brainrot-screen-time-control/id6744338972?uo=4",
+        "averageUserRating": 0,
+        "trackId": 6744338972,
+        "trackName": "Brainrot: Screen Time Control",
+        "userRatingCount": 0,
+        "descriptionSHA256": "fdd84f5e733ba69c5d0a9a6e1a087401d7736a33f153ecfdce5a57ca441eb6e3"
+      },
+      {
+        "kind": "software",
+        "artistName": "Screen Time Labs",
+        "genres": [
+          "Lifestyle",
+          "Productivity"
+        ],
+        "price": 0.0,
+        "bundleId": "com.screentime",
+        "primaryGenreName": "Lifestyle",
+        "releaseDate": "2015-12-15T20:43:11Z",
+        "currentVersionReleaseDate": "2022-12-07T13:43:25Z",
+        "version": "3.72",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/vc/app/screen-time-parental-control/id1055315077?uo=4",
+        "averageUserRating": 0,
+        "trackId": 1055315077,
+        "trackName": "Screen Time Parental Control",
+        "userRatingCount": 0,
+        "descriptionSHA256": "4304fa45bc672e931bb3f98d3b8232f55d3f776c5eb880d3d113c7227a932ad6"
+      },
+      {
+        "kind": "software",
+        "artistName": "MD Studio",
+        "genres": [
+          "Health & Fitness",
+          "Productivity"
+        ],
+        "price": 0.0,
+        "bundleId": "tech.miidii.off-screen",
+        "primaryGenreName": "Health & Fitness",
+        "releaseDate": "2019-09-10T07:00:00Z",
+        "currentVersionReleaseDate": "2026-11-16T15:54:59Z",
+        "version": "3.22.6",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/vc/app/offscreen-screen-time-control/id1474340105?uo=4",
+        "averageUserRating": 0,
+        "trackId": 1474340105,
+        "trackName": "OffScreen: Screen Time Control",
+        "userRatingCount": 0,
+        "descriptionSHA256": "079a343ef3820f7b726bc6a79a3cc60eb0f9faf0dc1070c1af73e61123346c28"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "dbe24145cd194cd173a151bbac8693ecd9bf41e22c47dee2fb524f3e4977e868",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

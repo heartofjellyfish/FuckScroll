@@ -1,0 +1,124 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=bloqueur+d%27apps&country=ne&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "genres": [
+          "Reference",
+          "Productivity"
+        ],
+        "price": 0.0,
+        "bundleId": "Zikr.SalahScreen",
+        "releaseDate": "2025-10-09T07:00:00Z",
+        "trackId": 6748571304,
+        "trackName": "SalahScreen: Prayer Focus",
+        "primaryGenreName": "Reference",
+        "currentVersionReleaseDate": "2026-09-02T14:13:01Z",
+        "version": "2.0.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/ne/app/salahscreen-prayer-focus/id6748571304?uo=4",
+        "averageUserRating": 3.2,
+        "artistName": "Rayane Sahi",
+        "userRatingCount": 5,
+        "descriptionSHA256": "f480e39c00f75ad4ff40ceb47efb6b1c044e6849c1d15aab31a66b5a510b84e9"
+      },
+      {
+        "kind": "software",
+        "genres": [
+          "Utilities",
+          "Productivity"
+        ],
+        "price": 0.0,
+        "bundleId": "com.callapp.contacts",
+        "releaseDate": "2025-10-15T07:00:00Z",
+        "trackId": 6739289261,
+        "trackName": "CallApp: Caller ID & Block",
+        "primaryGenreName": "Utilities",
+        "currentVersionReleaseDate": "2026-11-16T06:52:43Z",
+        "version": "1.29",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/ne/app/callapp-caller-id-block/id6739289261?uo=4",
+        "averageUserRating": 4.83333,
+        "artistName": "CallApp",
+        "userRatingCount": 6,
+        "descriptionSHA256": "b7f2207593fc05fa4be803a7d37746e713c658cc1e610d9617c9f7f75c37b64c"
+      },
+      {
+        "kind": "software",
+        "genres": [
+          "Health & Fitness",
+          "Productivity"
+        ],
+        "price": 0.0,
+        "bundleId": "com.app.hakanyigitunac.SoberLock",
+        "releaseDate": "2026-05-14T07:00:00Z",
+        "trackId": 6761304507,
+        "trackName": "App Blocker: SoberLock",
+        "primaryGenreName": "Health & Fitness",
+        "currentVersionReleaseDate": "2026-08-20T21:34:29Z",
+        "version": "1.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/ne/app/app-blocker-soberlock/id6761304507?uo=4",
+        "averageUserRating": 0,
+        "artistName": "Hakan Yigit Unac",
+        "userRatingCount": 0,
+        "descriptionSHA256": "9be8b212248d5d46d146b18655c8842f4c0217bd7b8353124cd8c0791882097a"
+      },
+      {
+        "kind": "software",
+        "genres": [
+          "Productivity",
+          "Utilities"
+        ],
+        "price": 0.0,
+        "bundleId": "com.sorayazawa.applocksolo",
+        "releaseDate": "2026-08-06T07:00:00Z",
+        "trackId": 6787695392,
+        "trackName": "App Blocker: LockKun",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-12T18:56:40Z",
+        "version": "1.0.11",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/ne/app/app-blocker-lockkun/id6787695392?uo=4",
+        "averageUserRating": 0,
+        "artistName": "Sora Yazawa",
+        "userRatingCount": 0,
+        "descriptionSHA256": "ee1f1e6228e079aef08e5c625acbae448692053855ce0d11644b9bbab0099f05"
+      },
+      {
+        "kind": "software",
+        "genres": [
+          "Health & Fitness",
+          "Lifestyle"
+        ],
+        "price": 0.0,
+        "bundleId": "com.lumiostudio.runlock",
+        "releaseDate": "2026-05-14T07:00:00Z",
+        "trackId": 6761887443,
+        "trackName": "App Blocker: Runlock",
+        "primaryGenreName": "Health & Fitness",
+        "currentVersionReleaseDate": "2026-09-02T22:43:32Z",
+        "version": "1.0.4",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/ne/app/app-blocker-runlock/id6761887443?uo=4",
+        "averageUserRating": 0,
+        "artistName": "Mehmet Babacan",
+        "userRatingCount": 0,
+        "descriptionSHA256": "4143499cc2e0e2eedcee889f7e7a158202260060eb3e88580ebcb00ec843610a"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "4ba9f77354a1abbece55f4af28ddf548255e8cd3d950d363354e4c4d9e82b3ee",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

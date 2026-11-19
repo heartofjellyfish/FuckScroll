@@ -1,0 +1,123 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=ograni%C4%8Denje+aplikacija&country=ba&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "averageUserRating": 5,
+        "trackViewUrl": "https://apps.apple.com/ba/app/app-lock-lock-apps/id6458880741?uo=4",
+        "artistName": "万龙 戴",
+        "genres": [
+          "Productivity"
+        ],
+        "price": 0.0,
+        "trackId": 6458880741,
+        "trackName": "App Lock - Lock Apps ™",
+        "releaseDate": "2023-12-26T08:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2024-09-25T11:03:04Z",
+        "version": "1.0.4",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "bundleId": "com.zheng.appblocker",
+        "userRatingCount": 1,
+        "descriptionSHA256": "838359ce7e39fd4c1038556ccd521f45f016e2084ca1790e6f98756f01f9a148"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 4.54762,
+        "trackViewUrl": "https://apps.apple.com/ba/app/parental-control-app-kidslox/id914825567?uo=4",
+        "artistName": "Kidslox Trading Ltd",
+        "genres": [
+          "Lifestyle",
+          "Utilities"
+        ],
+        "price": 0.0,
+        "trackId": 914825567,
+        "trackName": "Parental Control App - Kidslox",
+        "releaseDate": "2020-04-10T07:00:00Z",
+        "primaryGenreName": "Lifestyle",
+        "currentVersionReleaseDate": "2026-09-15T06:03:44Z",
+        "version": "11.3.0",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "bundleId": "com.kidslox.main",
+        "userRatingCount": 42,
+        "descriptionSHA256": "d7539daf53bb81a1e94445145b66c140d46f513f2094f6b5fa099f8287fae953"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 4.8,
+        "trackViewUrl": "https://apps.apple.com/ba/app/parental-control-kroha/id1365784521?uo=4",
+        "artistName": "MESH Ukraina",
+        "genres": [
+          "Education",
+          "Utilities"
+        ],
+        "price": 0.0,
+        "trackId": 1365784521,
+        "trackName": "Parental Control - Kroha",
+        "releaseDate": "2020-04-10T07:00:00Z",
+        "primaryGenreName": "Education",
+        "currentVersionReleaseDate": "2025-12-10T05:45:28Z",
+        "version": "4.7.4",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "bundleId": "com.meshukraina.parentalcontrol",
+        "userRatingCount": 5,
+        "descriptionSHA256": "5a47df5f5fc879ceef18885745a1214c8ab1c472162ff9bd8f7255d53a85bd69"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 4.40909,
+        "trackViewUrl": "https://apps.apple.com/ba/app/speedometer/id1459737793?uo=4",
+        "artistName": "UniCom Technology",
+        "genres": [
+          "Utilities",
+          "Travel"
+        ],
+        "price": 0.0,
+        "trackId": 1459737793,
+        "trackName": "Speedometer ..",
+        "releaseDate": "2020-04-10T07:00:00Z",
+        "primaryGenreName": "Utilities",
+        "currentVersionReleaseDate": "2026-06-30T01:39:07Z",
+        "version": "1.9",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "bundleId": "speeddigi.matrix-soft.org",
+        "userRatingCount": 22,
+        "descriptionSHA256": "70b457e7de79ad0c26223cccb8d489b491c8889c131beca5a2093b95227cd8d3"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 4.65942,
+        "trackViewUrl": "https://apps.apple.com/ba/app/radarall-speed-camera-detector/id1553721110?uo=4",
+        "artistName": "Little Mouse Software",
+        "genres": [
+          "Navigation",
+          "Travel"
+        ],
+        "price": 0.0,
+        "trackId": 1553721110,
+        "trackName": "RadarAll Speed Camera Detector",
+        "releaseDate": "2021-06-06T07:00:00Z",
+        "primaryGenreName": "Navigation",
+        "currentVersionReleaseDate": "2026-11-16T15:10:02Z",
+        "version": "9.0.1",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "bundleId": "com.littlemousesoftware.radarall",
+        "userRatingCount": 138,
+        "descriptionSHA256": "bfcc4ea88e4d5e1ed8b4021e018f794e7ad1b6509bef68e3c790f4bd3ce4049b"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "26dedd3c52af798afb76c37b9a0bdf2739a15a0beaa1da78ea7b0972f379595e",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

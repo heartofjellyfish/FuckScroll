@@ -1,0 +1,123 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=bloquer+des+applications&country=ci&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/ci/app/appblock-bloquer-des-applis/id1515753232?uo=4",
+        "averageUserRating": 4.57692,
+        "genres": [
+          "Productivité",
+          "Forme et santé"
+        ],
+        "price": 0.0,
+        "bundleId": "eu.mobilesoft.appblock",
+        "trackName": "AppBlock: bloquer des applis",
+        "trackId": 1515753232,
+        "releaseDate": "2021-08-17T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-11T10:48:39Z",
+        "version": "4.14.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "artistName": "MobileSoft s.r.o.",
+        "userRatingCount": 52,
+        "descriptionSHA256": "ba16ffb8042ef29530994b670aced6f5b47302eebfab4a3c47ad2691f82a1e91"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/ci/app/app-locker-bloquer-des-apps/id6754396629?uo=4",
+        "averageUserRating": 0,
+        "genres": [
+          "Utilitaires",
+          "Productivité"
+        ],
+        "price": 0.0,
+        "bundleId": "com.hsefak.AppLocker",
+        "trackName": "App Locker : Bloquer des apps",
+        "trackId": 6754396629,
+        "releaseDate": "2025-11-04T08:00:00Z",
+        "primaryGenreName": "Utilities",
+        "currentVersionReleaseDate": "2026-03-12T01:45:54Z",
+        "version": "1.1.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "artistName": "Huseyin Sefa Kucuk",
+        "userRatingCount": 0,
+        "descriptionSHA256": "66399c6a3300094870558d426e31952b9a6afb703fa210a08fdf442f8c0823c8"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/ci/app/grit-habitudes-routines-tdah/id6446997766?uo=4",
+        "averageUserRating": 4.42391,
+        "genres": [
+          "Productivité",
+          "Forme et santé"
+        ],
+        "price": 0.0,
+        "bundleId": "stoope.Grit",
+        "trackName": "Grit: Habitudes Routines TDAH",
+        "trackId": 6446997766,
+        "releaseDate": "2023-05-17T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-09T14:58:19Z",
+        "version": "6.2.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "artistName": "GrittyApps",
+        "userRatingCount": 184,
+        "descriptionSHA256": "de3e3fb2cac20a38cf3c4a8326527727ee29e1d0854a6e96fd9ba18de8f1efdc"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/ci/app/blocage-de-porno-app/id1553747115?uo=4",
+        "averageUserRating": 4.06637,
+        "genres": [
+          "Utilitaires"
+        ],
+        "price": 0.0,
+        "bundleId": "com.pornblocker.app",
+        "trackName": "Blocage de porno App",
+        "trackId": 1553747115,
+        "releaseDate": "2021-02-22T08:00:00Z",
+        "primaryGenreName": "Utilities",
+        "currentVersionReleaseDate": "2026-10-05T21:12:03Z",
+        "version": "1.6.2",
+        "wrapperType": "software",
+        "currency": "USD",
+        "artistName": "RUSAGROTERMINAL31, OOO",
+        "userRatingCount": 467,
+        "descriptionSHA256": "afad885c934bc91e7917460afb185087717f7f14bfb700c888996246df1e8ff7"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/ci/app/truecaller-sais-qui-tappelle/id448142450?uo=4",
+        "averageUserRating": 4.15269,
+        "genres": [
+          "Utilitaires",
+          "Productivité"
+        ],
+        "price": 0.0,
+        "bundleId": "com.truesoftware.TrueCallerOther",
+        "trackName": "Truecaller: Sais qui t'appelle",
+        "trackId": 448142450,
+        "releaseDate": "2020-04-10T07:00:00Z",
+        "primaryGenreName": "Utilities",
+        "currentVersionReleaseDate": "2026-11-16T11:40:11Z",
+        "version": "26.45",
+        "wrapperType": "software",
+        "currency": "USD",
+        "artistName": "True Software Scandinavia AB",
+        "userRatingCount": 668,
+        "descriptionSHA256": "dac24443a9ef7ff924d82818584c12a256bc351f145f064bd77218b0dd5e1d48"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "7eb35f3611e2bc2efc38019f0d0c76586512baaed259fc23d8ad3fb5268ee141",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

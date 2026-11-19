@@ -1,0 +1,123 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=stop+scrolling&country=xk&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "currentVersionReleaseDate": "2026-10-16T11:04:41Z",
+        "genres": [
+          "Productivity",
+          "Social Networking"
+        ],
+        "price": 0.0,
+        "bundleId": "social.Social-lite",
+        "trackId": 6757661674,
+        "trackName": "SocialLite-Block Reels&Shorts",
+        "releaseDate": "2026-01-29T08:00:00Z",
+        "primaryGenreName": "Productivity",
+        "version": "3.1.5",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "trackViewUrl": "https://apps.apple.com/xk/app/sociallite-block-reels-shorts/id6757661674?uo=4",
+        "averageUserRating": 4,
+        "artistName": "Sociallite LLC",
+        "userRatingCount": 1,
+        "descriptionSHA256": "9dbd89f368c17dc50b7187fccb2c303ea2893d4ea389e2290954ac38e87b7144"
+      },
+      {
+        "kind": "software",
+        "currentVersionReleaseDate": "2026-05-15T16:40:18Z",
+        "genres": [
+          "Productivity"
+        ],
+        "price": 0.0,
+        "bundleId": "com.dropouts.Stop-Scrolling",
+        "trackId": 6449493645,
+        "trackName": "Stop Scrolling - Refocus Life",
+        "releaseDate": "2025-08-19T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "version": "2.0.2",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "trackViewUrl": "https://apps.apple.com/xk/app/stop-scrolling-refocus-life/id6449493645?uo=4",
+        "averageUserRating": 0,
+        "artistName": "Dropouts Technologies LLP",
+        "userRatingCount": 0,
+        "descriptionSHA256": "94840722ae123c2cb134fa5878c662b593fe92791197c27a7ed962f04008f457"
+      },
+      {
+        "kind": "software",
+        "currentVersionReleaseDate": "2026-11-14T18:42:34Z",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "bundleId": "wtf.riedel.one-sec",
+        "trackId": 1532875441,
+        "trackName": "one sec | screen time + focus",
+        "releaseDate": "2020-09-29T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "version": "6.1.3",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "trackViewUrl": "https://apps.apple.com/xk/app/one-sec-screen-time-focus/id1532875441?uo=4",
+        "averageUserRating": 4.5,
+        "artistName": "riedel.wtf apps S.L.",
+        "userRatingCount": 4,
+        "descriptionSHA256": "7458286eeec2edf883eec2f9abc49582f9924be2e29f484b82b1014b4b2a0462"
+      },
+      {
+        "kind": "software",
+        "currentVersionReleaseDate": "2026-09-06T14:20:14Z",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "bundleId": "com.scottharvey.screenzenapp.ios",
+        "trackId": 1541027222,
+        "trackName": "ScreenZen- Screen Time Control",
+        "releaseDate": "2021-07-16T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "version": "4.0.0",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "trackViewUrl": "https://apps.apple.com/xk/app/screenzen-screen-time-control/id1541027222?uo=4",
+        "averageUserRating": 4.71429,
+        "artistName": "ScreenZen LLC",
+        "userRatingCount": 7,
+        "descriptionSHA256": "def0cb7cf41c8f7b1619d270d38fe8aa23859b81147ae63a1041bc0a1b7f8cc8"
+      },
+      {
+        "kind": "software",
+        "currentVersionReleaseDate": "2026-11-04T10:42:05Z",
+        "genres": [
+          "Productivity",
+          "Lifestyle"
+        ],
+        "price": 0.0,
+        "bundleId": "com.doomsafe.DoomSafe",
+        "trackId": 6759962568,
+        "trackName": "DoomSafe: Stop Scrolling",
+        "releaseDate": "2026-03-17T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "version": "1.4",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "trackViewUrl": "https://apps.apple.com/xk/app/doomsafe-stop-scrolling/id6759962568?uo=4",
+        "averageUserRating": 0,
+        "artistName": "Raul Alonso Pardo",
+        "userRatingCount": 0,
+        "descriptionSHA256": "de2c0741cc5514761abe11121cd08f7a0a253f15a1e106c31c38125f844eaa9c"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "e20328b7e6d9cd87400f11787f4ecff6caabe5a3fd21016ebb4dd4226bd2ff3a",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

@@ -1,0 +1,122 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=blokator+aplikacija&country=ba&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "averageUserRating": 4.4,
+        "artistName": "友财 徐",
+        "genres": [
+          "Utilities"
+        ],
+        "price": 0.0,
+        "bundleId": "com.xu.applock",
+        "trackId": 6469686557,
+        "trackName": "App Lock - Lock Apps .",
+        "releaseDate": "2023-11-07T08:00:00Z",
+        "primaryGenreName": "Utilities",
+        "currentVersionReleaseDate": "2026-06-22T01:26:35Z",
+        "version": "1.5.0",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "trackViewUrl": "https://apps.apple.com/ba/app/app-lock-lock-apps/id6469686557?uo=4",
+        "userRatingCount": 5,
+        "descriptionSHA256": "15b3c0f184bdcdd978e379e824c1b4e91598fa21e1c383a33a31fc4c581a3e52"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 0,
+        "artistName": "Loreon",
+        "genres": [
+          "Productivity",
+          "Utilities"
+        ],
+        "price": 0.0,
+        "bundleId": "tech.loreon.hermit",
+        "trackId": 6801801357,
+        "trackName": "App Blocker & Focus: Hermit",
+        "releaseDate": "2026-10-31T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-10-31T14:57:11Z",
+        "version": "1.0",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "trackViewUrl": "https://apps.apple.com/ba/app/app-blocker-focus-hermit/id6801801357?uo=4",
+        "userRatingCount": 0,
+        "descriptionSHA256": "3e5b994ee9f6b1f019786afe3b121b7fd5edc2a57f30c33ec389b9a06018151b"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 0,
+        "artistName": "Ihor Bilohubov",
+        "genres": [
+          "Productivity",
+          "Utilities"
+        ],
+        "price": 0.0,
+        "bundleId": "com.unswayapp",
+        "trackId": 6792724236,
+        "trackName": "Block Apps & Websites: Unsway",
+        "releaseDate": "2026-07-23T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-10-28T17:28:42Z",
+        "version": "1.0.1",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "trackViewUrl": "https://apps.apple.com/ba/app/block-apps-websites-unsway/id6792724236?uo=4",
+        "userRatingCount": 0,
+        "descriptionSHA256": "574c4c5403a73ab9999707671390da199b59d0c2bedd365d4afd58c6013aa809"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 0,
+        "artistName": "ILYAS TORUN",
+        "genres": [
+          "Productivity"
+        ],
+        "price": 0.0,
+        "bundleId": "com.ilyastorun.unscroll",
+        "trackId": 6766120727,
+        "trackName": "Unscroll: Screen Time Control",
+        "releaseDate": "2026-08-15T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-10-27T11:49:47Z",
+        "version": "1.3.2",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "trackViewUrl": "https://apps.apple.com/ba/app/unscroll-screen-time-control/id6766120727?uo=4",
+        "userRatingCount": 0,
+        "descriptionSHA256": "1904b02ababed15cd89e6a1884da10d1dac215d0f761805844392242201135f1"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 0,
+        "artistName": "Matas Klemenis",
+        "genres": [
+          "Productivity",
+          "Utilities"
+        ],
+        "price": 0.0,
+        "bundleId": "com.fella.app",
+        "trackId": 6784962499,
+        "trackName": "No Scroll: Stop Doom Scrolling",
+        "releaseDate": "2026-07-06T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-13T21:50:13Z",
+        "version": "2.57",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "trackViewUrl": "https://apps.apple.com/ba/app/no-scroll-stop-doom-scrolling/id6784962499?uo=4",
+        "userRatingCount": 0,
+        "descriptionSHA256": "f7ce873bbddced062c1f05b5ea3797793a8f64c4d4a694abc9e8d85339a86595"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "68249bdb6b523c21ea3f6bc480dfcff2812b9729d94ed861a642b41ad57bfc20",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

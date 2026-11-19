@@ -1,0 +1,21 @@
+{
+  "locale": "sv",
+  "store": "se",
+  "proposedName": "Screen Time – Anka på vakt",
+  "limitations": "A public top-five name search, not App Store Connect reservation or trademark clearance.",
+  "response": {
+    "id": "2e440fd5-d3b3-4f17-b1e8-cc72e358ff59",
+    "jsonrpc": "2.0",
+    "result": {
+      "content": [
+        {
+          "text": "{\n  \"apps\" : [\n\n  ],\n  \"keyword\" : \"Screen Time – Anka på vakt\",\n  \"platform\" : \"iphone\",\n  \"store\" : \"se\",\n  \"totalResults\" : 0\n}",
+          "type": "text"
+        }
+      ],
+      "isError": false
+    }
+  },
+  "error": null,
+  "exactOtherAppMatches": []
+}

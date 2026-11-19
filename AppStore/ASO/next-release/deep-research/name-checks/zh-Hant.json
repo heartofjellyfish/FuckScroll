@@ -1,0 +1,21 @@
+{
+  "locale": "zh-Hant",
+  "store": "tw",
+  "proposedName": "自覺鴨：戒手機與螢幕使用時間",
+  "limitations": "A public top-five name search, not App Store Connect reservation or trademark clearance.",
+  "response": {
+    "id": "7b545d5d-43fa-4060-a85a-a913a7fe84e1",
+    "jsonrpc": "2.0",
+    "result": {
+      "content": [
+        {
+          "text": "{\n  \"apps\" : [\n\n  ],\n  \"keyword\" : \"自覺鴨：戒手機與螢幕使用時間\",\n  \"platform\" : \"iphone\",\n  \"store\" : \"tw\",\n  \"totalResults\" : 0\n}",
+          "type": "text"
+        }
+      ],
+      "isError": false
+    }
+  },
+  "error": null,
+  "exactOtherAppMatches": []
+}

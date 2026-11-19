@@ -1,0 +1,123 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=%D9%85%D8%AF%D8%A9+%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85+%D8%A7%D9%84%D8%AC%D9%87%D8%A7%D8%B2&country=ye&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/ye/app/finit-screen-time-life/id6786888937?uo=4",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "artistName": "Joschka Bieri",
+        "price": 0.0,
+        "releaseDate": "2026-08-11T07:00:00Z",
+        "trackId": 6786888937,
+        "trackName": "finit: Screen Time & Life",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-10-15T20:52:21Z",
+        "version": "1.0.4",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.getfinit.app",
+        "userRatingCount": 0,
+        "descriptionSHA256": "ffb64cc50461e2de5f3c6a5da30aaa1b85edeb8c34155daf1971a20fbe1cd832"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/ye/app/bspace-screen-time-control/id6776689183?uo=4",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "artistName": "ANNA KUCHUMOVA",
+        "price": 0.0,
+        "releaseDate": "2026-07-14T07:00:00Z",
+        "trackId": 6776689183,
+        "trackName": "BSpace: Screen Time Control",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-02T17:22:55Z",
+        "version": "1.8",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "app.5learn.One-Breath",
+        "userRatingCount": 0,
+        "descriptionSHA256": "8008fe41cccb28c9caf0b87f0ce64467b1f57552c7bb149d5490f3002ee8c009"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/ye/app/toll-screen-time-app-blocker/id6770766229?uo=4",
+        "genres": [
+          "Utilities",
+          "Photo & Video"
+        ],
+        "artistName": "Watson 3 Inc",
+        "price": 0.0,
+        "releaseDate": "2026-07-19T07:00:00Z",
+        "trackId": 6770766229,
+        "trackName": "Toll: Screen Time App Blocker",
+        "primaryGenreName": "Utilities",
+        "currentVersionReleaseDate": "2026-10-01T21:14:53Z",
+        "version": "1.0.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.watson3.cubby",
+        "userRatingCount": 0,
+        "descriptionSHA256": "4343c36b53992c8da758915e75bdbea0a223c68481a01cf78fa8019faeba19b7"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/ye/app/aheno-app-blocker-focus/id6795961801?uo=4",
+        "genres": [
+          "Productivity"
+        ],
+        "artistName": "CENKER KUMLUCALI",
+        "price": 0.0,
+        "releaseDate": "2026-11-10T08:00:00Z",
+        "trackId": 6795961801,
+        "trackName": "Aheno: App Blocker & Focus",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-11T06:58:08Z",
+        "version": "1.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.aheno.ios",
+        "userRatingCount": 0,
+        "descriptionSHA256": "fb0879b295e65c4ba4d71bfcea3506bd40a2b416d16add08e54c360ffa9700c5"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/ye/app/orbin-focus-app-blocker/id6813248537?uo=4",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "artistName": "Ilyas Abdulkadir",
+        "price": 0.0,
+        "releaseDate": "2026-10-07T07:00:00Z",
+        "trackId": 6813248537,
+        "trackName": "Orbin: Focus & App Blocker",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-10-09T07:56:02Z",
+        "version": "1.0.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "app.orbin.ios",
+        "userRatingCount": 0,
+        "descriptionSHA256": "d6982734e60eaf61609e65a908dce5cc454c91fb5b4dd00dfdf83002416bacb7"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "6497b3e6ce7f2b35d8566bfc90fec5fb78575fb1d03ee44413838ec037868356",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

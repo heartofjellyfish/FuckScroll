@@ -1,1 +1,1 @@
-app,blocker,screen,time,防沉迷,应用限制,专注,自律,数字健康,定时
+app,blocker,screen,time,control,防沉迷,专注,自律,数字健康,定时,自控力

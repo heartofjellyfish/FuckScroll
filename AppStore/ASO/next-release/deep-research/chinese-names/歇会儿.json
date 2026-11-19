@@ -1,0 +1,16 @@
+{
+  "query": "歇会儿",
+  "response": {
+    "id": "79dbde70-de3f-413d-bf28-041294391414",
+    "jsonrpc": "2.0",
+    "result": {
+      "content": [
+        {
+          "text": "{\n  \"apps\" : [\n    {\n      \"appStoreId\" : \"6809343796\",\n      \"averageRating\" : 5,\n      \"bundleId\" : \"com.xiaowanying.eyecare.native\",\n      \"developer\" : \"晚英 肖\",\n      \"genre\" : \"健康健美\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple221\\/v4\\/11\\/3e\\/a3\\/113ea35a-b752-b12a-5d90-24fb24111da9\\/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png\\/80x0w.webp\",\n      \"name\" : \"歇会儿-护眼提醒与放松跟练\",\n      \"ranking\" : 1,\n      \"ratingCount\" : 2,\n      \"subtitle\" : \"定时休息、护眼跟练与放松游戏\"\n    }\n  ],\n  \"keyword\" : \"歇会儿\",\n  \"platform\" : \"iphone\",\n  \"store\" : \"cn\",\n  \"totalResults\" : 1\n}",
+          "type": "text"
+        }
+      ],
+      "isError": false
+    }
+  }
+}

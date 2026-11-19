@@ -1,0 +1,123 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=temps+d%E2%80%99%C3%A9cran&country=ga&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "artistName": "riedel.wtf apps S.L.",
+        "genres": [
+          "Productivité",
+          "Forme et santé"
+        ],
+        "price": 0.0,
+        "trackId": 1532875441,
+        "trackName": "one sec–temps d'écran & focus",
+        "releaseDate": "2020-09-29T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-14T18:42:34Z",
+        "version": "6.1.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 4.5,
+        "bundleId": "wtf.riedel.one-sec",
+        "trackViewUrl": "https://apps.apple.com/ga/app/one-sec-temps-d%C3%A9cran-focus/id1532875441?uo=4",
+        "userRatingCount": 4,
+        "descriptionSHA256": "715bc05374e0cd89a6cc12a733a4364b877af8f965c0d4db3ea738c1f0d554a8"
+      },
+      {
+        "kind": "software",
+        "artistName": "Jomo",
+        "genres": [
+          "Productivité",
+          "Forme et santé"
+        ],
+        "price": 0.0,
+        "trackId": 1609960918,
+        "trackName": "Jomo - Meilleur temps d'écran",
+        "releaseDate": "2022-10-16T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-18T16:29:32Z",
+        "version": "2.1.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 5,
+        "bundleId": "com.jomo.Jomo",
+        "trackViewUrl": "https://apps.apple.com/ga/app/jomo-meilleur-temps-d%C3%A9cran/id1609960918?uo=4",
+        "userRatingCount": 1,
+        "descriptionSHA256": "84834f5bd229b05f5a009f87e93f61f0d59db056ea3f4aa48c55bffdf5311a78"
+      },
+      {
+        "kind": "software",
+        "artistName": "Opal OS",
+        "genres": [
+          "Productivité",
+          "Forme et santé"
+        ],
+        "price": 0.0,
+        "trackId": 1497465230,
+        "trackName": "Opal: Temps d'écran et Focus",
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 4.23076,
+        "bundleId": "com.withopal.opal",
+        "trackViewUrl": "https://apps.apple.com/ga/app/opal-temps-d%C3%A9cran-et-focus/id1497465230?uo=4",
+        "userRatingCount": 26,
+        "descriptionSHA256": "c0fba23699dd09c567f31251e42122228bee0170b55079e3167ec7297b90a927"
+      },
+      {
+        "kind": "software",
+        "artistName": "Chili Data",
+        "genres": [
+          "Productivité",
+          "Forme et santé"
+        ],
+        "price": 0.0,
+        "trackId": 6757078968,
+        "trackName": "BlockIt - Pompes Temps d'écran",
+        "releaseDate": "2026-02-25T08:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-10-27T07:55:19Z",
+        "version": "3.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 0,
+        "bundleId": "com.blockit.app",
+        "trackViewUrl": "https://apps.apple.com/ga/app/blockit-pompes-temps-d%C3%A9cran/id6757078968?uo=4",
+        "userRatingCount": 0,
+        "descriptionSHA256": "86ad58ce02fbd3acacbe2eba04419681434e74bffd4249fa1c0ce57d1a1445e0"
+      },
+      {
+        "kind": "software",
+        "artistName": "Deebex Tech Ltd.",
+        "genres": [
+          "Productivité"
+        ],
+        "price": 0.0,
+        "trackId": 6456942073,
+        "trackName": "Temps d'Écran - Verrouillage",
+        "releaseDate": "2023-10-10T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-08-13T00:04:05Z",
+        "version": "3.0.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 0,
+        "bundleId": "com.idreamdesign.screen",
+        "trackViewUrl": "https://apps.apple.com/ga/app/temps-d%C3%A9cran-verrouillage/id6456942073?uo=4",
+        "userRatingCount": 0,
+        "descriptionSHA256": "c0e0b38da6b7bf63c8e25eaffb86d1c7a2adb0cf08c90398aca2df30a88cedac"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "a11e0602724d59b73ae4cb798a56e10462920c85986d6543c925bf76cdc3df58",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

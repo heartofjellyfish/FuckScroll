@@ -1,0 +1,124 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=contr%C3%B4le+du+temps+d%E2%80%99%C3%A9cran&country=sn&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/sn/app/opal-screen-time-control/id1497465230?uo=4",
+        "averageUserRating": 4.42398,
+        "artistName": "Opal OS",
+        "bundleId": "com.withopal.opal",
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "primaryGenreName": "Productivity",
+        "trackId": 1497465230,
+        "trackName": "Opal: Screen Time Control",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "USD",
+        "price": 0.0,
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "userRatingCount": 684,
+        "descriptionSHA256": "79545dcfd9d33edf53d3567fc6a6eb5b582561ed18b9d49245fbff4af0417656"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/sn/app/fammy-blocksite/id1559132457?uo=4",
+        "averageUserRating": 5,
+        "artistName": "Shenzhen Wondershare Software Co., Ltd",
+        "bundleId": "com.wondershare.parentalcontrolkid",
+        "releaseDate": "2021-05-19T07:00:00Z",
+        "currentVersionReleaseDate": "2026-10-19T01:10:29Z",
+        "primaryGenreName": "Lifestyle",
+        "trackId": 1559132457,
+        "trackName": "Fammy - Blocksite",
+        "version": "9.1.5",
+        "wrapperType": "software",
+        "currency": "USD",
+        "price": 0.0,
+        "genres": [
+          "Lifestyle",
+          "Education"
+        ],
+        "userRatingCount": 1,
+        "descriptionSHA256": "a5924d43d9379b07f9b7ed32bbd382b0045af4ca5218a0a3f496472a48c6f6af"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/sn/app/parental-control-app-airdroid/id1525339567?uo=4",
+        "averageUserRating": 4.63014,
+        "artistName": "SAND STUDIO CORPORATION LIMITED",
+        "bundleId": "com.sandstudio.cp-parent",
+        "releaseDate": "2022-06-07T07:00:00Z",
+        "currentVersionReleaseDate": "2026-11-05T07:26:27Z",
+        "primaryGenreName": "Lifestyle",
+        "trackId": 1525339567,
+        "trackName": "Parental Control App: AirDroid",
+        "version": "2.9.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "price": 0.0,
+        "genres": [
+          "Lifestyle",
+          "Utilities"
+        ],
+        "userRatingCount": 73,
+        "descriptionSHA256": "18446f1ada558f9ec9ead3ac3b01a6450501aff9845be108fa47dd8b2c233621"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/sn/app/block-apps-stepely/id6758095067?uo=4",
+        "averageUserRating": 0,
+        "artistName": "Nadiia Martyniuk",
+        "bundleId": "com.app.screen.time.control.Stepely",
+        "releaseDate": "2026-02-12T08:00:00Z",
+        "currentVersionReleaseDate": "2026-09-15T07:15:53Z",
+        "primaryGenreName": "Health & Fitness",
+        "trackId": 6758095067,
+        "trackName": "Block Apps - Stepely",
+        "version": "1.0.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "price": 0.0,
+        "genres": [
+          "Health & Fitness",
+          "Productivity"
+        ],
+        "userRatingCount": 0,
+        "descriptionSHA256": "41235bf33b2e9cba7cce6ba366e6aebd63621aeb8060d8b4b9d1bfc9ff67a90e"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/sn/app/screen-time-control-app-lock/id6749958149?uo=4",
+        "averageUserRating": 0,
+        "artistName": "Virginijus Makauskas",
+        "bundleId": "com.screentime.contr.app",
+        "releaseDate": "2025-10-24T07:00:00Z",
+        "currentVersionReleaseDate": "2026-08-24T20:02:05Z",
+        "primaryGenreName": "Productivity",
+        "trackId": 6749958149,
+        "trackName": "Screen Time Control: App Lock",
+        "version": "1.0.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "price": 0.0,
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "userRatingCount": 0,
+        "descriptionSHA256": "85703cd5dfc7e878692f0f5de328e17bb802b1b1734562fd897bad4415b308a2"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "cee8a08b9479470120b313c5fb361e1aca7ac511c39a4919c858d10019ac7a63",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

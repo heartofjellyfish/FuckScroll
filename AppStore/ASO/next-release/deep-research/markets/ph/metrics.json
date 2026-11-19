@@ -1,0 +1,178 @@
+[
+  {
+    "difficulty": 21,
+    "keyword": "app blocker",
+    "popularity": 42,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 19,
+    "keyword": "screen time",
+    "popularity": 35,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 15,
+    "keyword": "screen time control",
+    "popularity": 30,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 23,
+    "keyword": "scroll blocker",
+    "popularity": 5,
+    "ranking": 46,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 9,
+    "keyword": "stop scrolling",
+    "popularity": 5,
+    "ranking": 8,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 53,
+    "keyword": "social media blocker",
+    "popularity": 5,
+    "ranking": 130,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 36,
+    "keyword": "block apps",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 19,
+    "keyword": "app limits",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 23,
+    "keyword": "screen time limit",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 39,
+    "keyword": "reduce screen time",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 13,
+    "keyword": "digital detox",
+    "popularity": 5,
+    "ranking": 149,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 9,
+    "keyword": "stop doomscrolling",
+    "popularity": 5,
+    "ranking": 33,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 11,
+    "keyword": "doomscroll",
+    "popularity": 5,
+    "ranking": 216,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 45,
+    "keyword": "app timer",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 19,
+    "keyword": "phone addiction",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 17,
+    "keyword": "stay focused",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 46,
+    "keyword": "focus",
+    "popularity": 42,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 46,
+    "keyword": "self control",
+    "popularity": 5,
+    "ranking": 153,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 17,
+    "keyword": "distraction blocker",
+    "popularity": 5,
+    "ranking": 94,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 13,
+    "keyword": "phone detox",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 23,
+    "keyword": "screen time tracker",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 34,
+    "keyword": "social media addiction",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 19,
+    "keyword": "app lock",
+    "popularity": 52,
+    "skipped": false,
+    "success": true
+  },
+  {
+    "difficulty": 19,
+    "keyword": "parental control",
+    "popularity": 51,
+    "skipped": false,
+    "success": true
+  }
+]

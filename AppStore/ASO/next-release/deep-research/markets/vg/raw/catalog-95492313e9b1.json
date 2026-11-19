@@ -1,0 +1,123 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=screen+time&country=vg&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "bundleId": "com.withopal.opal",
+        "averageUserRating": 5,
+        "trackViewUrl": "https://apps.apple.com/vg/app/opal-screen-time-control/id1497465230?uo=4",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "artistName": "Opal OS",
+        "price": 0.0,
+        "trackId": 1497465230,
+        "trackName": "Opal: Screen Time Control",
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "primaryGenreName": "Productivity",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "USD",
+        "userRatingCount": 1,
+        "descriptionSHA256": "79545dcfd9d33edf53d3567fc6a6eb5b582561ed18b9d49245fbff4af0417656"
+      },
+      {
+        "kind": "software",
+        "bundleId": "com.scottharvey.screenzenapp.ios",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/vg/app/screenzen-screen-time-control/id1541027222?uo=4",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "artistName": "ScreenZen LLC",
+        "price": 0.0,
+        "trackId": 1541027222,
+        "trackName": "ScreenZen- Screen Time Control",
+        "currentVersionReleaseDate": "2026-09-06T14:20:14Z",
+        "releaseDate": "2021-07-16T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "version": "4.0.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "userRatingCount": 0,
+        "descriptionSHA256": "def0cb7cf41c8f7b1619d270d38fe8aa23859b81147ae63a1041bc0a1b7f8cc8"
+      },
+      {
+        "kind": "software",
+        "bundleId": "com.screentime",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/vg/app/screen-time-parental-control/id1055315077?uo=4",
+        "genres": [
+          "Lifestyle",
+          "Productivity"
+        ],
+        "artistName": "Screen Time Labs",
+        "price": 0.0,
+        "trackId": 1055315077,
+        "trackName": "Screen Time Parental Control",
+        "currentVersionReleaseDate": "2022-12-07T13:43:25Z",
+        "releaseDate": "2015-12-15T20:43:11Z",
+        "primaryGenreName": "Lifestyle",
+        "version": "3.72",
+        "wrapperType": "software",
+        "currency": "USD",
+        "userRatingCount": 0,
+        "descriptionSHA256": "4304fa45bc672e931bb3f98d3b8232f55d3f776c5eb880d3d113c7227a932ad6"
+      },
+      {
+        "kind": "software",
+        "bundleId": "com.jackfinnis.ScreenTimeTracker",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/vg/app/screen-time-tracker/id6738397686?uo=4",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "artistName": "Jack Finnis",
+        "price": 0.0,
+        "trackId": 6738397686,
+        "trackName": "Screen Time Tracker",
+        "currentVersionReleaseDate": "2025-10-21T22:49:43Z",
+        "releaseDate": "2024-12-17T08:00:00Z",
+        "primaryGenreName": "Productivity",
+        "version": "2.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "userRatingCount": 0,
+        "descriptionSHA256": "818e2b4d99d866d797722d84f7e4cb5f38639db2d2e8c74030a03e53a20ba82b"
+      },
+      {
+        "kind": "software",
+        "bundleId": "com.unrotou.unrot",
+        "averageUserRating": 5,
+        "trackViewUrl": "https://apps.apple.com/vg/app/unrot-earn-your-screen-time/id6746537171?uo=4",
+        "genres": [
+          "Productivity"
+        ],
+        "artistName": "Unrot OÜ",
+        "price": 0.0,
+        "trackId": 6746537171,
+        "trackName": "Unrot: Earn your Screen Time",
+        "currentVersionReleaseDate": "2026-11-17T23:57:22Z",
+        "releaseDate": "2025-06-04T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "version": "5.0.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "userRatingCount": 2,
+        "descriptionSHA256": "12adff6dd116c1ee691ffdde6965edfdf9a3d682b6fdc4a3214199fc9ce2beea"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "3fea3fcbae5dc15b764c5bbe9c4d2ac924130d40bb457eb07767ce473bd319d2",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

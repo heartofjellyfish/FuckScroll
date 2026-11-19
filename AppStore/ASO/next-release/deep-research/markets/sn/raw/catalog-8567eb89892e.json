@@ -1,0 +1,124 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=app+blocker&country=sn&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/sn/app/refocus-app-blocker-lock/id1645639057?uo=4",
+        "averageUserRating": 4.36667,
+        "artistName": "Labi, LLC",
+        "bundleId": "com.refocus.refocus",
+        "price": 0.0,
+        "primaryGenreName": "Productivity",
+        "trackId": 1645639057,
+        "trackName": "Refocus: App Blocker & Lock",
+        "releaseDate": "2022-09-22T07:00:00Z",
+        "currentVersionReleaseDate": "2026-11-18T15:32:47Z",
+        "version": "2.2.11",
+        "wrapperType": "software",
+        "currency": "USD",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "userRatingCount": 30,
+        "descriptionSHA256": "31bd6049418a698d36c61b2eafbe2ca02a56d8aa24878c1963caa5895db876a1"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/sn/app/the-blocker-for-adult-content/id1200989981?uo=4",
+        "averageUserRating": 0,
+        "artistName": "Hossam Hamouda",
+        "bundleId": "com.apps.Website-Blocker",
+        "price": 0.0,
+        "primaryGenreName": "Productivity",
+        "trackId": 1200989981,
+        "trackName": "The Blocker for Adult Content",
+        "releaseDate": "2017-02-25T14:32:23Z",
+        "currentVersionReleaseDate": "2026-11-15T13:30:28Z",
+        "version": "2.12",
+        "wrapperType": "software",
+        "currency": "USD",
+        "genres": [
+          "Productivity",
+          "Utilities"
+        ],
+        "userRatingCount": 0,
+        "descriptionSHA256": "13b823d9406c85cb966a0e240d20ae04e7f7df5d5f5c58df9e74ef28166f563e"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/sn/app/screenzen-screen-time-control/id1541027222?uo=4",
+        "averageUserRating": 4.7,
+        "artistName": "ScreenZen LLC",
+        "bundleId": "com.scottharvey.screenzenapp.ios",
+        "price": 0.0,
+        "primaryGenreName": "Productivity",
+        "trackId": 1541027222,
+        "trackName": "ScreenZen- Screen Time Control",
+        "releaseDate": "2021-07-16T07:00:00Z",
+        "currentVersionReleaseDate": "2026-09-06T14:20:14Z",
+        "version": "4.0.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "userRatingCount": 40,
+        "descriptionSHA256": "def0cb7cf41c8f7b1619d270d38fe8aa23859b81147ae63a1041bc0a1b7f8cc8"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/sn/app/opal-screen-time-control/id1497465230?uo=4",
+        "averageUserRating": 4.42398,
+        "artistName": "Opal OS",
+        "bundleId": "com.withopal.opal",
+        "price": 0.0,
+        "primaryGenreName": "Productivity",
+        "trackId": 1497465230,
+        "trackName": "Opal: Screen Time Control",
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "USD",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "userRatingCount": 684,
+        "descriptionSHA256": "79545dcfd9d33edf53d3567fc6a6eb5b582561ed18b9d49245fbff4af0417656"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/sn/app/one-sec-screen-time-focus/id1532875441?uo=4",
+        "averageUserRating": 4.675,
+        "artistName": "riedel.wtf apps S.L.",
+        "bundleId": "wtf.riedel.one-sec",
+        "price": 0.0,
+        "primaryGenreName": "Productivity",
+        "trackId": 1532875441,
+        "trackName": "one sec | screen time + focus",
+        "releaseDate": "2020-09-29T07:00:00Z",
+        "currentVersionReleaseDate": "2026-11-14T18:42:34Z",
+        "version": "6.1.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "userRatingCount": 40,
+        "descriptionSHA256": "7458286eeec2edf883eec2f9abc49582f9924be2e29f484b82b1014b4b2a0462"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "43874e7b3cac743c04fa0f336adcdbcc57356ea81934f98d99dcb463d84d754e",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

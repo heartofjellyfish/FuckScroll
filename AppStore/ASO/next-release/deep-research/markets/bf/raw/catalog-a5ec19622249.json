@@ -1,0 +1,124 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=contr%C3%B4le+du+temps+d%E2%80%99%C3%A9cran&country=bf&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "price": 0.0,
+        "primaryGenreName": "Productivity",
+        "bundleId": "com.withopal.opal",
+        "trackName": "Opal: Screen Time Control",
+        "trackId": 1497465230,
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 4.45833,
+        "trackViewUrl": "https://apps.apple.com/bf/app/opal-screen-time-control/id1497465230?uo=4",
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "artistName": "Opal OS",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "userRatingCount": 48,
+        "descriptionSHA256": "79545dcfd9d33edf53d3567fc6a6eb5b582561ed18b9d49245fbff4af0417656"
+      },
+      {
+        "kind": "software",
+        "price": 0.0,
+        "primaryGenreName": "Education",
+        "bundleId": "com.omi.utility.app.locker",
+        "trackName": "XLocker - Control Screen Time",
+        "trackId": 6447595893,
+        "currentVersionReleaseDate": "2026-11-17T15:58:16Z",
+        "version": "2.0.15",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 5,
+        "trackViewUrl": "https://apps.apple.com/bf/app/xlocker-control-screen-time/id6447595893?uo=4",
+        "releaseDate": "2023-05-15T07:00:00Z",
+        "artistName": "Nanjing Mairui Software Development Co., Ltd.",
+        "genres": [
+          "Education",
+          "Utilities"
+        ],
+        "userRatingCount": 1,
+        "descriptionSHA256": "cd14e316e7b03c0b6ad1e7449a66b002cb7bf6803dcd8ea36715d288401d0724"
+      },
+      {
+        "kind": "software",
+        "price": 0.0,
+        "primaryGenreName": "Lifestyle",
+        "bundleId": "com.wondershare.parentalcontrolkid",
+        "trackName": "Fammy - Blocksite",
+        "trackId": 1559132457,
+        "currentVersionReleaseDate": "2026-10-19T01:10:29Z",
+        "version": "9.1.5",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 3,
+        "trackViewUrl": "https://apps.apple.com/bf/app/fammy-blocksite/id1559132457?uo=4",
+        "releaseDate": "2021-05-19T07:00:00Z",
+        "artistName": "Shenzhen Wondershare Software Co., Ltd",
+        "genres": [
+          "Lifestyle",
+          "Education"
+        ],
+        "userRatingCount": 1,
+        "descriptionSHA256": "a5924d43d9379b07f9b7ed32bbd382b0045af4ca5218a0a3f496472a48c6f6af"
+      },
+      {
+        "kind": "software",
+        "price": 0.0,
+        "primaryGenreName": "Productivity",
+        "bundleId": "com.screentime.contr.app",
+        "trackName": "Screen Time Control: App Lock",
+        "trackId": 6749958149,
+        "currentVersionReleaseDate": "2026-08-24T20:02:05Z",
+        "version": "1.0.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/bf/app/screen-time-control-app-lock/id6749958149?uo=4",
+        "releaseDate": "2025-10-24T07:00:00Z",
+        "artistName": "Virginijus Makauskas",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "userRatingCount": 0,
+        "descriptionSHA256": "85703cd5dfc7e878692f0f5de328e17bb802b1b1734562fd897bad4415b308a2"
+      },
+      {
+        "kind": "software",
+        "price": 0.0,
+        "primaryGenreName": "Productivity",
+        "bundleId": "com.magicplugin.offscreen.mask.ios",
+        "trackName": "XLocker - Screen Time Limit",
+        "trackId": 6446263551,
+        "currentVersionReleaseDate": "2024-10-25T18:57:31Z",
+        "version": "1.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/bf/app/xlocker-screen-time-limit/id6446263551?uo=4",
+        "releaseDate": "2023-05-08T07:00:00Z",
+        "artistName": "文 熊",
+        "genres": [
+          "Productivity",
+          "Utilities"
+        ],
+        "userRatingCount": 0,
+        "descriptionSHA256": "dbbb78670248f40bc2c3917726bd4292331c74ab81754d54d1c9606f11efb8af"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "922bd47446defe1df46e6fa83ae968097ad8344c593643ecac81203c6ff12ec5",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

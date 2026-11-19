@@ -1,0 +1,124 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=bloqueur+d%E2%80%99applications&country=bf&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "bundleId": "wtf.riedel.one-sec",
+        "currentVersionReleaseDate": "2026-11-14T18:42:34Z",
+        "trackId": 1532875441,
+        "trackName": "one sec | screen time + focus",
+        "releaseDate": "2020-09-29T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "version": "6.1.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 4.125,
+        "trackViewUrl": "https://apps.apple.com/bf/app/one-sec-screen-time-focus/id1532875441?uo=4",
+        "artistName": "riedel.wtf apps S.L.",
+        "userRatingCount": 8,
+        "descriptionSHA256": "7458286eeec2edf883eec2f9abc49582f9924be2e29f484b82b1014b4b2a0462"
+      },
+      {
+        "kind": "software",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "bundleId": "com.withopal.opal",
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "trackId": 1497465230,
+        "trackName": "Opal: Screen Time Control",
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "primaryGenreName": "Productivity",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 4.45833,
+        "trackViewUrl": "https://apps.apple.com/bf/app/opal-screen-time-control/id1497465230?uo=4",
+        "artistName": "Opal OS",
+        "userRatingCount": 48,
+        "descriptionSHA256": "79545dcfd9d33edf53d3567fc6a6eb5b582561ed18b9d49245fbff4af0417656"
+      },
+      {
+        "kind": "software",
+        "genres": [
+          "Utilities",
+          "Productivity"
+        ],
+        "price": 0.0,
+        "bundleId": "com.callapp.contacts",
+        "currentVersionReleaseDate": "2026-11-16T06:52:43Z",
+        "trackId": 6739289261,
+        "trackName": "CallApp: Caller ID & Block",
+        "releaseDate": "2025-10-15T07:00:00Z",
+        "primaryGenreName": "Utilities",
+        "version": "1.29",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 4.46512,
+        "trackViewUrl": "https://apps.apple.com/bf/app/callapp-caller-id-block/id6739289261?uo=4",
+        "artistName": "CallApp",
+        "userRatingCount": 43,
+        "descriptionSHA256": "b7f2207593fc05fa4be803a7d37746e713c658cc1e610d9617c9f7f75c37b64c"
+      },
+      {
+        "kind": "software",
+        "genres": [
+          "Productivity",
+          "Utilities"
+        ],
+        "price": 0.0,
+        "bundleId": "com.stayfocused",
+        "currentVersionReleaseDate": "2026-10-01T19:56:32Z",
+        "trackId": 1658592224,
+        "trackName": "Stay Focused Limit Screen Time",
+        "releaseDate": "2023-01-26T08:00:00Z",
+        "primaryGenreName": "Productivity",
+        "version": "7.0.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 5,
+        "trackViewUrl": "https://apps.apple.com/bf/app/stay-focused-limit-screen-time/id1658592224?uo=4",
+        "artistName": "INNOXAPPS LLP",
+        "userRatingCount": 2,
+        "descriptionSHA256": "c6d9d0807b708d9300a29659be1fef96ca3c2eee1fb6dd681f38e56a946ce76c"
+      },
+      {
+        "kind": "software",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "bundleId": "com.vdcast.aegisappblocker",
+        "currentVersionReleaseDate": "2026-11-08T09:44:16Z",
+        "trackId": 6738006979,
+        "trackName": "Stop Scroll by Aegis",
+        "releaseDate": "2025-05-15T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "version": "2.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/bf/app/stop-scroll-by-aegis/id6738006979?uo=4",
+        "artistName": "Ilya Nikolenko",
+        "userRatingCount": 0,
+        "descriptionSHA256": "effa010a3d3fba425f9899eb28804bfdf4abdb3c637ecf441e5b3cfc5382f45f"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "a2cbb58ac2fdb9e3ec0d6bbff2a1e9fb8130807d0bdde2c33153173891127301",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

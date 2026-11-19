@@ -1,0 +1,126 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=app+blocker&country=uy&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "currentVersionReleaseDate": "2026-11-18T15:32:47Z",
+        "artistName": "Labi, LLC",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "bundleId": "com.refocus.refocus",
+        "releaseDate": "2022-09-22T07:00:00Z",
+        "trackName": "Refocus: App Blocker & Lock",
+        "trackId": 1645639057,
+        "primaryGenreName": "Productivity",
+        "version": "2.2.11",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/uy/app/refocus-app-blocker-lock/id1645639057?uo=4",
+        "averageUserRating": 4.72727,
+        "userRatingCount": 22,
+        "descriptionSHA256": "31bd6049418a698d36c61b2eafbe2ca02a56d8aa24878c1963caa5895db876a1"
+      },
+      {
+        "kind": "software",
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "artistName": "Opal OS",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "bundleId": "com.withopal.opal",
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "trackName": "Opal: Screen Time Control",
+        "trackId": 1497465230,
+        "primaryGenreName": "Productivity",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/uy/app/opal-screen-time-control/id1497465230?uo=4",
+        "averageUserRating": 4.83448,
+        "userRatingCount": 145,
+        "descriptionSHA256": "79545dcfd9d33edf53d3567fc6a6eb5b582561ed18b9d49245fbff4af0417656"
+      },
+      {
+        "kind": "software",
+        "currentVersionReleaseDate": "2026-11-11T10:48:39Z",
+        "artistName": "MobileSoft s.r.o.",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "bundleId": "eu.mobilesoft.appblock",
+        "releaseDate": "2021-08-17T07:00:00Z",
+        "trackName": "AppBlock: App & Site Blocker",
+        "trackId": 1515753232,
+        "primaryGenreName": "Productivity",
+        "version": "4.14.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/uy/app/appblock-app-site-blocker/id1515753232?uo=4",
+        "averageUserRating": 4.52632,
+        "userRatingCount": 38,
+        "descriptionSHA256": "f4e2257d9c85cbaf9cd8496ddc82a9a5d41b2e0440020c527d8b3b8c4bbe4236"
+      },
+      {
+        "kind": "software",
+        "currentVersionReleaseDate": "2026-11-14T00:10:28Z",
+        "artistName": "Shikudo",
+        "genres": [
+          "Productivity",
+          "Games",
+          "Simulation",
+          "Casual"
+        ],
+        "price": 0.0,
+        "bundleId": "com.shikudo.focus",
+        "releaseDate": "2019-09-02T07:00:00Z",
+        "trackName": "Focus Plant：forest app blocker",
+        "trackId": 1459096306,
+        "primaryGenreName": "Productivity",
+        "version": "4.6.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/uy/app/focus-plant-forest-app-blocker/id1459096306?uo=4",
+        "averageUserRating": 4.81416,
+        "userRatingCount": 113,
+        "descriptionSHA256": "fe05cd0e5d57fda1dd718d682f963e8ebc60dcf414c417b33b853ed6df9bd015"
+      },
+      {
+        "kind": "software",
+        "currentVersionReleaseDate": "2026-11-13T22:27:44Z",
+        "artistName": "KAMAN LABS LLC",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "bundleId": "com.pushuptime.PushUpTime",
+        "releaseDate": "2025-09-12T07:00:00Z",
+        "trackName": "PushUp Time: App Blocker",
+        "trackId": 6749405784,
+        "primaryGenreName": "Productivity",
+        "version": "3.5.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/uy/app/pushup-time-app-blocker/id6749405784?uo=4",
+        "averageUserRating": 4.31579,
+        "userRatingCount": 19,
+        "descriptionSHA256": "381d3e9ca6df467e24b76b910052b08c42e30d138369d7f7d0c987a61ca8892c"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "610a51889abe30b9f68fb3d1bb2b64924d8e02e96e5e5c495624d399477605ef",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

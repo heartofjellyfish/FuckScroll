@@ -1,0 +1,122 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=bloqueador+de+apps&country=ve&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "averageUserRating": 4.81651,
+        "trackViewUrl": "https://apps.apple.com/ve/app/opal-tiempo-de-pantalla-focus/id1497465230?uo=4",
+        "price": 0.0,
+        "bundleId": "com.withopal.opal",
+        "artistName": "Opal OS",
+        "primaryGenreName": "Productivity",
+        "genres": [
+          "Productividad",
+          "Salud y fitness"
+        ],
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "trackId": 1497465230,
+        "trackName": "Opal: Tiempo de Pantalla Focus",
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "USD",
+        "userRatingCount": 109,
+        "descriptionSHA256": "8f565e8ece1378f7f8b279972790342748ebc0f5a8961ef24749e6a17891340e"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 4.62962,
+        "trackViewUrl": "https://apps.apple.com/ve/app/contrase%C3%B1a-para-apps-bloqueo/id6452721618?uo=4",
+        "price": 0.0,
+        "bundleId": "com.liu.hideapps",
+        "artistName": "俊杰 刘",
+        "primaryGenreName": "Utilities",
+        "genres": [
+          "Utilidades"
+        ],
+        "releaseDate": "2024-01-01T08:00:00Z",
+        "trackId": 6452721618,
+        "trackName": "Contraseña Para Apps Bloqueo",
+        "currentVersionReleaseDate": "2026-06-11T00:48:57Z",
+        "version": "1.1.8",
+        "wrapperType": "software",
+        "currency": "USD",
+        "userRatingCount": 27,
+        "descriptionSHA256": "be132093053d6e7aeabff0504def1606009a124da7ec3b62b4f0201b993dab1e"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 4.90323,
+        "trackViewUrl": "https://apps.apple.com/ve/app/refocus-bloquear-aplicaciones/id1645639057?uo=4",
+        "price": 0.0,
+        "bundleId": "com.refocus.refocus",
+        "artistName": "Labi, LLC",
+        "primaryGenreName": "Productivity",
+        "genres": [
+          "Productividad",
+          "Salud y fitness"
+        ],
+        "releaseDate": "2022-09-22T07:00:00Z",
+        "trackId": 1645639057,
+        "trackName": "Refocus: Bloquear Aplicaciones",
+        "currentVersionReleaseDate": "2026-11-18T15:32:47Z",
+        "version": "2.2.11",
+        "wrapperType": "software",
+        "currency": "USD",
+        "userRatingCount": 31,
+        "descriptionSHA256": "5af728bf34683f8d8cc16da34fc547279e90e9330521b01704a76d15740488e6"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/ve/app/timeout-bloqueador-de-apps/id6742079522?uo=4",
+        "price": 0.0,
+        "bundleId": "com.lazytechllc.timeout",
+        "artistName": "Lazy Tech LLC",
+        "primaryGenreName": "Productivity",
+        "genres": [
+          "Productividad",
+          "Utilidades"
+        ],
+        "releaseDate": "2025-03-17T07:00:00Z",
+        "trackId": 6742079522,
+        "trackName": "Timeout: Bloqueador de apps",
+        "currentVersionReleaseDate": "2025-03-17T17:44:48Z",
+        "version": "1.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "userRatingCount": 0,
+        "descriptionSHA256": "bca7faa018925af1179c006c50d93ecb8091e88312ef94d9718927fb93989839"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/ve/app/bloqueo-de-aplicaciones-app/id6777914542?uo=4",
+        "price": 0.0,
+        "bundleId": "com.zhang.lockapps",
+        "artistName": "宝锋 张",
+        "primaryGenreName": "Productivity",
+        "genres": [
+          "Productividad"
+        ],
+        "releaseDate": "2026-06-23T07:00:00Z",
+        "trackId": 6777914542,
+        "trackName": "Bloqueo De Aplicaciones - App.",
+        "currentVersionReleaseDate": "2026-07-21T21:55:13Z",
+        "version": "1.0.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "userRatingCount": 0,
+        "descriptionSHA256": "6ba84e749b2264c584aa70d5d2b6f92b5e1770b0d39c457c30722007305f143e"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "d7abfa82333897b3aa5102f5536bd139cc1cdb8dfd754432572eb442d3d5d6cb",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

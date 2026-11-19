@@ -1,0 +1,123 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=scroll+blocker&country=ky&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/ky/app/scrollguard-block-reels/id6754183872?uo=4",
+        "averageUserRating": 0,
+        "price": 0.0,
+        "artistName": "BreakTheScroll",
+        "genres": [
+          "Productivity",
+          "Utilities"
+        ],
+        "bundleId": "com.breakthescroll.scrollguard",
+        "trackName": "ScrollGuard: Block Reels",
+        "releaseDate": "2026-02-10T08:00:00Z",
+        "primaryGenreName": "Productivity",
+        "version": "1.2.8",
+        "wrapperType": "software",
+        "currency": "USD",
+        "currentVersionReleaseDate": "2026-11-18T13:35:55Z",
+        "trackId": 6754183872,
+        "userRatingCount": 0,
+        "descriptionSHA256": "f86ed0e555432bea394b8f50474532f41318c3cabc1e1d389bee5024f909e63c"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/ky/app/no-scroll-limit-screen-time/id6474079216?uo=4",
+        "averageUserRating": 5,
+        "price": 0.0,
+        "artistName": "Self Invest LLC",
+        "genres": [
+          "Productivity"
+        ],
+        "bundleId": "com.SelfInvest.Cooldown",
+        "trackName": "No Scroll - Limit Screen Time",
+        "releaseDate": "2024-03-19T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "version": "2.2.6",
+        "wrapperType": "software",
+        "currency": "USD",
+        "currentVersionReleaseDate": "2026-10-24T00:10:19Z",
+        "trackId": 6474079216,
+        "userRatingCount": 1,
+        "descriptionSHA256": "e85c59d401bb05cd788cfe2856c6e9f23c9d5da9a2e87d896908ece3b872d41b"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/ky/app/sociallite-block-reels-shorts/id6757661674?uo=4",
+        "averageUserRating": 0,
+        "price": 0.0,
+        "artistName": "Sociallite LLC",
+        "genres": [
+          "Productivity",
+          "Social Networking"
+        ],
+        "bundleId": "social.Social-lite",
+        "trackName": "SocialLite-Block Reels&Shorts",
+        "releaseDate": "2026-01-29T08:00:00Z",
+        "primaryGenreName": "Productivity",
+        "version": "3.1.5",
+        "wrapperType": "software",
+        "currency": "USD",
+        "currentVersionReleaseDate": "2026-10-16T11:04:41Z",
+        "trackId": 6757661674,
+        "userRatingCount": 0,
+        "descriptionSHA256": "9dbd89f368c17dc50b7187fccb2c303ea2893d4ea389e2290954ac38e87b7144"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/ky/app/scroll-block-pornblocker-app/id6755958698?uo=4",
+        "averageUserRating": 0,
+        "price": 0.0,
+        "artistName": "ByteBloom Solutions",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "bundleId": "com.blaneoroark.ScrollBlock",
+        "trackName": "Scroll Block: pornblocker App",
+        "releaseDate": "2025-12-02T08:00:00Z",
+        "primaryGenreName": "Productivity",
+        "version": "2.7",
+        "wrapperType": "software",
+        "currency": "USD",
+        "currentVersionReleaseDate": "2026-06-14T10:07:56Z",
+        "trackId": 6755958698,
+        "userRatingCount": 0,
+        "descriptionSHA256": "80b054d982e29ebbdbf58291a259b2fdae2adf40f9a9c88782be7381831b6a91"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/ky/app/one-sec-screen-time-focus/id1532875441?uo=4",
+        "averageUserRating": 3,
+        "price": 0.0,
+        "artistName": "riedel.wtf apps S.L.",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "bundleId": "wtf.riedel.one-sec",
+        "trackName": "one sec | screen time + focus",
+        "releaseDate": "2020-09-29T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "version": "6.1.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "currentVersionReleaseDate": "2026-11-14T18:42:34Z",
+        "trackId": 1532875441,
+        "userRatingCount": 2,
+        "descriptionSHA256": "7458286eeec2edf883eec2f9abc49582f9924be2e29f484b82b1014b4b2a0462"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "b0cb3d4723b03f92eb3af544f54721268488e57afd9229832efdd418b12e6554",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

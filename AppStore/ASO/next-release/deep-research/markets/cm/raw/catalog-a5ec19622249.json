@@ -1,0 +1,124 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=contr%C3%B4le+du+temps+d%E2%80%99%C3%A9cran&country=cm&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "artistName": "Opal OS",
+        "genres": [
+          "Productivité",
+          "Forme et santé"
+        ],
+        "price": 0.0,
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "trackId": 1497465230,
+        "trackName": "Opal: Temps d'écran et Focus",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.withopal.opal",
+        "averageUserRating": 4.24,
+        "trackViewUrl": "https://apps.apple.com/cm/app/opal-temps-d%C3%A9cran-et-focus/id1497465230?uo=4",
+        "userRatingCount": 75,
+        "descriptionSHA256": "c0fba23699dd09c567f31251e42122228bee0170b55079e3167ec7297b90a927"
+      },
+      {
+        "kind": "software",
+        "artistName": "Nanjing Mairui Software Development Co., Ltd.",
+        "genres": [
+          "Éducation",
+          "Utilitaires"
+        ],
+        "price": 0.0,
+        "releaseDate": "2023-05-15T07:00:00Z",
+        "trackId": 6447595893,
+        "trackName": "XLocker - Temps d’écran",
+        "primaryGenreName": "Education",
+        "currentVersionReleaseDate": "2026-11-17T15:58:16Z",
+        "version": "2.0.15",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.omi.utility.app.locker",
+        "averageUserRating": 5,
+        "trackViewUrl": "https://apps.apple.com/cm/app/xlocker-temps-d%C3%A9cran/id6447595893?uo=4",
+        "userRatingCount": 7,
+        "descriptionSHA256": "58fb219c7f05630279efb18521806f0e2700a6e7631431948cb1e6efef1a51f1"
+      },
+      {
+        "kind": "software",
+        "artistName": "SAND STUDIO CORPORATION LIMITED",
+        "genres": [
+          "Style de vie",
+          "Utilitaires"
+        ],
+        "price": 0.0,
+        "releaseDate": "2022-06-07T07:00:00Z",
+        "trackId": 1525339567,
+        "trackName": "Contrôle Parental AirDroid",
+        "primaryGenreName": "Lifestyle",
+        "currentVersionReleaseDate": "2026-11-05T07:26:27Z",
+        "version": "2.9.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.sandstudio.cp-parent",
+        "averageUserRating": 4.77778,
+        "trackViewUrl": "https://apps.apple.com/cm/app/contr%C3%B4le-parental-airdroid/id1525339567?uo=4",
+        "userRatingCount": 9,
+        "descriptionSHA256": "72ac698e97b6996330a4667c5f501073cc25a5a5882b906df098dfc1ef05bea0"
+      },
+      {
+        "kind": "software",
+        "artistName": "Virginijus Makauskas",
+        "genres": [
+          "Productivité",
+          "Forme et santé"
+        ],
+        "price": 0.0,
+        "releaseDate": "2025-10-24T07:00:00Z",
+        "trackId": 6749958149,
+        "trackName": "Contrôle du Temps D'écran",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-08-24T20:02:05Z",
+        "version": "1.0.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.screentime.contr.app",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/cm/app/contr%C3%B4le-du-temps-d%C3%A9cran/id6749958149?uo=4",
+        "userRatingCount": 0,
+        "descriptionSHA256": "c189aeb38c3dd6aee2efef9ed20817ebbbf5b5806fd5ca5cc97fecf3d5dd9b00"
+      },
+      {
+        "kind": "software",
+        "artistName": "文 熊",
+        "genres": [
+          "Productivité",
+          "Utilitaires"
+        ],
+        "price": 0.0,
+        "releaseDate": "2023-05-08T07:00:00Z",
+        "trackId": 6446263551,
+        "trackName": "XLocker：Maîtrise temps d'écran",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2024-10-25T18:57:31Z",
+        "version": "1.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.magicplugin.offscreen.mask.ios",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/cm/app/xlocker-ma%C3%AEtrise-temps-d%C3%A9cran/id6446263551?uo=4",
+        "userRatingCount": 0,
+        "descriptionSHA256": "897d9619fa75aea0c20e3581639e1edabe06babf8cd2a4e6fd5cd2e0e58464d8"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "fe4ded385dd126f413156098a5f99aeb4817403335691d729378bbaf7a4bcded",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

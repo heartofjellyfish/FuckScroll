@@ -1,0 +1,124 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=limitar+apps&country=ni&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "genres": [
+          "Productividad",
+          "Salud y fitness"
+        ],
+        "price": 0.0,
+        "artistName": "MobileSoft s.r.o.",
+        "releaseDate": "2021-08-17T07:00:00Z",
+        "trackId": 1515753232,
+        "trackName": "AppBlock Bloquear Aplicaciones",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-11T10:48:39Z",
+        "version": "4.14.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "eu.mobilesoft.appblock",
+        "trackViewUrl": "https://apps.apple.com/ni/app/appblock-bloquear-aplicaciones/id1515753232?uo=4",
+        "averageUserRating": 5,
+        "userRatingCount": 7,
+        "descriptionSHA256": "57129755f1276c23ea491e5ae08cd96a53959993b5c33be70bbbd0401f883185"
+      },
+      {
+        "kind": "software",
+        "genres": [
+          "Estilo de vida",
+          "Redes sociales"
+        ],
+        "price": 0.0,
+        "artistName": "Bumble Holding Limited",
+        "releaseDate": "2015-02-06T09:17:07Z",
+        "trackId": 930441707,
+        "trackName": "Bumble: App de Citas y Chat",
+        "primaryGenreName": "Lifestyle",
+        "currentVersionReleaseDate": "2026-11-16T09:20:20Z",
+        "version": "5.488.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.moxco.bumble",
+        "trackViewUrl": "https://apps.apple.com/ni/app/bumble-app-de-citas-y-chat/id930441707?uo=4",
+        "averageUserRating": 4.63882,
+        "userRatingCount": 778,
+        "descriptionSHA256": "3063e544014e83d6fe67b438879f77ff8966a846ba20b8da9f9f5e38997d7793"
+      },
+      {
+        "kind": "software",
+        "genres": [
+          "Fotografía y video",
+          "Entretenimiento"
+        ],
+        "price": 0.0,
+        "artistName": "FaceApp Technology Limited",
+        "releaseDate": "2017-01-24T14:13:07Z",
+        "trackId": 1180884341,
+        "trackName": "FaceApp: Editor facial ideal",
+        "primaryGenreName": "Photo & Video",
+        "currentVersionReleaseDate": "2026-11-14T11:50:27Z",
+        "version": "26.10.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "io.faceapp.ios",
+        "trackViewUrl": "https://apps.apple.com/ni/app/faceapp-editor-facial-ideal/id1180884341?uo=4",
+        "averageUserRating": 4.69275,
+        "userRatingCount": 4371,
+        "descriptionSHA256": "6a60ef689f4c5a95f20caec4cfa0be9198f0b522cbc447741cefd04486e743e3"
+      },
+      {
+        "kind": "software",
+        "genres": [
+          "Productividad",
+          "Salud y fitness"
+        ],
+        "price": 0.0,
+        "artistName": "riedel.wtf apps S.L.",
+        "releaseDate": "2020-09-29T07:00:00Z",
+        "trackId": 1532875441,
+        "trackName": "one sec—tiempo pantalla y foco",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-14T18:42:34Z",
+        "version": "6.1.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "wtf.riedel.one-sec",
+        "trackViewUrl": "https://apps.apple.com/ni/app/one-sec-tiempo-pantalla-y-foco/id1532875441?uo=4",
+        "averageUserRating": 4.84615,
+        "userRatingCount": 13,
+        "descriptionSHA256": "f6c3c9e01d5674616b89f50c177b04e002f0fc0dfd05be2d049d4dbad73e2344"
+      },
+      {
+        "kind": "software",
+        "genres": [
+          "Negocios",
+          "Utilidades"
+        ],
+        "price": 0.0,
+        "artistName": "UNITEMAN TECHNOLOGY (HK) LIMITED",
+        "releaseDate": "2025-10-19T07:00:00Z",
+        "trackId": 6753972326,
+        "trackName": "Scanner App - Escáner PDF",
+        "primaryGenreName": "Business",
+        "currentVersionReleaseDate": "2026-08-08T22:02:34Z",
+        "version": "11.7",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.pdf.scanner.editor.lite",
+        "trackViewUrl": "https://apps.apple.com/ni/app/scanner-app-esc%C3%A1ner-pdf/id6753972326?uo=4",
+        "averageUserRating": 4.8,
+        "userRatingCount": 20,
+        "descriptionSHA256": "04f167f5e368b90313edfaefbea5a5b9683c319f67acbae5cc6d7c97dfc608c2"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "635af4e75b97936e8ed2e2157755204de60dc1b068420b1039a04b81e38bd5d6",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

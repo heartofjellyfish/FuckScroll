@@ -1,0 +1,13 @@
+{
+  "id": "ab20d9ff-f849-45e4-bab5-939872cc9c2f",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"apps\" : [\n\n  ],\n  \"keyword\" : \"penyekat aplikasi\",\n  \"platform\" : \"iphone\",\n  \"store\" : \"sg\",\n  \"totalResults\" : 0\n}",
+        "type": "text"
+      }
+    ],
+    "isError": false
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=block+apps&country=fm&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/fm/app/app-lock-lock-apps-photos/id1569973513?uo=4",
+        "averageUserRating": 2,
+        "trackName": "App Lock - Lock Apps & Photos",
+        "trackId": 1569973513,
+        "price": 0.0,
+        "artistName": "Muhammet Yalcın Ozdemir Halil Ibrahim Karahan Mustafa Ayten Kupertino Bilisim Yazılım K.S",
+        "releaseDate": "2021-06-12T07:00:00Z",
+        "primaryGenreName": "Utilities",
+        "currentVersionReleaseDate": "2026-09-25T07:10:51Z",
+        "version": "2.2.4",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "co.appnation.applocker",
+        "genres": [
+          "Utilities",
+          "Productivity"
+        ],
+        "userRatingCount": 1,
+        "descriptionSHA256": "7ba2ea3794744905bae3c370c1d34f9ff79f824d3ed6e187d44098d261070cc2"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/fm/app/blocksite-block-apps-focus/id1474967653?uo=4",
+        "averageUserRating": 0,
+        "trackName": "BlockSite: Block Apps & Focus",
+        "trackId": 1474967653,
+        "price": 0.0,
+        "artistName": "BlockSite LP",
+        "releaseDate": "2019-09-01T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-10-18T07:41:00Z",
+        "version": "4.4.5",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "co.ios.BlockSite",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "userRatingCount": 0,
+        "descriptionSHA256": "3eb447725c9fc35e830b2ea7ff4f799cbbf9f0a174fb4879e2041c2cb7805265"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/fm/app/block-apps-sites-focus/id6480305154?uo=4",
+        "averageUserRating": 0,
+        "trackName": "Block Apps, Sites & Focus",
+        "trackId": 6480305154,
+        "price": 0.0,
+        "artistName": "ZAF MEDIATOR d.o.o.",
+        "releaseDate": "2024-04-10T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2024-04-19T20:14:53Z",
+        "version": "1.2",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.blockapps.app",
+        "genres": [
+          "Productivity",
+          "Utilities"
+        ],
+        "userRatingCount": 0,
+        "descriptionSHA256": "d2d1b14e86ed3c6ac6ee3b6b56c47aa5e0a2ef9e86293cc530c0b3fea9f2b994"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/fm/app/parental-control-app-kidslox/id914825567?uo=4",
+        "averageUserRating": 2,
+        "trackName": "Parental Control App - Kidslox",
+        "trackId": 914825567,
+        "price": 0.0,
+        "artistName": "Kidslox Trading Ltd",
+        "releaseDate": "2014-09-23T23:23:11Z",
+        "primaryGenreName": "Lifestyle",
+        "currentVersionReleaseDate": "2026-09-15T06:03:44Z",
+        "version": "11.3.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.kidslox.main",
+        "genres": [
+          "Lifestyle",
+          "Utilities"
+        ],
+        "userRatingCount": 1,
+        "descriptionSHA256": "d7539daf53bb81a1e94445145b66c140d46f513f2094f6b5fa099f8287fae953"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/fm/app/applock-photo-lock/id1509154892?uo=4",
+        "averageUserRating": 0,
+        "trackName": "AppLock - photo lock",
+        "trackId": 1509154892,
+        "price": 0.0,
+        "artistName": "DoMobile Co., Ltd.",
+        "releaseDate": "2020-05-15T07:00:00Z",
+        "primaryGenreName": "Utilities",
+        "currentVersionReleaseDate": "2026-05-27T18:29:30Z",
+        "version": "1.3.5",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.domobile.applock",
+        "genres": [
+          "Utilities",
+          "Productivity"
+        ],
+        "userRatingCount": 0,
+        "descriptionSHA256": "c453f8d3c8c735b0cdf307718e751af2e5b770baccec2e38c121342cbb15676b"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "67d025f17dc6f2713ccc704fa9d44252f4bcf15f3b0429010104eda8849d0d79",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

@@ -1,0 +1,21 @@
+{
+  "locale": "vi",
+  "store": "vn",
+  "proposedName": "Screen Time – Vịt canh giờ",
+  "limitations": "A public top-five name search, not App Store Connect reservation or trademark clearance.",
+  "response": {
+    "id": "5d1b2efb-e0ec-4ce6-9513-4ce30f18e564",
+    "jsonrpc": "2.0",
+    "result": {
+      "content": [
+        {
+          "text": "{\n  \"apps\" : [\n\n  ],\n  \"keyword\" : \"Screen Time – Vịt canh giờ\",\n  \"platform\" : \"iphone\",\n  \"store\" : \"vn\",\n  \"totalResults\" : 0\n}",
+          "type": "text"
+        }
+      ],
+      "isError": false
+    }
+  },
+  "error": null,
+  "exactOtherAppMatches": []
+}

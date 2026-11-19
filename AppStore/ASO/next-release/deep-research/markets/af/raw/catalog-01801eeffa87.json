@@ -1,0 +1,123 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=scroll+blocker&country=af&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "averageUserRating": 5,
+        "trackViewUrl": "https://apps.apple.com/af/app/sociallite-block-reels-shorts/id6757661674?uo=4",
+        "artistName": "Sociallite LLC",
+        "genres": [
+          "Productivity",
+          "Social Networking"
+        ],
+        "price": 0.0,
+        "bundleId": "social.Social-lite",
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2026-01-29T08:00:00Z",
+        "version": "3.1.5",
+        "wrapperType": "software",
+        "currency": "USD",
+        "currentVersionReleaseDate": "2026-10-16T11:04:41Z",
+        "trackId": 6757661674,
+        "trackName": "SocialLite-Block Reels&Shorts",
+        "userRatingCount": 1,
+        "descriptionSHA256": "9dbd89f368c17dc50b7187fccb2c303ea2893d4ea389e2290954ac38e87b7144"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 4,
+        "trackViewUrl": "https://apps.apple.com/af/app/one-sec-screen-time-focus/id1532875441?uo=4",
+        "artistName": "riedel.wtf apps S.L.",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "bundleId": "wtf.riedel.one-sec",
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2020-09-29T07:00:00Z",
+        "version": "6.1.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "currentVersionReleaseDate": "2026-11-14T18:42:34Z",
+        "trackId": 1532875441,
+        "trackName": "one sec | screen time + focus",
+        "userRatingCount": 4,
+        "descriptionSHA256": "7458286eeec2edf883eec2f9abc49582f9924be2e29f484b82b1014b4b2a0462"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/af/app/scroll-block-pornblocker-app/id6755958698?uo=4",
+        "artistName": "ByteBloom Solutions",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "bundleId": "com.blaneoroark.ScrollBlock",
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2025-12-02T08:00:00Z",
+        "version": "2.7",
+        "wrapperType": "software",
+        "currency": "USD",
+        "currentVersionReleaseDate": "2026-06-14T10:07:56Z",
+        "trackId": 6755958698,
+        "trackName": "Scroll Block: pornblocker App",
+        "userRatingCount": 0,
+        "descriptionSHA256": "80b054d982e29ebbdbf58291a259b2fdae2adf40f9a9c88782be7381831b6a91"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/af/app/scrollr-app-blocker/id6811619023?uo=4",
+        "artistName": "Attila Meste",
+        "genres": [
+          "Productivity",
+          "Education"
+        ],
+        "price": 0.0,
+        "bundleId": "com.doomlingo.app",
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2026-10-04T07:00:00Z",
+        "version": "2.5",
+        "wrapperType": "software",
+        "currency": "USD",
+        "currentVersionReleaseDate": "2026-11-18T00:40:52Z",
+        "trackId": 6811619023,
+        "trackName": "Scrollr - App Blocker",
+        "userRatingCount": 0,
+        "descriptionSHA256": "cd895924d4b880f12e9c4825819fc101e330977b7877a3c9ecfb30f94c1e3024"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/af/app/no-scroll-limit-screen-time/id6474079216?uo=4",
+        "artistName": "Self Invest LLC",
+        "genres": [
+          "Productivity"
+        ],
+        "price": 0.0,
+        "bundleId": "com.SelfInvest.Cooldown",
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2024-03-19T07:00:00Z",
+        "version": "2.2.6",
+        "wrapperType": "software",
+        "currency": "USD",
+        "currentVersionReleaseDate": "2026-10-24T00:10:19Z",
+        "trackId": 6474079216,
+        "trackName": "No Scroll - Limit Screen Time",
+        "userRatingCount": 0,
+        "descriptionSHA256": "e85c59d401bb05cd788cfe2856c6e9f23c9d5da9a2e87d896908ece3b872d41b"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "9042224af0b89ad70b2335bfc26504f62fa8da0363d93d684d7326afefa1ced0",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

@@ -1,0 +1,21 @@
+{
+  "locale": "es-MX",
+  "store": "mx",
+  "proposedName": "Tiempo en pantalla – Pato",
+  "limitations": "A public top-five name search, not App Store Connect reservation or trademark clearance.",
+  "response": {
+    "id": "d3e941e2-27be-4a70-a02e-b6ee856f646b",
+    "jsonrpc": "2.0",
+    "result": {
+      "content": [
+        {
+          "text": "{\n  \"apps\" : [\n    {\n      \"appStoreId\" : \"6828375672\",\n      \"averageRating\" : 0,\n      \"bundleId\" : \"com.zy.dukki\",\n      \"developer\" : \"翼 张\",\n      \"genre\" : \"Productividad\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple211\\/v4\\/ac\\/3c\\/9d\\/ac3c9d59-2045-4115-071d-7536528ee094\\/AppIcon-0-0-1x_U007epad-0-1-85-220.png\\/80x0w.webp\",\n      \"name\" : \"Dukki: temporizador Pomodoro\",\n      \"ranking\" : 1,\n      \"ratingCount\" : 0,\n      \"subtitle\" : \"Concéntrate con un patito\"\n    }\n  ],\n  \"keyword\" : \"Tiempo en pantalla – Pato\",\n  \"platform\" : \"iphone\",\n  \"store\" : \"mx\",\n  \"totalResults\" : 1\n}",
+          "type": "text"
+        }
+      ],
+      "isError": false
+    }
+  },
+  "error": null,
+  "exactOtherAppMatches": []
+}

@@ -1,0 +1,21 @@
+{
+  "locale": "en-GB",
+  "store": "gb",
+  "proposedName": "App Blocker – Duck on Duty",
+  "limitations": "A public top-five name search, not App Store Connect reservation or trademark clearance.",
+  "response": {
+    "id": "10738555-7faf-4c8b-9aba-c78436889f7e",
+    "jsonrpc": "2.0",
+    "result": {
+      "content": [
+        {
+          "text": "{\n  \"apps\" : [\n    {\n      \"appStoreId\" : \"6754953790\",\n      \"averageRating\" : 4,\n      \"bundleId\" : \"com.moniqtap.blocker.site.app\",\n      \"developer\" : \"Phong Pham\",\n      \"genre\" : \"Productivity\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple211\\/v4\\/a6\\/06\\/7d\\/a6067d4b-138a-59fd-27eb-37e76e7f6e5e\\/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png\\/80x0w.webp\",\n      \"name\" : \"BlockerPro: Block Site & Apps\",\n      \"ranking\" : 1,\n      \"ratingCount\" : 1,\n      \"subtitle\" : \"Block Apps, Websites & Focus\"\n    },\n    {\n      \"appStoreId\" : \"389801252\",\n      \"averageRating\" : 4.7,\n      \"bundleId\" : \"com.burbn.instagram\",\n      \"developer\" : \"Instagram, Inc.\",\n      \"genre\" : \"Photo & Video\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple221\\/v4\\/e3\\/33\\/79\\/e3337974-a4b4-d9c5-8fb6-ca99b98f955c\\/Prod-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png\\/80x0w.webp\",\n      \"name\" : \"Instagram\",\n      \"ranking\" : 2,\n      \"ratingCount\" : 4235356,\n      \"subtitle\" : \"Videos, creators & friends\"\n    },\n    {\n      \"appStoreId\" : \"1582400755\",\n      \"averageRating\" : 5,\n      \"bundleId\" : \"com.cisdem.appencrypt\",\n      \"developer\" : \"Cisdem Inc.\",\n      \"genre\" : \"Utilities\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple211\\/v4\\/4d\\/ab\\/96\\/4dab9686-a9da-ec62-9397-3f9c1e700a28\\/AppIcon-0-1x_U007epad-0-10-0-85-220-0.png\\/80x0w.webp\",\n      \"name\" : \"AppCrypt - App & Site Blocker\",\n      \"ranking\" : 3,\n      \"ratingCount\" : 2,\n      \"subtitle\" : \"Lock Apps, Block Websites\"\n    },\n    {\n      \"appStoreId\" : \"6745342698\",\n      \"averageRating\" : 4.8,\n      \"bundleId\" : \"net.raymondhill.uBlock-Origin-Lite\",\n      \"developer\" : \"Raymond Hill\",\n      \"genre\" : \"Utilities\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple221\\/v4\\/a1\\/d4\\/05\\/a1d40581-ac44-cfd2-4c02-2e14bfabca2a\\/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png\\/80x0w.webp\",\n      \"name\" : \"uBlock Origin Lite\",\n      \"ranking\" : 4,\n      \"ratingCount\" : 143,\n      \"subtitle\" : \"An efficient content blocker\"\n    },\n    {\n      \"appStoreId\" : \"6741067501\",\n      \"averageRating\" : 4.1,\n      \"bundleId\" : \"org.atmana.websiteBlocker\",\n      \"developer\" : \"Atmana Tech\",\n      \"genre\" : \"Productivity\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple221\\/v4\\/cf\\/61\\/0f\\/cf610f46-7503-7f9c-fd38-1b4ef256012d\\/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png\\/80x0w.webp\",\n      \"name\" : \"Website Blocker - Block Sites\",\n      \"ranking\" : 5,\n      \"ratingCount\" : 37,\n      \"subtitle\" : \"Site Blocker, Content Blocker\"\n    }\n  ],\n  \"keyword\" : \"App Blocker – Duck on Duty\",\n  \"platform\" : \"iphone\",\n  \"store\" : \"gb\",\n  \"totalResults\" : 50\n}",
+          "type": "text"
+        }
+      ],
+      "isError": false
+    }
+  },
+  "error": null,
+  "exactOtherAppMatches": []
+}

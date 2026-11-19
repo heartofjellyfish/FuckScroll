@@ -1,0 +1,124 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=bloqueur+d%E2%80%99applications&country=cm&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/cm/app/one-sec-temps-d%C3%A9cran-focus/id1532875441?uo=4",
+        "averageUserRating": 4.53846,
+        "artistName": "riedel.wtf apps S.L.",
+        "genres": [
+          "Productivité",
+          "Forme et santé"
+        ],
+        "price": 0.0,
+        "releaseDate": "2020-09-29T07:00:00Z",
+        "trackId": 1532875441,
+        "trackName": "one sec–temps d'écran & focus",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-14T18:42:34Z",
+        "version": "6.1.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "wtf.riedel.one-sec",
+        "userRatingCount": 13,
+        "descriptionSHA256": "715bc05374e0cd89a6cc12a733a4364b877af8f965c0d4db3ea738c1f0d554a8"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/cm/app/callapp-id-bloqueur-dappel/id6739289261?uo=4",
+        "averageUserRating": 4.26316,
+        "artistName": "CallApp",
+        "genres": [
+          "Utilitaires",
+          "Productivité"
+        ],
+        "price": 0.0,
+        "releaseDate": "2025-09-29T07:00:00Z",
+        "trackId": 6739289261,
+        "trackName": "Callapp: ID & Bloqueur d'appel",
+        "primaryGenreName": "Utilities",
+        "currentVersionReleaseDate": "2026-11-16T06:52:43Z",
+        "version": "1.29",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.callapp.contacts",
+        "userRatingCount": 95,
+        "descriptionSHA256": "e36fb910d9a54f134eabe7b917d4ebd086ab80c96a06de8d407a4da1984f4665"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/cm/app/opal-temps-d%C3%A9cran-et-focus/id1497465230?uo=4",
+        "averageUserRating": 4.24,
+        "artistName": "Opal OS",
+        "genres": [
+          "Productivité",
+          "Forme et santé"
+        ],
+        "price": 0.0,
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "trackId": 1497465230,
+        "trackName": "Opal: Temps d'écran et Focus",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.withopal.opal",
+        "userRatingCount": 75,
+        "descriptionSHA256": "c0fba23699dd09c567f31251e42122228bee0170b55079e3167ec7297b90a927"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/cm/app/stay-focused-bloqueur-dapps/id1658592224?uo=4",
+        "averageUserRating": 0,
+        "artistName": "INNOXAPPS LLP",
+        "genres": [
+          "Productivité",
+          "Utilitaires"
+        ],
+        "price": 0.0,
+        "releaseDate": "2023-01-26T08:00:00Z",
+        "trackId": 1658592224,
+        "trackName": "Stay Focused - Bloqueur d'apps",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-10-01T19:56:32Z",
+        "version": "7.0.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.stayfocused",
+        "userRatingCount": 0,
+        "descriptionSHA256": "bedbf23117848478cf17d309abe20d4a17dc09265b4a7ed4ee6a57d387671805"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/cm/app/saracroche-bloqueur-dappels/id6743679292?uo=4",
+        "averageUserRating": 5,
+        "artistName": "Camille Bouvat",
+        "genres": [
+          "Utilitaires",
+          "Productivité"
+        ],
+        "price": 0.0,
+        "releaseDate": "2025-03-24T07:00:00Z",
+        "trackId": 6743679292,
+        "trackName": "Saracroche : bloqueur d'appels",
+        "primaryGenreName": "Utilities",
+        "currentVersionReleaseDate": "2026-11-11T01:07:07Z",
+        "version": "5.5.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.cbouvat.saracroche",
+        "userRatingCount": 1,
+        "descriptionSHA256": "04aea0e0df57c60b589e8ea95b6a2d30e7df8cd65ff2122ae06068493cdd7f3f"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "c9ea7b73923727e52ceba13b3484cbbf291c921940fbc046d26a2c76a002bab6",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

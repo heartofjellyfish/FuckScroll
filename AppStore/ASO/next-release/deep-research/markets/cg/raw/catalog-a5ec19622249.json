@@ -1,0 +1,124 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=contr%C3%B4le+du+temps+d%E2%80%99%C3%A9cran&country=cg&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "artistName": "Opal OS",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "trackId": 1497465230,
+        "trackName": "Opal: Screen Time Control",
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/cg/app/opal-screen-time-control/id1497465230?uo=4",
+        "averageUserRating": 4.57143,
+        "bundleId": "com.withopal.opal",
+        "userRatingCount": 28,
+        "descriptionSHA256": "79545dcfd9d33edf53d3567fc6a6eb5b582561ed18b9d49245fbff4af0417656"
+      },
+      {
+        "kind": "software",
+        "artistName": "Nanjing Mairui Software Development Co., Ltd.",
+        "genres": [
+          "Education",
+          "Utilities"
+        ],
+        "price": 0.0,
+        "trackId": 6447595893,
+        "trackName": "XLocker - Control Screen Time",
+        "releaseDate": "2023-05-15T07:00:00Z",
+        "primaryGenreName": "Education",
+        "currentVersionReleaseDate": "2026-11-17T15:58:16Z",
+        "version": "2.0.15",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/cg/app/xlocker-control-screen-time/id6447595893?uo=4",
+        "averageUserRating": 4,
+        "bundleId": "com.omi.utility.app.locker",
+        "userRatingCount": 1,
+        "descriptionSHA256": "cd14e316e7b03c0b6ad1e7449a66b002cb7bf6803dcd8ea36715d288401d0724"
+      },
+      {
+        "kind": "software",
+        "artistName": "Virginijus Makauskas",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "trackId": 6749958149,
+        "trackName": "Screen Time Control: App Lock",
+        "releaseDate": "2025-10-24T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-08-24T20:02:05Z",
+        "version": "1.0.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/cg/app/screen-time-control-app-lock/id6749958149?uo=4",
+        "averageUserRating": 0,
+        "bundleId": "com.screentime.contr.app",
+        "userRatingCount": 0,
+        "descriptionSHA256": "85703cd5dfc7e878692f0f5de328e17bb802b1b1734562fd897bad4415b308a2"
+      },
+      {
+        "kind": "software",
+        "artistName": "Shenzhen Wondershare Software Co., Ltd",
+        "genres": [
+          "Lifestyle",
+          "Education"
+        ],
+        "price": 0.0,
+        "trackId": 1559132457,
+        "trackName": "Fammy - Blocksite",
+        "releaseDate": "2021-05-19T07:00:00Z",
+        "primaryGenreName": "Lifestyle",
+        "currentVersionReleaseDate": "2026-10-19T01:10:29Z",
+        "version": "9.1.5",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/cg/app/fammy-blocksite/id1559132457?uo=4",
+        "averageUserRating": 0,
+        "bundleId": "com.wondershare.parentalcontrolkid",
+        "userRatingCount": 0,
+        "descriptionSHA256": "a5924d43d9379b07f9b7ed32bbd382b0045af4ca5218a0a3f496472a48c6f6af"
+      },
+      {
+        "kind": "software",
+        "artistName": "SAND STUDIO CORPORATION LIMITED",
+        "genres": [
+          "Lifestyle",
+          "Utilities"
+        ],
+        "price": 0.0,
+        "trackId": 1525339567,
+        "trackName": "Parental Control App: AirDroid",
+        "releaseDate": "2022-06-07T07:00:00Z",
+        "primaryGenreName": "Lifestyle",
+        "currentVersionReleaseDate": "2026-11-05T07:26:27Z",
+        "version": "2.9.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/cg/app/parental-control-app-airdroid/id1525339567?uo=4",
+        "averageUserRating": 5,
+        "bundleId": "com.sandstudio.cp-parent",
+        "userRatingCount": 3,
+        "descriptionSHA256": "18446f1ada558f9ec9ead3ac3b01a6450501aff9845be108fa47dd8b2c233621"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "3eec5f3ebe39db7847a4fec0781262ce9ac121b39e9455afdb137c720686c923",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

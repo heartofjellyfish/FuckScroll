@@ -1,0 +1,21 @@
+{
+  "locale": "hu",
+  "store": "hu",
+  "proposedName": "App Blocker – Őrkacsa",
+  "limitations": "A public top-five name search, not App Store Connect reservation or trademark clearance.",
+  "response": {
+    "id": "9ec14bd1-5b94-4340-aba1-4856c562654c",
+    "jsonrpc": "2.0",
+    "result": {
+      "content": [
+        {
+          "text": "{\n  \"apps\" : [\n\n  ],\n  \"keyword\" : \"App Blocker – Őrkacsa\",\n  \"platform\" : \"iphone\",\n  \"store\" : \"hu\",\n  \"totalResults\" : 0\n}",
+          "type": "text"
+        }
+      ],
+      "isError": false
+    }
+  },
+  "error": null,
+  "exactOtherAppMatches": []
+}

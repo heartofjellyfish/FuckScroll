@@ -1,0 +1,123 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=%D9%85%D8%AF%D8%A9+%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85+%D8%A7%D9%84%D8%AC%D9%87%D8%A7%D8%B2&country=tn&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "bundleId": "app.5learn.One-Breath",
+        "currentVersionReleaseDate": "2026-11-02T17:22:55Z",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/tn/app/bspace-screen-time-control/id6776689183?uo=4",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "trackId": 6776689183,
+        "trackName": "BSpace: Screen Time Control",
+        "primaryGenreName": "Productivity",
+        "version": "1.8",
+        "wrapperType": "software",
+        "currency": "USD",
+        "releaseDate": "2026-07-14T07:00:00Z",
+        "artistName": "ANNA KUCHUMOVA",
+        "userRatingCount": 0,
+        "descriptionSHA256": "8008fe41cccb28c9caf0b87f0ce64467b1f57552c7bb149d5490f3002ee8c009"
+      },
+      {
+        "kind": "software",
+        "bundleId": "com.watson3.cubby",
+        "currentVersionReleaseDate": "2026-10-01T21:14:53Z",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/tn/app/toll-screen-time-app-blocker/id6770766229?uo=4",
+        "genres": [
+          "Utilities",
+          "Photo & Video"
+        ],
+        "price": 0.0,
+        "trackId": 6770766229,
+        "trackName": "Toll: Screen Time App Blocker",
+        "primaryGenreName": "Utilities",
+        "version": "1.0.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "releaseDate": "2026-07-19T07:00:00Z",
+        "artistName": "Watson 3 Inc",
+        "userRatingCount": 0,
+        "descriptionSHA256": "4343c36b53992c8da758915e75bdbea0a223c68481a01cf78fa8019faeba19b7"
+      },
+      {
+        "kind": "software",
+        "bundleId": "com.aheno.ios",
+        "currentVersionReleaseDate": "2026-11-11T06:58:08Z",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/tn/app/aheno-app-blocker-focus/id6795961801?uo=4",
+        "genres": [
+          "Productivity"
+        ],
+        "price": 0.0,
+        "trackId": 6795961801,
+        "trackName": "Aheno: App Blocker & Focus",
+        "primaryGenreName": "Productivity",
+        "version": "1.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "releaseDate": "2026-11-10T08:00:00Z",
+        "artistName": "CENKER KUMLUCALI",
+        "userRatingCount": 0,
+        "descriptionSHA256": "fb0879b295e65c4ba4d71bfcea3506bd40a2b416d16add08e54c360ffa9700c5"
+      },
+      {
+        "kind": "software",
+        "bundleId": "com.getfinit.app",
+        "currentVersionReleaseDate": "2026-10-15T20:52:21Z",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/tn/app/finit-screen-time-life/id6786888937?uo=4",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "trackId": 6786888937,
+        "trackName": "finit: Screen Time & Life",
+        "primaryGenreName": "Productivity",
+        "version": "1.0.4",
+        "wrapperType": "software",
+        "currency": "USD",
+        "releaseDate": "2026-08-11T07:00:00Z",
+        "artistName": "Joschka Bieri",
+        "userRatingCount": 0,
+        "descriptionSHA256": "ffb64cc50461e2de5f3c6a5da30aaa1b85edeb8c34155daf1971a20fbe1cd832"
+      },
+      {
+        "kind": "software",
+        "bundleId": "com.streaksapp.streak",
+        "currentVersionReleaseDate": "2026-11-19T05:19:17Z",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/tn/app/streaks/id963034692?uo=4",
+        "genres": [
+          "Health & Fitness",
+          "Utilities"
+        ],
+        "price": 5.99,
+        "trackId": 963034692,
+        "trackName": "Streaks",
+        "primaryGenreName": "Health & Fitness",
+        "version": "11.6.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "releaseDate": "2015-06-01T02:53:36Z",
+        "artistName": "Crunchy Bagel",
+        "userRatingCount": 0,
+        "descriptionSHA256": "5bd7b902ce157ae7c8e27ff9f71aa67a76ea6827437609dec9399b81804ca01f"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "838ee7b32b6463809237052739fa225a2c8f47937469edfe31cd03237d026963",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

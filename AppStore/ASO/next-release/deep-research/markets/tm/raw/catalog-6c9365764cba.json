@@ -1,0 +1,124 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=social+media+blocker&country=tm&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "artistName": "Opal OS",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "trackId": 1497465230,
+        "trackName": "Opal: Screen Time Control",
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 4.66667,
+        "trackViewUrl": "https://apps.apple.com/tm/app/opal-screen-time-control/id1497465230?uo=4",
+        "bundleId": "com.withopal.opal",
+        "price": 0.0,
+        "userRatingCount": 3,
+        "descriptionSHA256": "79545dcfd9d33edf53d3567fc6a6eb5b582561ed18b9d49245fbff4af0417656"
+      },
+      {
+        "kind": "software",
+        "artistName": "riedel.wtf apps S.L.",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "trackId": 1532875441,
+        "trackName": "one sec | screen time + focus",
+        "releaseDate": "2020-09-29T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-14T18:42:34Z",
+        "version": "6.1.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 5,
+        "trackViewUrl": "https://apps.apple.com/tm/app/one-sec-screen-time-focus/id1532875441?uo=4",
+        "bundleId": "wtf.riedel.one-sec",
+        "price": 0.0,
+        "userRatingCount": 2,
+        "descriptionSHA256": "7458286eeec2edf883eec2f9abc49582f9924be2e29f484b82b1014b4b2a0462"
+      },
+      {
+        "kind": "software",
+        "artistName": "Sociallite LLC",
+        "genres": [
+          "Productivity",
+          "Social Networking"
+        ],
+        "trackId": 6757661674,
+        "trackName": "SocialLite-Block Reels&Shorts",
+        "releaseDate": "2026-01-29T08:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-10-16T11:04:41Z",
+        "version": "3.1.5",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/tm/app/sociallite-block-reels-shorts/id6757661674?uo=4",
+        "bundleId": "social.Social-lite",
+        "price": 0.0,
+        "userRatingCount": 0,
+        "descriptionSHA256": "9dbd89f368c17dc50b7187fccb2c303ea2893d4ea389e2290954ac38e87b7144"
+      },
+      {
+        "kind": "software",
+        "artistName": "ScreenZen LLC",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "trackId": 1541027222,
+        "trackName": "ScreenZen- Screen Time Control",
+        "releaseDate": "2021-07-16T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-09-06T14:20:14Z",
+        "version": "4.0.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/tm/app/screenzen-screen-time-control/id1541027222?uo=4",
+        "bundleId": "com.scottharvey.screenzenapp.ios",
+        "price": 0.0,
+        "userRatingCount": 0,
+        "descriptionSHA256": "def0cb7cf41c8f7b1619d270d38fe8aa23859b81147ae63a1041bc0a1b7f8cc8"
+      },
+      {
+        "kind": "software",
+        "artistName": "Google",
+        "genres": [
+          "Photo & Video",
+          "Entertainment"
+        ],
+        "trackId": 544007664,
+        "trackName": "YouTube",
+        "releaseDate": "2012-09-11T07:23:19Z",
+        "primaryGenreName": "Photo & Video",
+        "currentVersionReleaseDate": "2026-11-15T17:07:14Z",
+        "version": "21.46.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 4.65906,
+        "trackViewUrl": "https://apps.apple.com/tm/app/youtube/id544007664?uo=4",
+        "bundleId": "com.google.ios.youtube",
+        "price": 0.0,
+        "userRatingCount": 10993,
+        "descriptionSHA256": "1e6f0cf91581de1c7a968a4ce4e586263baef427a78914044c88539d05cc4b2a"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "5d4d01a15ff517c64919fdadbcc51ed7f9eb416b23cf958c3872b0f379687c22",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

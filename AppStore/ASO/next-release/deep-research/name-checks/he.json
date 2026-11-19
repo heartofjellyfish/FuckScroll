@@ -1,0 +1,21 @@
+{
+  "locale": "he",
+  "store": "il",
+  "proposedName": "זמן מסך – ברווז במשמרת",
+  "limitations": "A public top-five name search, not App Store Connect reservation or trademark clearance.",
+  "response": {
+    "id": "c2f9cf23-36d1-414b-9006-2578a414ad2b",
+    "jsonrpc": "2.0",
+    "result": {
+      "content": [
+        {
+          "text": "{\n  \"apps\" : [\n\n  ],\n  \"keyword\" : \"זמן מסך – ברווז במשמרת\",\n  \"platform\" : \"iphone\",\n  \"store\" : \"il\",\n  \"totalResults\" : 0\n}",
+          "type": "text"
+        }
+      ],
+      "isError": false
+    }
+  },
+  "error": null,
+  "exactOtherAppMatches": []
+}

@@ -1,0 +1,124 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=contr%C3%B4le+du+temps+d%E2%80%99%C3%A9cran&country=mg&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/mg/app/screen-time-control-app-lock/id6749958149?uo=4",
+        "averageUserRating": 0,
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "artistName": "Virginijus Makauskas",
+        "primaryGenreName": "Productivity",
+        "trackName": "Screen Time Control: App Lock",
+        "releaseDate": "2025-10-24T07:00:00Z",
+        "currentVersionReleaseDate": "2026-08-24T20:02:05Z",
+        "version": "1.0.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.screentime.contr.app",
+        "trackId": 6749958149,
+        "userRatingCount": 0,
+        "descriptionSHA256": "85703cd5dfc7e878692f0f5de328e17bb802b1b1734562fd897bad4415b308a2"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/mg/app/opal-screen-time-control/id1497465230?uo=4",
+        "averageUserRating": 4.65217,
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "artistName": "Opal OS",
+        "primaryGenreName": "Productivity",
+        "trackName": "Opal: Screen Time Control",
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.withopal.opal",
+        "trackId": 1497465230,
+        "userRatingCount": 23,
+        "descriptionSHA256": "79545dcfd9d33edf53d3567fc6a6eb5b582561ed18b9d49245fbff4af0417656"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/mg/app/xlocker-control-screen-time/id6447595893?uo=4",
+        "averageUserRating": 0,
+        "genres": [
+          "Education",
+          "Utilities"
+        ],
+        "price": 0.0,
+        "artistName": "Nanjing Mairui Software Development Co., Ltd.",
+        "primaryGenreName": "Education",
+        "trackName": "XLocker - Control Screen Time",
+        "releaseDate": "2023-05-15T07:00:00Z",
+        "currentVersionReleaseDate": "2026-11-17T15:58:16Z",
+        "version": "2.0.15",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.omi.utility.app.locker",
+        "trackId": 6447595893,
+        "userRatingCount": 0,
+        "descriptionSHA256": "cd14e316e7b03c0b6ad1e7449a66b002cb7bf6803dcd8ea36715d288401d0724"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/mg/app/fammy-blocksite/id1559132457?uo=4",
+        "averageUserRating": 0,
+        "genres": [
+          "Lifestyle",
+          "Education"
+        ],
+        "price": 0.0,
+        "artistName": "Shenzhen Wondershare Software Co., Ltd",
+        "primaryGenreName": "Lifestyle",
+        "trackName": "Fammy - Blocksite",
+        "releaseDate": "2021-05-19T07:00:00Z",
+        "currentVersionReleaseDate": "2026-10-19T01:10:29Z",
+        "version": "9.1.5",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.wondershare.parentalcontrolkid",
+        "trackId": 1559132457,
+        "userRatingCount": 0,
+        "descriptionSHA256": "a5924d43d9379b07f9b7ed32bbd382b0045af4ca5218a0a3f496472a48c6f6af"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/mg/app/parental-control-app-kidslox/id914825567?uo=4",
+        "averageUserRating": 5,
+        "genres": [
+          "Lifestyle",
+          "Utilities"
+        ],
+        "price": 0.0,
+        "artistName": "Kidslox Trading Ltd",
+        "primaryGenreName": "Lifestyle",
+        "trackName": "Parental Control App - Kidslox",
+        "releaseDate": "2014-09-23T23:23:11Z",
+        "currentVersionReleaseDate": "2026-09-15T06:03:44Z",
+        "version": "11.3.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.kidslox.main",
+        "trackId": 914825567,
+        "userRatingCount": 2,
+        "descriptionSHA256": "d7539daf53bb81a1e94445145b66c140d46f513f2094f6b5fa099f8287fae953"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "584f4f1ce5c6f4d57086c470732dca2f80105122a54d22331793107e29e91a94",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

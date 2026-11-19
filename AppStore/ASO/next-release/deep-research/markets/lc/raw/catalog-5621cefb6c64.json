@@ -1,0 +1,123 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=app+limits&country=lc&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "price": 0.0,
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "artistName": "MobileSoft s.r.o.",
+        "bundleId": "eu.mobilesoft.appblock",
+        "trackId": 1515753232,
+        "trackName": "AppBlock: App & Site Blocker",
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2021-08-17T07:00:00Z",
+        "currentVersionReleaseDate": "2026-11-11T10:48:39Z",
+        "version": "4.14.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 5,
+        "trackViewUrl": "https://apps.apple.com/lc/app/appblock-app-site-blocker/id1515753232?uo=4",
+        "userRatingCount": 1,
+        "descriptionSHA256": "f4e2257d9c85cbaf9cd8496ddc82a9a5d41b2e0440020c527d8b3b8c4bbe4236"
+      },
+      {
+        "kind": "software",
+        "price": 0.0,
+        "genres": [
+          "Lifestyle",
+          "Utilities"
+        ],
+        "artistName": "Kidslox Trading Ltd",
+        "bundleId": "com.kidslox.main",
+        "trackId": 914825567,
+        "trackName": "Parental Control App - Kidslox",
+        "primaryGenreName": "Lifestyle",
+        "releaseDate": "2014-09-23T23:23:11Z",
+        "currentVersionReleaseDate": "2026-09-15T06:03:44Z",
+        "version": "11.3.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/lc/app/parental-control-app-kidslox/id914825567?uo=4",
+        "userRatingCount": 0,
+        "descriptionSHA256": "d7539daf53bb81a1e94445145b66c140d46f513f2094f6b5fa099f8287fae953"
+      },
+      {
+        "kind": "software",
+        "price": 0.0,
+        "genres": [
+          "Utilities"
+        ],
+        "artistName": "KINGSMEN VIETNAM COMPANY LIMITED",
+        "bundleId": "com.kingsmen.lockdatamanager",
+        "trackId": 1616433953,
+        "trackName": "App Lock, Hide App & Lock Apps",
+        "primaryGenreName": "Utilities",
+        "releaseDate": "2022-03-30T07:00:00Z",
+        "currentVersionReleaseDate": "2022-11-09T19:44:17Z",
+        "version": "1.6",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/lc/app/app-lock-hide-app-lock-apps/id1616433953?uo=4",
+        "userRatingCount": 0,
+        "descriptionSHA256": "a9a10fab975dea91f7d622ac28f56cc89c7ac676e92e3c3e0d06fd1a1df131e8"
+      },
+      {
+        "kind": "software",
+        "price": 0.0,
+        "genres": [
+          "Shopping",
+          "Lifestyle"
+        ],
+        "artistName": "Alibaba",
+        "bundleId": "com.alibaba.iAliexpress",
+        "trackId": 436672029,
+        "trackName": "AliExpress Shopping App",
+        "primaryGenreName": "Shopping",
+        "releaseDate": "2011-07-10T12:53:05Z",
+        "currentVersionReleaseDate": "2026-11-17T02:47:32Z",
+        "version": "8.180.2",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 4.60106,
+        "trackViewUrl": "https://apps.apple.com/lc/app/aliexpress-shopping-app/id436672029?uo=4",
+        "userRatingCount": 188,
+        "descriptionSHA256": "5d415fb9c4186913ead74b5dec21f79d617069ac1754cf6fcad89020a3b8736e"
+      },
+      {
+        "kind": "software",
+        "price": 0.0,
+        "genres": [
+          "Social Networking",
+          "Lifestyle"
+        ],
+        "artistName": "Luxy Inc.",
+        "bundleId": "US.Luxy.Luxy",
+        "trackId": 873518909,
+        "trackName": "Luxy: Selective Singles Dating",
+        "primaryGenreName": "Social Networking",
+        "releaseDate": "2014-08-14T03:20:47Z",
+        "currentVersionReleaseDate": "2026-11-16T02:57:45Z",
+        "version": "7.37.2",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 4.65,
+        "trackViewUrl": "https://apps.apple.com/lc/app/luxy-selective-singles-dating/id873518909?uo=4",
+        "userRatingCount": 20,
+        "descriptionSHA256": "3510e78cf756d4d785d9703032c34b621b25192ee0ee9d6bbee34219ff93fa76"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "422d5f401d4ec229acbae9747e05ad13f39502b07dd7ac0d00144a17a9ee9ed2",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

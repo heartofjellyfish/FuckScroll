@@ -1,0 +1,13 @@
+{
+  "id": "ba6227ad-2fa6-4939-99bc-1a0702744411",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"apps\" : [\n\n  ],\n  \"keyword\" : \"зависимость от телефона\",\n  \"platform\" : \"iphone\",\n  \"store\" : \"uz\",\n  \"totalResults\" : 0\n}",
+        "type": "text"
+      }
+    ],
+    "isError": false
+  }
+}

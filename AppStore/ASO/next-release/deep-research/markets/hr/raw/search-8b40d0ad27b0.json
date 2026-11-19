@@ -1,0 +1,13 @@
+{
+  "id": "9e5c5421-acec-419c-957d-7104f052f07c",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"apps\" : [\n    {\n      \"appStoreId\" : \"1365784521\",\n      \"averageRating\" : 4.2,\n      \"bundleId\" : \"com.meshukraina.parentalcontrol\",\n      \"developer\" : \"MESH Ukraina\",\n      \"genre\" : \"Education\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple221\\/v4\\/5d\\/b3\\/3b\\/5db33b6a-e1a6-36e6-38d3-8e8d98d8b827\\/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png\\/80x0w.webp\",\n      \"name\" : \"Parental Control - Kroha\",\n      \"ranking\" : 1,\n      \"ratingCount\" : 33,\n      \"subtitle\" : \"Family Screen Time・GPS Tracker\"\n    },\n    {\n      \"appStoreId\" : \"6776689183\",\n      \"averageRating\" : 0,\n      \"bundleId\" : \"app.5learn.One-Breath\",\n      \"developer\" : \"ANNA KUCHUMOVA\",\n      \"genre\" : \"Productivity\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple211\\/v4\\/01\\/ba\\/a5\\/01baa581-1ce7-d0d6-7cf4-48049f9d96f4\\/BreathingSpace-0-0-1x_U007epad-0-1-85-220.png\\/80x0w.webp\",\n      \"name\" : \"BSpace: Screen Time Control\",\n      \"ranking\" : 2,\n      \"ratingCount\" : 0,\n      \"subtitle\" : \"App Blocker & Digital Detox\"\n    }\n  ],\n  \"keyword\" : \"vrijeme uporabe zaslona\",\n  \"platform\" : \"iphone\",\n  \"store\" : \"hr\",\n  \"totalResults\" : 2\n}",
+        "type": "text"
+      }
+    ],
+    "isError": false
+  }
+}

@@ -1,0 +1,123 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=screen+time+control&country=to&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "artistName": "Opal OS",
+        "bundleId": "com.withopal.opal",
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "trackId": 1497465230,
+        "trackName": "Opal: Screen Time Control",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/to/app/opal-screen-time-control/id1497465230?uo=4",
+        "averageUserRating": 0,
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "userRatingCount": 0,
+        "descriptionSHA256": "79545dcfd9d33edf53d3567fc6a6eb5b582561ed18b9d49245fbff4af0417656"
+      },
+      {
+        "kind": "software",
+        "genres": [
+          "Health & Fitness",
+          "Productivity"
+        ],
+        "price": 0.0,
+        "artistName": "MD Studio",
+        "bundleId": "tech.miidii.off-screen",
+        "currentVersionReleaseDate": "2026-11-16T15:54:59Z",
+        "trackId": 1474340105,
+        "trackName": "OffScreen: Screen Time Control",
+        "version": "3.22.6",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/to/app/offscreen-screen-time-control/id1474340105?uo=4",
+        "averageUserRating": 0,
+        "primaryGenreName": "Health & Fitness",
+        "releaseDate": "2020-04-10T07:00:00Z",
+        "userRatingCount": 0,
+        "descriptionSHA256": "079a343ef3820f7b726bc6a79a3cc60eb0f9faf0dc1070c1af73e61123346c28"
+      },
+      {
+        "kind": "software",
+        "genres": [
+          "Lifestyle",
+          "Productivity"
+        ],
+        "price": 0.0,
+        "artistName": "Screen Time Labs",
+        "bundleId": "com.screentime",
+        "currentVersionReleaseDate": "2022-12-07T13:43:25Z",
+        "trackId": 1055315077,
+        "trackName": "Screen Time Parental Control",
+        "version": "3.72",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/to/app/screen-time-parental-control/id1055315077?uo=4",
+        "averageUserRating": 0,
+        "primaryGenreName": "Lifestyle",
+        "releaseDate": "2020-04-10T07:00:00Z",
+        "userRatingCount": 0,
+        "descriptionSHA256": "4304fa45bc672e931bb3f98d3b8232f55d3f776c5eb880d3d113c7227a932ad6"
+      },
+      {
+        "kind": "software",
+        "genres": [
+          "Productivity"
+        ],
+        "price": 0.0,
+        "artistName": "Lilucat",
+        "bundleId": "com.lilucat.screentimecontrolapp",
+        "currentVersionReleaseDate": "2026-02-05T10:46:49Z",
+        "trackId": 6758152591,
+        "trackName": "Screen Time Control App",
+        "version": "1.0.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/to/app/screen-time-control-app/id6758152591?uo=4",
+        "averageUserRating": 0,
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2026-02-04T08:00:00Z",
+        "userRatingCount": 0,
+        "descriptionSHA256": "73855fbd83a22d7946f0ce5107729b4028b30b37ce29884fb4ea1b7337a423df"
+      },
+      {
+        "kind": "software",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "artistName": "ScreenZen LLC",
+        "bundleId": "com.scottharvey.screenzenapp.ios",
+        "currentVersionReleaseDate": "2026-09-06T14:20:14Z",
+        "trackId": 1541027222,
+        "trackName": "ScreenZen- Screen Time Control",
+        "version": "4.0.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/to/app/screenzen-screen-time-control/id1541027222?uo=4",
+        "averageUserRating": 0,
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2021-07-16T07:00:00Z",
+        "userRatingCount": 0,
+        "descriptionSHA256": "def0cb7cf41c8f7b1619d270d38fe8aa23859b81147ae63a1041bc0a1b7f8cc8"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "88ab4726605c4485503b2912f611a67b95f43f895ac9b80f6c0c3a50c837c8b0",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

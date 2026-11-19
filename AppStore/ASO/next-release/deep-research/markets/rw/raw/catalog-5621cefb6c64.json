@@ -1,0 +1,124 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=app+limits&country=rw&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/rw/app/appblock-app-site-blocker/id1515753232?uo=4",
+        "averageUserRating": 4.8,
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "bundleId": "eu.mobilesoft.appblock",
+        "artistName": "MobileSoft s.r.o.",
+        "price": 0.0,
+        "currentVersionReleaseDate": "2026-11-11T10:48:39Z",
+        "releaseDate": "2021-08-17T07:00:00Z",
+        "trackId": 1515753232,
+        "trackName": "AppBlock: App & Site Blocker",
+        "primaryGenreName": "Productivity",
+        "version": "4.14.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "userRatingCount": 5,
+        "descriptionSHA256": "f4e2257d9c85cbaf9cd8496ddc82a9a5d41b2e0440020c527d8b3b8c4bbe4236"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/rw/app/opal-screen-time-control/id1497465230?uo=4",
+        "averageUserRating": 4.85714,
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "bundleId": "com.withopal.opal",
+        "artistName": "Opal OS",
+        "price": 0.0,
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "trackId": 1497465230,
+        "trackName": "Opal: Screen Time Control",
+        "primaryGenreName": "Productivity",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "USD",
+        "userRatingCount": 21,
+        "descriptionSHA256": "79545dcfd9d33edf53d3567fc6a6eb5b582561ed18b9d49245fbff4af0417656"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/rw/app/parental-control-app-kidslox/id914825567?uo=4",
+        "averageUserRating": 5,
+        "genres": [
+          "Lifestyle",
+          "Utilities"
+        ],
+        "bundleId": "com.kidslox.main",
+        "artistName": "Kidslox Trading Ltd",
+        "price": 0.0,
+        "currentVersionReleaseDate": "2026-09-15T06:03:44Z",
+        "releaseDate": "2020-04-10T07:00:00Z",
+        "trackId": 914825567,
+        "trackName": "Parental Control App - Kidslox",
+        "primaryGenreName": "Lifestyle",
+        "version": "11.3.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "userRatingCount": 3,
+        "descriptionSHA256": "d7539daf53bb81a1e94445145b66c140d46f513f2094f6b5fa099f8287fae953"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/rw/app/one-sec-screen-time-focus/id1532875441?uo=4",
+        "averageUserRating": 4.83333,
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "bundleId": "wtf.riedel.one-sec",
+        "artistName": "riedel.wtf apps S.L.",
+        "price": 0.0,
+        "currentVersionReleaseDate": "2026-11-14T18:42:34Z",
+        "releaseDate": "2020-09-29T07:00:00Z",
+        "trackId": 1532875441,
+        "trackName": "one sec | screen time + focus",
+        "primaryGenreName": "Productivity",
+        "version": "6.1.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "userRatingCount": 6,
+        "descriptionSHA256": "7458286eeec2edf883eec2f9abc49582f9924be2e29f484b82b1014b4b2a0462"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/rw/app/faceapp-perfect-face-editor/id1180884341?uo=4",
+        "averageUserRating": 4.34359,
+        "genres": [
+          "Photo & Video",
+          "Entertainment"
+        ],
+        "bundleId": "io.faceapp.ios",
+        "artistName": "FaceApp Technology Limited",
+        "price": 0.0,
+        "currentVersionReleaseDate": "2026-11-14T11:50:27Z",
+        "releaseDate": "2020-04-10T07:00:00Z",
+        "trackId": 1180884341,
+        "trackName": "FaceApp: Perfect Face Editor",
+        "primaryGenreName": "Photo & Video",
+        "version": "26.10.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "userRatingCount": 585,
+        "descriptionSHA256": "7005437c6af00e0dca408ae0b4cfb10ada33cc3e1613352a679a727e504f5036"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "02a6dfe3e40126ab29da8a5f868cf24022b2ae3e42c4c20ef15b6804badec10d",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

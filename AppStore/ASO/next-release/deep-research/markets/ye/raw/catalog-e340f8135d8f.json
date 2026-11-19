@@ -1,0 +1,102 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=%D8%AA%D8%AD%D8%AF%D9%8A%D8%AF+%D9%88%D9%82%D8%AA+%D8%A7%D9%84%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A7%D8%AA&country=ye&entity=software&limit=5",
+  "response": {
+    "resultCount": 4,
+    "results": [
+      {
+        "kind": "software",
+        "artistName": "Google",
+        "genres": [
+          "Photo & Video",
+          "Entertainment"
+        ],
+        "price": 0.0,
+        "primaryGenreName": "Photo & Video",
+        "releaseDate": "2012-09-11T07:23:19Z",
+        "trackId": 544007664,
+        "trackName": "YouTube",
+        "currentVersionReleaseDate": "2026-11-15T17:07:14Z",
+        "version": "21.46.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 4.14903,
+        "trackViewUrl": "https://apps.apple.com/ye/app/youtube/id544007664?uo=4",
+        "bundleId": "com.google.ios.youtube",
+        "userRatingCount": 51050,
+        "descriptionSHA256": "1e6f0cf91581de1c7a968a4ce4e586263baef427a78914044c88539d05cc4b2a"
+      },
+      {
+        "kind": "software",
+        "artistName": "Instagram, Inc.",
+        "genres": [
+          "Photo & Video",
+          "Social Networking"
+        ],
+        "price": 0.0,
+        "primaryGenreName": "Photo & Video",
+        "releaseDate": "2011-07-10T02:25:29Z",
+        "trackId": 389801252,
+        "trackName": "Instagram",
+        "currentVersionReleaseDate": "2026-11-16T13:17:23Z",
+        "version": "456.0.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 3.65931,
+        "trackViewUrl": "https://apps.apple.com/ye/app/instagram/id389801252?uo=4",
+        "bundleId": "com.burbn.instagram",
+        "userRatingCount": 30465,
+        "descriptionSHA256": "2dc40985ae20998402deb823bec2eca6a90eef74794908a351f18de603e18c19"
+      },
+      {
+        "kind": "software",
+        "artistName": "Snap, Inc.",
+        "genres": [
+          "Photo & Video",
+          "Social Networking"
+        ],
+        "price": 0.0,
+        "primaryGenreName": "Photo & Video",
+        "releaseDate": "2011-07-13T23:51:40Z",
+        "trackId": 447188370,
+        "trackName": "Snapchat: Chat with friends",
+        "currentVersionReleaseDate": "2026-11-12T12:01:59Z",
+        "version": "14.32.0.53",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 4.31048,
+        "trackViewUrl": "https://apps.apple.com/ye/app/snapchat-chat-with-friends/id447188370?uo=4",
+        "bundleId": "com.toyopagroup.picaboo",
+        "userRatingCount": 11321,
+        "descriptionSHA256": "caa347b080fe20cd7233c7327c7cbedc051c896159a0787cb8299d357f91f5cb"
+      },
+      {
+        "kind": "software",
+        "artistName": "fares.net",
+        "genres": [
+          "Reference",
+          "Lifestyle"
+        ],
+        "price": 0.0,
+        "primaryGenreName": "Reference",
+        "releaseDate": "2011-07-09T21:59:44Z",
+        "trackId": 374050672,
+        "trackName": "Athkar - أذكار",
+        "currentVersionReleaseDate": "2026-11-17T13:05:59Z",
+        "version": "10.2",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 4.46945,
+        "trackViewUrl": "https://apps.apple.com/ye/app/athkar-%D8%A3%D8%B0%D9%83%D8%A7%D8%B1/id374050672?uo=4",
+        "bundleId": "com.fares.net.athkar",
+        "userRatingCount": 1866,
+        "descriptionSHA256": "576425280b64e08425f91a75894b1c1a192b97f60aeab1d561da6c6916ea2be0"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "651e8c8829d5cc6995e0b4dbd266fd09ab7481d1ad8e1742abfb78687b1438e4",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

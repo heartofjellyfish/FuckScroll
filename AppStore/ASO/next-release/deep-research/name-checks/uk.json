@@ -1,0 +1,21 @@
+{
+  "locale": "uk",
+  "store": "ua",
+  "proposedName": "Екранний час – Качка на варті",
+  "limitations": "A public top-five name search, not App Store Connect reservation or trademark clearance.",
+  "response": {
+    "id": "1a36c6e0-380e-4ec0-9371-6a5ba9501b6a",
+    "jsonrpc": "2.0",
+    "result": {
+      "content": [
+        {
+          "text": "{\n  \"apps\" : [\n\n  ],\n  \"keyword\" : \"Екранний час – Качка на варті\",\n  \"platform\" : \"iphone\",\n  \"store\" : \"ua\",\n  \"totalResults\" : 0\n}",
+          "type": "text"
+        }
+      ],
+      "isError": false
+    }
+  },
+  "error": null,
+  "exactOtherAppMatches": []
+}

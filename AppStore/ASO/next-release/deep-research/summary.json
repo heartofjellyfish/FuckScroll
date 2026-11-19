@@ -1,0 +1,32 @@
+{
+  "generatedAt": "2026-11-19T07:02:34.601055+00:00",
+  "storefrontsPlanned": 175,
+  "storefrontRecords": 175,
+  "astroDeepComplete": 91,
+  "astroDeepPlanned": 91,
+  "catalogComplete": 84,
+  "catalogPlanned": 84,
+  "keywordMetricRows": 2586,
+  "queryRecords": 1400,
+  "astroQueries": 728,
+  "catalogQueries": 672,
+  "actualCompetitorRows": 6653,
+  "studyKeywordMetricRows": 118,
+  "studyQueryRecords": 32,
+  "studyCompetitorRows": 139,
+  "languageStudiesComplete": 4,
+  "languageStudiesPlanned": 4,
+  "complete": true,
+  "metadataDrafts": 40,
+  "statusCounts": {
+    "目录补充完成；无热度／自然排名": 84,
+    "深查完成": 91
+  },
+  "limitations": [
+    "84 storefronts have no Astro popularity or native keyword rank; Apple catalog is labelled separately.",
+    "Public catalog may omit subtitles or return fewer than five.",
+    "Country hypotheses are not individually writable locale fields.",
+    "New locale drafts do not add UI translations or complete store assets.",
+    "Names are draft candidates; search does not reserve names or clear trademarks."
+  ]
+}

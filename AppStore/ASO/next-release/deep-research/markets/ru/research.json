@@ -1,0 +1,790 @@
+{
+  "store": "ru",
+  "country": "Russia",
+  "defaultLanguage": "Russian",
+  "additionalLanguages": "English (U.K.), Ukrainian",
+  "languages": [
+    "ru"
+  ],
+  "candidates": [
+    "экранное время",
+    "блокировка приложений",
+    "таймер приложений",
+    "цифровой детокс",
+    "лимит приложений",
+    "ограничение приложений",
+    "ограничение времени",
+    "зависимость от телефона",
+    "меньше телефона",
+    "время в телефоне",
+    "блокировщик приложений",
+    "блокировка соцсетей",
+    "меньше соцсетей",
+    "перестать листать",
+    "фокус",
+    "концентрация",
+    "самоконтроль",
+    "перерыв от телефона",
+    "контроль времени",
+    "app blocker",
+    "screen time",
+    "родительский контроль",
+    "лимит экранного времени",
+    "использование телефона",
+    "screen time control",
+    "scroll blocker"
+  ],
+  "astroSupported": true,
+  "catalogQueries": [
+    "экранное время",
+    "блокировка приложений",
+    "таймер приложений",
+    "цифровой детокс",
+    "лимит приложений",
+    "ограничение приложений",
+    "app blocker",
+    "screen time"
+  ],
+  "startedAt": "2026-11-19T06:10:07.088892+00:00",
+  "source": "Astro MCP, iPhone storefront",
+  "metrics": [
+    {
+      "difficulty": 17,
+      "keyword": "экранное время",
+      "popularity": 49,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 13,
+      "keyword": "блокировка приложений",
+      "popularity": 47,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 11,
+      "keyword": "таймер приложений",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 5,
+      "keyword": "цифровой детокс",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 15,
+      "keyword": "лимит приложений",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 13,
+      "keyword": "ограничение приложений",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 19,
+      "keyword": "ограничение времени",
+      "popularity": 28,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 5,
+      "keyword": "зависимость от телефона",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 5,
+      "keyword": "меньше телефона",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 51,
+      "keyword": "время в телефоне",
+      "popularity": 23,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 9,
+      "keyword": "блокировщик приложений",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 5,
+      "keyword": "блокировка соцсетей",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 5,
+      "keyword": "меньше соцсетей",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 5,
+      "keyword": "перестать листать",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 46,
+      "keyword": "фокус",
+      "popularity": 29,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 42,
+      "keyword": "концентрация",
+      "popularity": 31,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 38,
+      "keyword": "самоконтроль",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 5,
+      "keyword": "перерыв от телефона",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 36,
+      "keyword": "контроль времени",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 19,
+      "keyword": "app blocker",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 13,
+      "keyword": "screen time",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 55,
+      "keyword": "родительский контроль",
+      "popularity": 65,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 9,
+      "keyword": "лимит экранного времени",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 5,
+      "keyword": "использование телефона",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 17,
+      "keyword": "screen time control",
+      "popularity": 25,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 19,
+      "keyword": "scroll blocker",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    }
+  ],
+  "queries": [
+    "экранное время",
+    "блокировка приложений",
+    "ограничение времени",
+    "родительский контроль",
+    "screen time control",
+    "время в телефоне",
+    "цифровой детокс",
+    "зависимость от телефона"
+  ],
+  "searches": [
+    {
+      "query": "экранное время",
+      "apps": [
+        {
+          "appStoreId": "6473087772",
+          "averageRating": 5,
+          "bundleId": "net.29apps.limit",
+          "developer": "Samet Macit",
+          "genre": "Производительность",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/5c/79/d45c7933-5f00-5bc5-bf52-a242c7ab94eb/AppIcon-0-0-1x_U007epad-0-1-85-220.png/80x0w.webp",
+          "name": "Limit: Время экрана для фокуса",
+          "ranking": 1,
+          "ratingCount": 3,
+          "subtitle": "Блок. прилож., держи фокус"
+        },
+        {
+          "appStoreId": "1667126271",
+          "averageRating": 3.7,
+          "bundleId": "com.iliastukalov.Focus",
+          "developer": "Ilia Stukalov",
+          "genre": "Производительность",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/8c/69/8b8c69ba-5113-21b7-ffb2-cf7c7d907b6f/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/80x0w.webp",
+          "name": "Покус: Уменьши экранное время",
+          "ranking": 2,
+          "ratingCount": 139,
+          "subtitle": "Вжух и ты не залипаешь"
+        },
+        {
+          "appStoreId": "6755889415",
+          "averageRating": 5,
+          "bundleId": "com.leokuz.flocus",
+          "developer": "Leonid Kuznetsov",
+          "genre": "Производительность",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/b0/7c/4fb07c33-76f4-6ac3-563a-a164412eb975/Flocus-0-0-1x_U007ephone-0-1-sRGB-85-220.png/80x0w.webp",
+          "name": "Flocus: Экранное время",
+          "ranking": 3,
+          "ratingCount": 3,
+          "subtitle": "Блокировщик приложений"
+        },
+        {
+          "appStoreId": "966057213",
+          "averageRating": 4.9,
+          "bundleId": "com.SuperElement.PomodoroToDo",
+          "developer": "Shenzhen Tomato Software Technology Co., Ltd.",
+          "genre": "Производительность",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/a4/c9/a8a4c9db-ea0d-eb10-6d2b-917a27035332/appicon-0-0-1x_U007epad-0-1-0-85-220.png/80x0w.webp",
+          "name": "Focus To-Do：Помодоро и задачи",
+          "ranking": 4,
+          "ratingCount": 9035,
+          "subtitle": "Помодоро таймер и список задач"
+        },
+        {
+          "appStoreId": "1532875441",
+          "averageRating": 4.9,
+          "bundleId": "wtf.riedel.one-sec",
+          "developer": "riedel.wtf apps S.L.",
+          "genre": "Производительность",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/f1/83/faf18373-f0af-4b1d-2625-e47565d9ff05/one_sec_Default_App_Icon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/80x0w.webp",
+          "name": "one sec | экранное время",
+          "ranking": 5,
+          "ratingCount": 2021,
+          "subtitle": "Блокировка приложений и сайтов"
+        }
+      ],
+      "source": "all-storefronts/ru.json",
+      "error": null,
+      "purpose": "Functional search hypothesis"
+    },
+    {
+      "query": "блокировка приложений",
+      "apps": [
+        {
+          "appStoreId": "6469686557",
+          "averageRating": 4.6,
+          "bundleId": "com.xu.applock",
+          "developer": "友财 徐",
+          "genre": "Утилиты",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/65/29/ad6529bc-a635-b89c-4d80-b2773b0602ec/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/80x0w.webp",
+          "name": "блокировка на приложения -",
+          "ranking": 1,
+          "ratingCount": 539,
+          "subtitle": "пароль на приложений на айфон"
+        },
+        {
+          "appStoreId": "1569973513",
+          "averageRating": 4.6,
+          "bundleId": "co.appnation.applocker",
+          "developer": "Muhammet Yalcın Ozdemir Halil Ibrahim Karahan Mustafa Ayten Kupertino Bilisim Yazılım K.S",
+          "genre": "Утилиты",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/f1/30/13f13020-f19a-ed43-4b6d-8d40c9f99899/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/80x0w.webp",
+          "name": "App Lock - скрыть приложения",
+          "ranking": 2,
+          "ratingCount": 1323,
+          "subtitle": "Пароль на Приложения и Фото"
+        },
+        {
+          "appStoreId": "6469695096",
+          "averageRating": 4.1,
+          "bundleId": "app.kids360.anko",
+          "developer": "ANKO SOLUTIONS LLC",
+          "genre": "Утилиты",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/be/67/e2be6752-c737-7e34-e840-59be460efbb2/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/80x0w.webp",
+          "name": "Экранное время и лимит — ANKO",
+          "ranking": 3,
+          "ratingCount": 17,
+          "subtitle": "Блокировка приложений, сайтов"
+        },
+        {
+          "appStoreId": "6746766591",
+          "averageRating": 4.4,
+          "bundleId": "com.lykovstudio.AppLock",
+          "developer": "LYKOV STUDIO LTD",
+          "genre": "Утилиты",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/fe/f0/d1fef0a7-c6dd-e678-0eac-cb6f0486ca3d/AppLock-0-0-1x_U007epad-0-1-sRGB-85-220.png/80x0w.webp",
+          "name": "Пароль на приложения: App Lock",
+          "ranking": 4,
+          "ratingCount": 94,
+          "subtitle": "Блокировка приложений • Код"
+        },
+        {
+          "appStoreId": "6452721618",
+          "averageRating": 4.5,
+          "bundleId": "com.liu.hideapps",
+          "developer": "俊杰 刘",
+          "genre": "Утилиты",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/c1/48/2cc1485d-d52b-6331-4457-cc78d50f5792/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/80x0w.webp",
+          "name": "пороль на приложения пароли",
+          "ranking": 5,
+          "ratingCount": 78,
+          "subtitle": "код пароль для приложений"
+        }
+      ],
+      "source": "deep-research/markets/ru/raw/search-fd4f64a25aea.json",
+      "error": null,
+      "purpose": "Functional search hypothesis"
+    },
+    {
+      "query": "ограничение времени",
+      "apps": [
+        {
+          "appStoreId": "1532875441",
+          "averageRating": 4.9,
+          "bundleId": "wtf.riedel.one-sec",
+          "developer": "riedel.wtf apps S.L.",
+          "genre": "Производительность",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/f1/83/faf18373-f0af-4b1d-2625-e47565d9ff05/one_sec_Default_App_Icon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/80x0w.webp",
+          "name": "one sec | экранное время",
+          "ranking": 1,
+          "ratingCount": 2021,
+          "subtitle": "Блокировка приложений и сайтов"
+        },
+        {
+          "appStoreId": "1135988868",
+          "averageRating": 4.8,
+          "bundleId": "com.erichuju.pomodoro",
+          "developer": "JU HU",
+          "genre": "Производительность",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/80/3f/f2/803ff215-0356-a6c9-4cbd-1ebb04b2cf89/AppIcon-0-0-1x_U007emarketing-0-6-0-sRGB-85-220.png/80x0w.webp",
+          "name": "Plantie - сосредоточиться",
+          "ranking": 2,
+          "ratingCount": 2096,
+          "subtitle": "учиться, расти и урожай"
+        },
+        {
+          "appStoreId": "6469695096",
+          "averageRating": 4.1,
+          "bundleId": "app.kids360.anko",
+          "developer": "ANKO SOLUTIONS LLC",
+          "genre": "Утилиты",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/be/67/e2be6752-c737-7e34-e840-59be460efbb2/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/80x0w.webp",
+          "name": "Экранное время и лимит — ANKO",
+          "ranking": 3,
+          "ratingCount": 17,
+          "subtitle": "Блокировка приложений, сайтов"
+        },
+        {
+          "appStoreId": "1596059191",
+          "averageRating": 4.2,
+          "bundleId": "app.kids360.ios.parent",
+          "developer": "MINDCARE LAB LTD",
+          "genre": "Утилиты",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/06/b1/9a06b1d5-0ac5-3a6e-1d9f-901dea765d2c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/80x0w.webp",
+          "name": "Родительский контроль Kids360",
+          "ranking": 4,
+          "ratingCount": 18299,
+          "subtitle": "GPS трекер и локатор семьи"
+        },
+        {
+          "appStoreId": "6738006979",
+          "averageRating": 4,
+          "bundleId": "com.vdcast.aegisappblocker",
+          "developer": "Ilya Nikolenko",
+          "genre": "Производительность",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/77/e2/9d/77e29d5c-9ee6-31bb-50ea-474dfd0d7a8e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/80x0w.webp",
+          "name": "Stop Scroll: Экранное время",
+          "ranking": 5,
+          "ratingCount": 8,
+          "subtitle": "Блокировка приложений и фокус"
+        }
+      ],
+      "source": "deep-research/markets/ru/raw/search-f46ec8e6a555.json",
+      "error": null,
+      "purpose": "Functional search hypothesis"
+    },
+    {
+      "query": "родительский контроль",
+      "apps": [
+        {
+          "appStoreId": "1150085200",
+          "averageRating": 4.4,
+          "bundleId": "com.google.FamilyLink",
+          "developer": "Google",
+          "genre": "Утилиты",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/49/d3/a849d32b-4029-9c46-c1e3-b8d9c3ed863c/logo_family_link_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/80x0w.webp",
+          "name": "Google Family Link",
+          "ranking": 1,
+          "ratingCount": 116241
+        },
+        {
+          "appStoreId": "1596059191",
+          "averageRating": 4.2,
+          "bundleId": "app.kids360.ios.parent",
+          "developer": "MINDCARE LAB LTD",
+          "genre": "Утилиты",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/06/b1/9a06b1d5-0ac5-3a6e-1d9f-901dea765d2c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/80x0w.webp",
+          "name": "Родительский контроль Kids360",
+          "ranking": 2,
+          "ratingCount": 18299,
+          "subtitle": "GPS трекер и локатор семьи"
+        },
+        {
+          "appStoreId": "1365784521",
+          "averageRating": 4.2,
+          "bundleId": "com.meshukraina.parentalcontrol",
+          "developer": "MESH Ukraina",
+          "genre": "Образование",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/b3/3b/5db33b6a-e1a6-36e6-38d3-8e8d98d8b827/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/80x0w.webp",
+          "name": "Родительский Контроль - Kroha",
+          "ranking": 3,
+          "ratingCount": 1969,
+          "subtitle": "Экранное время・Геолокация"
+        },
+        {
+          "appStoreId": "1620377191",
+          "averageRating": 4.6,
+          "bundleId": "ru.gdemoideti.parent",
+          "developer": "REFRESH, OOO",
+          "genre": "Образ жизни",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/3a/49/fe3a49bd-ef42-2652-c773-2eba8af69b13/AppIcon-GMD-RU-0-0-1x_U007ephone-0-1-0-sRGB-0-85-220.png/80x0w.webp",
+          "name": "Где мои дети: Семейный локатор",
+          "ranking": 4,
+          "ratingCount": 117990,
+          "subtitle": "Геолокация, отслеживание семьи"
+        },
+        {
+          "appStoreId": "1450358983",
+          "averageRating": 4.5,
+          "bundleId": "kz.sirius.siriuskids",
+          "developer": "KIDS SECURITY, TOO",
+          "genre": "Образ жизни",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/7b/10/6f7b1023-02f9-ba17-d669-958ff6ab9835/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/80x0w.webp",
+          "name": "Родительский Контроль・Локатор",
+          "ranking": 5,
+          "ratingCount": 11268,
+          "subtitle": "GPS Геолокация・Экранное время"
+        }
+      ],
+      "source": "deep-research/markets/ru/raw/search-3940b89ecbb4.json",
+      "error": null,
+      "purpose": "Intent comparator; not a claim this app provides that feature"
+    },
+    {
+      "query": "screen time control",
+      "apps": [
+        {
+          "appStoreId": "6446263551",
+          "averageRating": 3.6,
+          "bundleId": "com.magicplugin.offscreen.mask.ios",
+          "developer": "文 熊",
+          "genre": "Производительность",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/f1/c8/33f1c815-0b26-18c6-9651-3210442d5c4e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/80x0w.webp",
+          "name": "XLocker - Скрыть приложения",
+          "ranking": 1,
+          "ratingCount": 18,
+          "subtitle": "защита конфиденциальных данных"
+        },
+        {
+          "appStoreId": "6447555763",
+          "averageRating": 3.2,
+          "bundleId": "com.max.control",
+          "developer": "Maxim Backevich",
+          "genre": "Производительность",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/37/59/78375915-c7d6-52ee-3cde-7bbbb33ab008/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/80x0w.webp",
+          "name": "Screen Time Control・",
+          "ranking": 2,
+          "ratingCount": 10,
+          "subtitle": "App Blocker & Focus Timer"
+        },
+        {
+          "appStoreId": "1497465230",
+          "averageRating": 4.7,
+          "bundleId": "com.withopal.opal",
+          "developer": "Opal OS",
+          "genre": "Производительность",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/49/82/784982f1-f983-4980-1fac-0d542c970db8/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/80x0w.webp",
+          "name": "Opal: Screen Time Control",
+          "ranking": 3,
+          "ratingCount": 534
+        },
+        {
+          "appStoreId": "6737131495",
+          "averageRating": 5,
+          "bundleId": "com.inscreen.app",
+          "developer": "Vaibhav Negi",
+          "genre": "Производительность",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/2f/b5/4f2fb511-4b52-e90b-cb2c-d88648203ac9/AppIcon-0-0-1x_U007ephone-0-9-0-85-220.png/80x0w.webp",
+          "name": "Screen Time Control: Inscreen",
+          "ranking": 4,
+          "ratingCount": 1
+        },
+        {
+          "appStoreId": "1541027222",
+          "averageRating": 4.8,
+          "bundleId": "com.scottharvey.screenzenapp.ios",
+          "developer": "ScreenZen LLC",
+          "genre": "Производительность",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/c8/de/89c8deef-2a7e-5abf-c5ec-ac3ffa343494/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/80x0w.webp",
+          "name": "ScreenZen- Screen Time Control",
+          "ranking": 5,
+          "ratingCount": 233
+        }
+      ],
+      "source": "deep-research/markets/ru/raw/search-e8a1a599cf91.json",
+      "error": null,
+      "purpose": "Functional search hypothesis"
+    },
+    {
+      "query": "время в телефоне",
+      "apps": [
+        {
+          "appStoreId": "1522242289",
+          "averageRating": 4.5,
+          "bundleId": "clock.app.singingfish",
+          "developer": "Beijing Free Calculator Technology Co., Ltd.",
+          "genre": "Образ жизни",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2a/1d/dc/2a1ddce0-2e8d-d65f-a518-1d8ad2c9accf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/80x0w.webp",
+          "name": "Часы - Без рекламы",
+          "ranking": 1,
+          "ratingCount": 2479,
+          "subtitle": "часы widget & часы айфон"
+        },
+        {
+          "appStoreId": "1532875441",
+          "averageRating": 4.9,
+          "bundleId": "wtf.riedel.one-sec",
+          "developer": "riedel.wtf apps S.L.",
+          "genre": "Производительность",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/f1/83/faf18373-f0af-4b1d-2625-e47565d9ff05/one_sec_Default_App_Icon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/80x0w.webp",
+          "name": "one sec | экранное время",
+          "ranking": 2,
+          "ratingCount": 2021,
+          "subtitle": "Блокировка приложений и сайтов"
+        },
+        {
+          "appStoreId": "959502665",
+          "averageRating": 4.3,
+          "bundleId": "com.topface.kisskiss",
+          "developer": "PLAYNETA LIMITED",
+          "genre": "Игры",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/20/bf/16/20bf1668-a316-f688-a120-1415835c198c/AppIcon-kiss1-0-0-1x_U007emarketing-0-11-0-85-220.png/80x0w.webp",
+          "name": "Kiss Kiss: Игра в бутылочку",
+          "ranking": 3,
+          "ratingCount": 3855,
+          "subtitle": "Симулятор свиданий и выбор"
+        },
+        {
+          "appStoreId": "835599320",
+          "averageRating": 4.3,
+          "bundleId": "com.zhiliaoapp.musically",
+          "developer": "TikTok Ltd.",
+          "genre": "Развлечения",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/85/ba/e5/85bae56f-d7a9-e3ff-a7b6-c48469df6110/TikTok_AppIcon26-0-0-1x_U007epad-0-1-0-85-220.png/80x0w.webp",
+          "name": "TikTok(ТикТок)",
+          "ranking": 4,
+          "ratingCount": 1673958,
+          "subtitle": "Make Your Day"
+        },
+        {
+          "appStoreId": "6755150928",
+          "averageRating": 5,
+          "bundleId": "com.ruartanddesign.citycards",
+          "developer": "RU ART AND DESIGN LLC",
+          "genre": "Навигация",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/54/1b/96/541b96c5-a058-5c32-f560-e5100f5db679/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/80x0w.webp",
+          "name": "Местоположение Друзей на Карте",
+          "ranking": 5,
+          "ratingCount": 1,
+          "subtitle": "Знай Где Находится Человек"
+        }
+      ],
+      "source": "deep-research/markets/ru/raw/search-79b1e5419481.json",
+      "error": null,
+      "purpose": "Functional search hypothesis"
+    },
+    {
+      "query": "цифровой детокс",
+      "apps": [
+        {
+          "appStoreId": "6459658940",
+          "averageRating": 4.6,
+          "bundleId": "com.pallo.DEApp",
+          "developer": "UnCheon Baek",
+          "genre": "Производительность",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/9d/77/31/9d773142-b55a-9aad-3d36-e0b4d908f687/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/80x0w.webp",
+          "name": "DEApp -",
+          "ranking": 1,
+          "ratingCount": 5,
+          "subtitle": "Цифровой детокс"
+        },
+        {
+          "appStoreId": "6788602363",
+          "averageRating": 4.8,
+          "bundleId": "com.nondev777.focusflower",
+          "developer": "Kenta Nobutani",
+          "genre": "Образование",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/9f/39/c79f39cf-f189-7124-736d-098dc3bd887e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/80x0w.webp",
+          "name": "Focus Pot: таймер для учёбы",
+          "ranking": 2,
+          "ratingCount": 12,
+          "subtitle": "Зависимость от телефона? Сад"
+        },
+        {
+          "appStoreId": "6759670641",
+          "averageRating": 0,
+          "bundleId": "com.zenfirst.mobile",
+          "developer": "ZEN LABO LTD",
+          "genre": "Здоровье и фитнес",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0e/90/c3/0e90c329-6177-8203-9ca8-46275043a815/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/80x0w.webp",
+          "name": "Цифровой Детокс: Блок Соцсетей",
+          "ranking": 3,
+          "ratingCount": 0,
+          "subtitle": "Экранное время дома, лимиты"
+        },
+        {
+          "appStoreId": "6761635511",
+          "averageRating": 0,
+          "bundleId": "com.Screen-Time-Digital-Detox",
+          "developer": "Singabe Djonouma",
+          "genre": "Производительность",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ec/f4/d9/ecf4d924-770e-9147-7393-ccac64d40a3c/AppIcon-0-0-1x_U007epad-0-1-85-220.png/80x0w.webp",
+          "name": "Detox: Экранное время",
+          "ranking": 4,
+          "ratingCount": 0,
+          "subtitle": "Цифровой детокс, фокус"
+        },
+        {
+          "appStoreId": "6778309542",
+          "averageRating": 0,
+          "bundleId": "espunya.corporation.unplug",
+          "developer": "Ferran Espuna",
+          "genre": "Здоровье и фитнес",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ed/eb/c4/edebc4d5-ce48-5de0-3fa6-c637342d9541/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/80x0w.webp",
+          "name": "Unplug: Цифровой детокс",
+          "ranking": 5,
+          "ratingCount": 0,
+          "subtitle": "Экранное время и привычки"
+        }
+      ],
+      "source": "deep-research/markets/ru/raw/search-5f8e333be327.json",
+      "error": null,
+      "purpose": "Functional search hypothesis"
+    },
+    {
+      "query": "зависимость от телефона",
+      "apps": [
+        {
+          "appStoreId": "6788602363",
+          "averageRating": 4.8,
+          "bundleId": "com.nondev777.focusflower",
+          "developer": "Kenta Nobutani",
+          "genre": "Образование",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/9f/39/c79f39cf-f189-7124-736d-098dc3bd887e/AppIcon-0-0-1x_U007epad-0-1-85-220.png/80x0w.webp",
+          "name": "Focus Pot: таймер для учёбы",
+          "ranking": 1,
+          "ratingCount": 12,
+          "subtitle": "Зависимость от телефона? Сад"
+        },
+        {
+          "appStoreId": "6821664222",
+          "averageRating": 0,
+          "bundleId": "com.waves59.screenblocker",
+          "developer": "Thibault Demars",
+          "genre": "Производительность",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/26/94/4d/26944da8-6fb1-a65b-4e0d-7bffb97c17e4/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/80x0w.webp",
+          "name": "LowScreen: Блокировка соцсетей",
+          "ranking": 2,
+          "ratingCount": 0,
+          "subtitle": "Зависимость от телефона"
+        },
+        {
+          "appStoreId": "6790160225",
+          "averageRating": 0,
+          "bundleId": "com.germago.hourback",
+          "developer": "German Martinez",
+          "genre": "Производительность",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/3b/18/683b1860-55b6-2a95-442e-b4655c756736/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/80x0w.webp",
+          "name": "HourBack - Экранное время",
+          "ranking": 3,
+          "ratingCount": 0,
+          "subtitle": "Зависимость от телефона"
+        },
+        {
+          "appStoreId": "6761118244",
+          "averageRating": 5,
+          "bundleId": "mycompny.ScreenBlocker",
+          "developer": "Vadzim Narbutovich",
+          "genre": "Производительность",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/7c/79/bf/7c79bf11-4e49-ad24-5965-09781515ac97/AppIcon-0-0-1x_U007ephone-0-1-85-220.jpeg/80x0w.webp",
+          "name": "Ограничение времени приложений",
+          "ranking": 4,
+          "ratingCount": 1,
+          "subtitle": "Экранное время и Блокировка"
+        },
+        {
+          "appStoreId": "6459658940",
+          "averageRating": 4.6,
+          "bundleId": "com.pallo.DEApp",
+          "developer": "UnCheon Baek",
+          "genre": "Производительность",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/9d/77/31/9d773142-b55a-9aad-3d36-e0b4d908f687/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/80x0w.webp",
+          "name": "DEApp -",
+          "ranking": 5,
+          "ratingCount": 5,
+          "subtitle": "Цифровой детокс"
+        }
+      ],
+      "source": "deep-research/markets/ru/raw/search-dd4ec0247c8d.json",
+      "error": null,
+      "purpose": "Functional search hypothesis"
+    }
+  ],
+  "status": "deep-astro-complete",
+  "completedAt": "2026-11-19T06:11:29.364655+00:00",
+  "fullTop5Queries": 8,
+  "limitation": "Popularity/difficulty are tool estimates, not search counts. Missing subtitles remain missing. Broad or password-lock/parental-control intent is compared, never copied as an unsupported feature."
+}

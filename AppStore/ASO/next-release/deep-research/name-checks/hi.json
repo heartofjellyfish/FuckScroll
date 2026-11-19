@@ -1,0 +1,21 @@
+{
+  "locale": "hi",
+  "store": "in",
+  "proposedName": "Screen Time – पहरेदार बत्तख",
+  "limitations": "A public top-five name search, not App Store Connect reservation or trademark clearance.",
+  "response": {
+    "id": "641329ea-ba6d-49b2-b338-21c039d8b16f",
+    "jsonrpc": "2.0",
+    "result": {
+      "content": [
+        {
+          "text": "{\n  \"apps\" : [\n\n  ],\n  \"keyword\" : \"Screen Time – पहरेदार बत्तख\",\n  \"platform\" : \"iphone\",\n  \"store\" : \"in\",\n  \"totalResults\" : 0\n}",
+          "type": "text"
+        }
+      ],
+      "isError": false
+    }
+  },
+  "error": null,
+  "exactOtherAppMatches": []
+}

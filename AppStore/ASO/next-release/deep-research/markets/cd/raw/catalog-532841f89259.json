@@ -1,0 +1,124 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=bloqueur+d%E2%80%99applications&country=cd&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/cd/app/one-sec-screen-time-focus/id1532875441?uo=4",
+        "averageUserRating": 4.61538,
+        "artistName": "riedel.wtf apps S.L.",
+        "price": 0.0,
+        "releaseDate": "2020-09-29T07:00:00Z",
+        "bundleId": "wtf.riedel.one-sec",
+        "trackName": "one sec | screen time + focus",
+        "trackId": 1532875441,
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-14T18:42:34Z",
+        "version": "6.1.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "userRatingCount": 13,
+        "descriptionSHA256": "7458286eeec2edf883eec2f9abc49582f9924be2e29f484b82b1014b4b2a0462"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/cd/app/opal-screen-time-control/id1497465230?uo=4",
+        "averageUserRating": 4.43243,
+        "artistName": "Opal OS",
+        "price": 0.0,
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "bundleId": "com.withopal.opal",
+        "trackName": "Opal: Screen Time Control",
+        "trackId": 1497465230,
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "USD",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "userRatingCount": 74,
+        "descriptionSHA256": "79545dcfd9d33edf53d3567fc6a6eb5b582561ed18b9d49245fbff4af0417656"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/cd/app/callapp-caller-id-block/id6739289261?uo=4",
+        "averageUserRating": 4.84615,
+        "artistName": "CallApp",
+        "price": 0.0,
+        "releaseDate": "2025-10-15T07:00:00Z",
+        "bundleId": "com.callapp.contacts",
+        "trackName": "CallApp: Caller ID & Block",
+        "trackId": 6739289261,
+        "primaryGenreName": "Utilities",
+        "currentVersionReleaseDate": "2026-11-16T06:52:43Z",
+        "version": "1.29",
+        "wrapperType": "software",
+        "currency": "USD",
+        "genres": [
+          "Utilities",
+          "Productivity"
+        ],
+        "userRatingCount": 13,
+        "descriptionSHA256": "b7f2207593fc05fa4be803a7d37746e713c658cc1e610d9617c9f7f75c37b64c"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/cd/app/stay-focused-limit-screen-time/id1658592224?uo=4",
+        "averageUserRating": 4.33333,
+        "artistName": "INNOXAPPS LLP",
+        "price": 0.0,
+        "releaseDate": "2023-01-26T08:00:00Z",
+        "bundleId": "com.stayfocused",
+        "trackName": "Stay Focused Limit Screen Time",
+        "trackId": 1658592224,
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-10-01T19:56:32Z",
+        "version": "7.0.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "genres": [
+          "Productivity",
+          "Utilities"
+        ],
+        "userRatingCount": 3,
+        "descriptionSHA256": "c6d9d0807b708d9300a29659be1fef96ca3c2eee1fb6dd681f38e56a946ce76c"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/cd/app/limit-screen-time-for-focus/id6473087772?uo=4",
+        "averageUserRating": 0,
+        "artistName": "Samet Macit",
+        "price": 0.0,
+        "releaseDate": "2024-02-25T08:00:00Z",
+        "bundleId": "net.29apps.limit",
+        "trackName": "Limit: Screen Time for Focus",
+        "trackId": 6473087772,
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-10-27T11:38:50Z",
+        "version": "2.0.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "genres": [
+          "Productivity",
+          "Utilities"
+        ],
+        "userRatingCount": 0,
+        "descriptionSHA256": "401598d7f6d4540d8b11181f46e748a1d8536c229c62589ffa9aa63d965ee952"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "a6759c905a4d0616deb41163e95bc0ef3ff6f2ee385ebf80cddb8c4380380a43",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

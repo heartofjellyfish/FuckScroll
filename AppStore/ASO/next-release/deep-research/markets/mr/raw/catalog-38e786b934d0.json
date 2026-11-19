@@ -1,0 +1,123 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=%D9%85%D8%AF%D8%A9+%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85+%D8%A7%D9%84%D8%AC%D9%87%D8%A7%D8%B2&country=mr&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "artistName": "Joschka Bieri",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "bundleId": "com.getfinit.app",
+        "trackId": 6786888937,
+        "trackName": "finit: Screen Time & Life",
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2026-08-11T07:00:00Z",
+        "currentVersionReleaseDate": "2026-10-15T20:52:21Z",
+        "version": "1.0.4",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/mr/app/finit-screen-time-life/id6786888937?uo=4",
+        "price": 0.0,
+        "userRatingCount": 0,
+        "descriptionSHA256": "ffb64cc50461e2de5f3c6a5da30aaa1b85edeb8c34155daf1971a20fbe1cd832"
+      },
+      {
+        "kind": "software",
+        "artistName": "ANNA KUCHUMOVA",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "bundleId": "app.5learn.One-Breath",
+        "trackId": 6776689183,
+        "trackName": "BSpace: Screen Time Control",
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2026-07-14T07:00:00Z",
+        "currentVersionReleaseDate": "2026-11-02T17:22:55Z",
+        "version": "1.8",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/mr/app/bspace-screen-time-control/id6776689183?uo=4",
+        "price": 0.0,
+        "userRatingCount": 0,
+        "descriptionSHA256": "8008fe41cccb28c9caf0b87f0ce64467b1f57552c7bb149d5490f3002ee8c009"
+      },
+      {
+        "kind": "software",
+        "artistName": "Watson 3 Inc",
+        "genres": [
+          "Utilities",
+          "Photo & Video"
+        ],
+        "bundleId": "com.watson3.cubby",
+        "trackId": 6770766229,
+        "trackName": "Toll: Screen Time App Blocker",
+        "primaryGenreName": "Utilities",
+        "releaseDate": "2026-07-19T07:00:00Z",
+        "currentVersionReleaseDate": "2026-10-01T21:14:53Z",
+        "version": "1.0.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/mr/app/toll-screen-time-app-blocker/id6770766229?uo=4",
+        "price": 0.0,
+        "userRatingCount": 0,
+        "descriptionSHA256": "4343c36b53992c8da758915e75bdbea0a223c68481a01cf78fa8019faeba19b7"
+      },
+      {
+        "kind": "software",
+        "artistName": "CENKER KUMLUCALI",
+        "genres": [
+          "Productivity"
+        ],
+        "bundleId": "com.aheno.ios",
+        "trackId": 6795961801,
+        "trackName": "Aheno: App Blocker & Focus",
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2026-11-10T08:00:00Z",
+        "currentVersionReleaseDate": "2026-11-11T06:58:08Z",
+        "version": "1.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/mr/app/aheno-app-blocker-focus/id6795961801?uo=4",
+        "price": 0.0,
+        "userRatingCount": 0,
+        "descriptionSHA256": "fb0879b295e65c4ba4d71bfcea3506bd40a2b416d16add08e54c360ffa9700c5"
+      },
+      {
+        "kind": "software",
+        "artistName": "Debayan Das",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "bundleId": "com.otterwright.reva",
+        "trackId": 6801616392,
+        "trackName": "Reva: Screen Time App Blocker",
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2026-09-27T07:00:00Z",
+        "currentVersionReleaseDate": "2026-10-22T06:11:01Z",
+        "version": "1.5.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/mr/app/reva-screen-time-app-blocker/id6801616392?uo=4",
+        "price": 0.0,
+        "userRatingCount": 0,
+        "descriptionSHA256": "68cbd278df21720c2948175f61f04f85c5b99ba3499c7af30038c69010302e7a"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "95f8371d4c7ef24f5220cc225d4aaa9ff42f7cef3380102501a910bbb10b9501",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

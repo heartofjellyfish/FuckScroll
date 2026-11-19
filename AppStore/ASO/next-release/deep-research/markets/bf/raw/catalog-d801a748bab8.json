@@ -1,0 +1,123 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=bloquer+des+applications&country=bf&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/bf/app/appblock-app-site-blocker/id1515753232?uo=4",
+        "averageUserRating": 4,
+        "artistName": "MobileSoft s.r.o.",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "releaseDate": "2021-08-17T07:00:00Z",
+        "trackId": 1515753232,
+        "trackName": "AppBlock: App & Site Blocker",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-11T10:48:39Z",
+        "version": "4.14.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "eu.mobilesoft.appblock",
+        "userRatingCount": 10,
+        "descriptionSHA256": "f4e2257d9c85cbaf9cd8496ddc82a9a5d41b2e0440020c527d8b3b8c4bbe4236"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/bf/app/app-locker-lock-apps-securely/id6754396629?uo=4",
+        "averageUserRating": 0,
+        "artistName": "Huseyin Sefa Kucuk",
+        "genres": [
+          "Utilities",
+          "Productivity"
+        ],
+        "price": 0.0,
+        "releaseDate": "2025-11-04T08:00:00Z",
+        "trackId": 6754396629,
+        "trackName": "App Locker: Lock Apps Securely",
+        "primaryGenreName": "Utilities",
+        "currentVersionReleaseDate": "2026-03-12T01:45:54Z",
+        "version": "1.1.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.hsefak.AppLocker",
+        "userRatingCount": 0,
+        "descriptionSHA256": "75f5cafa9c254d688130c5a91c7b0d00f43e9ed6ccaa667dd20e502726f4e41d"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/bf/app/pornblocker-app/id1553747115?uo=4",
+        "averageUserRating": 4.18008,
+        "artistName": "RUSAGROTERMINAL31, OOO",
+        "genres": [
+          "Utilities"
+        ],
+        "price": 0.0,
+        "releaseDate": "2021-02-22T08:00:00Z",
+        "trackId": 1553747115,
+        "trackName": "PornBlocker App",
+        "primaryGenreName": "Utilities",
+        "currentVersionReleaseDate": "2026-10-05T21:12:03Z",
+        "version": "1.6.2",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.pornblocker.app",
+        "userRatingCount": 261,
+        "descriptionSHA256": "917a08b2521a42cbb8d274cd95c79d7e0f3db99c64d2795ccc3af4d74fffe7e7"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/bf/app/grit-habits-routines-goals/id6446997766?uo=4",
+        "averageUserRating": 4.34999,
+        "artistName": "GrittyApps",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "releaseDate": "2023-05-17T07:00:00Z",
+        "trackId": 6446997766,
+        "trackName": "Grit: Habits, Routines, Goals",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-09T14:58:19Z",
+        "version": "6.2.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "stoope.Grit",
+        "userRatingCount": 20,
+        "descriptionSHA256": "08fa1a6efcccbfd06a7ded74844273bc30cfa727bb8a6871de1bbb84d7e8d69c"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/bf/app/truecaller-premium-caller-id/id448142450?uo=4",
+        "averageUserRating": 4.1971,
+        "artistName": "True Software Scandinavia AB",
+        "genres": [
+          "Utilities",
+          "Productivity"
+        ],
+        "price": 0.0,
+        "releaseDate": "2012-06-03T17:16:37Z",
+        "trackId": 448142450,
+        "trackName": "Truecaller: Premium Caller ID",
+        "primaryGenreName": "Utilities",
+        "currentVersionReleaseDate": "2026-11-16T11:40:11Z",
+        "version": "26.45",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.truesoftware.TrueCallerOther",
+        "userRatingCount": 345,
+        "descriptionSHA256": "3151c64051cb434de38b3290ed4527cdeeae10f467aff957e324abc8f9e6af22"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "7770b4648f4ae37db278206d541c58d5e24b9585ed9bf121e132346fda51cec1",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

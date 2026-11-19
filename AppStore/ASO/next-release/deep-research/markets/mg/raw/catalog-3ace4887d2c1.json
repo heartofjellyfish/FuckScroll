@@ -1,0 +1,124 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=temps+d%E2%80%99%C3%A9cran&country=mg&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "averageUserRating": 4.65217,
+        "artistName": "Opal OS",
+        "bundleId": "com.withopal.opal",
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "primaryGenreName": "Productivity",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/mg/app/opal-screen-time-control/id1497465230?uo=4",
+        "trackId": 1497465230,
+        "trackName": "Opal: Screen Time Control",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "userRatingCount": 23,
+        "descriptionSHA256": "79545dcfd9d33edf53d3567fc6a6eb5b582561ed18b9d49245fbff4af0417656"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 4.375,
+        "artistName": "riedel.wtf apps S.L.",
+        "bundleId": "wtf.riedel.one-sec",
+        "currentVersionReleaseDate": "2026-11-14T18:42:34Z",
+        "releaseDate": "2020-09-29T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "version": "6.1.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/mg/app/one-sec-screen-time-focus/id1532875441?uo=4",
+        "trackId": 1532875441,
+        "trackName": "one sec | screen time + focus",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "userRatingCount": 16,
+        "descriptionSHA256": "7458286eeec2edf883eec2f9abc49582f9924be2e29f484b82b1014b4b2a0462"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 3,
+        "artistName": "Jomo",
+        "bundleId": "com.jomo.Jomo",
+        "currentVersionReleaseDate": "2026-11-18T16:29:32Z",
+        "releaseDate": "2022-10-16T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "version": "2.1.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/mg/app/jomo-app-blocker-focus/id1609960918?uo=4",
+        "trackId": 1609960918,
+        "trackName": "Jomo - App Blocker & Focus",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "userRatingCount": 1,
+        "descriptionSHA256": "1c3ac2d7f7c364ecfc9b0dc94651160ac123d989dbde44be1172ac15c9b753d8"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 4.16667,
+        "artistName": "ScreenZen LLC",
+        "bundleId": "com.scottharvey.screenzenapp.ios",
+        "currentVersionReleaseDate": "2026-09-06T14:20:14Z",
+        "releaseDate": "2021-07-16T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "version": "4.0.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/mg/app/screenzen-screen-time-control/id1541027222?uo=4",
+        "trackId": 1541027222,
+        "trackName": "ScreenZen- Screen Time Control",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "userRatingCount": 6,
+        "descriptionSHA256": "def0cb7cf41c8f7b1619d270d38fe8aa23859b81147ae63a1041bc0a1b7f8cc8"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 4.72222,
+        "artistName": "Air Matters Network Pty Ltd",
+        "bundleId": "com.air-matters.Cloak",
+        "currentVersionReleaseDate": "2026-10-29T20:05:27Z",
+        "releaseDate": "2022-12-21T08:00:00Z",
+        "primaryGenreName": "Utilities",
+        "version": "4.0.4",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/mg/app/cape-app-to-pause-excess/id6444819615?uo=4",
+        "trackId": 6444819615,
+        "trackName": "Cape: App to Pause Excess",
+        "genres": [
+          "Utilities",
+          "Lifestyle"
+        ],
+        "price": 0.0,
+        "userRatingCount": 18,
+        "descriptionSHA256": "55c4489d8aa1369fa68c64bd4c98c99090a0a704ad1039c2b984950bf6088e00"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "1706b5c35cd85e39f758aaf46c49ddd38d93bf35692ddb4f7d2dd8a2ee18d9c5",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

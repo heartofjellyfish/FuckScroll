@@ -1,0 +1,21 @@
+{
+  "locale": "en-AU",
+  "store": "au",
+  "proposedName": "App Blocker – Duck on Duty",
+  "limitations": "A public top-five name search, not App Store Connect reservation or trademark clearance.",
+  "response": {
+    "id": "fb63b039-ecb3-4b8a-97c3-de41eee012b9",
+    "jsonrpc": "2.0",
+    "result": {
+      "content": [
+        {
+          "text": "{\n  \"apps\" : [\n    {\n      \"appStoreId\" : \"6754953790\",\n      \"averageRating\" : 0,\n      \"bundleId\" : \"com.moniqtap.blocker.site.app\",\n      \"developer\" : \"Phong Pham\",\n      \"genre\" : \"Productivity\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple211\\/v4\\/a6\\/06\\/7d\\/a6067d4b-138a-59fd-27eb-37e76e7f6e5e\\/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png\\/80x0w.webp\",\n      \"name\" : \"BlockerPro: Block Site & Apps\",\n      \"ranking\" : 1,\n      \"ratingCount\" : 0,\n      \"subtitle\" : \"Block Apps, Websites & Focus\"\n    },\n    {\n      \"appStoreId\" : \"6466579327\",\n      \"averageRating\" : 5,\n      \"bundleId\" : \"com.ljc.stc\",\n      \"developer\" : \"嘉纯 赖\",\n      \"genre\" : \"Utilities\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple122\\/v4\\/3d\\/e8\\/dc\\/3de8dcfb-88ef-d174-25f0-27ac8c604fcc\\/AppIcon-0-0-1x_U007ephone-0-0-85-220.png\\/80x0w.webp\",\n      \"name\" : \"Lock Apps - Block App\",\n      \"ranking\" : 2,\n      \"ratingCount\" : 1,\n      \"subtitle\" : \"Control Screen Time for iPhone\"\n    },\n    {\n      \"appStoreId\" : \"6786028487\",\n      \"averageRating\" : 0,\n      \"bundleId\" : \"com.lockdt.app\",\n      \"developer\" : \"Lockin Tech Limited\",\n      \"genre\" : \"Productivity\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple211\\/v4\\/2c\\/0f\\/d4\\/2c0fd488-b6d0-bb8f-2d4c-89d3f3b88391\\/AppIcon-0-0-1x_U007ephone-0-1-85-220.png\\/80x0w.webp\",\n      \"name\" : \"Lockdt: App Blocker\",\n      \"ranking\" : 3,\n      \"ratingCount\" : 0,\n      \"subtitle\" : \"Cut screen time with stakes\"\n    },\n    {\n      \"appStoreId\" : \"6811274137\",\n      \"averageRating\" : 0,\n      \"bundleId\" : \"com.verboten.app\",\n      \"developer\" : \"Madhura Basavaraju\",\n      \"genre\" : \"Productivity\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple211\\/v4\\/5b\\/3c\\/ea\\/5b3cead1-f5dc-5613-199d-152eae524d96\\/AppIcon-0-0-1x_U007epad-0-1-85-220.png\\/80x0w.webp\",\n      \"name\" : \"Verboten: App Blocker\",\n      \"ranking\" : 4,\n      \"ratingCount\" : 0,\n      \"subtitle\" : \"app to block scrolling\"\n    },\n    {\n      \"appStoreId\" : \"6778017794\",\n      \"averageRating\" : 0,\n      \"bundleId\" : \"admin.SisyphusApp\",\n      \"developer\" : \"Omar Aldakheel\",\n      \"genre\" : \"Productivity\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple211\\/v4\\/95\\/c2\\/15\\/95c21584-b0a5-e9a0-47cf-e5c6cecd808e\\/AppIcon-0-0-1x_U007epad-0-1-85-220.png\\/80x0w.webp\",\n      \"name\" : \"Sisyphus: Web Blocker\",\n      \"ranking\" : 5,\n      \"ratingCount\" : 0,\n      \"subtitle\" : \"BLOCK THE WEB\"\n    }\n  ],\n  \"keyword\" : \"App Blocker – Duck on Duty\",\n  \"platform\" : \"iphone\",\n  \"store\" : \"au\",\n  \"totalResults\" : 50\n}",
+          "type": "text"
+        }
+      ],
+      "isError": false
+    }
+  },
+  "error": null,
+  "exactOtherAppMatches": []
+}

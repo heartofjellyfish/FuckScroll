@@ -1,1 +1,1 @@
-pantalla,concentración,temporizador,redes,sociales,hábitos,pausa
+concentración,temporizador,redes,sociales,hábitos,pausa,app,blocker,screen,time,control

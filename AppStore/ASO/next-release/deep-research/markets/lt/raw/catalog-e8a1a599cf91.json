@@ -1,0 +1,124 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=screen+time+control&country=lt&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "artistName": "Opal OS",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "trackId": 1497465230,
+        "trackName": "Opal: Screen Time Control",
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "primaryGenreName": "Productivity",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "averageUserRating": 4.68627,
+        "trackViewUrl": "https://apps.apple.com/lt/app/opal-screen-time-control/id1497465230?uo=4",
+        "bundleId": "com.withopal.opal",
+        "userRatingCount": 204,
+        "descriptionSHA256": "79545dcfd9d33edf53d3567fc6a6eb5b582561ed18b9d49245fbff4af0417656"
+      },
+      {
+        "kind": "software",
+        "artistName": "ScreenZen LLC",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "currentVersionReleaseDate": "2026-09-06T14:20:14Z",
+        "trackId": 1541027222,
+        "trackName": "ScreenZen- Screen Time Control",
+        "releaseDate": "2021-07-16T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "version": "4.0.0",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "averageUserRating": 4.83607,
+        "trackViewUrl": "https://apps.apple.com/lt/app/screenzen-screen-time-control/id1541027222?uo=4",
+        "bundleId": "com.scottharvey.screenzenapp.ios",
+        "userRatingCount": 183,
+        "descriptionSHA256": "def0cb7cf41c8f7b1619d270d38fe8aa23859b81147ae63a1041bc0a1b7f8cc8"
+      },
+      {
+        "kind": "software",
+        "artistName": "clearspace",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "currentVersionReleaseDate": "2026-11-09T20:51:21Z",
+        "trackId": 1572515807,
+        "trackName": "ClearSpace: Reduce Screen Time",
+        "releaseDate": "2021-07-24T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "version": "2.7.6",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "averageUserRating": 4.91667,
+        "trackViewUrl": "https://apps.apple.com/lt/app/clearspace-reduce-screen-time/id1572515807?uo=4",
+        "bundleId": "com.betteryes.clearspace",
+        "userRatingCount": 12,
+        "descriptionSHA256": "71a31af6283b4056c69999da0d780d76bcaa0eba99d12ae5f8c54e056bd2ef6a"
+      },
+      {
+        "kind": "software",
+        "artistName": "Labi, LLC",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "currentVersionReleaseDate": "2026-11-18T15:32:47Z",
+        "trackId": 1645639057,
+        "trackName": "Refocus: App Blocker & Lock",
+        "releaseDate": "2022-09-22T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "version": "2.2.11",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "averageUserRating": 4.8125,
+        "trackViewUrl": "https://apps.apple.com/lt/app/refocus-app-blocker-lock/id1645639057?uo=4",
+        "bundleId": "com.refocus.refocus",
+        "userRatingCount": 32,
+        "descriptionSHA256": "31bd6049418a698d36c61b2eafbe2ca02a56d8aa24878c1963caa5895db876a1"
+      },
+      {
+        "kind": "software",
+        "artistName": "Smolworks Inc",
+        "genres": [
+          "Productivity",
+          "Utilities"
+        ],
+        "price": 0.0,
+        "currentVersionReleaseDate": "2026-11-10T01:03:44Z",
+        "trackId": 6744338972,
+        "trackName": "Brainrot: Screen Time Control",
+        "releaseDate": "2025-05-20T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "version": "2.0.14",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "averageUserRating": 4.5,
+        "trackViewUrl": "https://apps.apple.com/lt/app/brainrot-screen-time-control/id6744338972?uo=4",
+        "bundleId": "smobiz.brainrot",
+        "userRatingCount": 38,
+        "descriptionSHA256": "fdd84f5e733ba69c5d0a9a6e1a087401d7736a33f153ecfdce5a57ca441eb6e3"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "a47543dacacb3887e9eee0110309a53011db07adfccb417a2411551c751bd07b",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "33d3960f-44cd-4b9c-88b3-4ea3dd82b1d9",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"apps\" : [\n\n  ],\n  \"keyword\" : \"blokiranje aplikacij\",\n  \"platform\" : \"iphone\",\n  \"store\" : \"si\",\n  \"totalResults\" : 0\n}",
+        "type": "text"
+      }
+    ],
+    "isError": false
+  }
+}

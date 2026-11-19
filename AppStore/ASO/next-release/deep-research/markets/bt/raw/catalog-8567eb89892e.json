@@ -1,0 +1,126 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=app+blocker&country=bt&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "currentVersionReleaseDate": "2026-11-18T15:32:47Z",
+        "trackViewUrl": "https://apps.apple.com/bt/app/refocus-app-blocker-lock/id1645639057?uo=4",
+        "averageUserRating": 0,
+        "artistName": "Labi, LLC",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "bundleId": "com.refocus.refocus",
+        "trackId": 1645639057,
+        "trackName": "Refocus: App Blocker & Lock",
+        "primaryGenreName": "Productivity",
+        "version": "2.2.11",
+        "wrapperType": "software",
+        "currency": "USD",
+        "releaseDate": "2022-09-22T07:00:00Z",
+        "price": 0.0,
+        "userRatingCount": 0,
+        "descriptionSHA256": "31bd6049418a698d36c61b2eafbe2ca02a56d8aa24878c1963caa5895db876a1"
+      },
+      {
+        "kind": "software",
+        "currentVersionReleaseDate": "2026-09-06T14:20:14Z",
+        "trackViewUrl": "https://apps.apple.com/bt/app/screenzen-screen-time-control/id1541027222?uo=4",
+        "averageUserRating": 3,
+        "artistName": "ScreenZen LLC",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "bundleId": "com.scottharvey.screenzenapp.ios",
+        "trackId": 1541027222,
+        "trackName": "ScreenZen- Screen Time Control",
+        "primaryGenreName": "Productivity",
+        "version": "4.0.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "releaseDate": "2021-07-16T07:00:00Z",
+        "price": 0.0,
+        "userRatingCount": 3,
+        "descriptionSHA256": "def0cb7cf41c8f7b1619d270d38fe8aa23859b81147ae63a1041bc0a1b7f8cc8"
+      },
+      {
+        "kind": "software",
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "trackViewUrl": "https://apps.apple.com/bt/app/opal-screen-time-control/id1497465230?uo=4",
+        "averageUserRating": 4.71429,
+        "artistName": "Opal OS",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "bundleId": "com.withopal.opal",
+        "trackId": 1497465230,
+        "trackName": "Opal: Screen Time Control",
+        "primaryGenreName": "Productivity",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "USD",
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "price": 0.0,
+        "userRatingCount": 7,
+        "descriptionSHA256": "79545dcfd9d33edf53d3567fc6a6eb5b582561ed18b9d49245fbff4af0417656"
+      },
+      {
+        "kind": "software",
+        "currentVersionReleaseDate": "2026-11-14T18:42:34Z",
+        "trackViewUrl": "https://apps.apple.com/bt/app/one-sec-screen-time-focus/id1532875441?uo=4",
+        "averageUserRating": 5,
+        "artistName": "riedel.wtf apps S.L.",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "bundleId": "wtf.riedel.one-sec",
+        "trackId": 1532875441,
+        "trackName": "one sec | screen time + focus",
+        "primaryGenreName": "Productivity",
+        "version": "6.1.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "releaseDate": "2020-09-29T07:00:00Z",
+        "price": 0.0,
+        "userRatingCount": 1,
+        "descriptionSHA256": "7458286eeec2edf883eec2f9abc49582f9924be2e29f484b82b1014b4b2a0462"
+      },
+      {
+        "kind": "software",
+        "currentVersionReleaseDate": "2026-11-14T00:10:28Z",
+        "trackViewUrl": "https://apps.apple.com/bt/app/focus-plant-forest-app-blocker/id1459096306?uo=4",
+        "averageUserRating": 4.59999,
+        "artistName": "Shikudo",
+        "genres": [
+          "Productivity",
+          "Games",
+          "Simulation",
+          "Casual"
+        ],
+        "bundleId": "com.shikudo.focus",
+        "trackId": 1459096306,
+        "trackName": "Focus Plant：forest app blocker",
+        "primaryGenreName": "Productivity",
+        "version": "4.6.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "releaseDate": "2019-09-02T07:00:00Z",
+        "price": 0.0,
+        "userRatingCount": 15,
+        "descriptionSHA256": "fe05cd0e5d57fda1dd718d682f963e8ebc60dcf414c417b33b853ed6df9bd015"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "2193d5f72d84910826fc7edc86245ae30fe82a7e7f7755239cb1f7383ca7d082",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

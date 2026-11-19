@@ -1,0 +1,21 @@
+{
+  "locale": "es-ES",
+  "store": "es",
+  "proposedName": "Bloquear aplicaciones – Pato",
+  "limitations": "A public top-five name search, not App Store Connect reservation or trademark clearance.",
+  "response": {
+    "id": "aa3f4fb1-3eec-427e-a185-dd12ae1b7b5f",
+    "jsonrpc": "2.0",
+    "result": {
+      "content": [
+        {
+          "text": "{\n  \"apps\" : [\n\n  ],\n  \"keyword\" : \"Bloquear aplicaciones – Pato\",\n  \"platform\" : \"iphone\",\n  \"store\" : \"es\",\n  \"totalResults\" : 0\n}",
+          "type": "text"
+        }
+      ],
+      "isError": false
+    }
+  },
+  "error": null,
+  "exactOtherAppMatches": []
+}

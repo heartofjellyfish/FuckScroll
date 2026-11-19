@@ -1,0 +1,13 @@
+{
+  "id": "ce73485d-b23d-4d8b-ae93-29f5bf742251",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"apps\" : [\n\n  ],\n  \"keyword\" : \"dejar de usar el móvil\",\n  \"platform\" : \"iphone\",\n  \"store\" : \"do\",\n  \"totalResults\" : 0\n}",
+        "type": "text"
+      }
+    ],
+    "isError": false
+  }
+}

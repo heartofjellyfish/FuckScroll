@@ -1,0 +1,21 @@
+{
+  "locale": "ru",
+  "store": "ru",
+  "proposedName": "Экранное время – Утка на посту",
+  "limitations": "A public top-five name search, not App Store Connect reservation or trademark clearance.",
+  "response": {
+    "id": "8a40f5a7-e559-4d19-83f6-ceed24de038d",
+    "jsonrpc": "2.0",
+    "result": {
+      "content": [
+        {
+          "text": "{\n  \"apps\" : [\n\n  ],\n  \"keyword\" : \"Экранное время – Утка на посту\",\n  \"platform\" : \"iphone\",\n  \"store\" : \"ru\",\n  \"totalResults\" : 0\n}",
+          "type": "text"
+        }
+      ],
+      "isError": false
+    }
+  },
+  "error": null,
+  "exactOtherAppMatches": []
+}

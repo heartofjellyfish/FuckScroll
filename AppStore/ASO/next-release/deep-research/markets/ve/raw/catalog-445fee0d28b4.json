@@ -1,0 +1,102 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=limitar+apps&country=ve&entity=software&limit=5",
+  "response": {
+    "resultCount": 4,
+    "results": [
+      {
+        "kind": "software",
+        "artistName": "MobileSoft s.r.o.",
+        "genres": [
+          "Productividad",
+          "Salud y fitness"
+        ],
+        "price": 0.0,
+        "bundleId": "eu.mobilesoft.appblock",
+        "releaseDate": "2021-08-17T07:00:00Z",
+        "trackId": 1515753232,
+        "trackName": "AppBlock Bloquear Aplicaciones",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-11T10:48:39Z",
+        "version": "4.14.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 4.66667,
+        "trackViewUrl": "https://apps.apple.com/ve/app/appblock-bloquear-aplicaciones/id1515753232?uo=4",
+        "userRatingCount": 30,
+        "descriptionSHA256": "57129755f1276c23ea491e5ae08cd96a53959993b5c33be70bbbd0401f883185"
+      },
+      {
+        "kind": "software",
+        "artistName": "FaceApp Technology Limited",
+        "genres": [
+          "Fotografía y video",
+          "Entretenimiento"
+        ],
+        "price": 0.0,
+        "bundleId": "io.faceapp.ios",
+        "releaseDate": "2017-01-24T14:13:07Z",
+        "trackId": 1180884341,
+        "trackName": "FaceApp: Editor facial ideal",
+        "primaryGenreName": "Photo & Video",
+        "currentVersionReleaseDate": "2026-11-14T11:50:27Z",
+        "version": "26.10.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 4.72747,
+        "trackViewUrl": "https://apps.apple.com/ve/app/faceapp-editor-facial-ideal/id1180884341?uo=4",
+        "userRatingCount": 17242,
+        "descriptionSHA256": "6a60ef689f4c5a95f20caec4cfa0be9198f0b522cbc447741cefd04486e743e3"
+      },
+      {
+        "kind": "software",
+        "artistName": "riedel.wtf apps S.L.",
+        "genres": [
+          "Productividad",
+          "Salud y fitness"
+        ],
+        "price": 0.0,
+        "bundleId": "wtf.riedel.one-sec",
+        "releaseDate": "2020-09-29T07:00:00Z",
+        "trackId": 1532875441,
+        "trackName": "one sec—tiempo pantalla y foco",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-14T18:42:34Z",
+        "version": "6.1.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 4.67692,
+        "trackViewUrl": "https://apps.apple.com/ve/app/one-sec-tiempo-pantalla-y-foco/id1532875441?uo=4",
+        "userRatingCount": 65,
+        "descriptionSHA256": "f6c3c9e01d5674616b89f50c177b04e002f0fc0dfd05be2d049d4dbad73e2344"
+      },
+      {
+        "kind": "software",
+        "artistName": "Digital Smart LLC",
+        "genres": [
+          "Finanzas",
+          "Negocios"
+        ],
+        "price": 0.0,
+        "bundleId": "com.qc.exnova",
+        "releaseDate": "2025-01-13T08:00:00Z",
+        "trackId": 6462117052,
+        "trackName": "Exnova - Trading e Inversiones",
+        "primaryGenreName": "Finance",
+        "currentVersionReleaseDate": "2026-10-23T23:45:32Z",
+        "version": "4.109",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 5,
+        "trackViewUrl": "https://apps.apple.com/ve/app/exnova-trading-e-inversiones/id6462117052?uo=4",
+        "userRatingCount": 11,
+        "descriptionSHA256": "381f7994db71132fa715c1460ee94a5505fc136a4372b265d0e9fc15ef979b4b"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "66a3dda58b65c8c06058729df14c689d6a3d8b174622dae27031cd516322dbff",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

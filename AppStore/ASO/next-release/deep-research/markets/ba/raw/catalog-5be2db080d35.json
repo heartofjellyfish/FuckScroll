@@ -1,0 +1,121 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=zaklju%C4%8Davanje+aplikacija&country=ba&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/ba/app/app-lock-applock-apps/id6452721618?uo=4",
+        "artistName": "俊杰 刘",
+        "genres": [
+          "Utilities"
+        ],
+        "price": 0.0,
+        "primaryGenreName": "Utilities",
+        "releaseDate": "2024-01-01T08:00:00Z",
+        "version": "1.1.8",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "currentVersionReleaseDate": "2026-06-11T00:48:57Z",
+        "trackId": 6452721618,
+        "trackName": "App Lock - AppLock Apps",
+        "bundleId": "com.liu.hideapps",
+        "userRatingCount": 0,
+        "descriptionSHA256": "07e0f1b13c534456e061e0f53892a1d7f076662e5f96965b2c9d95a8483f5f6d"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 5,
+        "trackViewUrl": "https://apps.apple.com/ba/app/app-lock-lock-apps/id6458880741?uo=4",
+        "artistName": "万龙 戴",
+        "genres": [
+          "Productivity"
+        ],
+        "price": 0.0,
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2023-12-26T08:00:00Z",
+        "version": "1.0.4",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "currentVersionReleaseDate": "2024-09-25T11:03:04Z",
+        "trackId": 6458880741,
+        "trackName": "App Lock - Lock Apps ™",
+        "bundleId": "com.zheng.appblocker",
+        "userRatingCount": 1,
+        "descriptionSHA256": "838359ce7e39fd4c1038556ccd521f45f016e2084ca1790e6f98756f01f9a148"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/ba/app/alock-app-lock/id1663668785?uo=4",
+        "artistName": "裕涛 兰",
+        "genres": [
+          "Productivity",
+          "Utilities"
+        ],
+        "price": 0.0,
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2023-08-08T07:00:00Z",
+        "version": "1.2.3",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "currentVersionReleaseDate": "2025-08-28T11:32:27Z",
+        "trackId": 1663668785,
+        "trackName": "aLock - App Lock",
+        "bundleId": "com.tinfine.appHide",
+        "userRatingCount": 0,
+        "descriptionSHA256": "2d2d90c7b1733a64d5b9fec36b752e8986995e97274a05a837a2fecf80f94054"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 1,
+        "trackViewUrl": "https://apps.apple.com/ba/app/priva-photo-vault-app/id1491995968?uo=4",
+        "artistName": "42 Digital",
+        "genres": [
+          "Utilities",
+          "Photo & Video"
+        ],
+        "price": 0.0,
+        "primaryGenreName": "Utilities",
+        "releaseDate": "2020-07-27T07:00:00Z",
+        "version": "2.2",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "currentVersionReleaseDate": "2022-11-09T05:27:44Z",
+        "trackId": 1491995968,
+        "trackName": "Priva: Photo Vault App",
+        "bundleId": "com.42dijital.privy",
+        "userRatingCount": 1,
+        "descriptionSHA256": "3027c41481b8ce1506c6f4870ea3ffa49bee13d32819a0d23a4422e41bd1acb1"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 4.4,
+        "trackViewUrl": "https://apps.apple.com/ba/app/app-lock-lock-apps/id6469686557?uo=4",
+        "artistName": "友财 徐",
+        "genres": [
+          "Utilities"
+        ],
+        "price": 0.0,
+        "primaryGenreName": "Utilities",
+        "releaseDate": "2023-11-07T08:00:00Z",
+        "version": "1.5.0",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "currentVersionReleaseDate": "2026-06-22T01:26:35Z",
+        "trackId": 6469686557,
+        "trackName": "App Lock - Lock Apps .",
+        "bundleId": "com.xu.applock",
+        "userRatingCount": 5,
+        "descriptionSHA256": "15b3c0f184bdcdd978e379e824c1b4e91598fa21e1c383a33a31fc4c581a3e52"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "d5e5c01ef49416820d012646a29eb16d779be29330158acda893128a50781245",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

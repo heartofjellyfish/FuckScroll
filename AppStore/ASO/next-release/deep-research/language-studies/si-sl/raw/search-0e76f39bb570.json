@@ -1,0 +1,13 @@
+{
+  "id": "62bd13eb-a571-4020-9b20-de74d4a50f6e",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"apps\" : [\n\n  ],\n  \"keyword\" : \"zaklepanje aplikacij\",\n  \"platform\" : \"iphone\",\n  \"store\" : \"si\",\n  \"totalResults\" : 0\n}",
+        "type": "text"
+      }
+    ],
+    "isError": false
+  }
+}

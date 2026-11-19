@@ -1,0 +1,124 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=screen+time&country=ni&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "artistName": "Opal OS",
+        "genres": [
+          "Productividad",
+          "Salud y fitness"
+        ],
+        "price": 0.0,
+        "trackName": "Opal: Tiempo de Pantalla Focus",
+        "bundleId": "com.withopal.opal",
+        "trackId": 1497465230,
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "primaryGenreName": "Productivity",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 4.95455,
+        "trackViewUrl": "https://apps.apple.com/ni/app/opal-tiempo-de-pantalla-focus/id1497465230?uo=4",
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "userRatingCount": 22,
+        "descriptionSHA256": "8f565e8ece1378f7f8b279972790342748ebc0f5a8961ef24749e6a17891340e"
+      },
+      {
+        "kind": "software",
+        "artistName": "ScreenZen LLC",
+        "genres": [
+          "Productividad",
+          "Salud y fitness"
+        ],
+        "price": 0.0,
+        "trackName": "ScreenZen- Screen Time Control",
+        "bundleId": "com.scottharvey.screenzenapp.ios",
+        "trackId": 1541027222,
+        "releaseDate": "2021-07-16T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "version": "4.0.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 4.61538,
+        "trackViewUrl": "https://apps.apple.com/ni/app/screenzen-screen-time-control/id1541027222?uo=4",
+        "currentVersionReleaseDate": "2026-09-06T14:20:14Z",
+        "userRatingCount": 13,
+        "descriptionSHA256": "389b1ab973e58705bf7b31e111caf9b0ffaf2c5f102cd4234ff15666e4d36753"
+      },
+      {
+        "kind": "software",
+        "artistName": "Screen Time Labs",
+        "genres": [
+          "Estilo de vida",
+          "Productividad"
+        ],
+        "price": 0.0,
+        "trackName": "Screen Time Limit. Child Lock",
+        "bundleId": "com.screentime",
+        "trackId": 1055315077,
+        "releaseDate": "2015-12-15T20:43:11Z",
+        "primaryGenreName": "Lifestyle",
+        "version": "3.72",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/ni/app/screen-time-limit-child-lock/id1055315077?uo=4",
+        "currentVersionReleaseDate": "2022-12-07T13:43:25Z",
+        "userRatingCount": 0,
+        "descriptionSHA256": "72a98db1e723bbbae9a104ea5b59095fddbb4c33ba9dcd5c1680a5e55563922c"
+      },
+      {
+        "kind": "software",
+        "artistName": "Screen Detox Inc",
+        "genres": [
+          "Productividad",
+          "Salud y fitness"
+        ],
+        "price": 0.0,
+        "trackName": "BePresent: Tiempo en Pantalla",
+        "bundleId": "com.getpresentapp.Present",
+        "trackId": 1644737181,
+        "releaseDate": "2022-09-29T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "version": "0.18.114",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 4.5,
+        "trackViewUrl": "https://apps.apple.com/ni/app/bepresent-tiempo-en-pantalla/id1644737181?uo=4",
+        "currentVersionReleaseDate": "2026-11-17T21:48:19Z",
+        "userRatingCount": 2,
+        "descriptionSHA256": "39b882def3c67d3b209417f1799a814ce77fc96e10a467efb23d87ea1e5b4a60"
+      },
+      {
+        "kind": "software",
+        "artistName": "Jack Finnis",
+        "genres": [
+          "Productividad",
+          "Salud y fitness"
+        ],
+        "price": 0.0,
+        "trackName": "Screen Time Tracker",
+        "bundleId": "com.jackfinnis.ScreenTimeTracker",
+        "trackId": 6738397686,
+        "releaseDate": "2024-12-17T08:00:00Z",
+        "primaryGenreName": "Productivity",
+        "version": "2.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/ni/app/screen-time-tracker/id6738397686?uo=4",
+        "currentVersionReleaseDate": "2025-10-21T22:49:43Z",
+        "userRatingCount": 0,
+        "descriptionSHA256": "818e2b4d99d866d797722d84f7e4cb5f38639db2d2e8c74030a03e53a20ba82b"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "92346ed87316a0e734995f74d38aaa5d75b1e85947d60ff7befb51e30cb6f8c2",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

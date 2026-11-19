@@ -1,0 +1,804 @@
+{
+  "store": "sk",
+  "country": "Slovakia",
+  "defaultLanguage": "English (U.K.)",
+  "additionalLanguages": "Slovak",
+  "languages": [
+    "sk",
+    "en"
+  ],
+  "candidates": [
+    "čas pred obrazovkou",
+    "blokovanie aplikácií",
+    "blokovač aplikácií",
+    "zámok aplikácií",
+    "limit aplikácií",
+    "časový limit aplikácií",
+    "závislosť od telefónu",
+    "menej telefónu",
+    "obmedziť čas na mobile",
+    "blokovanie sociálnych sietí",
+    "menej sociálnych sietí",
+    "digitálny detox",
+    "digital detox",
+    "sústredenie",
+    "koncentrácia",
+    "sebakontrola",
+    "prestávka od telefónu",
+    "časovač aplikácií",
+    "app blocker",
+    "screen time",
+    "rodičovská kontrola",
+    "prestať scrollovať",
+    "používanie telefónu",
+    "obmedzenie aplikácií",
+    "screen time control",
+    "scroll blocker",
+    "stop scrolling",
+    "social media blocker",
+    "block apps",
+    "app limits"
+  ],
+  "astroSupported": true,
+  "catalogQueries": [
+    "čas pred obrazovkou",
+    "blokovanie aplikácií",
+    "blokovač aplikácií",
+    "zámok aplikácií",
+    "limit aplikácií",
+    "časový limit aplikácií",
+    "app blocker",
+    "screen time"
+  ],
+  "startedAt": "2026-11-19T06:35:40.812435+00:00",
+  "source": "Astro MCP, iPhone storefront",
+  "metrics": [
+    {
+      "difficulty": 5,
+      "keyword": "čas pred obrazovkou",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 5,
+      "keyword": "blokovanie aplikácií",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 5,
+      "keyword": "blokovač aplikácií",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 5,
+      "keyword": "zámok aplikácií",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 7,
+      "keyword": "limit aplikácií",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 5,
+      "keyword": "časový limit aplikácií",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 5,
+      "keyword": "závislosť od telefónu",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 5,
+      "keyword": "menej telefónu",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 5,
+      "keyword": "obmedziť čas na mobile",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 5,
+      "keyword": "blokovanie sociálnych sietí",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 5,
+      "keyword": "menej sociálnych sietí",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 5,
+      "keyword": "digitálny detox",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 13,
+      "keyword": "digital detox",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 9,
+      "keyword": "sústredenie",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 5,
+      "keyword": "koncentrácia",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 5,
+      "keyword": "sebakontrola",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 5,
+      "keyword": "prestávka od telefónu",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 5,
+      "keyword": "časovač aplikácií",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 11,
+      "keyword": "app blocker",
+      "popularity": 35,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 15,
+      "keyword": "screen time",
+      "popularity": 38,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 11,
+      "keyword": "rodičovská kontrola",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 5,
+      "keyword": "prestať scrollovať",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 5,
+      "keyword": "používanie telefónu",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 5,
+      "keyword": "obmedzenie aplikácií",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 15,
+      "keyword": "screen time control",
+      "popularity": 24,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 9,
+      "keyword": "scroll blocker",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 11,
+      "keyword": "stop scrolling",
+      "popularity": 5,
+      "ranking": 48,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 23,
+      "keyword": "social media blocker",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 21,
+      "keyword": "block apps",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 42,
+      "keyword": "app limits",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    }
+  ],
+  "queries": [
+    "čas pred obrazovkou",
+    "screen time",
+    "app blocker",
+    "screen time control",
+    "zámok aplikácií",
+    "blokovanie aplikácií",
+    "blokovač aplikácií",
+    "časový limit aplikácií"
+  ],
+  "searches": [
+    {
+      "query": "čas pred obrazovkou",
+      "apps": [
+        {
+          "appStoreId": "6775612461",
+          "averageRating": 0,
+          "bundleId": "com.merland.Tomadoro",
+          "developer": "Domino Effect Labs LLC",
+          "genre": "Productivity",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e3/e3/52/e3e352a7-98d4-c258-59a0-8397463ae1da/AppIcon-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/80x0w.webp",
+          "name": "Screen Time & Focus: Lavendr",
+          "ranking": 1,
+          "ratingCount": 0,
+          "subtitle": "Block apps, earn it back"
+        },
+        {
+          "appStoreId": "6469695096",
+          "averageRating": 5,
+          "bundleId": "app.kids360.anko",
+          "developer": "ANKO SOLUTIONS LLC",
+          "genre": "Utilities",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e2/be/67/e2be6752-c737-7e34-e840-59be460efbb2/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/80x0w.webp",
+          "name": "App Lock & Screen Time — ANKO",
+          "ranking": 2,
+          "ratingCount": 2,
+          "subtitle": "Focus, Website Blocker, Detox"
+        },
+        {
+          "appStoreId": "6775466467",
+          "averageRating": 0,
+          "bundleId": "com.deyir.intently",
+          "developer": "Deyi Rao",
+          "genre": "Productivity",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/5c/98/b05c98dd-37bf-1738-e0a4-f4fe8d4611a9/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/80x0w.webp",
+          "name": "ScreenFox: Screen Time Blocker",
+          "ranking": 3,
+          "ratingCount": 0,
+          "subtitle": "Stop Brainrot, Dopamine Detox"
+        },
+        {
+          "appStoreId": "6759997244",
+          "averageRating": 0,
+          "bundleId": "com.mirrket.unscrol",
+          "developer": "Ridvan Uyan",
+          "genre": "Productivity",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/63/00/7e/63007ea3-dcdb-4880-c7a3-aa32c3985e66/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/80x0w.webp",
+          "name": "Stop Doomscrolling: Unscrol",
+          "ranking": 4,
+          "ratingCount": 0,
+          "subtitle": "Dopamine Detox: Stop Scrolling"
+        },
+        {
+          "appStoreId": "6812493167",
+          "averageRating": 0,
+          "bundleId": "app.mute.ios",
+          "developer": "Glory Mae Dagapioso",
+          "genre": "Productivity",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/14/d4/4f14d43c-0688-ab4b-06ea-d685e62d2714/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/80x0w.webp",
+          "name": "Screen Time & App Blocker",
+          "ranking": 5,
+          "ratingCount": 0,
+          "subtitle": "Focus & Control with AI · Mute"
+        }
+      ],
+      "source": "deep-research/markets/sk/raw/search-a3c3b966a0a6.json",
+      "error": null,
+      "purpose": "Functional search hypothesis"
+    },
+    {
+      "query": "screen time",
+      "apps": [
+        {
+          "appStoreId": "1541027222",
+          "averageRating": 4.8,
+          "bundleId": "com.scottharvey.screenzenapp.ios",
+          "developer": "ScreenZen LLC",
+          "genre": "Productivity",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/c8/de/89c8deef-2a7e-5abf-c5ec-ac3ffa343494/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/80x0w.webp",
+          "name": "ScreenZen- Screen Time Control",
+          "ranking": 1,
+          "ratingCount": 243,
+          "subtitle": "App blocker, limit screen time"
+        },
+        {
+          "appStoreId": "1497465230",
+          "averageRating": 4.7,
+          "bundleId": "com.withopal.opal",
+          "developer": "Opal OS",
+          "genre": "Productivity",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/49/82/784982f1-f983-4980-1fac-0d542c970db8/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/80x0w.webp",
+          "name": "Opal: Screen Time Control",
+          "ranking": 2,
+          "ratingCount": 321,
+          "subtitle": "Focus, App Blocker & Timer"
+        },
+        {
+          "appStoreId": "6746537171",
+          "averageRating": 4.6,
+          "bundleId": "com.unrotou.unrot",
+          "developer": "Unrot OÜ",
+          "genre": "Productivity",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/0b/06/b90b065c-d3fd-e45e-e499-96acac1cbe4d/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/80x0w.webp",
+          "name": "Unrot: Earn your Screen Time",
+          "ranking": 3,
+          "ratingCount": 578,
+          "subtitle": "Complete habits, then scroll"
+        },
+        {
+          "appStoreId": "1532875441",
+          "averageRating": 4.8,
+          "bundleId": "wtf.riedel.one-sec",
+          "developer": "riedel.wtf apps S.L.",
+          "genre": "Productivity",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/f1/83/faf18373-f0af-4b1d-2625-e47565d9ff05/one_sec_Default_App_Icon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/80x0w.webp",
+          "name": "one sec | screen time + focus",
+          "ranking": 4,
+          "ratingCount": 247,
+          "subtitle": "App Blocker & Website Limits"
+        },
+        {
+          "appStoreId": "1645639057",
+          "averageRating": 4.7,
+          "bundleId": "com.refocus.refocus",
+          "developer": "Labi, LLC",
+          "genre": "Productivity",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/88/ea/0288ea6d-6953-945e-1749-944b673f6d90/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/80x0w.webp",
+          "name": "Refocus: App Blocker & Lock",
+          "ranking": 5,
+          "ratingCount": 55,
+          "subtitle": "Block Websites, Social Media"
+        }
+      ],
+      "source": "all-storefronts/sk.json",
+      "error": null,
+      "purpose": "Functional search hypothesis"
+    },
+    {
+      "query": "app blocker",
+      "apps": [
+        {
+          "appStoreId": "1497465230",
+          "averageRating": 4.7,
+          "bundleId": "com.withopal.opal",
+          "developer": "Opal OS",
+          "genre": "Productivity",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/49/82/784982f1-f983-4980-1fac-0d542c970db8/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/80x0w.webp",
+          "name": "Opal: Screen Time Control",
+          "ranking": 1,
+          "ratingCount": 321,
+          "subtitle": "Focus, App Blocker & Timer"
+        },
+        {
+          "appStoreId": "1515753232",
+          "averageRating": 4.6,
+          "bundleId": "eu.mobilesoft.appblock",
+          "developer": "MobileSoft s.r.o.",
+          "genre": "Productivity",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/5a/d7/9c5ad7ef-7122-af9e-baa4-4f35d377ef16/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/80x0w.webp",
+          "name": "AppBlock: App & Site Blocker",
+          "ranking": 2,
+          "ratingCount": 75,
+          "subtitle": "Limit Screen Time | Block Web"
+        },
+        {
+          "appStoreId": "1541027222",
+          "averageRating": 4.8,
+          "bundleId": "com.scottharvey.screenzenapp.ios",
+          "developer": "ScreenZen LLC",
+          "genre": "Productivity",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/c8/de/89c8deef-2a7e-5abf-c5ec-ac3ffa343494/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/80x0w.webp",
+          "name": "ScreenZen- Screen Time Control",
+          "ranking": 3,
+          "ratingCount": 243,
+          "subtitle": "App blocker, limit screen time"
+        },
+        {
+          "appStoreId": "1645639057",
+          "averageRating": 4.7,
+          "bundleId": "com.refocus.refocus",
+          "developer": "Labi, LLC",
+          "genre": "Productivity",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/88/ea/0288ea6d-6953-945e-1749-944b673f6d90/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/80x0w.webp",
+          "name": "Refocus: App Blocker & Lock",
+          "ranking": 4,
+          "ratingCount": 55,
+          "subtitle": "Block Websites, Social Media"
+        },
+        {
+          "appStoreId": "1532875441",
+          "averageRating": 4.8,
+          "bundleId": "wtf.riedel.one-sec",
+          "developer": "riedel.wtf apps S.L.",
+          "genre": "Productivity",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/f1/83/faf18373-f0af-4b1d-2625-e47565d9ff05/one_sec_Default_App_Icon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/80x0w.webp",
+          "name": "one sec | screen time + focus",
+          "ranking": 5,
+          "ratingCount": 247,
+          "subtitle": "App Blocker & Website Limits"
+        }
+      ],
+      "source": "deep-research/markets/sk/raw/search-8567eb89892e.json",
+      "error": null,
+      "purpose": "Functional search hypothesis"
+    },
+    {
+      "query": "screen time control",
+      "apps": [
+        {
+          "appStoreId": "6746537171",
+          "averageRating": 4.6,
+          "bundleId": "com.unrotou.unrot",
+          "developer": "Unrot OÜ",
+          "genre": "Productivity",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/0b/06/b90b065c-d3fd-e45e-e499-96acac1cbe4d/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/80x0w.webp",
+          "name": "Unrot: Earn your Screen Time",
+          "ranking": 1,
+          "ratingCount": 578,
+          "subtitle": "Complete habits, then scroll"
+        },
+        {
+          "appStoreId": "1497465230",
+          "averageRating": 4.7,
+          "bundleId": "com.withopal.opal",
+          "developer": "Opal OS",
+          "genre": "Productivity",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/49/82/784982f1-f983-4980-1fac-0d542c970db8/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/80x0w.webp",
+          "name": "Opal: Screen Time Control",
+          "ranking": 2,
+          "ratingCount": 321,
+          "subtitle": "Focus, App Blocker & Timer"
+        },
+        {
+          "appStoreId": "1541027222",
+          "averageRating": 4.8,
+          "bundleId": "com.scottharvey.screenzenapp.ios",
+          "developer": "ScreenZen LLC",
+          "genre": "Productivity",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/c8/de/89c8deef-2a7e-5abf-c5ec-ac3ffa343494/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/80x0w.webp",
+          "name": "ScreenZen- Screen Time Control",
+          "ranking": 3,
+          "ratingCount": 243,
+          "subtitle": "App blocker, limit screen time"
+        },
+        {
+          "appStoreId": "1645639057",
+          "averageRating": 4.7,
+          "bundleId": "com.refocus.refocus",
+          "developer": "Labi, LLC",
+          "genre": "Productivity",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/88/ea/0288ea6d-6953-945e-1749-944b673f6d90/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/80x0w.webp",
+          "name": "Refocus: App Blocker & Lock",
+          "ranking": 4,
+          "ratingCount": 55,
+          "subtitle": "Block Websites, Social Media"
+        },
+        {
+          "appStoreId": "6738286409",
+          "averageRating": 5,
+          "bundleId": "to.freedom.Savor",
+          "developer": "Eighty Percent Solutions",
+          "genre": "Productivity",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/51/31/cd/5131cd52-ddd2-c7f0-7ae1-d39fe06536d8/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/80x0w.webp",
+          "name": "Limit – Control the Scroll",
+          "ranking": 5,
+          "ratingCount": 1,
+          "subtitle": "Make screen time intentional"
+        }
+      ],
+      "source": "deep-research/markets/sk/raw/search-e8a1a599cf91.json",
+      "error": null,
+      "purpose": "Functional search hypothesis"
+    },
+    {
+      "query": "zámok aplikácií",
+      "apps": [
+        {
+          "appStoreId": "6458880741",
+          "averageRating": 4.8,
+          "bundleId": "com.zheng.appblocker",
+          "developer": "万龙 戴",
+          "genre": "Productivity",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/6d/fc/9e6dfc46-1588-4b63-5f29-7400d43a2aff/AppIcon-0-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/80x0w.webp",
+          "name": "App Lock - Lock Apps ™",
+          "ranking": 1,
+          "ratingCount": 6,
+          "subtitle": "App Locker For iPhone"
+        },
+        {
+          "appStoreId": "1600701725",
+          "averageRating": 0,
+          "bundleId": "com.zxfmpy.XFPassword",
+          "developer": "晓峰 左",
+          "genre": "Productivity",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cd/6c/96/cd6c9627-24ae-c581-205e-8fcb4f7f5c02/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/80x0w.webp",
+          "name": "Password PRO- Privacy App Lock",
+          "ranking": 2,
+          "ratingCount": 0,
+          "subtitle": "Secure Passwords & App Locker"
+        },
+        {
+          "appStoreId": "6452721618",
+          "averageRating": 0,
+          "bundleId": "com.liu.hideapps",
+          "developer": "俊杰 刘",
+          "genre": "Utilities",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/c1/48/2cc1485d-d52b-6331-4457-cc78d50f5792/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/80x0w.webp",
+          "name": "App Lock - AppLock Apps",
+          "ranking": 3,
+          "ratingCount": 0,
+          "subtitle": "AppLocker Password For Phone"
+        },
+        {
+          "appStoreId": "6746766591",
+          "averageRating": 0,
+          "bundleId": "com.lykovstudio.AppLock",
+          "developer": "LYKOV STUDIO LTD",
+          "genre": "Utilities",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/fe/f0/d1fef0a7-c6dd-e678-0eac-cb6f0486ca3d/AppLock-0-0-1x_U007epad-0-1-sRGB-85-220.png/80x0w.webp",
+          "name": "App Lock - Password For Apps",
+          "ranking": 4,
+          "ratingCount": 0,
+          "subtitle": "AppLock w/ Passcode • Blocker"
+        },
+        {
+          "appStoreId": "6469686557",
+          "averageRating": 4.6,
+          "bundleId": "com.xu.applock",
+          "developer": "友财 徐",
+          "genre": "Utilities",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/65/29/ad6529bc-a635-b89c-4d80-b2773b0602ec/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/80x0w.webp",
+          "name": "App Lock - Lock Apps .",
+          "ranking": 5,
+          "ratingCount": 10,
+          "subtitle": "App Locker For iPhone"
+        }
+      ],
+      "source": "deep-research/markets/sk/raw/search-34a1b70356d5.json",
+      "error": null,
+      "purpose": "Intent comparator; not a claim this app provides that feature"
+    },
+    {
+      "query": "blokovanie aplikácií",
+      "apps": [
+        {
+          "appStoreId": "6758555012",
+          "averageRating": 0,
+          "bundleId": "app.qadry.ios",
+          "developer": "Yurii Koshkin",
+          "genre": "Productivity",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/69/dc/4869dc52-3aac-1af5-9fed-72075b6ae6bf/ProtectedFocus-0-0-1x_U007ephone-0-1-85-220.png/80x0w.webp",
+          "name": "App Blocker: Screen Time",
+          "ranking": 1,
+          "ratingCount": 0,
+          "subtitle": "Focus Timer & Goals"
+        },
+        {
+          "appStoreId": "6761037446",
+          "averageRating": 0,
+          "bundleId": "com.thinh.sixsix.SIXSIX",
+          "developer": "THINH TRAN",
+          "genre": "Productivity",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/41/15/17/41151712-c0f4-5da3-ef78-07bfb6af7368/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/80x0w.webp",
+          "name": "App Blocker & Focus: ARCO",
+          "ranking": 2,
+          "ratingCount": 0,
+          "subtitle": "Screen Time Control & Limits"
+        },
+        {
+          "appStoreId": "6784962499",
+          "averageRating": 0,
+          "bundleId": "com.fella.app",
+          "developer": "Matas Klemenis",
+          "genre": "Productivity",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/51/c2/b951c277-d410-294c-428c-2a719d3c7a0c/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/80x0w.webp",
+          "name": "No Scroll: Stop Doom Scrolling",
+          "ranking": 3,
+          "ratingCount": 0,
+          "subtitle": "Short Video Feed Blocker"
+        },
+        {
+          "appStoreId": "6792724236",
+          "averageRating": 0,
+          "bundleId": "com.unswayapp",
+          "developer": "Ihor Bilohubov",
+          "genre": "Productivity",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/d8/2f/bed82f87-9962-4e3d-2912-7136f7f5f472/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/80x0w.webp",
+          "name": "Block Apps & Websites: Unsway",
+          "ranking": 4,
+          "ratingCount": 0,
+          "subtitle": "Digital Detox for Your Phone"
+        },
+        {
+          "appStoreId": "6760604253",
+          "averageRating": 0,
+          "bundleId": "Caliskan.todo-screen-control",
+          "developer": "MUSTAFA CALISKAN",
+          "genre": "Productivity",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/44/8f/0c448f6f-4a04-0599-8cbf-f016d44049ad/AppIcon1-0-0-1x_U007epad-0-1-85-220.png/80x0w.webp",
+          "name": "TaskLock: To Do & App Blocker",
+          "ranking": 5,
+          "ratingCount": 0,
+          "subtitle": "Habit Tracker & Screen Time"
+        }
+      ],
+      "source": "deep-research/markets/sk/raw/search-995ee33af694.json",
+      "error": null,
+      "purpose": "Functional search hypothesis"
+    },
+    {
+      "query": "blokovač aplikácií",
+      "apps": [
+        {
+          "appStoreId": "6458880741",
+          "averageRating": 4.8,
+          "bundleId": "com.zheng.appblocker",
+          "developer": "万龙 戴",
+          "genre": "Productivity",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/6d/fc/9e6dfc46-1588-4b63-5f29-7400d43a2aff/AppIcon-0-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/80x0w.webp",
+          "name": "App Lock - Lock Apps ™",
+          "ranking": 1,
+          "ratingCount": 6,
+          "subtitle": "App Locker For iPhone"
+        },
+        {
+          "appStoreId": "6792736336",
+          "averageRating": 0,
+          "bundleId": "com.qalvapps.firstfive",
+          "developer": "qalvapps",
+          "genre": "Productivity",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/1f/1c/941f1c46-5bed-16af-3721-5d8f6e02285b/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/80x0w.webp",
+          "name": "Morning Routine: RYZR",
+          "ranking": 2,
+          "ratingCount": 0,
+          "subtitle": "Wake Up Alarm & App Limit"
+        },
+        {
+          "appStoreId": "6805322469",
+          "averageRating": 0,
+          "bundleId": "com.stratelabs.sleepylion",
+          "developer": "Strate Labs Limited",
+          "genre": "Productivity",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/c9/9b/6ec99b57-a4c0-6f99-637c-a7313f3cf778/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/80x0w.webp",
+          "name": "LionBlock: App Blocker",
+          "ranking": 3,
+          "ratingCount": 0,
+          "subtitle": "Screen Time Limit & Focus"
+        },
+        {
+          "appStoreId": "6761304507",
+          "averageRating": 0,
+          "bundleId": "com.app.hakanyigitunac.SoberLock",
+          "developer": "Hakan Yigit Unac",
+          "genre": "Health & Fitness",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/42/78/eb4278fe-6b21-5d39-88e5-57788af9a63e/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/80x0w.webp",
+          "name": "App Blocker: SoberLock",
+          "ranking": 4,
+          "ratingCount": 0,
+          "subtitle": "Digital Detox & Night Guard"
+        },
+        {
+          "appStoreId": "6760604253",
+          "averageRating": 0,
+          "bundleId": "Caliskan.todo-screen-control",
+          "developer": "MUSTAFA CALISKAN",
+          "genre": "Productivity",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/0c/44/8f/0c448f6f-4a04-0599-8cbf-f016d44049ad/AppIcon1-0-0-1x_U007epad-0-1-85-220.png/80x0w.webp",
+          "name": "TaskLock: To Do & App Blocker",
+          "ranking": 5,
+          "ratingCount": 0,
+          "subtitle": "Habit Tracker & Screen Time"
+        }
+      ],
+      "source": "deep-research/markets/sk/raw/search-914d737f3795.json",
+      "error": null,
+      "purpose": "Functional search hypothesis"
+    },
+    {
+      "query": "časový limit aplikácií",
+      "apps": [
+        {
+          "appStoreId": "6746193907",
+          "averageRating": 0,
+          "bundleId": "moc.Test.timer.last",
+          "developer": "NaviStack LLC",
+          "genre": "Productivity",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/42/fa/7d/42fa7dc8-8d04-a1bb-9b68-7faab5a2b957/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/80x0w.webp",
+          "name": "Limit Screen Time: Limitly",
+          "ranking": 1,
+          "ratingCount": 0,
+          "subtitle": "App Blocker & Focus Schedules"
+        },
+        {
+          "appStoreId": "6828037736",
+          "averageRating": 0,
+          "bundleId": "com.sihamaater.peaje",
+          "developer": "Siham Aater Taleb",
+          "genre": "Productivity",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3a/9a/a3/3a9aa3c2-36d7-8602-5110-b8122165e57c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/80x0w.webp",
+          "name": "App Blocker & Scroll: Playlock",
+          "ranking": 2,
+          "ratingCount": 0,
+          "subtitle": "Play to Unlock Screen Time"
+        },
+        {
+          "appStoreId": "6751270808",
+          "averageRating": 0,
+          "bundleId": "com.TimeShieldHelper559nmb.app",
+          "developer": "Tamar Ben-David",
+          "genre": "Productivity",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/09/78/0d/09780d9d-f356-4747-ce7c-f52858710607/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/80x0w.webp",
+          "name": "Screen Time Control app +",
+          "ranking": 3,
+          "ratingCount": 0,
+          "subtitle": "App Blocker, Focus & Timer"
+        }
+      ],
+      "source": "deep-research/markets/sk/raw/search-0f6d22dc1af1.json",
+      "error": null,
+      "purpose": "Functional search hypothesis"
+    }
+  ],
+  "status": "deep-astro-complete",
+  "completedAt": "2026-11-19T06:35:40.816565+00:00",
+  "fullTop5Queries": 7,
+  "limitation": "Popularity/difficulty are tool estimates, not search counts. Missing subtitles remain missing. Broad or password-lock/parental-control intent is compared, never copied as an unsupported feature."
+}

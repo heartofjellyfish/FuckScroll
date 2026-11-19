@@ -1,0 +1,123 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=app+limits&country=vg&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/vg/app/appblock-app-site-blocker/id1515753232?uo=4",
+        "averageUserRating": 0,
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "releaseDate": "2021-08-17T07:00:00Z",
+        "currentVersionReleaseDate": "2026-11-11T10:48:39Z",
+        "primaryGenreName": "Productivity",
+        "version": "4.14.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "eu.mobilesoft.appblock",
+        "artistName": "MobileSoft s.r.o.",
+        "trackId": 1515753232,
+        "trackName": "AppBlock: App & Site Blocker",
+        "userRatingCount": 0,
+        "descriptionSHA256": "f4e2257d9c85cbaf9cd8496ddc82a9a5d41b2e0440020c527d8b3b8c4bbe4236"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/vg/app/opal-screen-time-control/id1497465230?uo=4",
+        "averageUserRating": 5,
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "primaryGenreName": "Productivity",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.withopal.opal",
+        "artistName": "Opal OS",
+        "trackId": 1497465230,
+        "trackName": "Opal: Screen Time Control",
+        "userRatingCount": 1,
+        "descriptionSHA256": "79545dcfd9d33edf53d3567fc6a6eb5b582561ed18b9d49245fbff4af0417656"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/vg/app/parental-control-app-kidslox/id914825567?uo=4",
+        "averageUserRating": 4.5,
+        "genres": [
+          "Lifestyle",
+          "Utilities"
+        ],
+        "price": 0.0,
+        "releaseDate": "2014-09-23T23:23:11Z",
+        "currentVersionReleaseDate": "2026-09-15T06:03:44Z",
+        "primaryGenreName": "Lifestyle",
+        "version": "11.3.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.kidslox.main",
+        "artistName": "Kidslox Trading Ltd",
+        "trackId": 914825567,
+        "trackName": "Parental Control App - Kidslox",
+        "userRatingCount": 2,
+        "descriptionSHA256": "d7539daf53bb81a1e94445145b66c140d46f513f2094f6b5fa099f8287fae953"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/vg/app/app-lock-hide-app-lock-apps/id1616433953?uo=4",
+        "averageUserRating": 4.27273,
+        "genres": [
+          "Utilities"
+        ],
+        "price": 0.0,
+        "releaseDate": "2022-03-30T07:00:00Z",
+        "currentVersionReleaseDate": "2022-11-09T19:44:17Z",
+        "primaryGenreName": "Utilities",
+        "version": "1.6",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.kingsmen.lockdatamanager",
+        "artistName": "KINGSMEN VIETNAM COMPANY LIMITED",
+        "trackId": 1616433953,
+        "trackName": "App Lock, Hide App & Lock Apps",
+        "userRatingCount": 11,
+        "descriptionSHA256": "a9a10fab975dea91f7d622ac28f56cc89c7ac676e92e3c3e0d06fd1a1df131e8"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/vg/app/curvy-dating-app-wooplus/id1011085984?uo=4",
+        "averageUserRating": 5,
+        "genres": [
+          "Social Networking",
+          "Lifestyle"
+        ],
+        "price": 0.0,
+        "releaseDate": "2015-10-20T07:44:23Z",
+        "currentVersionReleaseDate": "2026-11-08T01:56:21Z",
+        "primaryGenreName": "Social Networking",
+        "version": "9.13.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.teamn.wooplus",
+        "artistName": "DATING OASIS LIMITED",
+        "trackId": 1011085984,
+        "trackName": "Curvy Dating App: WooPlus",
+        "userRatingCount": 1,
+        "descriptionSHA256": "398d7c841004b085b4ed6aff4b3d3c3ba7948a30af6ba1fce76c2eea86aa9d7d"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "7fe52fcc8fbe5fb2c57395cd6a4de876433eb47354da809eed179282fccb176e",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

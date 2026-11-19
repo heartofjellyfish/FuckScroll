@@ -1,0 +1,13 @@
+{
+  "id": "10672279-d70f-49bd-9548-a04bdcf36302",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"apps\" : [\n\n  ],\n  \"keyword\" : \"цифровой детокс\",\n  \"platform\" : \"iphone\",\n  \"store\" : \"kz\",\n  \"totalResults\" : 0\n}",
+        "type": "text"
+      }
+    ],
+    "isError": false
+  }
+}

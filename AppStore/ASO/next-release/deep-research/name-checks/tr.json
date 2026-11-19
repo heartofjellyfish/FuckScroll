@@ -1,0 +1,21 @@
+{
+  "locale": "tr",
+  "store": "tr",
+  "proposedName": "Ekran Süresi – Nöbetçi Ördek",
+  "limitations": "A public top-five name search, not App Store Connect reservation or trademark clearance.",
+  "response": {
+    "id": "cafad702-5f8a-4e6a-9828-70c1ac9924bd",
+    "jsonrpc": "2.0",
+    "result": {
+      "content": [
+        {
+          "text": "{\n  \"apps\" : [\n\n  ],\n  \"keyword\" : \"Ekran Süresi – Nöbetçi Ördek\",\n  \"platform\" : \"iphone\",\n  \"store\" : \"tr\",\n  \"totalResults\" : 0\n}",
+          "type": "text"
+        }
+      ],
+      "isError": false
+    }
+  },
+  "error": null,
+  "exactOtherAppMatches": []
+}

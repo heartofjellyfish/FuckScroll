@@ -1,0 +1,36 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=tempo+de+ecr%C3%A3&country=mz&entity=software&limit=5",
+  "response": {
+    "resultCount": 1,
+    "results": [
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/mz/app/bolota-bloqueio-de-apps/id6830259423?uo=4",
+        "averageUserRating": 0,
+        "price": 0.0,
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "artistName": "Matheus Mello",
+        "bundleId": "com.quantivo.unscroll",
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2026-11-06T08:00:00Z",
+        "trackId": 6830259423,
+        "trackName": "Bolota: Bloqueio de Apps",
+        "currentVersionReleaseDate": "2026-11-06T15:28:10Z",
+        "version": "1.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "userRatingCount": 0,
+        "descriptionSHA256": "4c1bef6727c3cacc8b280028dbafdaf56bd716d3e55c372cc5eb047957f7c990"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "a7055d74f6d6a04fcf6fdad7d19f44157bea9ad46a6ada09cb416c0946291e57",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

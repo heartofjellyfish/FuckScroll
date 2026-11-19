@@ -1,0 +1,21 @@
+{
+  "locale": "fr-FR",
+  "store": "fr",
+  "proposedName": "Screen Time – Canard de garde",
+  "limitations": "A public top-five name search, not App Store Connect reservation or trademark clearance.",
+  "response": {
+    "id": "da9519f3-8391-4669-8483-b8f3adb00956",
+    "jsonrpc": "2.0",
+    "result": {
+      "content": [
+        {
+          "text": "{\n  \"apps\" : [\n\n  ],\n  \"keyword\" : \"Screen Time – Canard de garde\",\n  \"platform\" : \"iphone\",\n  \"store\" : \"fr\",\n  \"totalResults\" : 0\n}",
+          "type": "text"
+        }
+      ],
+      "isError": false
+    }
+  },
+  "error": null,
+  "exactOtherAppMatches": []
+}

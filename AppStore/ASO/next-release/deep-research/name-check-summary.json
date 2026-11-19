@@ -1,0 +1,285 @@
+{
+  "scope": "Public exact-name matches among top-five results only. Registration and legal rights are not checked.",
+  "results": [
+    {
+      "locale": "en-US",
+      "store": "us",
+      "proposedName": "App Blocker – Duck on Duty",
+      "error": null,
+      "exactOtherAppMatches": []
+    },
+    {
+      "locale": "en-GB",
+      "store": "gb",
+      "proposedName": "App Blocker – Duck on Duty",
+      "error": null,
+      "exactOtherAppMatches": []
+    },
+    {
+      "locale": "en-AU",
+      "store": "au",
+      "proposedName": "App Blocker – Duck on Duty",
+      "error": null,
+      "exactOtherAppMatches": []
+    },
+    {
+      "locale": "en-CA",
+      "store": "ca",
+      "proposedName": "App Blocker – Duck on Duty",
+      "error": null,
+      "exactOtherAppMatches": []
+    },
+    {
+      "locale": "zh-Hans",
+      "store": "cn",
+      "proposedName": "自觉鸭：戒手机与屏幕使用时间",
+      "error": null,
+      "exactOtherAppMatches": []
+    },
+    {
+      "locale": "zh-Hant",
+      "store": "tw",
+      "proposedName": "自覺鴨：戒手機與螢幕使用時間",
+      "error": null,
+      "exactOtherAppMatches": []
+    },
+    {
+      "locale": "ja",
+      "store": "jp",
+      "proposedName": "スマホ制限 – みてるアヒル",
+      "error": null,
+      "exactOtherAppMatches": []
+    },
+    {
+      "locale": "ko",
+      "store": "kr",
+      "proposedName": "스크린타임 – 지켜보는 오리",
+      "error": null,
+      "exactOtherAppMatches": []
+    },
+    {
+      "locale": "fr-FR",
+      "store": "fr",
+      "proposedName": "Screen Time – Canard de garde",
+      "error": null,
+      "exactOtherAppMatches": []
+    },
+    {
+      "locale": "fr-CA",
+      "store": "ca",
+      "proposedName": "App Blocker – Canard de garde",
+      "error": null,
+      "exactOtherAppMatches": []
+    },
+    {
+      "locale": "de-DE",
+      "store": "de",
+      "proposedName": "App Blocker – Ente im Dienst",
+      "error": null,
+      "exactOtherAppMatches": []
+    },
+    {
+      "locale": "es-ES",
+      "store": "es",
+      "proposedName": "Bloquear aplicaciones – Pato",
+      "error": null,
+      "exactOtherAppMatches": []
+    },
+    {
+      "locale": "es-MX",
+      "store": "mx",
+      "proposedName": "Tiempo en pantalla – Pato",
+      "error": null,
+      "exactOtherAppMatches": []
+    },
+    {
+      "locale": "it",
+      "store": "it",
+      "proposedName": "Tempo di utilizzo – Papero",
+      "error": null,
+      "exactOtherAppMatches": []
+    },
+    {
+      "locale": "pt-BR",
+      "store": "br",
+      "proposedName": "Tempo de Tela: Pato de Plantão",
+      "error": null,
+      "exactOtherAppMatches": []
+    },
+    {
+      "locale": "pt-PT",
+      "store": "pt",
+      "proposedName": "Screen Time – Pato de Vigia",
+      "error": null,
+      "exactOtherAppMatches": []
+    },
+    {
+      "locale": "nl-NL",
+      "store": "nl",
+      "proposedName": "Schermtijd – Eend op wacht",
+      "error": null,
+      "exactOtherAppMatches": []
+    },
+    {
+      "locale": "ru",
+      "store": "ru",
+      "proposedName": "Экранное время – Утка на посту",
+      "error": null,
+      "exactOtherAppMatches": []
+    },
+    {
+      "locale": "sv",
+      "store": "se",
+      "proposedName": "Screen Time – Anka på vakt",
+      "error": null,
+      "exactOtherAppMatches": []
+    },
+    {
+      "locale": "ar-SA",
+      "store": "sa",
+      "proposedName": "Screen Time – بطّة الحراسة",
+      "error": null,
+      "exactOtherAppMatches": []
+    },
+    {
+      "locale": "tr",
+      "store": "tr",
+      "proposedName": "Ekran Süresi – Nöbetçi Ördek",
+      "error": null,
+      "exactOtherAppMatches": []
+    },
+    {
+      "locale": "hi",
+      "store": "in",
+      "proposedName": "Screen Time – पहरेदार बत्तख",
+      "error": null,
+      "exactOtherAppMatches": []
+    },
+    {
+      "locale": "id",
+      "store": "id",
+      "proposedName": "Screen Time Control – Bebek",
+      "error": null,
+      "exactOtherAppMatches": []
+    },
+    {
+      "locale": "ms",
+      "store": "my",
+      "proposedName": "App Blocker – Itik Bertugas",
+      "error": null,
+      "exactOtherAppMatches": []
+    },
+    {
+      "locale": "th",
+      "store": "th",
+      "proposedName": "Screen Time – เป็ดคุมเวลา",
+      "error": null,
+      "exactOtherAppMatches": []
+    },
+    {
+      "locale": "vi",
+      "store": "vn",
+      "proposedName": "Screen Time – Vịt canh giờ",
+      "error": null,
+      "exactOtherAppMatches": []
+    },
+    {
+      "locale": "pl",
+      "store": "pl",
+      "proposedName": "Czas przed ekranem – Kaczka",
+      "error": null,
+      "exactOtherAppMatches": []
+    },
+    {
+      "locale": "cs",
+      "store": "cz",
+      "proposedName": "Screen Time – Kachna",
+      "error": null,
+      "exactOtherAppMatches": []
+    },
+    {
+      "locale": "da",
+      "store": "dk",
+      "proposedName": "Skærmtid – And på vagt",
+      "error": null,
+      "exactOtherAppMatches": []
+    },
+    {
+      "locale": "fi",
+      "store": "fi",
+      "proposedName": "Ruutuaika – Vahtiankka",
+      "error": null,
+      "exactOtherAppMatches": []
+    },
+    {
+      "locale": "no",
+      "store": "no",
+      "proposedName": "Skjermtid – And på vakt",
+      "error": null,
+      "exactOtherAppMatches": []
+    },
+    {
+      "locale": "el",
+      "store": "gr",
+      "proposedName": "App Blocker – Πάπια",
+      "error": null,
+      "exactOtherAppMatches": []
+    },
+    {
+      "locale": "he",
+      "store": "il",
+      "proposedName": "זמן מסך – ברווז במשמרת",
+      "error": null,
+      "exactOtherAppMatches": []
+    },
+    {
+      "locale": "hu",
+      "store": "hu",
+      "proposedName": "App Blocker – Őrkacsa",
+      "error": null,
+      "exactOtherAppMatches": []
+    },
+    {
+      "locale": "ro",
+      "store": "ro",
+      "proposedName": "Screen Time – Rața de pază",
+      "error": null,
+      "exactOtherAppMatches": []
+    },
+    {
+      "locale": "sk",
+      "store": "sk",
+      "proposedName": "Screen Time – Kačka",
+      "error": null,
+      "exactOtherAppMatches": []
+    },
+    {
+      "locale": "uk",
+      "store": "ua",
+      "proposedName": "Екранний час – Качка на варті",
+      "error": null,
+      "exactOtherAppMatches": []
+    },
+    {
+      "locale": "ca",
+      "store": "es",
+      "proposedName": "Screen Time – Ànec",
+      "error": null,
+      "exactOtherAppMatches": []
+    },
+    {
+      "locale": "hr",
+      "store": "hr",
+      "proposedName": "Screen Time – Patka",
+      "error": null,
+      "exactOtherAppMatches": []
+    },
+    {
+      "locale": "sl",
+      "store": "si",
+      "proposedName": "Screen Time – Račka",
+      "error": null,
+      "exactOtherAppMatches": []
+    }
+  ]
+}

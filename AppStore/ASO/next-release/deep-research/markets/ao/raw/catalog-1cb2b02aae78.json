@@ -1,0 +1,121 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=bloquear+aplica%C3%A7%C3%B5es&country=ao&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "averageUserRating": 4.4497,
+        "artistName": "友财 徐",
+        "genres": [
+          "Utilities"
+        ],
+        "price": 0.0,
+        "bundleId": "com.xu.applock",
+        "releaseDate": "2023-11-07T08:00:00Z",
+        "primaryGenreName": "Utilities",
+        "currentVersionReleaseDate": "2026-06-22T01:26:35Z",
+        "version": "1.5.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/ao/app/app-lock-lock-apps/id6469686557?uo=4",
+        "trackId": 6469686557,
+        "trackName": "App Lock - Lock Apps .",
+        "userRatingCount": 169,
+        "descriptionSHA256": "15b3c0f184bdcdd978e379e824c1b4e91598fa21e1c383a33a31fc4c581a3e52"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 4.17856,
+        "artistName": "俊杰 刘",
+        "genres": [
+          "Utilities"
+        ],
+        "price": 0.0,
+        "bundleId": "com.liu.hideapps",
+        "releaseDate": "2024-01-01T08:00:00Z",
+        "primaryGenreName": "Utilities",
+        "currentVersionReleaseDate": "2026-06-11T00:48:57Z",
+        "version": "1.1.8",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/ao/app/app-lock-applock-apps/id6452721618?uo=4",
+        "trackId": 6452721618,
+        "trackName": "App Lock - AppLock Apps",
+        "userRatingCount": 56,
+        "descriptionSHA256": "07e0f1b13c534456e061e0f53892a1d7f076662e5f96965b2c9d95a8483f5f6d"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 3.7,
+        "artistName": "DoMobile Co., Ltd.",
+        "genres": [
+          "Utilities",
+          "Productivity"
+        ],
+        "price": 0.0,
+        "bundleId": "com.domobile.applock",
+        "releaseDate": "2020-05-15T07:00:00Z",
+        "primaryGenreName": "Utilities",
+        "currentVersionReleaseDate": "2026-05-27T18:29:30Z",
+        "version": "1.3.5",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/ao/app/applock-photo-lock/id1509154892?uo=4",
+        "trackId": 1509154892,
+        "trackName": "AppLock - photo lock",
+        "userRatingCount": 20,
+        "descriptionSHA256": "c453f8d3c8c735b0cdf307718e751af2e5b770baccec2e38c121342cbb15676b"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 4.21532,
+        "artistName": "Muhammet Yalcın Ozdemir Halil Ibrahim Karahan Mustafa Ayten Kupertino Bilisim Yazılım K.S",
+        "genres": [
+          "Utilities",
+          "Productivity"
+        ],
+        "price": 0.0,
+        "bundleId": "co.appnation.applocker",
+        "releaseDate": "2021-06-12T07:00:00Z",
+        "primaryGenreName": "Utilities",
+        "currentVersionReleaseDate": "2026-09-25T07:10:51Z",
+        "version": "2.2.4",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/ao/app/app-lock-lock-apps-photos/id1569973513?uo=4",
+        "trackId": 1569973513,
+        "trackName": "App Lock - Lock Apps & Photos",
+        "userRatingCount": 1240,
+        "descriptionSHA256": "7ba2ea3794744905bae3c370c1d34f9ff79f824d3ed6e187d44098d261070cc2"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 3.75,
+        "artistName": "万龙 戴",
+        "genres": [
+          "Productivity"
+        ],
+        "price": 0.0,
+        "bundleId": "com.zheng.appblocker",
+        "releaseDate": "2023-12-26T08:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2024-09-25T11:03:04Z",
+        "version": "1.0.4",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/ao/app/app-lock-lock-apps/id6458880741?uo=4",
+        "trackId": 6458880741,
+        "trackName": "App Lock - Lock Apps ™",
+        "userRatingCount": 8,
+        "descriptionSHA256": "838359ce7e39fd4c1038556ccd521f45f016e2084ca1790e6f98756f01f9a148"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "2dc6f8df98a86272cde0c075e17155f3469713a7dd9cde19cea4ec4099b2484c",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

@@ -1,0 +1,123 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=stop+scrolling&country=bw&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/bw/app/sociallite-block-reels-shorts/id6757661674?uo=4",
+        "averageUserRating": 0,
+        "artistName": "Sociallite LLC",
+        "genres": [
+          "Productivity",
+          "Social Networking"
+        ],
+        "price": 0.0,
+        "trackId": 6757661674,
+        "trackName": "SocialLite-Block Reels&Shorts",
+        "releaseDate": "2026-01-29T08:00:00Z",
+        "primaryGenreName": "Productivity",
+        "version": "3.1.5",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "social.Social-lite",
+        "currentVersionReleaseDate": "2026-10-16T11:04:41Z",
+        "userRatingCount": 0,
+        "descriptionSHA256": "9dbd89f368c17dc50b7187fccb2c303ea2893d4ea389e2290954ac38e87b7144"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/bw/app/one-sec-screen-time-focus/id1532875441?uo=4",
+        "averageUserRating": 5,
+        "artistName": "riedel.wtf apps S.L.",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "trackId": 1532875441,
+        "trackName": "one sec | screen time + focus",
+        "releaseDate": "2020-09-29T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "version": "6.1.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "wtf.riedel.one-sec",
+        "currentVersionReleaseDate": "2026-11-14T18:42:34Z",
+        "userRatingCount": 7,
+        "descriptionSHA256": "7458286eeec2edf883eec2f9abc49582f9924be2e29f484b82b1014b4b2a0462"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/bw/app/stop-scrolling/id6766318473?uo=4",
+        "averageUserRating": 0,
+        "artistName": "Swen Sekha",
+        "genres": [
+          "Productivity"
+        ],
+        "price": 0.0,
+        "trackId": 6766318473,
+        "trackName": "Stop Scrolling!",
+        "releaseDate": "2026-05-04T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "version": "3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.swens.stopscrolling",
+        "currentVersionReleaseDate": "2026-09-01T21:49:58Z",
+        "userRatingCount": 0,
+        "descriptionSHA256": "3dd99162afc28b6430a290c54b2f63adaa1c9cf59e848ff6109700235f111527"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/bw/app/screenzen-screen-time-control/id1541027222?uo=4",
+        "averageUserRating": 4.53333,
+        "artistName": "ScreenZen LLC",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "trackId": 1541027222,
+        "trackName": "ScreenZen- Screen Time Control",
+        "releaseDate": "2021-07-16T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "version": "4.0.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.scottharvey.screenzenapp.ios",
+        "currentVersionReleaseDate": "2026-09-06T14:20:14Z",
+        "userRatingCount": 15,
+        "descriptionSHA256": "def0cb7cf41c8f7b1619d270d38fe8aa23859b81147ae63a1041bc0a1b7f8cc8"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/bw/app/stop-scrolling/id6760903985?uo=4",
+        "averageUserRating": 0,
+        "artistName": "Granular Development Limited",
+        "genres": [
+          "Productivity",
+          "Utilities"
+        ],
+        "price": 0.0,
+        "trackId": 6760903985,
+        "trackName": "Stop Scrolling",
+        "releaseDate": "2026-04-16T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "version": "1.12",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.granulardevelopment.stopscrolling",
+        "currentVersionReleaseDate": "2026-11-07T14:02:43Z",
+        "userRatingCount": 0,
+        "descriptionSHA256": "6e0a904ea6d5f7d8f0a03fb428ea147330771d25fd090f22aecd2629aa07d082"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "b58d1a0ae80857c5723c1450ff94c1aa185b4e3380ddbc2aa052bc79efaee6b4",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

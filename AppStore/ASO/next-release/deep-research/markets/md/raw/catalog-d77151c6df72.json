@@ -1,0 +1,101 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=blocator+aplica%C8%9Bii&country=md&entity=software&limit=5",
+  "response": {
+    "resultCount": 4,
+    "results": [
+      {
+        "kind": "software",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/md/app/amblocat/id1659921547?uo=4",
+        "artistName": "Smart Aprils",
+        "genres": [
+          "Utilities",
+          "Lifestyle"
+        ],
+        "price": 0.0,
+        "releaseDate": "2022-12-16T08:00:00Z",
+        "currentVersionReleaseDate": "2024-06-15T14:15:53Z",
+        "version": "1.2.24",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackId": 1659921547,
+        "trackName": "AmBlocat",
+        "primaryGenreName": "Utilities",
+        "bundleId": "eu.amblocat.app",
+        "userRatingCount": 0,
+        "descriptionSHA256": "55e11eefeefcf43d12f5267d72a96412fe2feef6e6eeedb24ff36c5424f86841"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/md/app/unde-o-las/id6793654074?uo=4",
+        "artistName": "Stefan-Octavian ROSU",
+        "genres": [
+          "Navigation"
+        ],
+        "price": 0.0,
+        "releaseDate": "2026-10-26T07:00:00Z",
+        "currentVersionReleaseDate": "2026-10-26T13:00:45Z",
+        "version": "1.1.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackId": 6793654074,
+        "trackName": "Unde-o Las",
+        "primaryGenreName": "Navigation",
+        "bundleId": "ro.undeolas.app",
+        "userRatingCount": 0,
+        "descriptionSHA256": "31b4dfb7bead07e1a9a76ff9ded1f0d2bded62f252cfaaadb9fe07189f134a77"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/md/app/platecall-notify-the-owner/id6825851320?uo=4",
+        "artistName": "Hiddenpoint Apps",
+        "genres": [
+          "Utilities",
+          "Navigation"
+        ],
+        "price": 0.0,
+        "releaseDate": "2026-11-05T08:00:00Z",
+        "currentVersionReleaseDate": "2026-11-08T06:33:46Z",
+        "version": "1.0.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackId": 6825851320,
+        "trackName": "PlateCall: Notify the owner",
+        "primaryGenreName": "Utilities",
+        "bundleId": "ro.hiddenpoint.platecall",
+        "userRatingCount": 0,
+        "descriptionSHA256": "bd2ffea3edf011d75344a4891803116e56e2305ecfc6993f60dce78e0ddc8783"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/md/app/scuza-ma-ro/id6817051932?uo=4",
+        "artistName": "New Line Solutions SRL",
+        "genres": [
+          "Utilities",
+          "Lifestyle"
+        ],
+        "price": 0.0,
+        "releaseDate": "2026-09-29T07:00:00Z",
+        "currentVersionReleaseDate": "2026-09-29T15:56:24Z",
+        "version": "2.0.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackId": 6817051932,
+        "trackName": "Scuza-Ma.ro",
+        "primaryGenreName": "Utilities",
+        "bundleId": "com.scuzamaro",
+        "userRatingCount": 0,
+        "descriptionSHA256": "4fc661387fd8edd85a98ea41c3c504c3d78c23de91cd5a68951db838c73fca40"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "a02466e9e7b774fd4b398a9c87e8daa0389bc19e3390af0f0a671ac7d9da4161",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

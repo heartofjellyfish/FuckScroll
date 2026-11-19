@@ -1,0 +1,120 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=%D9%82%D9%81%D9%84+%D8%A7%D9%84%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A7%D8%AA&country=ye&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "averageUserRating": 3.45833,
+        "trackViewUrl": "https://apps.apple.com/ye/app/applock-photo-lock/id1509154892?uo=4",
+        "artistName": "DoMobile Co., Ltd.",
+        "genres": [
+          "Utilities",
+          "Productivity"
+        ],
+        "price": 0.0,
+        "bundleId": "com.domobile.applock",
+        "releaseDate": "2020-05-15T07:00:00Z",
+        "primaryGenreName": "Utilities",
+        "trackId": 1509154892,
+        "trackName": "AppLock - photo lock",
+        "currentVersionReleaseDate": "2026-05-27T18:29:30Z",
+        "version": "1.3.5",
+        "wrapperType": "software",
+        "currency": "USD",
+        "userRatingCount": 24,
+        "descriptionSHA256": "c453f8d3c8c735b0cdf307718e751af2e5b770baccec2e38c121342cbb15676b"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 4.38095,
+        "trackViewUrl": "https://apps.apple.com/ye/app/app-lock-lock-apps/id6458880741?uo=4",
+        "artistName": "万龙 戴",
+        "genres": [
+          "Productivity"
+        ],
+        "price": 0.0,
+        "bundleId": "com.zheng.appblocker",
+        "releaseDate": "2023-12-26T08:00:00Z",
+        "primaryGenreName": "Productivity",
+        "trackId": 6458880741,
+        "trackName": "App Lock - Lock Apps ™",
+        "currentVersionReleaseDate": "2024-09-25T11:03:04Z",
+        "version": "1.0.4",
+        "wrapperType": "software",
+        "currency": "USD",
+        "userRatingCount": 84,
+        "descriptionSHA256": "838359ce7e39fd4c1038556ccd521f45f016e2084ca1790e6f98756f01f9a148"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 4.23478,
+        "trackViewUrl": "https://apps.apple.com/ye/app/app-lock-lock-apps/id6469686557?uo=4",
+        "artistName": "友财 徐",
+        "genres": [
+          "Utilities"
+        ],
+        "price": 0.0,
+        "bundleId": "com.xu.applock",
+        "releaseDate": "2023-11-07T08:00:00Z",
+        "primaryGenreName": "Utilities",
+        "trackId": 6469686557,
+        "trackName": "App Lock - Lock Apps .",
+        "currentVersionReleaseDate": "2026-06-22T01:26:35Z",
+        "version": "1.5.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "userRatingCount": 115,
+        "descriptionSHA256": "15b3c0f184bdcdd978e379e824c1b4e91598fa21e1c383a33a31fc4c581a3e52"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 4.2,
+        "trackViewUrl": "https://apps.apple.com/ye/app/hidem-app-lock-lock-apps/id6462785335?uo=4",
+        "artistName": "俏飞 李",
+        "genres": [
+          "Utilities"
+        ],
+        "price": 0.0,
+        "bundleId": "zone.controls.fun",
+        "releaseDate": "2024-01-24T08:00:00Z",
+        "primaryGenreName": "Utilities",
+        "trackId": 6462785335,
+        "trackName": "Hidem - App Lock & Lock Apps",
+        "currentVersionReleaseDate": "2025-01-20T00:48:48Z",
+        "version": "1.3.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "userRatingCount": 50,
+        "descriptionSHA256": "093281045651bf73382282ac6aef74aab6547cc0252e901bc3f852814b12bc38"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 3.47826,
+        "trackViewUrl": "https://apps.apple.com/ye/app/app-lock-applock-apps/id6452721618?uo=4",
+        "artistName": "俊杰 刘",
+        "genres": [
+          "Utilities"
+        ],
+        "price": 0.0,
+        "bundleId": "com.liu.hideapps",
+        "releaseDate": "2024-01-01T08:00:00Z",
+        "primaryGenreName": "Utilities",
+        "trackId": 6452721618,
+        "trackName": "App Lock - AppLock Apps",
+        "currentVersionReleaseDate": "2026-06-11T00:48:57Z",
+        "version": "1.1.8",
+        "wrapperType": "software",
+        "currency": "USD",
+        "userRatingCount": 23,
+        "descriptionSHA256": "07e0f1b13c534456e061e0f53892a1d7f076662e5f96965b2c9d95a8483f5f6d"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "691497fc45c8ecc152e56534ef3f343d1ea46e733c3bb76ad22a987599ec556a",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

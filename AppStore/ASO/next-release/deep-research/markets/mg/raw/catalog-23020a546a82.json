@@ -1,0 +1,124 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=temps+d%27%C3%A9cran&country=mg&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "averageUserRating": 4.65217,
+        "trackViewUrl": "https://apps.apple.com/mg/app/opal-screen-time-control/id1497465230?uo=4",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "trackId": 1497465230,
+        "trackName": "Opal: Screen Time Control",
+        "bundleId": "com.withopal.opal",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "USD",
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "artistName": "Opal OS",
+        "userRatingCount": 23,
+        "descriptionSHA256": "79545dcfd9d33edf53d3567fc6a6eb5b582561ed18b9d49245fbff4af0417656"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 3,
+        "trackViewUrl": "https://apps.apple.com/mg/app/jomo-app-blocker-focus/id1609960918?uo=4",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "trackId": 1609960918,
+        "trackName": "Jomo - App Blocker & Focus",
+        "bundleId": "com.jomo.Jomo",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-18T16:29:32Z",
+        "version": "2.1.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "releaseDate": "2022-10-16T07:00:00Z",
+        "artistName": "Jomo",
+        "userRatingCount": 1,
+        "descriptionSHA256": "1c3ac2d7f7c364ecfc9b0dc94651160ac123d989dbde44be1172ac15c9b753d8"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 4.375,
+        "trackViewUrl": "https://apps.apple.com/mg/app/one-sec-screen-time-focus/id1532875441?uo=4",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "trackId": 1532875441,
+        "trackName": "one sec | screen time + focus",
+        "bundleId": "wtf.riedel.one-sec",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-14T18:42:34Z",
+        "version": "6.1.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "releaseDate": "2020-09-29T07:00:00Z",
+        "artistName": "riedel.wtf apps S.L.",
+        "userRatingCount": 16,
+        "descriptionSHA256": "7458286eeec2edf883eec2f9abc49582f9924be2e29f484b82b1014b4b2a0462"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 4.16667,
+        "trackViewUrl": "https://apps.apple.com/mg/app/screenzen-screen-time-control/id1541027222?uo=4",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "trackId": 1541027222,
+        "trackName": "ScreenZen- Screen Time Control",
+        "bundleId": "com.scottharvey.screenzenapp.ios",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-09-06T14:20:14Z",
+        "version": "4.0.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "releaseDate": "2021-07-16T07:00:00Z",
+        "artistName": "ScreenZen LLC",
+        "userRatingCount": 6,
+        "descriptionSHA256": "def0cb7cf41c8f7b1619d270d38fe8aa23859b81147ae63a1041bc0a1b7f8cc8"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 4.72222,
+        "trackViewUrl": "https://apps.apple.com/mg/app/cape-app-to-pause-excess/id6444819615?uo=4",
+        "genres": [
+          "Utilities",
+          "Lifestyle"
+        ],
+        "price": 0.0,
+        "trackId": 6444819615,
+        "trackName": "Cape: App to Pause Excess",
+        "bundleId": "com.air-matters.Cloak",
+        "primaryGenreName": "Utilities",
+        "currentVersionReleaseDate": "2026-10-29T20:05:27Z",
+        "version": "4.0.4",
+        "wrapperType": "software",
+        "currency": "USD",
+        "releaseDate": "2022-12-21T08:00:00Z",
+        "artistName": "Air Matters Network Pty Ltd",
+        "userRatingCount": 18,
+        "descriptionSHA256": "55c4489d8aa1369fa68c64bd4c98c99090a0a704ad1039c2b984950bf6088e00"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "e0e6da1f8587d907ffb0f17aad74069f97c081ff26f86e4cc4bcc942a14f1d1c",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

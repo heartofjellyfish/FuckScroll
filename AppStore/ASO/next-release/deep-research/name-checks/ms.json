@@ -1,0 +1,21 @@
+{
+  "locale": "ms",
+  "store": "my",
+  "proposedName": "App Blocker – Itik Bertugas",
+  "limitations": "A public top-five name search, not App Store Connect reservation or trademark clearance.",
+  "response": {
+    "id": "76a66490-85ea-4663-9210-43a3ec52e3b2",
+    "jsonrpc": "2.0",
+    "result": {
+      "content": [
+        {
+          "text": "{\n  \"apps\" : [\n\n  ],\n  \"keyword\" : \"App Blocker – Itik Bertugas\",\n  \"platform\" : \"iphone\",\n  \"store\" : \"my\",\n  \"totalResults\" : 0\n}",
+          "type": "text"
+        }
+      ],
+      "isError": false
+    }
+  },
+  "error": null,
+  "exactOtherAppMatches": []
+}

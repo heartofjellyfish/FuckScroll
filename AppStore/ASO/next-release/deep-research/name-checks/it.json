@@ -1,0 +1,21 @@
+{
+  "locale": "it",
+  "store": "it",
+  "proposedName": "Tempo di utilizzo – Papero",
+  "limitations": "A public top-five name search, not App Store Connect reservation or trademark clearance.",
+  "response": {
+    "id": "23f923b3-fdf5-423f-9b0b-b4b2fde62948",
+    "jsonrpc": "2.0",
+    "result": {
+      "content": [
+        {
+          "text": "{\n  \"apps\" : [\n\n  ],\n  \"keyword\" : \"Tempo di utilizzo – Papero\",\n  \"platform\" : \"iphone\",\n  \"store\" : \"it\",\n  \"totalResults\" : 0\n}",
+          "type": "text"
+        }
+      ],
+      "isError": false
+    }
+  },
+  "error": null,
+  "exactOtherAppMatches": []
+}

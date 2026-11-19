@@ -1,0 +1,124 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=screen+time&country=ve&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "artistName": "ScreenZen LLC",
+        "price": 0.0,
+        "bundleId": "com.scottharvey.screenzenapp.ios",
+        "releaseDate": "2021-07-16T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-09-06T14:20:14Z",
+        "trackId": 1541027222,
+        "trackName": "ScreenZen- Screen Time Control",
+        "version": "4.0.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 4.78946,
+        "trackViewUrl": "https://apps.apple.com/ve/app/screenzen-screen-time-control/id1541027222?uo=4",
+        "genres": [
+          "Productividad",
+          "Salud y fitness"
+        ],
+        "userRatingCount": 38,
+        "descriptionSHA256": "389b1ab973e58705bf7b31e111caf9b0ffaf2c5f102cd4234ff15666e4d36753"
+      },
+      {
+        "kind": "software",
+        "artistName": "Jack Finnis",
+        "price": 0.0,
+        "bundleId": "com.jackfinnis.ScreenTimeTracker",
+        "releaseDate": "2024-12-17T08:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2025-10-21T22:49:43Z",
+        "trackId": 6738397686,
+        "trackName": "Screen Time Tracker",
+        "version": "2.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/ve/app/screen-time-tracker/id6738397686?uo=4",
+        "genres": [
+          "Productividad",
+          "Salud y fitness"
+        ],
+        "userRatingCount": 0,
+        "descriptionSHA256": "818e2b4d99d866d797722d84f7e4cb5f38639db2d2e8c74030a03e53a20ba82b"
+      },
+      {
+        "kind": "software",
+        "artistName": "Opal OS",
+        "price": 0.0,
+        "bundleId": "com.withopal.opal",
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "trackId": 1497465230,
+        "trackName": "Opal: Tiempo de Pantalla Focus",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 4.81651,
+        "trackViewUrl": "https://apps.apple.com/ve/app/opal-tiempo-de-pantalla-focus/id1497465230?uo=4",
+        "genres": [
+          "Productividad",
+          "Salud y fitness"
+        ],
+        "userRatingCount": 109,
+        "descriptionSHA256": "8f565e8ece1378f7f8b279972790342748ebc0f5a8961ef24749e6a17891340e"
+      },
+      {
+        "kind": "software",
+        "artistName": "clearspace",
+        "price": 0.0,
+        "bundleId": "com.betteryes.clearspace",
+        "releaseDate": "2021-07-24T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-09T20:51:21Z",
+        "trackId": 1572515807,
+        "trackName": "ClearSpace: Reduce Screen Time",
+        "version": "2.7.6",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 5,
+        "trackViewUrl": "https://apps.apple.com/ve/app/clearspace-reduce-screen-time/id1572515807?uo=4",
+        "genres": [
+          "Productividad",
+          "Salud y fitness"
+        ],
+        "userRatingCount": 2,
+        "descriptionSHA256": "71a31af6283b4056c69999da0d780d76bcaa0eba99d12ae5f8c54e056bd2ef6a"
+      },
+      {
+        "kind": "software",
+        "artistName": "Screen Detox Inc",
+        "price": 0.0,
+        "bundleId": "com.getpresentapp.Present",
+        "releaseDate": "2022-09-29T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-17T21:48:19Z",
+        "trackId": 1644737181,
+        "trackName": "BePresent: Tiempo en Pantalla",
+        "version": "0.18.114",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 5,
+        "trackViewUrl": "https://apps.apple.com/ve/app/bepresent-tiempo-en-pantalla/id1644737181?uo=4",
+        "genres": [
+          "Productividad",
+          "Salud y fitness"
+        ],
+        "userRatingCount": 4,
+        "descriptionSHA256": "39b882def3c67d3b209417f1799a814ce77fc96e10a467efb23d87ea1e5b4a60"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "f71e95cb03e6904be490cfcdbfce4bbc529fe7795910f3e728e248457aa44f68",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

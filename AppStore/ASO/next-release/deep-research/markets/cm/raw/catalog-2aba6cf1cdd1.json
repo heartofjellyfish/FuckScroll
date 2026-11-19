@@ -1,0 +1,123 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=limite+temps+%C3%A9cran&country=cm&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "artistName": "Opal OS",
+        "genres": [
+          "Productivité",
+          "Forme et santé"
+        ],
+        "price": 0.0,
+        "bundleId": "com.withopal.opal",
+        "trackId": 1497465230,
+        "trackName": "Opal: Temps d'écran et Focus",
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 4.24,
+        "trackViewUrl": "https://apps.apple.com/cm/app/opal-temps-d%C3%A9cran-et-focus/id1497465230?uo=4",
+        "userRatingCount": 75,
+        "descriptionSHA256": "c0fba23699dd09c567f31251e42122228bee0170b55079e3167ec7297b90a927"
+      },
+      {
+        "kind": "software",
+        "artistName": "Jomo",
+        "genres": [
+          "Productivité",
+          "Forme et santé"
+        ],
+        "price": 0.0,
+        "bundleId": "com.jomo.Jomo",
+        "trackId": 1609960918,
+        "trackName": "Jomo - Meilleur temps d'écran",
+        "releaseDate": "2022-10-16T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-18T16:29:32Z",
+        "version": "2.1.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 4.4,
+        "trackViewUrl": "https://apps.apple.com/cm/app/jomo-meilleur-temps-d%C3%A9cran/id1609960918?uo=4",
+        "userRatingCount": 5,
+        "descriptionSHA256": "84834f5bd229b05f5a009f87e93f61f0d59db056ea3f4aa48c55bffdf5311a78"
+      },
+      {
+        "kind": "software",
+        "artistName": "Detox",
+        "genres": [
+          "Productivité"
+        ],
+        "price": 0.0,
+        "bundleId": "io.filos.focus",
+        "trackId": 6450723324,
+        "trackName": "Detox: Temps d'écran",
+        "releaseDate": "2023-09-05T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-14T18:10:39Z",
+        "version": "5.0.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 4.5,
+        "trackViewUrl": "https://apps.apple.com/cm/app/detox-temps-d%C3%A9cran/id6450723324?uo=4",
+        "userRatingCount": 2,
+        "descriptionSHA256": "96a8eb3af40820bb14d9f33772bb2ae9449df691db5ea6e41316c2e38286e01f"
+      },
+      {
+        "kind": "software",
+        "artistName": "MobileSoft s.r.o.",
+        "genres": [
+          "Productivité",
+          "Forme et santé"
+        ],
+        "price": 0.0,
+        "bundleId": "eu.mobilesoft.appblock",
+        "trackId": 1515753232,
+        "trackName": "AppBlock: bloquer des applis",
+        "releaseDate": "2021-08-17T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-11T10:48:39Z",
+        "version": "4.14.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 3.90909,
+        "trackViewUrl": "https://apps.apple.com/cm/app/appblock-bloquer-des-applis/id1515753232?uo=4",
+        "userRatingCount": 11,
+        "descriptionSHA256": "ba16ffb8042ef29530994b670aced6f5b47302eebfab4a3c47ad2691f82a1e91"
+      },
+      {
+        "kind": "software",
+        "artistName": "Nanjing Mairui Software Development Co., Ltd.",
+        "genres": [
+          "Éducation",
+          "Utilitaires"
+        ],
+        "price": 0.0,
+        "bundleId": "com.omi.utility.app.locker",
+        "trackId": 6447595893,
+        "trackName": "XLocker - Temps d’écran",
+        "releaseDate": "2023-05-15T07:00:00Z",
+        "primaryGenreName": "Education",
+        "currentVersionReleaseDate": "2026-11-17T15:58:16Z",
+        "version": "2.0.15",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 5,
+        "trackViewUrl": "https://apps.apple.com/cm/app/xlocker-temps-d%C3%A9cran/id6447595893?uo=4",
+        "userRatingCount": 7,
+        "descriptionSHA256": "58fb219c7f05630279efb18521806f0e2700a6e7631431948cb1e6efef1a51f1"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "12d1b5565fc5b87def556dda83c9d95e89db58d9538167c82bca55c045a0ae9f",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

@@ -1,0 +1,124 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=scroll+blocker&country=to&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "artistName": "ByteBloom Solutions",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "bundleId": "com.blaneoroark.ScrollBlock",
+        "trackId": 6755958698,
+        "trackName": "Scroll Block: pornblocker App",
+        "currentVersionReleaseDate": "2026-06-14T10:07:56Z",
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2025-12-02T08:00:00Z",
+        "version": "2.7",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/to/app/scroll-block-pornblocker-app/id6755958698?uo=4",
+        "userRatingCount": 0,
+        "descriptionSHA256": "80b054d982e29ebbdbf58291a259b2fdae2adf40f9a9c88782be7381831b6a91"
+      },
+      {
+        "kind": "software",
+        "artistName": "riedel.wtf apps S.L.",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "bundleId": "wtf.riedel.one-sec",
+        "trackId": 1532875441,
+        "trackName": "one sec | screen time + focus",
+        "currentVersionReleaseDate": "2026-11-14T18:42:34Z",
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2020-09-29T07:00:00Z",
+        "version": "6.1.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/to/app/one-sec-screen-time-focus/id1532875441?uo=4",
+        "userRatingCount": 0,
+        "descriptionSHA256": "7458286eeec2edf883eec2f9abc49582f9924be2e29f484b82b1014b4b2a0462"
+      },
+      {
+        "kind": "software",
+        "artistName": "Attila Meste",
+        "genres": [
+          "Productivity",
+          "Education"
+        ],
+        "price": 0.0,
+        "bundleId": "com.doomlingo.app",
+        "trackId": 6811619023,
+        "trackName": "Scrollr - App Blocker",
+        "currentVersionReleaseDate": "2026-11-18T00:40:52Z",
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2026-10-04T07:00:00Z",
+        "version": "2.5",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/to/app/scrollr-app-blocker/id6811619023?uo=4",
+        "userRatingCount": 0,
+        "descriptionSHA256": "cd895924d4b880f12e9c4825819fc101e330977b7877a3c9ecfb30f94c1e3024"
+      },
+      {
+        "kind": "software",
+        "artistName": "Sociallite LLC",
+        "genres": [
+          "Productivity",
+          "Social Networking"
+        ],
+        "price": 0.0,
+        "bundleId": "social.Social-lite",
+        "trackId": 6757661674,
+        "trackName": "SocialLite-Block Reels&Shorts",
+        "currentVersionReleaseDate": "2026-10-16T11:04:41Z",
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2026-01-29T08:00:00Z",
+        "version": "3.1.5",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/to/app/sociallite-block-reels-shorts/id6757661674?uo=4",
+        "userRatingCount": 0,
+        "descriptionSHA256": "9dbd89f368c17dc50b7187fccb2c303ea2893d4ea389e2290954ac38e87b7144"
+      },
+      {
+        "kind": "software",
+        "artistName": "Pushscroll GmbH",
+        "genres": [
+          "Health & Fitness",
+          "Productivity"
+        ],
+        "price": 0.0,
+        "bundleId": "com.capyapps.speedbump",
+        "trackId": 6741765734,
+        "trackName": "Pushscroll: Exercise To Scroll",
+        "currentVersionReleaseDate": "2026-11-14T01:14:08Z",
+        "primaryGenreName": "Health & Fitness",
+        "releaseDate": "2025-06-24T07:00:00Z",
+        "version": "1.313",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/to/app/pushscroll-exercise-to-scroll/id6741765734?uo=4",
+        "userRatingCount": 0,
+        "descriptionSHA256": "71725bf1e68759565ca948a512e12029764e07971f344a18bf01a25889dd6da8"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "d63885d6a1e9d803ffa74eb8defb327bf5c2d888b8cdc10de5ca44da7252078d",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

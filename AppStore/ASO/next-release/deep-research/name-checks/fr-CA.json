@@ -1,0 +1,21 @@
+{
+  "locale": "fr-CA",
+  "store": "ca",
+  "proposedName": "App Blocker – Canard de garde",
+  "limitations": "A public top-five name search, not App Store Connect reservation or trademark clearance.",
+  "response": {
+    "id": "ebd282de-b368-4862-a0ee-4a14d453ca2c",
+    "jsonrpc": "2.0",
+    "result": {
+      "content": [
+        {
+          "text": "{\n  \"apps\" : [\n    {\n      \"appStoreId\" : \"6746388723\",\n      \"averageRating\" : 5,\n      \"bundleId\" : \"skula.wBlock\",\n      \"developer\" : \"Alexander Skula\",\n      \"genre\" : \"Utilities\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple211\\/v4\\/84\\/d9\\/c3\\/84d9c3a7-afc3-2721-f5bf-eaba797de4f2\\/AppIcon-0-0-1x_U007epad-0-1-85-220.png\\/80x0w.webp\",\n      \"name\" : \"wBlock: Ad Blocker for Safari\",\n      \"ranking\" : 1,\n      \"ratingCount\" : 36,\n      \"subtitle\" : \"Tracker & popup blocking\"\n    },\n    {\n      \"appStoreId\" : \"1365531024\",\n      \"averageRating\" : 4.4,\n      \"bundleId\" : \"com.khanov.BlockerX\",\n      \"developer\" : \"1Blocker LLC\",\n      \"genre\" : \"Utilities\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple221\\/v4\\/34\\/9a\\/45\\/349a45df-583e-a011-3863-eb03250f2935\\/Blocker-AppStore-0-0-1x_U007epad-0-1-0-sRGB-85-220.png\\/80x0w.webp\",\n      \"name\" : \"1Blocker - Adblock\",\n      \"ranking\" : 2,\n      \"ratingCount\" : 1579,\n      \"subtitle\" : \"Ad blocker for Safari\"\n    },\n    {\n      \"appStoreId\" : \"1544743900\",\n      \"averageRating\" : 4.5,\n      \"bundleId\" : \"se.oblador.Hush\",\n      \"developer\" : \"Oblador AB\",\n      \"genre\" : \"Utilities\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple211\\/v4\\/ae\\/dd\\/61\\/aedd61da-1d2d-9261-8b7e-83fe324f0084\\/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png\\/80x0w.webp\",\n      \"name\" : \"Hush Nag Blocker\",\n      \"ranking\" : 3,\n      \"ratingCount\" : 174,\n      \"subtitle\" : \"Block Cookie and Tracking Nags\"\n    },\n    {\n      \"appStoreId\" : \"6818599644\",\n      \"averageRating\" : 0,\n      \"bundleId\" : \"com.akn.haskapp\",\n      \"developer\" : \"AENEA YACHTING d.o.o.\",\n      \"genre\" : \"Utilities\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple211\\/v4\\/12\\/30\\/da\\/1230da47-8ef1-d6fd-9f39-0fcbb4c997e4\\/AppIcon-0-0-1x_U007ephone-0-1-85-220.png\\/80x0w.webp\",\n      \"name\" : \"ХАПП Plus Utility\",\n      \"ranking\" : 4,\n      \"ratingCount\" : 0,\n      \"subtitle\" : \"Browser ad blocker and proxy\"\n    },\n    {\n      \"appStoreId\" : \"6743758947\",\n      \"averageRating\" : 0,\n      \"bundleId\" : \"com.poperblocker.ios\",\n      \"developer\" : \"Big Star Labs LP\",\n      \"genre\" : \"Productivity\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple221\\/v4\\/28\\/f6\\/8d\\/28f68d63-50eb-0461-1f38-167295a9096c\\/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png\\/80x0w.webp\",\n      \"name\" : \"Poper Blocker: Ad Blocker\",\n      \"ranking\" : 5,\n      \"ratingCount\" : 0,\n      \"subtitle\" : \"Block Ads & Popups Instantly\"\n    }\n  ],\n  \"keyword\" : \"App Blocker – Canard de garde\",\n  \"platform\" : \"iphone\",\n  \"store\" : \"ca\",\n  \"totalResults\" : 50\n}",
+          "type": "text"
+        }
+      ],
+      "isError": false
+    }
+  },
+  "error": null,
+  "exactOtherAppMatches": []
+}

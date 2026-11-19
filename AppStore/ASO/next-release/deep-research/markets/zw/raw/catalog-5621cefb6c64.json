@@ -1,0 +1,124 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=app+limits&country=zw&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "averageUserRating": 4.83333,
+        "bundleId": "eu.mobilesoft.appblock",
+        "primaryGenreName": "Productivity",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "releaseDate": "2021-08-17T07:00:00Z",
+        "currentVersionReleaseDate": "2026-11-11T10:48:39Z",
+        "version": "4.14.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/zw/app/appblock-app-site-blocker/id1515753232?uo=4",
+        "trackId": 1515753232,
+        "trackName": "AppBlock: App & Site Blocker",
+        "artistName": "MobileSoft s.r.o.",
+        "userRatingCount": 6,
+        "descriptionSHA256": "f4e2257d9c85cbaf9cd8496ddc82a9a5d41b2e0440020c527d8b3b8c4bbe4236"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 4.63095,
+        "bundleId": "com.withopal.opal",
+        "primaryGenreName": "Productivity",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/zw/app/opal-screen-time-control/id1497465230?uo=4",
+        "trackId": 1497465230,
+        "trackName": "Opal: Screen Time Control",
+        "artistName": "Opal OS",
+        "userRatingCount": 84,
+        "descriptionSHA256": "79545dcfd9d33edf53d3567fc6a6eb5b582561ed18b9d49245fbff4af0417656"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 4.82618,
+        "bundleId": "za.co.fnb.connect.touch",
+        "primaryGenreName": "Finance",
+        "genres": [
+          "Finance",
+          "Lifestyle"
+        ],
+        "price": 0.0,
+        "releaseDate": "2012-06-03T17:42:53Z",
+        "currentVersionReleaseDate": "2026-11-10T08:33:47Z",
+        "version": "7.22.0-64",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/zw/app/fnb-banking-app/id450094779?uo=4",
+        "trackId": 450094779,
+        "trackName": "FNB Banking App",
+        "artistName": "FirstRand Bank Limited",
+        "userRatingCount": 2330,
+        "descriptionSHA256": "514b3dddc7769ecf1d82e255e2a1c5787d849b5357e0fd1c39890b585705908a"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 4.63157,
+        "bundleId": "com.kidslox.main",
+        "primaryGenreName": "Lifestyle",
+        "genres": [
+          "Lifestyle",
+          "Utilities"
+        ],
+        "price": 0.0,
+        "releaseDate": "2014-09-23T23:23:11Z",
+        "currentVersionReleaseDate": "2026-09-15T06:03:44Z",
+        "version": "11.3.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/zw/app/parental-control-app-kidslox/id914825567?uo=4",
+        "trackId": 914825567,
+        "trackName": "Parental Control App - Kidslox",
+        "artistName": "Kidslox Trading Ltd",
+        "userRatingCount": 19,
+        "descriptionSHA256": "d7539daf53bb81a1e94445145b66c140d46f513f2094f6b5fa099f8287fae953"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 4.52147,
+        "bundleId": "io.faceapp.ios",
+        "primaryGenreName": "Photo & Video",
+        "genres": [
+          "Photo & Video",
+          "Entertainment"
+        ],
+        "price": 0.0,
+        "releaseDate": "2017-01-24T14:13:07Z",
+        "currentVersionReleaseDate": "2026-11-14T11:50:27Z",
+        "version": "26.10.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/zw/app/faceapp-perfect-face-editor/id1180884341?uo=4",
+        "trackId": 1180884341,
+        "trackName": "FaceApp: Perfect Face Editor",
+        "artistName": "FaceApp Technology Limited",
+        "userRatingCount": 2957,
+        "descriptionSHA256": "7005437c6af00e0dca408ae0b4cfb10ada33cc3e1613352a679a727e504f5036"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "369390abf7b91de8238a0ef027c1259eac0997b634fea1c6cd65e27114ec8c56",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

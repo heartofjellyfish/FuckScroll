@@ -1,0 +1,123 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=app+limits&country=bm&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "averageUserRating": 5,
+        "trackViewUrl": "https://apps.apple.com/bm/app/appblock-app-site-blocker/id1515753232?uo=4",
+        "artistName": "MobileSoft s.r.o.",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "currentVersionReleaseDate": "2026-11-11T10:48:39Z",
+        "releaseDate": "2021-08-17T07:00:00Z",
+        "trackId": 1515753232,
+        "trackName": "AppBlock: App & Site Blocker",
+        "primaryGenreName": "Productivity",
+        "version": "4.14.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "eu.mobilesoft.appblock",
+        "userRatingCount": 1,
+        "descriptionSHA256": "f4e2257d9c85cbaf9cd8496ddc82a9a5d41b2e0440020c527d8b3b8c4bbe4236"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 5,
+        "trackViewUrl": "https://apps.apple.com/bm/app/opal-screen-time-control/id1497465230?uo=4",
+        "artistName": "Opal OS",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "trackId": 1497465230,
+        "trackName": "Opal: Screen Time Control",
+        "primaryGenreName": "Productivity",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.withopal.opal",
+        "userRatingCount": 3,
+        "descriptionSHA256": "79545dcfd9d33edf53d3567fc6a6eb5b582561ed18b9d49245fbff4af0417656"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 4.78571,
+        "trackViewUrl": "https://apps.apple.com/bm/app/parental-control-app-kidslox/id914825567?uo=4",
+        "artistName": "Kidslox Trading Ltd",
+        "genres": [
+          "Lifestyle",
+          "Utilities"
+        ],
+        "price": 0.0,
+        "currentVersionReleaseDate": "2026-09-15T06:03:44Z",
+        "releaseDate": "2014-09-23T23:23:11Z",
+        "trackId": 914825567,
+        "trackName": "Parental Control App - Kidslox",
+        "primaryGenreName": "Lifestyle",
+        "version": "11.3.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.kidslox.main",
+        "userRatingCount": 14,
+        "descriptionSHA256": "d7539daf53bb81a1e94445145b66c140d46f513f2094f6b5fa099f8287fae953"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 4.58333,
+        "trackViewUrl": "https://apps.apple.com/bm/app/luxy-selective-singles-dating/id873518909?uo=4",
+        "artistName": "Luxy Inc.",
+        "genres": [
+          "Social Networking",
+          "Lifestyle"
+        ],
+        "price": 0.0,
+        "currentVersionReleaseDate": "2026-11-16T02:57:45Z",
+        "releaseDate": "2014-08-14T03:20:47Z",
+        "trackId": 873518909,
+        "trackName": "Luxy: Selective Singles Dating",
+        "primaryGenreName": "Social Networking",
+        "version": "7.37.2",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "US.Luxy.Luxy",
+        "userRatingCount": 12,
+        "descriptionSHA256": "3510e78cf756d4d785d9703032c34b621b25192ee0ee9d6bbee34219ff93fa76"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/bm/app/app-lock-hide-app-lock-apps/id1616433953?uo=4",
+        "artistName": "KINGSMEN VIETNAM COMPANY LIMITED",
+        "genres": [
+          "Utilities"
+        ],
+        "price": 0.0,
+        "currentVersionReleaseDate": "2022-11-09T19:44:17Z",
+        "releaseDate": "2022-03-30T07:00:00Z",
+        "trackId": 1616433953,
+        "trackName": "App Lock, Hide App & Lock Apps",
+        "primaryGenreName": "Utilities",
+        "version": "1.6",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.kingsmen.lockdatamanager",
+        "userRatingCount": 0,
+        "descriptionSHA256": "a9a10fab975dea91f7d622ac28f56cc89c7ac676e92e3c3e0d06fd1a1df131e8"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "6f831837bfe2f61944e8ec1a0f6d2c8181509df38923c34d3fbd9484d8be3274",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

@@ -1,0 +1,21 @@
+{
+  "locale": "ro",
+  "store": "ro",
+  "proposedName": "Screen Time – Rața de pază",
+  "limitations": "A public top-five name search, not App Store Connect reservation or trademark clearance.",
+  "response": {
+    "id": "5f529195-2dd6-4067-be61-6a66d9964b2a",
+    "jsonrpc": "2.0",
+    "result": {
+      "content": [
+        {
+          "text": "{\n  \"apps\" : [\n\n  ],\n  \"keyword\" : \"Screen Time – Rața de pază\",\n  \"platform\" : \"iphone\",\n  \"store\" : \"ro\",\n  \"totalResults\" : 0\n}",
+          "type": "text"
+        }
+      ],
+      "isError": false
+    }
+  },
+  "error": null,
+  "exactOtherAppMatches": []
+}

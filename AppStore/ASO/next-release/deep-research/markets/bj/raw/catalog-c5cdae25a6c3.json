@@ -1,0 +1,124 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=bloqueur+d%27apps&country=bj&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "bundleId": "com.sorayazawa.applocksolo",
+        "artistName": "Sora Yazawa",
+        "price": 0.0,
+        "trackId": 6787695392,
+        "trackName": "App Blocker: LockKun",
+        "releaseDate": "2026-08-06T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-12T18:56:40Z",
+        "version": "1.0.11",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/bj/app/app-blocker-lockkun/id6787695392?uo=4",
+        "averageUserRating": 0,
+        "genres": [
+          "Productivity",
+          "Utilities"
+        ],
+        "userRatingCount": 0,
+        "descriptionSHA256": "ee1f1e6228e079aef08e5c625acbae448692053855ce0d11644b9bbab0099f05"
+      },
+      {
+        "kind": "software",
+        "bundleId": "com.stayfocused",
+        "artistName": "INNOXAPPS LLP",
+        "price": 0.0,
+        "trackId": 1658592224,
+        "trackName": "Stay Focused Limit Screen Time",
+        "releaseDate": "2023-01-26T08:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-10-01T19:56:32Z",
+        "version": "7.0.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/bj/app/stay-focused-limit-screen-time/id1658592224?uo=4",
+        "averageUserRating": 4.57143,
+        "genres": [
+          "Productivity",
+          "Utilities"
+        ],
+        "userRatingCount": 7,
+        "descriptionSHA256": "c6d9d0807b708d9300a29659be1fef96ca3c2eee1fb6dd681f38e56a946ce76c"
+      },
+      {
+        "kind": "software",
+        "bundleId": "com.doomlingo.app",
+        "artistName": "Attila Meste",
+        "price": 0.0,
+        "trackId": 6811619023,
+        "trackName": "Scrollr - App Blocker",
+        "releaseDate": "2026-10-04T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-18T00:40:52Z",
+        "version": "2.5",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/bj/app/scrollr-app-blocker/id6811619023?uo=4",
+        "averageUserRating": 0,
+        "genres": [
+          "Productivity",
+          "Education"
+        ],
+        "userRatingCount": 0,
+        "descriptionSHA256": "cd895924d4b880f12e9c4825819fc101e330977b7877a3c9ecfb30f94c1e3024"
+      },
+      {
+        "kind": "software",
+        "bundleId": "Zikr.SalahScreen",
+        "artistName": "Rayane Sahi",
+        "price": 0.0,
+        "trackId": 6748571304,
+        "trackName": "SalahScreen: Prayer Focus",
+        "releaseDate": "2025-10-09T07:00:00Z",
+        "primaryGenreName": "Reference",
+        "currentVersionReleaseDate": "2026-09-02T14:13:01Z",
+        "version": "2.0.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/bj/app/salahscreen-prayer-focus/id6748571304?uo=4",
+        "averageUserRating": 5,
+        "genres": [
+          "Reference",
+          "Productivity"
+        ],
+        "userRatingCount": 4,
+        "descriptionSHA256": "f480e39c00f75ad4ff40ceb47efb6b1c044e6849c1d15aab31a66b5a510b84e9"
+      },
+      {
+        "kind": "software",
+        "bundleId": "com.mehmetozkan.fryze",
+        "artistName": "Mehmet Ozkan",
+        "price": 0.0,
+        "trackId": 6795927523,
+        "trackName": "Fryze - App Blocker & Focus",
+        "releaseDate": "2026-08-13T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-06T01:20:27Z",
+        "version": "1.1.2",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/bj/app/fryze-app-blocker-focus/id6795927523?uo=4",
+        "averageUserRating": 0,
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "userRatingCount": 0,
+        "descriptionSHA256": "82b292dbb40cf60eb88303f6b0e23f416a40d5c6c02feaf8a9d357963842bdab"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "1723da6b9a5d24ccb09ae26e6080a3d13210e1fb32452dc2026dd59689d53fd0",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

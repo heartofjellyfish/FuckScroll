@@ -1,0 +1,13 @@
+{
+  "id": "66be7391-a03f-48bf-b426-2dd60c9fd070",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"apps\" : [\n    {\n      \"appStoreId\" : \"1579390348\",\n      \"averageRating\" : 0,\n      \"bundleId\" : \"com.mobileagenda.FocusedPupa\",\n      \"developer\" : \"FOCUSED PUPA TEKNOLOJI VE YAZILIM HIZMETLERI ANONIM SIRKETI\",\n      \"genre\" : \"Productivity\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple221\\/v4\\/ff\\/1c\\/1e\\/ff1c1e39-228e-04ff-f0d9-50d08998be61\\/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png\\/80x0w.webp\",\n      \"name\" : \"Focused Pupa - Earn PupaCoin\",\n      \"ranking\" : 1,\n      \"ratingCount\" : 0,\n      \"subtitle\" : \"Stay Focused, Donate For Good!\"\n    },\n    {\n      \"appStoreId\" : \"6758141434\",\n      \"averageRating\" : 0,\n      \"bundleId\" : \"com.arrpit.barephone\",\n      \"developer\" : \"Stack Network Limited\",\n      \"genre\" : \"Productivity\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple221\\/v4\\/69\\/f5\\/d6\\/69f5d6d5-55ab-6306-be9b-b077274b8e6b\\/AppIcon-0-0-1x_U007ephone-0-1-85-220.png\\/80x0w.webp\",\n      \"name\" : \"Bare Phone: Dumbphone Launcher\",\n      \"ranking\" : 2,\n      \"ratingCount\" : 0,\n      \"subtitle\" : \"Minimal Dumbphone Experience\"\n    },\n    {\n      \"appStoreId\" : \"6762119242\",\n      \"averageRating\" : 0,\n      \"bundleId\" : \"com.lihainan.AppControl\",\n      \"developer\" : \"Hainan Li\",\n      \"genre\" : \"Utilities\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple211\\/v4\\/ba\\/4b\\/c8\\/ba4bc8ed-8432-9879-89cb-f5f69182ebd3\\/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png\\/80x0w.webp\",\n      \"name\" : \"Focus Coach: Digital Detox App\",\n      \"ranking\" : 3,\n      \"ratingCount\" : 0,\n      \"subtitle\" : \"Block Apps,Control Screen Time\"\n    }\n  ],\n  \"keyword\" : \"reducere timp de ecran\",\n  \"platform\" : \"iphone\",\n  \"store\" : \"ro\",\n  \"totalResults\" : 3\n}",
+        "type": "text"
+      }
+    ],
+    "isError": false
+  }
+}

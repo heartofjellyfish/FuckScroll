@@ -1,0 +1,462 @@
+{
+  "store": "ye",
+  "country": "Yemen",
+  "defaultLanguage": "English (U.K.)",
+  "additionalLanguages": "Arabic",
+  "languages": [
+    "ar"
+  ],
+  "candidates": [
+    "وقت الشاشة",
+    "مدة استخدام الجهاز",
+    "حظر التطبيقات",
+    "قفل التطبيقات",
+    "تقليل وقت الشاشة",
+    "تحديد وقت التطبيقات",
+    "حدود التطبيقات",
+    "إدمان الهاتف",
+    "إدمان الجوال",
+    "تقليل استخدام الهاتف",
+    "تقليل استخدام الجوال",
+    "حظر وسائل التواصل",
+    "إدمان السوشيال ميديا",
+    "التخلص من إدمان الهاتف",
+    "ديتوكس رقمي",
+    "تركيز",
+    "التحكم بالنفس",
+    "استراحة من الهاتف",
+    "مؤقت التطبيقات",
+    "app blocker",
+    "screen time",
+    "الرقابة الأبوية",
+    "إيقاف التمرير",
+    "تنظيم وقت الجوال",
+    "screen time control",
+    "scroll blocker"
+  ],
+  "astroSupported": false,
+  "catalogQueries": [
+    "وقت الشاشة",
+    "مدة استخدام الجهاز",
+    "حظر التطبيقات",
+    "قفل التطبيقات",
+    "تقليل وقت الشاشة",
+    "تحديد وقت التطبيقات",
+    "app blocker",
+    "screen time"
+  ],
+  "source": "Apple public software catalog search; not native App Store SERP or Astro metrics",
+  "metrics": [],
+  "searches": [
+    {
+      "query": "وقت الشاشة",
+      "apps": [
+        {
+          "appStoreId": "1532875441",
+          "name": "one sec | screen time + focus",
+          "catalogPosition": 1,
+          "subtitle": null,
+          "averageRating": 5,
+          "ratingCount": 8,
+          "trackViewUrl": "https://apps.apple.com/ye/app/one-sec-screen-time-focus/id1532875441?uo=4"
+        },
+        {
+          "appStoreId": "6757981439",
+          "name": "Earn Screen Time: Kids Chores",
+          "catalogPosition": 2,
+          "subtitle": null,
+          "averageRating": 0,
+          "ratingCount": 0,
+          "trackViewUrl": "https://apps.apple.com/ye/app/earn-screen-time-kids-chores/id6757981439?uo=4"
+        },
+        {
+          "appStoreId": "6757008068",
+          "name": "Screen Time - BurnToScroll",
+          "catalogPosition": 3,
+          "subtitle": null,
+          "averageRating": 0,
+          "ratingCount": 0,
+          "trackViewUrl": "https://apps.apple.com/ye/app/screen-time-burntoscroll/id6757008068?uo=4"
+        },
+        {
+          "appStoreId": "6759700381",
+          "name": "Screen time control - Screenza",
+          "catalogPosition": 4,
+          "subtitle": null,
+          "averageRating": 0,
+          "ratingCount": 0,
+          "trackViewUrl": "https://apps.apple.com/ye/app/screen-time-control-screenza/id6759700381?uo=4"
+        },
+        {
+          "appStoreId": "6766120727",
+          "name": "Unscroll: Screen Time Control",
+          "catalogPosition": 5,
+          "subtitle": null,
+          "averageRating": 0,
+          "ratingCount": 0,
+          "trackViewUrl": "https://apps.apple.com/ye/app/unscroll-screen-time-control/id6766120727?uo=4"
+        }
+      ],
+      "source": "deep-research/markets/ye/raw/catalog-9ff7a4330bb3.json",
+      "error": null
+    },
+    {
+      "query": "مدة استخدام الجهاز",
+      "apps": [
+        {
+          "appStoreId": "6786888937",
+          "name": "finit: Screen Time & Life",
+          "catalogPosition": 1,
+          "subtitle": null,
+          "averageRating": 0,
+          "ratingCount": 0,
+          "trackViewUrl": "https://apps.apple.com/ye/app/finit-screen-time-life/id6786888937?uo=4"
+        },
+        {
+          "appStoreId": "6776689183",
+          "name": "BSpace: Screen Time Control",
+          "catalogPosition": 2,
+          "subtitle": null,
+          "averageRating": 0,
+          "ratingCount": 0,
+          "trackViewUrl": "https://apps.apple.com/ye/app/bspace-screen-time-control/id6776689183?uo=4"
+        },
+        {
+          "appStoreId": "6770766229",
+          "name": "Toll: Screen Time App Blocker",
+          "catalogPosition": 3,
+          "subtitle": null,
+          "averageRating": 0,
+          "ratingCount": 0,
+          "trackViewUrl": "https://apps.apple.com/ye/app/toll-screen-time-app-blocker/id6770766229?uo=4"
+        },
+        {
+          "appStoreId": "6795961801",
+          "name": "Aheno: App Blocker & Focus",
+          "catalogPosition": 4,
+          "subtitle": null,
+          "averageRating": 0,
+          "ratingCount": 0,
+          "trackViewUrl": "https://apps.apple.com/ye/app/aheno-app-blocker-focus/id6795961801?uo=4"
+        },
+        {
+          "appStoreId": "6813248537",
+          "name": "Orbin: Focus & App Blocker",
+          "catalogPosition": 5,
+          "subtitle": null,
+          "averageRating": 0,
+          "ratingCount": 0,
+          "trackViewUrl": "https://apps.apple.com/ye/app/orbin-focus-app-blocker/id6813248537?uo=4"
+        }
+      ],
+      "source": "deep-research/markets/ye/raw/catalog-38e786b934d0.json",
+      "error": null
+    },
+    {
+      "query": "حظر التطبيقات",
+      "apps": [
+        {
+          "appStoreId": "6456942073",
+          "name": "App Blocker - Screen Time",
+          "catalogPosition": 1,
+          "subtitle": null,
+          "averageRating": 0,
+          "ratingCount": 0,
+          "trackViewUrl": "https://apps.apple.com/ye/app/app-blocker-screen-time/id6456942073?uo=4"
+        },
+        {
+          "appStoreId": "1515753232",
+          "name": "AppBlock: App & Site Blocker",
+          "catalogPosition": 2,
+          "subtitle": null,
+          "averageRating": 3.57143,
+          "ratingCount": 14,
+          "trackViewUrl": "https://apps.apple.com/ye/app/appblock-app-site-blocker/id1515753232?uo=4"
+        },
+        {
+          "appStoreId": "1658592224",
+          "name": "Stay Focused Limit Screen Time",
+          "catalogPosition": 3,
+          "subtitle": null,
+          "averageRating": 4,
+          "ratingCount": 9,
+          "trackViewUrl": "https://apps.apple.com/ye/app/stay-focused-limit-screen-time/id1658592224?uo=4"
+        },
+        {
+          "appStoreId": "6758555012",
+          "name": "App Blocker: Screen Time",
+          "catalogPosition": 4,
+          "subtitle": null,
+          "averageRating": 0,
+          "ratingCount": 0,
+          "trackViewUrl": "https://apps.apple.com/ye/app/app-blocker-screen-time/id6758555012?uo=4"
+        },
+        {
+          "appStoreId": "914825567",
+          "name": "Parental Control App - Kidslox",
+          "catalogPosition": 5,
+          "subtitle": null,
+          "averageRating": 4.57143,
+          "ratingCount": 14,
+          "trackViewUrl": "https://apps.apple.com/ye/app/parental-control-app-kidslox/id914825567?uo=4"
+        }
+      ],
+      "source": "deep-research/markets/ye/raw/catalog-4c5e6912c3d4.json",
+      "error": null
+    },
+    {
+      "query": "قفل التطبيقات",
+      "apps": [
+        {
+          "appStoreId": "1509154892",
+          "name": "AppLock - photo lock",
+          "catalogPosition": 1,
+          "subtitle": null,
+          "averageRating": 3.45833,
+          "ratingCount": 24,
+          "trackViewUrl": "https://apps.apple.com/ye/app/applock-photo-lock/id1509154892?uo=4"
+        },
+        {
+          "appStoreId": "6458880741",
+          "name": "App Lock - Lock Apps ™",
+          "catalogPosition": 2,
+          "subtitle": null,
+          "averageRating": 4.38095,
+          "ratingCount": 84,
+          "trackViewUrl": "https://apps.apple.com/ye/app/app-lock-lock-apps/id6458880741?uo=4"
+        },
+        {
+          "appStoreId": "6469686557",
+          "name": "App Lock - Lock Apps .",
+          "catalogPosition": 3,
+          "subtitle": null,
+          "averageRating": 4.23478,
+          "ratingCount": 115,
+          "trackViewUrl": "https://apps.apple.com/ye/app/app-lock-lock-apps/id6469686557?uo=4"
+        },
+        {
+          "appStoreId": "6462785335",
+          "name": "Hidem - App Lock & Lock Apps",
+          "catalogPosition": 4,
+          "subtitle": null,
+          "averageRating": 4.2,
+          "ratingCount": 50,
+          "trackViewUrl": "https://apps.apple.com/ye/app/hidem-app-lock-lock-apps/id6462785335?uo=4"
+        },
+        {
+          "appStoreId": "6452721618",
+          "name": "App Lock - AppLock Apps",
+          "catalogPosition": 5,
+          "subtitle": null,
+          "averageRating": 3.47826,
+          "ratingCount": 23,
+          "trackViewUrl": "https://apps.apple.com/ye/app/app-lock-applock-apps/id6452721618?uo=4"
+        }
+      ],
+      "source": "deep-research/markets/ye/raw/catalog-6a1979418cb4.json",
+      "error": null
+    },
+    {
+      "query": "تقليل وقت الشاشة",
+      "apps": [
+        {
+          "appStoreId": "6831379511",
+          "name": "مهلة - تقليل وقت الشاشة",
+          "catalogPosition": 1,
+          "subtitle": null,
+          "averageRating": 0,
+          "ratingCount": 0,
+          "trackViewUrl": "https://apps.apple.com/ye/app/%D9%85%D9%87%D9%84%D8%A9-%D8%AA%D9%82%D9%84%D9%8A%D9%84-%D9%88%D9%82%D8%AA-%D8%A7%D9%84%D8%B4%D8%A7%D8%B4%D8%A9/id6831379511?uo=4"
+        },
+        {
+          "appStoreId": "6810470665",
+          "name": "ScrollLess: Screen Time",
+          "catalogPosition": 2,
+          "subtitle": null,
+          "averageRating": 0,
+          "ratingCount": 0,
+          "trackViewUrl": "https://apps.apple.com/ye/app/scrollless-screen-time/id6810470665?uo=4"
+        },
+        {
+          "appStoreId": "6757798555",
+          "name": "Lento: Mindful Screen Time",
+          "catalogPosition": 3,
+          "subtitle": null,
+          "averageRating": 0,
+          "ratingCount": 0,
+          "trackViewUrl": "https://apps.apple.com/ye/app/lento-mindful-screen-time/id6757798555?uo=4"
+        },
+        {
+          "appStoreId": "6777555913",
+          "name": "وعي - للتعافي الدماغي",
+          "catalogPosition": 4,
+          "subtitle": null,
+          "averageRating": 0,
+          "ratingCount": 0,
+          "trackViewUrl": "https://apps.apple.com/ye/app/%D9%88%D8%B9%D9%8A-%D9%84%D9%84%D8%AA%D8%B9%D8%A7%D9%81%D9%8A-%D8%A7%D9%84%D8%AF%D9%85%D8%A7%D8%BA%D9%8A/id6777555913?uo=4"
+        },
+        {
+          "appStoreId": "6757498554",
+          "name": "Screen Time Limit: ScrollLess",
+          "catalogPosition": 5,
+          "subtitle": null,
+          "averageRating": 0,
+          "ratingCount": 0,
+          "trackViewUrl": "https://apps.apple.com/ye/app/screen-time-limit-scrollless/id6757498554?uo=4"
+        }
+      ],
+      "source": "deep-research/markets/ye/raw/catalog-8d4d4cd90811.json",
+      "error": null
+    },
+    {
+      "query": "تحديد وقت التطبيقات",
+      "apps": [
+        {
+          "appStoreId": "544007664",
+          "name": "YouTube",
+          "catalogPosition": 1,
+          "subtitle": null,
+          "averageRating": 4.14903,
+          "ratingCount": 51050,
+          "trackViewUrl": "https://apps.apple.com/ye/app/youtube/id544007664?uo=4"
+        },
+        {
+          "appStoreId": "389801252",
+          "name": "Instagram",
+          "catalogPosition": 2,
+          "subtitle": null,
+          "averageRating": 3.65931,
+          "ratingCount": 30465,
+          "trackViewUrl": "https://apps.apple.com/ye/app/instagram/id389801252?uo=4"
+        },
+        {
+          "appStoreId": "447188370",
+          "name": "Snapchat: Chat with friends",
+          "catalogPosition": 3,
+          "subtitle": null,
+          "averageRating": 4.31048,
+          "ratingCount": 11321,
+          "trackViewUrl": "https://apps.apple.com/ye/app/snapchat-chat-with-friends/id447188370?uo=4"
+        },
+        {
+          "appStoreId": "374050672",
+          "name": "Athkar - أذكار",
+          "catalogPosition": 4,
+          "subtitle": null,
+          "averageRating": 4.46945,
+          "ratingCount": 1866,
+          "trackViewUrl": "https://apps.apple.com/ye/app/athkar-%D8%A3%D8%B0%D9%83%D8%A7%D8%B1/id374050672?uo=4"
+        }
+      ],
+      "source": "deep-research/markets/ye/raw/catalog-e340f8135d8f.json",
+      "error": null
+    },
+    {
+      "query": "app blocker",
+      "apps": [
+        {
+          "appStoreId": "1645639057",
+          "name": "Refocus: App Blocker & Lock",
+          "catalogPosition": 1,
+          "subtitle": null,
+          "averageRating": 5,
+          "ratingCount": 2,
+          "trackViewUrl": "https://apps.apple.com/ye/app/refocus-app-blocker-lock/id1645639057?uo=4"
+        },
+        {
+          "appStoreId": "1497465230",
+          "name": "Opal: Screen Time Control",
+          "catalogPosition": 2,
+          "subtitle": null,
+          "averageRating": 4.73076,
+          "ratingCount": 26,
+          "trackViewUrl": "https://apps.apple.com/ye/app/opal-screen-time-control/id1497465230?uo=4"
+        },
+        {
+          "appStoreId": "1532875441",
+          "name": "one sec | screen time + focus",
+          "catalogPosition": 3,
+          "subtitle": null,
+          "averageRating": 5,
+          "ratingCount": 8,
+          "trackViewUrl": "https://apps.apple.com/ye/app/one-sec-screen-time-focus/id1532875441?uo=4"
+        },
+        {
+          "appStoreId": "1541027222",
+          "name": "ScreenZen- Screen Time Control",
+          "catalogPosition": 4,
+          "subtitle": null,
+          "averageRating": 4.75,
+          "ratingCount": 4,
+          "trackViewUrl": "https://apps.apple.com/ye/app/screenzen-screen-time-control/id1541027222?uo=4"
+        },
+        {
+          "appStoreId": "1459096306",
+          "name": "Focus Plant：forest app blocker",
+          "catalogPosition": 5,
+          "subtitle": null,
+          "averageRating": 5,
+          "ratingCount": 1,
+          "trackViewUrl": "https://apps.apple.com/ye/app/focus-plant-forest-app-blocker/id1459096306?uo=4"
+        }
+      ],
+      "source": "deep-research/markets/ye/raw/catalog-8567eb89892e.json",
+      "error": null
+    },
+    {
+      "query": "screen time",
+      "apps": [
+        {
+          "appStoreId": "1541027222",
+          "name": "ScreenZen- Screen Time Control",
+          "catalogPosition": 1,
+          "subtitle": null,
+          "averageRating": 4.75,
+          "ratingCount": 4,
+          "trackViewUrl": "https://apps.apple.com/ye/app/screenzen-screen-time-control/id1541027222?uo=4"
+        },
+        {
+          "appStoreId": "6738397686",
+          "name": "Screen Time Tracker",
+          "catalogPosition": 2,
+          "subtitle": null,
+          "averageRating": 0,
+          "ratingCount": 0,
+          "trackViewUrl": "https://apps.apple.com/ye/app/screen-time-tracker/id6738397686?uo=4"
+        },
+        {
+          "appStoreId": "1532875441",
+          "name": "one sec | screen time + focus",
+          "catalogPosition": 3,
+          "subtitle": null,
+          "averageRating": 5,
+          "ratingCount": 8,
+          "trackViewUrl": "https://apps.apple.com/ye/app/one-sec-screen-time-focus/id1532875441?uo=4"
+        },
+        {
+          "appStoreId": "6746537171",
+          "name": "Unrot: Earn your Screen Time",
+          "catalogPosition": 4,
+          "subtitle": null,
+          "averageRating": 5,
+          "ratingCount": 3,
+          "trackViewUrl": "https://apps.apple.com/ye/app/unrot-earn-your-screen-time/id6746537171?uo=4"
+        },
+        {
+          "appStoreId": "6755110504",
+          "name": "Unglue: Screen Time Friend",
+          "catalogPosition": 5,
+          "subtitle": null,
+          "averageRating": 0,
+          "ratingCount": 0,
+          "trackViewUrl": "https://apps.apple.com/ye/app/unglue-screen-time-friend/id6755110504?uo=4"
+        }
+      ],
+      "source": "deep-research/markets/ye/raw/catalog-95492313e9b1.json",
+      "error": null
+    }
+  ],
+  "status": "catalog-only-complete",
+  "completedAt": "2026-11-19T06:41:21.472810+00:00",
+  "limitation": "Astro rejects this storefront. No local popularity/difficulty, no native keyword ranks, and public catalog does not return subtitles. Result count may be under five. Locale decisions require explicitly labelled language-anchor evidence."
+}

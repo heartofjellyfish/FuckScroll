@@ -1,0 +1,120 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=bloquear+aplicaciones&country=ni&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "artistName": "LYKOV STUDIO LTD",
+        "genres": [
+          "Utilidades"
+        ],
+        "price": 0.0,
+        "bundleId": "com.lykovstudio.AppLock",
+        "primaryGenreName": "Utilities",
+        "releaseDate": "2025-06-26T07:00:00Z",
+        "currentVersionReleaseDate": "2026-11-10T16:00:02Z",
+        "version": "1.0.30",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/ni/app/bloquear-aplicaciones-applock/id6746766591?uo=4",
+        "averageUserRating": 5,
+        "trackId": 6746766591,
+        "trackName": "Bloquear aplicaciones: AppLock",
+        "userRatingCount": 7,
+        "descriptionSHA256": "6a2615782e5f3d6f19e5f3f5b4924bb0985a5d6460d203e9f95fb93d4ddadeaa"
+      },
+      {
+        "kind": "software",
+        "artistName": "万龙 戴",
+        "genres": [
+          "Productividad"
+        ],
+        "price": 0.0,
+        "bundleId": "com.zheng.appblocker",
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2023-12-26T08:00:00Z",
+        "currentVersionReleaseDate": "2024-09-25T11:03:04Z",
+        "version": "1.0.4",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/ni/app/bloqueo-de-apps-contrase%C3%B1a/id6458880741?uo=4",
+        "averageUserRating": 5,
+        "trackId": 6458880741,
+        "trackName": "Bloqueo De Apps - Contraseña ™",
+        "userRatingCount": 4,
+        "descriptionSHA256": "1e3ba1b6290519addfb508dc89ab090a2649741c04680da44f3674b9f9ef1f7c"
+      },
+      {
+        "kind": "software",
+        "artistName": "友财 徐",
+        "genres": [
+          "Utilidades"
+        ],
+        "price": 0.0,
+        "bundleId": "com.xu.applock",
+        "primaryGenreName": "Utilities",
+        "releaseDate": "2023-11-07T08:00:00Z",
+        "currentVersionReleaseDate": "2026-06-22T01:26:35Z",
+        "version": "1.5.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/ni/app/bloqueo-de-aplicaciones/id6469686557?uo=4",
+        "averageUserRating": 4.23729,
+        "trackId": 6469686557,
+        "trackName": "Bloqueo De Aplicaciones -",
+        "userRatingCount": 59,
+        "descriptionSHA256": "a1f6f5a6e93e3c93fb8902ee294b2f62e481f5bb0709d7976190b888ad918b35"
+      },
+      {
+        "kind": "software",
+        "artistName": "DoMobile Co., Ltd.",
+        "genres": [
+          "Utilidades",
+          "Productividad"
+        ],
+        "price": 0.0,
+        "bundleId": "com.domobile.applock",
+        "primaryGenreName": "Utilities",
+        "releaseDate": "2020-05-15T07:00:00Z",
+        "currentVersionReleaseDate": "2026-05-27T18:29:30Z",
+        "version": "1.3.5",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/ni/app/applock-photo-lock/id1509154892?uo=4",
+        "averageUserRating": 3.4,
+        "trackId": 1509154892,
+        "trackName": "AppLock - photo lock",
+        "userRatingCount": 5,
+        "descriptionSHA256": "0659db0a28dbb1f7e09d4a858aa8db0e14a3405c659fe1e919e591727782b704"
+      },
+      {
+        "kind": "software",
+        "artistName": "宝锋 张",
+        "genres": [
+          "Productividad"
+        ],
+        "price": 0.0,
+        "bundleId": "com.zhang.lockapps",
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2026-06-23T07:00:00Z",
+        "currentVersionReleaseDate": "2026-07-21T21:55:13Z",
+        "version": "1.0.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/ni/app/bloqueo-de-aplicaciones-app/id6777914542?uo=4",
+        "averageUserRating": 0,
+        "trackId": 6777914542,
+        "trackName": "Bloqueo De Aplicaciones - App.",
+        "userRatingCount": 0,
+        "descriptionSHA256": "6ba84e749b2264c584aa70d5d2b6f92b5e1770b0d39c457c30722007305f143e"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "9472bbee051d4dc06a9cba16dfa86163ded6f101d8ce5567a239d371fb821fae",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

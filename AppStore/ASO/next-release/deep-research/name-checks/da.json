@@ -1,0 +1,21 @@
+{
+  "locale": "da",
+  "store": "dk",
+  "proposedName": "Skærmtid – And på vagt",
+  "limitations": "A public top-five name search, not App Store Connect reservation or trademark clearance.",
+  "response": {
+    "id": "70c23dcb-0ad9-4105-8a07-e196d9a434e5",
+    "jsonrpc": "2.0",
+    "result": {
+      "content": [
+        {
+          "text": "{\n  \"apps\" : [\n    {\n      \"appStoreId\" : \"6802438223\",\n      \"averageRating\" : 0,\n      \"bundleId\" : \"app.scrappy.focus\",\n      \"developer\" : \"Shrenik Choudhary\",\n      \"genre\" : \"Productivity\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple211\\/v4\\/56\\/12\\/ec\\/5612ec8e-35ba-de33-2a2b-ac0f28d55b76\\/AppIcon-0-0-1x_U007epad-0-1-85-220.png\\/80x0w.webp\",\n      \"name\" : \"Scrappy: Screen Time Guard Dog\",\n      \"ranking\" : 1,\n      \"ratingCount\" : 0,\n      \"subtitle\" : \"App Blocker, Dumb Phone Mode\"\n    },\n    {\n      \"appStoreId\" : \"6761304507\",\n      \"averageRating\" : 0,\n      \"bundleId\" : \"com.app.hakanyigitunac.SoberLock\",\n      \"developer\" : \"Hakan Yigit Unac\",\n      \"genre\" : \"Health & Fitness\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple211\\/v4\\/eb\\/42\\/78\\/eb4278fe-6b21-5d39-88e5-57788af9a63e\\/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png\\/80x0w.webp\",\n      \"name\" : \"App Blocker: SoberLock\",\n      \"ranking\" : 2,\n      \"ratingCount\" : 0,\n      \"subtitle\" : \"Digital Detox & Night Guard\"\n    }\n  ],\n  \"keyword\" : \"Skærmtid – And på vagt\",\n  \"platform\" : \"iphone\",\n  \"store\" : \"dk\",\n  \"totalResults\" : 2\n}",
+          "type": "text"
+        }
+      ],
+      "isError": false
+    }
+  },
+  "error": null,
+  "exactOtherAppMatches": []
+}

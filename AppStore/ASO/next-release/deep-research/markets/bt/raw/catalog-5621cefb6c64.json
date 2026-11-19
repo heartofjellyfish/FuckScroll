@@ -1,0 +1,124 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=app+limits&country=bt&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "artistName": "Opal OS",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "bundleId": "com.withopal.opal",
+        "trackId": 1497465230,
+        "trackName": "Opal: Screen Time Control",
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 4.71429,
+        "trackViewUrl": "https://apps.apple.com/bt/app/opal-screen-time-control/id1497465230?uo=4",
+        "userRatingCount": 7,
+        "descriptionSHA256": "79545dcfd9d33edf53d3567fc6a6eb5b582561ed18b9d49245fbff4af0417656"
+      },
+      {
+        "kind": "software",
+        "artistName": "Flipkart Internet Private Limited",
+        "genres": [
+          "Shopping",
+          "Lifestyle"
+        ],
+        "price": 0.0,
+        "bundleId": "com.appflipkart.flipkart",
+        "trackId": 742044692,
+        "trackName": "Flipkart - Online Shopping App",
+        "releaseDate": "2013-11-24T01:05:31Z",
+        "primaryGenreName": "Shopping",
+        "currentVersionReleaseDate": "2026-11-02T11:00:49Z",
+        "version": "11.34.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 4.4329,
+        "trackViewUrl": "https://apps.apple.com/bt/app/flipkart-online-shopping-app/id742044692?uo=4",
+        "userRatingCount": 1617,
+        "descriptionSHA256": "54e216e4bf147703f41464a4e108044cee6a8b86e2183f1955c317c1d876965d"
+      },
+      {
+        "kind": "software",
+        "artistName": "INDY MOBILE APP COMPANY LIMITED",
+        "genres": [
+          "Business",
+          "Utilities"
+        ],
+        "price": 0.0,
+        "bundleId": "com.nikorn.mobile.ClearScanner",
+        "trackId": 684155862,
+        "trackName": "Clear Scan: Doc Scanner App",
+        "releaseDate": "2013-10-09T00:29:12Z",
+        "primaryGenreName": "Business",
+        "currentVersionReleaseDate": "2026-11-18T01:39:27Z",
+        "version": "10.0.78",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 4.55135,
+        "trackViewUrl": "https://apps.apple.com/bt/app/clear-scan-doc-scanner-app/id684155862?uo=4",
+        "userRatingCount": 555,
+        "descriptionSHA256": "0f15cd896a0221605365d1f179393cafe5dd08a4f4aa133953c565bd2ed77baa"
+      },
+      {
+        "kind": "software",
+        "artistName": "Kidslox Trading Ltd",
+        "genres": [
+          "Lifestyle",
+          "Utilities"
+        ],
+        "price": 0.0,
+        "bundleId": "com.kidslox.main",
+        "trackId": 914825567,
+        "trackName": "Parental Control App - Kidslox",
+        "releaseDate": "2014-09-23T23:23:11Z",
+        "primaryGenreName": "Lifestyle",
+        "currentVersionReleaseDate": "2026-09-15T06:03:44Z",
+        "version": "11.3.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 5,
+        "trackViewUrl": "https://apps.apple.com/bt/app/parental-control-app-kidslox/id914825567?uo=4",
+        "userRatingCount": 2,
+        "descriptionSHA256": "d7539daf53bb81a1e94445145b66c140d46f513f2094f6b5fa099f8287fae953"
+      },
+      {
+        "kind": "software",
+        "artistName": "MobileSoft s.r.o.",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "bundleId": "eu.mobilesoft.appblock",
+        "trackId": 1515753232,
+        "trackName": "AppBlock: App & Site Blocker",
+        "releaseDate": "2021-08-17T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-11T10:48:39Z",
+        "version": "4.14.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 2,
+        "trackViewUrl": "https://apps.apple.com/bt/app/appblock-app-site-blocker/id1515753232?uo=4",
+        "userRatingCount": 1,
+        "descriptionSHA256": "f4e2257d9c85cbaf9cd8496ddc82a9a5d41b2e0440020c527d8b3b8c4bbe4236"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "a33683e58776d69acf2e062c1665b775ddc2358aca85d3b01e7717822257ff9b",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

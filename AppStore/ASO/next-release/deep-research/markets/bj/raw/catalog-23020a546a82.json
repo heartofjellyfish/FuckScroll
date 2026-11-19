@@ -1,0 +1,123 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=temps+d%27%C3%A9cran&country=bj&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "bundleId": "com.withopal.opal",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "artistName": "Opal OS",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "trackId": 1497465230,
+        "trackName": "Opal: Screen Time Control",
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/bj/app/opal-screen-time-control/id1497465230?uo=4",
+        "averageUserRating": 4.61193,
+        "price": 0.0,
+        "userRatingCount": 67,
+        "descriptionSHA256": "79545dcfd9d33edf53d3567fc6a6eb5b582561ed18b9d49245fbff4af0417656"
+      },
+      {
+        "kind": "software",
+        "bundleId": "net.29apps.limit",
+        "genres": [
+          "Productivity",
+          "Utilities"
+        ],
+        "artistName": "Samet Macit",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-10-27T11:38:50Z",
+        "trackId": 6473087772,
+        "trackName": "Limit: Screen Time for Focus",
+        "releaseDate": "2024-02-25T08:00:00Z",
+        "version": "2.0.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/bj/app/limit-screen-time-for-focus/id6473087772?uo=4",
+        "averageUserRating": 0,
+        "price": 0.0,
+        "userRatingCount": 0,
+        "descriptionSHA256": "401598d7f6d4540d8b11181f46e748a1d8536c229c62589ffa9aa63d965ee952"
+      },
+      {
+        "kind": "software",
+        "bundleId": "wtf.riedel.one-sec",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "artistName": "riedel.wtf apps S.L.",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-14T18:42:34Z",
+        "trackId": 1532875441,
+        "trackName": "one sec | screen time + focus",
+        "releaseDate": "2020-09-29T07:00:00Z",
+        "version": "6.1.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/bj/app/one-sec-screen-time-focus/id1532875441?uo=4",
+        "averageUserRating": 5,
+        "price": 0.0,
+        "userRatingCount": 7,
+        "descriptionSHA256": "7458286eeec2edf883eec2f9abc49582f9924be2e29f484b82b1014b4b2a0462"
+      },
+      {
+        "kind": "software",
+        "bundleId": "com.idreamdesign.screen",
+        "genres": [
+          "Productivity"
+        ],
+        "artistName": "Deebex Tech Ltd.",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-08-13T00:04:05Z",
+        "trackId": 6456942073,
+        "trackName": "App Blocker - Screen Time",
+        "releaseDate": "2023-10-10T07:00:00Z",
+        "version": "3.0.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/bj/app/app-blocker-screen-time/id6456942073?uo=4",
+        "averageUserRating": 0,
+        "price": 0.0,
+        "userRatingCount": 0,
+        "descriptionSHA256": "97f0576b3c2db9b58153d327b549d41dd39cce7ace43d700c29f2becd85cf727"
+      },
+      {
+        "kind": "software",
+        "bundleId": "com.jomo.Jomo",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "artistName": "Jomo",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-18T16:29:32Z",
+        "trackId": 1609960918,
+        "trackName": "Jomo - App Blocker & Focus",
+        "releaseDate": "2022-10-16T07:00:00Z",
+        "version": "2.1.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "trackViewUrl": "https://apps.apple.com/bj/app/jomo-app-blocker-focus/id1609960918?uo=4",
+        "averageUserRating": 4.42856,
+        "price": 0.0,
+        "userRatingCount": 7,
+        "descriptionSHA256": "1c3ac2d7f7c364ecfc9b0dc94651160ac123d989dbde44be1172ac15c9b753d8"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "1e51de9df396314b4e8ceeecd5911d6e2ec1dd879cb1a19a4e5aa68800d874b5",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

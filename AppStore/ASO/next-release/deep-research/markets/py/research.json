@@ -1,0 +1,732 @@
+{
+  "store": "py",
+  "country": "Paraguay",
+  "defaultLanguage": "Spanish (Mexico)",
+  "additionalLanguages": "English (U.K.)",
+  "languages": [
+    "es"
+  ],
+  "candidates": [
+    "bloquear aplicaciones",
+    "tiempo de pantalla",
+    "tiempo en pantalla",
+    "bloqueador de apps",
+    "bloqueador de aplicaciones",
+    "limitar apps",
+    "limitar aplicaciones",
+    "control del tiempo de pantalla",
+    "adicción al móvil",
+    "adicción al celular",
+    "dejar de usar el móvil",
+    "dejar de usar el celular",
+    "dejar de hacer scroll",
+    "menos redes sociales",
+    "bloquear redes sociales",
+    "desintoxicación digital",
+    "concentración",
+    "autocontrol",
+    "límite de uso",
+    "temporizador de apps",
+    "app blocker",
+    "screen time",
+    "control parental",
+    "bloqueo de apps",
+    "screen time control",
+    "scroll blocker"
+  ],
+  "astroSupported": true,
+  "catalogQueries": [
+    "bloquear aplicaciones",
+    "tiempo de pantalla",
+    "tiempo en pantalla",
+    "bloqueador de apps",
+    "bloqueador de aplicaciones",
+    "limitar apps",
+    "app blocker",
+    "screen time"
+  ],
+  "startedAt": "2026-11-19T06:35:47.129549+00:00",
+  "source": "Astro MCP, iPhone storefront",
+  "metrics": [
+    {
+      "difficulty": 5,
+      "keyword": "bloquear aplicaciones",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 5,
+      "keyword": "tiempo de pantalla",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 15,
+      "keyword": "tiempo en pantalla",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 9,
+      "keyword": "bloqueador de apps",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 9,
+      "keyword": "bloqueador de aplicaciones",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 21,
+      "keyword": "limitar apps",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 5,
+      "keyword": "limitar aplicaciones",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 5,
+      "keyword": "control del tiempo de pantalla",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 5,
+      "keyword": "adicción al móvil",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 5,
+      "keyword": "adicción al celular",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 5,
+      "keyword": "dejar de usar el móvil",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 5,
+      "keyword": "dejar de usar el celular",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 5,
+      "keyword": "dejar de hacer scroll",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 5,
+      "keyword": "menos redes sociales",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 9,
+      "keyword": "bloquear redes sociales",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 5,
+      "keyword": "desintoxicación digital",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 11,
+      "keyword": "concentración",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 5,
+      "keyword": "autocontrol",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 7,
+      "keyword": "límite de uso",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 9,
+      "keyword": "temporizador de apps",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 15,
+      "keyword": "app blocker",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 19,
+      "keyword": "screen time",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 9,
+      "keyword": "control parental",
+      "popularity": 35,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 5,
+      "keyword": "bloqueo de apps",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 21,
+      "keyword": "screen time control",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 13,
+      "keyword": "scroll blocker",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    }
+  ],
+  "queries": [
+    "bloquear aplicaciones",
+    "tiempo de pantalla",
+    "limitar aplicaciones",
+    "control parental",
+    "control del tiempo de pantalla",
+    "adicción al móvil",
+    "adicción al celular",
+    "dejar de usar el móvil"
+  ],
+  "searches": [
+    {
+      "query": "bloquear aplicaciones",
+      "apps": [
+        {
+          "appStoreId": "6746766591",
+          "averageRating": 1,
+          "bundleId": "com.lykovstudio.AppLock",
+          "developer": "LYKOV STUDIO LTD",
+          "genre": "Utilidades",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/fe/f0/d1fef0a7-c6dd-e678-0eac-cb6f0486ca3d/AppLock-0-0-1x_U007epad-0-1-sRGB-85-220.png/80x0w.webp",
+          "name": "Bloquear aplicaciones: AppLock",
+          "ranking": 1,
+          "ratingCount": 1,
+          "subtitle": "Bloqueo de aplicación Lockdown"
+        },
+        {
+          "appStoreId": "6469686557",
+          "averageRating": 4.9,
+          "bundleId": "com.xu.applock",
+          "developer": "友财 徐",
+          "genre": "Utilidades",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/65/29/ad6529bc-a635-b89c-4d80-b2773b0602ec/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/80x0w.webp",
+          "name": "Bloqueo De Aplicaciones -",
+          "ranking": 2,
+          "ratingCount": 27,
+          "subtitle": "Contraseña Para Apps Bloquear"
+        },
+        {
+          "appStoreId": "1598861873",
+          "averageRating": 0,
+          "bundleId": "com.7stars.password",
+          "developer": "伟文 贺",
+          "genre": "Productividad",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/db/33/5e/db335e6d-2169-3c9e-61c0-1ffc398948a9/AppIcon-1x_U007emarketing-0-10-0-85-220.png/80x0w.webp",
+          "name": "Contraseñas-gestor contraseña",
+          "ranking": 3,
+          "ratingCount": 0,
+          "subtitle": "Bloqueo bloquear aplicaciones"
+        },
+        {
+          "appStoreId": "6458880741",
+          "averageRating": 4.4,
+          "bundleId": "com.zheng.appblocker",
+          "developer": "万龙 戴",
+          "genre": "Productividad",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/6d/fc/9e6dfc46-1588-4b63-5f29-7400d43a2aff/AppIcon-0-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/80x0w.webp",
+          "name": "Bloqueo De Apps - Contraseña ™",
+          "ranking": 4,
+          "ratingCount": 17,
+          "subtitle": "App Para Bloquear Aplicaciones"
+        },
+        {
+          "appStoreId": "6467732552",
+          "averageRating": 0,
+          "bundleId": "com.Jarvis.app.ScreenCube",
+          "developer": "小玲 黄",
+          "genre": "Estilo de vida",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/d5/e7/16d5e7e9-4edf-eba3-332a-c051132e7394/AppIcon-1x_U007epad-0-1-0-85-220-0.png/80x0w.webp",
+          "name": "App Lock-Bloquear Aplicaciones",
+          "ranking": 5,
+          "ratingCount": 0,
+          "subtitle": "Contraseña para de bloqueo"
+        }
+      ],
+      "source": "all-storefronts/py.json",
+      "error": null,
+      "purpose": "Functional search hypothesis"
+    },
+    {
+      "query": "tiempo de pantalla",
+      "apps": [
+        {
+          "appStoreId": "1497465230",
+          "averageRating": 4.9,
+          "bundleId": "com.withopal.opal",
+          "developer": "Opal OS",
+          "genre": "Productividad",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/49/82/784982f1-f983-4980-1fac-0d542c970db8/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/80x0w.webp",
+          "name": "Opal: Tiempo de Pantalla Focus",
+          "ranking": 1,
+          "ratingCount": 82,
+          "subtitle": "Productividad y Concentración"
+        },
+        {
+          "appStoreId": "6451370747",
+          "averageRating": 0,
+          "bundleId": "app.screentime.unplugged",
+          "developer": "SmartDaddy",
+          "genre": "Salud y fitness",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/3f/ee/7b3fee0e-5154-1d8b-28e0-fef9b471459f/AppIcon-0-0-1x_U007epad-0-0-85-220.png/80x0w.webp",
+          "name": "Tiempo de Pantalla: Unplugged",
+          "ranking": 2,
+          "ratingCount": 0,
+          "subtitle": "Bloqueo de Aplicaciones"
+        },
+        {
+          "appStoreId": "1532875441",
+          "averageRating": 4.9,
+          "bundleId": "wtf.riedel.one-sec",
+          "developer": "riedel.wtf apps S.L.",
+          "genre": "Productividad",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/f1/83/faf18373-f0af-4b1d-2625-e47565d9ff05/one_sec_Default_App_Icon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/80x0w.webp",
+          "name": "one sec—tiempo pantalla y foco",
+          "ranking": 3,
+          "ratingCount": 61,
+          "subtitle": "Limitar apps y websites"
+        },
+        {
+          "appStoreId": "6736939821",
+          "averageRating": 0,
+          "bundleId": "com.appshub.HeadUp",
+          "developer": "MIRRORHUB MCHJ",
+          "genre": "Productividad",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2b/92/2c/2b922cc6-9626-448f-28bb-14430d0e96b8/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/80x0w.webp",
+          "name": "Tiempo de Pantalla - HeadUp",
+          "ranking": 4,
+          "ratingCount": 0,
+          "subtitle": "Bloquea Apps & foco con timer"
+        },
+        {
+          "appStoreId": "6759700381",
+          "averageRating": 0,
+          "bundleId": "com.screen.time.control.app.lock",
+          "developer": "少杰 李",
+          "genre": "Productividad",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/33/f5/1d33f5c0-fa58-7172-2766-d616a81b5441/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/80x0w.webp",
+          "name": "Tiempo de Pantalla - Bloqueo",
+          "ranking": 5,
+          "ratingCount": 0,
+          "subtitle": "Bloqueo, Enfoque & Bloqueador"
+        }
+      ],
+      "source": "deep-research/markets/py/raw/search-b0284871c4f2.json",
+      "error": null,
+      "purpose": "Functional search hypothesis"
+    },
+    {
+      "query": "limitar aplicaciones",
+      "apps": [
+        {
+          "appStoreId": "1497465230",
+          "averageRating": 4.9,
+          "bundleId": "com.withopal.opal",
+          "developer": "Opal OS",
+          "genre": "Productividad",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/49/82/784982f1-f983-4980-1fac-0d542c970db8/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/80x0w.webp",
+          "name": "Opal: Tiempo de Pantalla Focus",
+          "ranking": 1,
+          "ratingCount": 82,
+          "subtitle": "Productividad y Concentración"
+        },
+        {
+          "appStoreId": "1658592224",
+          "averageRating": 5,
+          "bundleId": "com.stayfocused",
+          "developer": "INNOXAPPS LLP",
+          "genre": "Productividad",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/43/a8/9c43a855-ff9a-2864-3f07-94be8ba07827/AppIcon-0-1x_U007emarketing-0-11-0-85-220-0.png/80x0w.webp",
+          "name": "Stay Focused: Bloquear Apps",
+          "ranking": 2,
+          "ratingCount": 6,
+          "subtitle": "Limitar tiempo de pantalla/web"
+        },
+        {
+          "appStoreId": "6479197847",
+          "averageRating": 0,
+          "bundleId": "com.danyloternovoi.chronos",
+          "developer": "Danylo Ternovoi",
+          "genre": "Productividad",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/2f/de/4c2fdefa-7e0b-e519-f4cb-d0f5668a7e2a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/80x0w.webp",
+          "name": "Tempozi: Bloquear Aplicaciones",
+          "ranking": 3,
+          "ratingCount": 0,
+          "subtitle": "Tiempo en Pantalla del Celular"
+        },
+        {
+          "appStoreId": "6802054044",
+          "averageRating": 0,
+          "bundleId": "com.impedo.app",
+          "developer": "iMonster Desenvolvimento de Software LTDA.",
+          "genre": "Productividad",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5a/5d/04/5a5d042b-100d-7e3a-a6fd-ab4a14567249/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/80x0w.webp",
+          "name": "Impedo: Bloquear Aplicaciones",
+          "ranking": 4,
+          "ratingCount": 0,
+          "subtitle": "Controla tu tiempo en pantalla"
+        },
+        {
+          "appStoreId": "6466824356",
+          "averageRating": 0,
+          "bundleId": "app.netlify.jongoldson.HabbitTrainer",
+          "developer": "Jonathan Goldson",
+          "genre": "Productividad",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b9/c8/bd/b9c8bd68-611f-9f8f-142b-9bc1a90d98cc/AppIcon-0-0-1x_U007epad-0-1-85-220.png/80x0w.webp",
+          "name": "Achieve! Tiempo de pantalla",
+          "ranking": 5,
+          "ratingCount": 0,
+          "subtitle": "Bloquear apps y limitar su uso"
+        }
+      ],
+      "source": "deep-research/markets/py/raw/search-d1f8d5451531.json",
+      "error": null,
+      "purpose": "Functional search hypothesis"
+    },
+    {
+      "query": "control parental",
+      "apps": [
+        {
+          "appStoreId": "1525339567",
+          "averageRating": 4.8,
+          "bundleId": "com.sandstudio.cp-parent",
+          "developer": "SAND STUDIO CORPORATION LIMITED",
+          "genre": "Estilo de vida",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/79/a3/c7/79a3c72e-86aa-10df-2070-66d069bb6b2e/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/80x0w.webp",
+          "name": "AirDroid Parental Control",
+          "ranking": 1,
+          "ratingCount": 35,
+          "subtitle": "Screen Time & Content Blocker"
+        },
+        {
+          "appStoreId": "1150085200",
+          "averageRating": 4.8,
+          "bundleId": "com.google.FamilyLink",
+          "developer": "Google",
+          "genre": "Utilidades",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/49/d3/a849d32b-4029-9c46-c1e3-b8d9c3ed863c/logo_family_link_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/80x0w.webp",
+          "name": "Google Family Link",
+          "ranking": 2,
+          "ratingCount": 2164
+        },
+        {
+          "appStoreId": "1671930660",
+          "averageRating": 4.8,
+          "bundleId": "com.flashget.parentalcontrol",
+          "developer": "HONGKONG FLASHGET NETWORK TECHNOLOGY CO., LIMITED",
+          "genre": "Educación",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d5/4d/0d/d54d0dea-fee7-90b4-fd7c-9a04a64efc64/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/80x0w.webp",
+          "name": "FlashGet Kids：parental control",
+          "ranking": 3,
+          "ratingCount": 16,
+          "subtitle": "Parental control app"
+        },
+        {
+          "appStoreId": "1365784521",
+          "averageRating": 4.3,
+          "bundleId": "com.meshukraina.parentalcontrol",
+          "developer": "MESH Ukraina",
+          "genre": "Educación",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/b3/3b/5db33b6a-e1a6-36e6-38d3-8e8d98d8b827/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/80x0w.webp",
+          "name": "Control Parental - Kroha",
+          "ranking": 4,
+          "ratingCount": 4,
+          "subtitle": "Tiempo de Pantalla para Niños"
+        },
+        {
+          "appStoreId": "1596059191",
+          "averageRating": 4.5,
+          "bundleId": "app.kids360.ios.parent",
+          "developer": "MINDCARE LAB LTD",
+          "genre": "Utilidades",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9a/06/b1/9a06b1d5-0ac5-3a6e-1d9f-901dea765d2c/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/80x0w.webp",
+          "name": "Controles Parentales Kids360",
+          "ranking": 5,
+          "ratingCount": 56,
+          "subtitle": "Rastreo GPS de ubicación"
+        }
+      ],
+      "source": "deep-research/markets/py/raw/search-9999bef1cf0d.json",
+      "error": null,
+      "purpose": "Intent comparator; not a claim this app provides that feature"
+    },
+    {
+      "query": "control del tiempo de pantalla",
+      "apps": [
+        {
+          "appStoreId": "1497465230",
+          "averageRating": 4.9,
+          "bundleId": "com.withopal.opal",
+          "developer": "Opal OS",
+          "genre": "Productividad",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/49/82/784982f1-f983-4980-1fac-0d542c970db8/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/80x0w.webp",
+          "name": "Opal: Tiempo de Pantalla Focus",
+          "ranking": 1,
+          "ratingCount": 82,
+          "subtitle": "Productividad y Concentración"
+        },
+        {
+          "appStoreId": "1365784521",
+          "averageRating": 4.3,
+          "bundleId": "com.meshukraina.parentalcontrol",
+          "developer": "MESH Ukraina",
+          "genre": "Educación",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/b3/3b/5db33b6a-e1a6-36e6-38d3-8e8d98d8b827/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/80x0w.webp",
+          "name": "Control Parental - Kroha",
+          "ranking": 2,
+          "ratingCount": 4,
+          "subtitle": "Tiempo de Pantalla para Niños"
+        },
+        {
+          "appStoreId": "6760294401",
+          "averageRating": 0,
+          "bundleId": "com.galinial.brainrotapp",
+          "developer": "Gal Linial",
+          "genre": "Productividad",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/f4/36/89f4362b-e783-d56f-90cf-4adc4a598a04/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/80x0w.webp",
+          "name": "Brainrot: Enfoque y Pantalla",
+          "ranking": 3,
+          "ratingCount": 0,
+          "subtitle": "Control del tiempo de pantalla"
+        },
+        {
+          "appStoreId": "1450358983",
+          "averageRating": 0,
+          "bundleId": "kz.sirius.siriuskids",
+          "developer": "KIDS SECURITY, TOO",
+          "genre": "Estilo de vida",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6f/7b/10/6f7b1023-02f9-ba17-d669-958ff6ab9835/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/80x0w.webp",
+          "name": "Controles Parentales del Niños",
+          "ranking": 4,
+          "ratingCount": 0,
+          "subtitle": "Rastreo GPS・Tiempo de pantalla"
+        },
+        {
+          "appStoreId": "6451370747",
+          "averageRating": 0,
+          "bundleId": "app.screentime.unplugged",
+          "developer": "SmartDaddy",
+          "genre": "Salud y fitness",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/3f/ee/7b3fee0e-5154-1d8b-28e0-fef9b471459f/AppIcon-0-0-1x_U007epad-0-0-85-220.png/80x0w.webp",
+          "name": "Tiempo de Pantalla: Unplugged",
+          "ranking": 5,
+          "ratingCount": 0,
+          "subtitle": "Bloqueo de Aplicaciones"
+        }
+      ],
+      "source": "deep-research/markets/py/raw/search-fef165b4354d.json",
+      "error": null,
+      "purpose": "Functional search hypothesis"
+    },
+    {
+      "query": "adicción al móvil",
+      "apps": [
+        {
+          "appStoreId": "1609960918",
+          "averageRating": 5,
+          "bundleId": "com.jomo.Jomo",
+          "developer": "Jomo",
+          "genre": "Productividad",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/9a/11/239a118e-7e7d-2178-714b-9fd591550394/AppIcon-0-0-1x_U007epad-0-9-0-85-220.png/80x0w.webp",
+          "name": "Jomo - Reducir Tiempo Pantalla",
+          "ranking": 1,
+          "ratingCount": 4,
+          "subtitle": "Superar la Adicción al Móvil"
+        },
+        {
+          "appStoreId": "1371463527",
+          "averageRating": 0,
+          "bundleId": "com.bellostudios.nomofobia",
+          "developer": "Jose Bello",
+          "genre": "Salud y fitness",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/bf/26/e0/bf26e0af-16f7-0397-36d2-30771d1fffe9/AppIcon-1x_U007emarketing-85-220-8.jpeg/80x0w.webp",
+          "name": "Smartphone Addiction and Usage",
+          "ranking": 2,
+          "ratingCount": 0,
+          "subtitle": "Controla La Adicción Al Móvil"
+        },
+        {
+          "appStoreId": "6754699333",
+          "averageRating": 0,
+          "bundleId": "com.scrolldeeds.app",
+          "developer": "Verum Digital Limited",
+          "genre": "Productividad",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/5d/a6/a75da639-2474-34ab-756e-b31da38039bb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/80x0w.webp",
+          "name": "Nafsi: Disciplina Musulmana",
+          "ranking": 3,
+          "ratingCount": 0,
+          "subtitle": "Corán • Hifz • Fajr"
+        },
+        {
+          "appStoreId": "6804133411",
+          "averageRating": 0,
+          "bundleId": "com.focusmind.online",
+          "developer": "Linh Hong Le",
+          "genre": "Productividad",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/45/f3/bb/45f3bb72-5ad4-62b0-4510-5ba8fae8f71b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/80x0w.webp",
+          "name": "FocusMind: Adicción al móvil",
+          "ranking": 4,
+          "ratingCount": 0,
+          "subtitle": "Límites de pantalla que duran"
+        },
+        {
+          "appStoreId": "1663997320",
+          "averageRating": 0,
+          "bundleId": "com.bannzai.DigitalDetox",
+          "developer": "yudai hirose",
+          "genre": "Productividad",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/46/78/3b/46783b5b-2f47-64b8-9454-a8468546f57d/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/80x0w.webp",
+          "name": "Nomofobia,Detox Digital: Focus",
+          "ranking": 5,
+          "ratingCount": 0,
+          "subtitle": "Productividad con límites app"
+        }
+      ],
+      "source": "deep-research/markets/py/raw/search-a4e403500538.json",
+      "error": null,
+      "purpose": "Functional search hypothesis"
+    },
+    {
+      "query": "adicción al celular",
+      "apps": [
+        {
+          "appStoreId": "6474093604",
+          "averageRating": 0,
+          "bundleId": "com.why.WhyApp",
+          "developer": "Naze App LTD",
+          "genre": "Productividad",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/63/4e/d2634e06-c67b-07e2-a7eb-da175a5351cd/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/80x0w.webp",
+          "name": "Naze: Detox de Dopamina",
+          "ranking": 1,
+          "ratingCount": 0,
+          "subtitle": "Adicción al celular y redes"
+        },
+        {
+          "appStoreId": "6480348530",
+          "averageRating": 0,
+          "bundleId": "com.konvapps.Re-Dop",
+          "developer": "Konveer LLC",
+          "genre": "Estilo de vida",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e8/09/31/e8093121-f735-1298-6192-d50c3bfecbbb/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/80x0w.webp",
+          "name": "ReDop: Bloqueador de Apps",
+          "ranking": 2,
+          "ratingCount": 0,
+          "subtitle": "Menos pantalla, más enfoque"
+        },
+        {
+          "appStoreId": "6825719318",
+          "averageRating": 0,
+          "bundleId": "com.aktarstudio.beave",
+          "developer": "Farhan Aktar",
+          "genre": "Productividad",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/21/be/a821be4b-65d5-a2be-cab2-21e1ca07e85a/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/80x0w.webp",
+          "name": "Beave: Sin adicción al celular",
+          "ranking": 3,
+          "ratingCount": 0,
+          "subtitle": "Bloqueador de apps y enfoque"
+        },
+        {
+          "appStoreId": "6741723570",
+          "averageRating": 0,
+          "bundleId": "com.CodeWerm.BreakCheck",
+          "developer": "CodeWerm LLC",
+          "genre": "Productividad",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/38/f7/0538f72d-e56b-b18a-ce54-e19cced164e5/Icon-0-0-1x_U007epad-0-1-sRGB-85-220.png/80x0w.webp",
+          "name": "Tiempo en Pantalla - Pausa",
+          "ranking": 4,
+          "ratingCount": 0,
+          "subtitle": "Temporizadores de hábitos"
+        },
+        {
+          "appStoreId": "6789673500",
+          "averageRating": 0,
+          "bundleId": "com.avunia.BreathGate",
+          "developer": "Serhan Cetin",
+          "genre": "Productividad",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/43/17/f3/4317f302-4dc7-8094-f2c2-42c12626198e/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/80x0w.webp",
+          "name": "BreathGate: Antes de abrir",
+          "ranking": 5,
+          "ratingCount": 0,
+          "subtitle": "Respire antes de usar apps"
+        }
+      ],
+      "source": "deep-research/markets/py/raw/search-4667b0d86c91.json",
+      "error": null,
+      "purpose": "Functional search hypothesis"
+    },
+    {
+      "query": "dejar de usar el móvil",
+      "apps": [],
+      "source": "deep-research/markets/py/raw/search-862817d98d3d.json",
+      "error": null,
+      "purpose": "Functional search hypothesis"
+    }
+  ],
+  "status": "deep-astro-complete",
+  "completedAt": "2026-11-19T06:35:47.133844+00:00",
+  "fullTop5Queries": 7,
+  "limitation": "Popularity/difficulty are tool estimates, not search counts. Missing subtitles remain missing. Broad or password-lock/parental-control intent is compared, never copied as an unsupported feature."
+}

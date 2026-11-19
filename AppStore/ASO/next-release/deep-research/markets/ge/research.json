@@ -1,0 +1,460 @@
+{
+  "store": "ge",
+  "country": "Georgia",
+  "defaultLanguage": "English (U.K.)",
+  "additionalLanguages": "",
+  "languages": [
+    "en"
+  ],
+  "candidates": [
+    "app blocker",
+    "screen time",
+    "screen time control",
+    "scroll blocker",
+    "stop scrolling",
+    "social media blocker",
+    "block apps",
+    "app limits",
+    "screen time limit",
+    "reduce screen time",
+    "digital detox",
+    "stop doomscrolling",
+    "doomscroll",
+    "app timer",
+    "phone addiction",
+    "stay focused",
+    "focus",
+    "self control",
+    "distraction blocker",
+    "phone detox",
+    "screen time tracker",
+    "social media addiction",
+    "app lock",
+    "parental control"
+  ],
+  "astroSupported": false,
+  "catalogQueries": [
+    "app blocker",
+    "screen time",
+    "screen time control",
+    "scroll blocker",
+    "stop scrolling",
+    "social media blocker",
+    "block apps",
+    "app limits"
+  ],
+  "source": "Apple public software catalog search; not native App Store SERP or Astro metrics",
+  "metrics": [],
+  "searches": [
+    {
+      "query": "app blocker",
+      "apps": [
+        {
+          "appStoreId": "1645639057",
+          "name": "Refocus: App Blocker & Lock",
+          "catalogPosition": 1,
+          "subtitle": null,
+          "averageRating": 4.78571,
+          "ratingCount": 28,
+          "trackViewUrl": "https://apps.apple.com/ge/app/refocus-app-blocker-lock/id1645639057?uo=4"
+        },
+        {
+          "appStoreId": "1497465230",
+          "name": "Opal: Screen Time Control",
+          "catalogPosition": 2,
+          "subtitle": null,
+          "averageRating": 4.58974,
+          "ratingCount": 156,
+          "trackViewUrl": "https://apps.apple.com/ge/app/opal-screen-time-control/id1497465230?uo=4"
+        },
+        {
+          "appStoreId": "1541027222",
+          "name": "ScreenZen- Screen Time Control",
+          "catalogPosition": 3,
+          "subtitle": null,
+          "averageRating": 4.80882,
+          "ratingCount": 68,
+          "trackViewUrl": "https://apps.apple.com/ge/app/screenzen-screen-time-control/id1541027222?uo=4"
+        },
+        {
+          "appStoreId": "1515753232",
+          "name": "AppBlock: App & Site Blocker",
+          "catalogPosition": 4,
+          "subtitle": null,
+          "averageRating": 4.65,
+          "ratingCount": 20,
+          "trackViewUrl": "https://apps.apple.com/ge/app/appblock-app-site-blocker/id1515753232?uo=4"
+        },
+        {
+          "appStoreId": "1459096306",
+          "name": "Focus Plant：forest app blocker",
+          "catalogPosition": 5,
+          "subtitle": null,
+          "averageRating": 4.91303,
+          "ratingCount": 46,
+          "trackViewUrl": "https://apps.apple.com/ge/app/focus-plant-forest-app-blocker/id1459096306?uo=4"
+        }
+      ],
+      "source": "deep-research/markets/ge/raw/catalog-8567eb89892e.json",
+      "error": null
+    },
+    {
+      "query": "screen time",
+      "apps": [
+        {
+          "appStoreId": "1497465230",
+          "name": "Opal: Screen Time Control",
+          "catalogPosition": 1,
+          "subtitle": null,
+          "averageRating": 4.58974,
+          "ratingCount": 156,
+          "trackViewUrl": "https://apps.apple.com/ge/app/opal-screen-time-control/id1497465230?uo=4"
+        },
+        {
+          "appStoreId": "1541027222",
+          "name": "ScreenZen- Screen Time Control",
+          "catalogPosition": 2,
+          "subtitle": null,
+          "averageRating": 4.80882,
+          "ratingCount": 68,
+          "trackViewUrl": "https://apps.apple.com/ge/app/screenzen-screen-time-control/id1541027222?uo=4"
+        },
+        {
+          "appStoreId": "6738397686",
+          "name": "Screen Time Tracker",
+          "catalogPosition": 3,
+          "subtitle": null,
+          "averageRating": 1,
+          "ratingCount": 1,
+          "trackViewUrl": "https://apps.apple.com/ge/app/screen-time-tracker/id6738397686?uo=4"
+        },
+        {
+          "appStoreId": "6746537171",
+          "name": "Unrot: Earn your Screen Time",
+          "catalogPosition": 4,
+          "subtitle": null,
+          "averageRating": 4.79688,
+          "ratingCount": 128,
+          "trackViewUrl": "https://apps.apple.com/ge/app/unrot-earn-your-screen-time/id6746537171?uo=4"
+        },
+        {
+          "appStoreId": "1532875441",
+          "name": "one sec | screen time + focus",
+          "catalogPosition": 5,
+          "subtitle": null,
+          "averageRating": 4.98,
+          "ratingCount": 50,
+          "trackViewUrl": "https://apps.apple.com/ge/app/one-sec-screen-time-focus/id1532875441?uo=4"
+        }
+      ],
+      "source": "deep-research/markets/ge/raw/catalog-95492313e9b1.json",
+      "error": null
+    },
+    {
+      "query": "screen time control",
+      "apps": [
+        {
+          "appStoreId": "1497465230",
+          "name": "Opal: Screen Time Control",
+          "catalogPosition": 1,
+          "subtitle": null,
+          "averageRating": 4.58974,
+          "ratingCount": 156,
+          "trackViewUrl": "https://apps.apple.com/ge/app/opal-screen-time-control/id1497465230?uo=4"
+        },
+        {
+          "appStoreId": "6446263551",
+          "name": "XLocker - Screen Time Limit",
+          "catalogPosition": 2,
+          "subtitle": null,
+          "averageRating": 0,
+          "ratingCount": 0,
+          "trackViewUrl": "https://apps.apple.com/ge/app/xlocker-screen-time-limit/id6446263551?uo=4"
+        },
+        {
+          "appStoreId": "6760669409",
+          "name": "BrainMaxx: Screen Time Control",
+          "catalogPosition": 3,
+          "subtitle": null,
+          "averageRating": 4.52941,
+          "ratingCount": 17,
+          "trackViewUrl": "https://apps.apple.com/ge/app/brainmaxx-screen-time-control/id6760669409?uo=4"
+        },
+        {
+          "appStoreId": "6744784038",
+          "name": "Screen Time Control: Hush",
+          "catalogPosition": 4,
+          "subtitle": null,
+          "averageRating": 0,
+          "ratingCount": 0,
+          "trackViewUrl": "https://apps.apple.com/ge/app/screen-time-control-hush/id6744784038?uo=4"
+        },
+        {
+          "appStoreId": "6744338972",
+          "name": "Brainrot: Screen Time Control",
+          "catalogPosition": 5,
+          "subtitle": null,
+          "averageRating": 4.22222,
+          "ratingCount": 27,
+          "trackViewUrl": "https://apps.apple.com/ge/app/brainrot-screen-time-control/id6744338972?uo=4"
+        }
+      ],
+      "source": "deep-research/markets/ge/raw/catalog-e8a1a599cf91.json",
+      "error": null
+    },
+    {
+      "query": "scroll blocker",
+      "apps": [
+        {
+          "appStoreId": "6754183872",
+          "name": "ScrollGuard: Block Reels",
+          "catalogPosition": 1,
+          "subtitle": null,
+          "averageRating": 5,
+          "ratingCount": 1,
+          "trackViewUrl": "https://apps.apple.com/ge/app/scrollguard-block-reels/id6754183872?uo=4"
+        },
+        {
+          "appStoreId": "6757661674",
+          "name": "SocialLite-Block Reels&Shorts",
+          "catalogPosition": 2,
+          "subtitle": null,
+          "averageRating": 2.92593,
+          "ratingCount": 27,
+          "trackViewUrl": "https://apps.apple.com/ge/app/sociallite-block-reels-shorts/id6757661674?uo=4"
+        },
+        {
+          "appStoreId": "6474079216",
+          "name": "No Scroll - Limit Screen Time",
+          "catalogPosition": 3,
+          "subtitle": null,
+          "averageRating": 5,
+          "ratingCount": 2,
+          "trackViewUrl": "https://apps.apple.com/ge/app/no-scroll-limit-screen-time/id6474079216?uo=4"
+        },
+        {
+          "appStoreId": "6823242639",
+          "name": "Reels Blocker: Stop Scrolling",
+          "catalogPosition": 4,
+          "subtitle": null,
+          "averageRating": 0,
+          "ratingCount": 0,
+          "trackViewUrl": "https://apps.apple.com/ge/app/reels-blocker-stop-scrolling/id6823242639?uo=4"
+        },
+        {
+          "appStoreId": "1532875441",
+          "name": "one sec | screen time + focus",
+          "catalogPosition": 5,
+          "subtitle": null,
+          "averageRating": 4.98,
+          "ratingCount": 50,
+          "trackViewUrl": "https://apps.apple.com/ge/app/one-sec-screen-time-focus/id1532875441?uo=4"
+        }
+      ],
+      "source": "deep-research/markets/ge/raw/catalog-01801eeffa87.json",
+      "error": null
+    },
+    {
+      "query": "stop scrolling",
+      "apps": [
+        {
+          "appStoreId": "6766318473",
+          "name": "Stop Scrolling!",
+          "catalogPosition": 1,
+          "subtitle": null,
+          "averageRating": 0,
+          "ratingCount": 0,
+          "trackViewUrl": "https://apps.apple.com/ge/app/stop-scrolling/id6766318473?uo=4"
+        },
+        {
+          "appStoreId": "6757661674",
+          "name": "SocialLite-Block Reels&Shorts",
+          "catalogPosition": 2,
+          "subtitle": null,
+          "averageRating": 2.92593,
+          "ratingCount": 27,
+          "trackViewUrl": "https://apps.apple.com/ge/app/sociallite-block-reels-shorts/id6757661674?uo=4"
+        },
+        {
+          "appStoreId": "1532875441",
+          "name": "one sec | screen time + focus",
+          "catalogPosition": 3,
+          "subtitle": null,
+          "averageRating": 4.98,
+          "ratingCount": 50,
+          "trackViewUrl": "https://apps.apple.com/ge/app/one-sec-screen-time-focus/id1532875441?uo=4"
+        },
+        {
+          "appStoreId": "6449493645",
+          "name": "Stop Scrolling - Refocus Life",
+          "catalogPosition": 4,
+          "subtitle": null,
+          "averageRating": 0,
+          "ratingCount": 0,
+          "trackViewUrl": "https://apps.apple.com/ge/app/stop-scrolling-refocus-life/id6449493645?uo=4"
+        },
+        {
+          "appStoreId": "6760980801",
+          "name": "Block Reels Shorts: StopScroll",
+          "catalogPosition": 5,
+          "subtitle": null,
+          "averageRating": 0,
+          "ratingCount": 0,
+          "trackViewUrl": "https://apps.apple.com/ge/app/block-reels-shorts-stopscroll/id6760980801?uo=4"
+        }
+      ],
+      "source": "deep-research/markets/ge/raw/catalog-98145236903c.json",
+      "error": null
+    },
+    {
+      "query": "social media blocker",
+      "apps": [
+        {
+          "appStoreId": "1497465230",
+          "name": "Opal: Screen Time Control",
+          "catalogPosition": 1,
+          "subtitle": null,
+          "averageRating": 4.58974,
+          "ratingCount": 156,
+          "trackViewUrl": "https://apps.apple.com/ge/app/opal-screen-time-control/id1497465230?uo=4"
+        },
+        {
+          "appStoreId": "1532875441",
+          "name": "one sec | screen time + focus",
+          "catalogPosition": 2,
+          "subtitle": null,
+          "averageRating": 4.98,
+          "ratingCount": 50,
+          "trackViewUrl": "https://apps.apple.com/ge/app/one-sec-screen-time-focus/id1532875441?uo=4"
+        },
+        {
+          "appStoreId": "6757661674",
+          "name": "SocialLite-Block Reels&Shorts",
+          "catalogPosition": 3,
+          "subtitle": null,
+          "averageRating": 2.92593,
+          "ratingCount": 27,
+          "trackViewUrl": "https://apps.apple.com/ge/app/sociallite-block-reels-shorts/id6757661674?uo=4"
+        },
+        {
+          "appStoreId": "1541027222",
+          "name": "ScreenZen- Screen Time Control",
+          "catalogPosition": 4,
+          "subtitle": null,
+          "averageRating": 4.80882,
+          "ratingCount": 68,
+          "trackViewUrl": "https://apps.apple.com/ge/app/screenzen-screen-time-control/id1541027222?uo=4"
+        },
+        {
+          "appStoreId": "1645639057",
+          "name": "Refocus: App Blocker & Lock",
+          "catalogPosition": 5,
+          "subtitle": null,
+          "averageRating": 4.78571,
+          "ratingCount": 28,
+          "trackViewUrl": "https://apps.apple.com/ge/app/refocus-app-blocker-lock/id1645639057?uo=4"
+        }
+      ],
+      "source": "deep-research/markets/ge/raw/catalog-6c9365764cba.json",
+      "error": null
+    },
+    {
+      "query": "block apps",
+      "apps": [
+        {
+          "appStoreId": "1645639057",
+          "name": "Refocus: App Blocker & Lock",
+          "catalogPosition": 1,
+          "subtitle": null,
+          "averageRating": 4.78571,
+          "ratingCount": 28,
+          "trackViewUrl": "https://apps.apple.com/ge/app/refocus-app-blocker-lock/id1645639057?uo=4"
+        },
+        {
+          "appStoreId": "1515753232",
+          "name": "AppBlock: App & Site Blocker",
+          "catalogPosition": 2,
+          "subtitle": null,
+          "averageRating": 4.65,
+          "ratingCount": 20,
+          "trackViewUrl": "https://apps.apple.com/ge/app/appblock-app-site-blocker/id1515753232?uo=4"
+        },
+        {
+          "appStoreId": "1497465230",
+          "name": "Opal: Screen Time Control",
+          "catalogPosition": 3,
+          "subtitle": null,
+          "averageRating": 4.58974,
+          "ratingCount": 156,
+          "trackViewUrl": "https://apps.apple.com/ge/app/opal-screen-time-control/id1497465230?uo=4"
+        },
+        {
+          "appStoreId": "1541027222",
+          "name": "ScreenZen- Screen Time Control",
+          "catalogPosition": 4,
+          "subtitle": null,
+          "averageRating": 4.80882,
+          "ratingCount": 68,
+          "trackViewUrl": "https://apps.apple.com/ge/app/screenzen-screen-time-control/id1541027222?uo=4"
+        }
+      ],
+      "source": "deep-research/markets/ge/raw/catalog-f5558fcb7be4.json",
+      "error": null
+    },
+    {
+      "query": "app limits",
+      "apps": [
+        {
+          "appStoreId": "1515753232",
+          "name": "AppBlock: App & Site Blocker",
+          "catalogPosition": 1,
+          "subtitle": null,
+          "averageRating": 4.65,
+          "ratingCount": 20,
+          "trackViewUrl": "https://apps.apple.com/ge/app/appblock-app-site-blocker/id1515753232?uo=4"
+        },
+        {
+          "appStoreId": "1497465230",
+          "name": "Opal: Screen Time Control",
+          "catalogPosition": 2,
+          "subtitle": null,
+          "averageRating": 4.58974,
+          "ratingCount": 156,
+          "trackViewUrl": "https://apps.apple.com/ge/app/opal-screen-time-control/id1497465230?uo=4"
+        },
+        {
+          "appStoreId": "1532875441",
+          "name": "one sec | screen time + focus",
+          "catalogPosition": 3,
+          "subtitle": null,
+          "averageRating": 4.98,
+          "ratingCount": 50,
+          "trackViewUrl": "https://apps.apple.com/ge/app/one-sec-screen-time-focus/id1532875441?uo=4"
+        },
+        {
+          "appStoreId": "914825567",
+          "name": "Parental Control App - Kidslox",
+          "catalogPosition": 4,
+          "subtitle": null,
+          "averageRating": 4.39423,
+          "ratingCount": 104,
+          "trackViewUrl": "https://apps.apple.com/ge/app/parental-control-app-kidslox/id914825567?uo=4"
+        },
+        {
+          "appStoreId": "1541027222",
+          "name": "ScreenZen- Screen Time Control",
+          "catalogPosition": 5,
+          "subtitle": null,
+          "averageRating": 4.80882,
+          "ratingCount": 68,
+          "trackViewUrl": "https://apps.apple.com/ge/app/screenzen-screen-time-control/id1541027222?uo=4"
+        }
+      ],
+      "source": "deep-research/markets/ge/raw/catalog-5621cefb6c64.json",
+      "error": null
+    }
+  ],
+  "status": "catalog-only-complete",
+  "completedAt": "2026-11-19T06:18:13.106699+00:00",
+  "limitation": "Astro rejects this storefront. No local popularity/difficulty, no native keyword ranks, and public catalog does not return subtitles. Result count may be under five. Locale decisions require explicitly labelled language-anchor evidence."
+}

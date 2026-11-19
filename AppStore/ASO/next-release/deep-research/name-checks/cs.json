@@ -1,0 +1,21 @@
+{
+  "locale": "cs",
+  "store": "cz",
+  "proposedName": "Screen Time – Kachna",
+  "limitations": "A public top-five name search, not App Store Connect reservation or trademark clearance.",
+  "response": {
+    "id": "72974381-2f01-4b5e-bedd-4be7ff6c5516",
+    "jsonrpc": "2.0",
+    "result": {
+      "content": [
+        {
+          "text": "{\n  \"apps\" : [\n\n  ],\n  \"keyword\" : \"Screen Time – Kachna\",\n  \"platform\" : \"iphone\",\n  \"store\" : \"cz\",\n  \"totalResults\" : 0\n}",
+          "type": "text"
+        }
+      ],
+      "isError": false
+    }
+  },
+  "error": null,
+  "exactOtherAppMatches": []
+}

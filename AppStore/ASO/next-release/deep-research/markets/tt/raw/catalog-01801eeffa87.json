@@ -1,0 +1,123 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=scroll+blocker&country=tt&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/tt/app/sociallite-block-reels-shorts/id6757661674?uo=4",
+        "genres": [
+          "Productivity",
+          "Social Networking"
+        ],
+        "artistName": "Sociallite LLC",
+        "releaseDate": "2026-01-29T08:00:00Z",
+        "currentVersionReleaseDate": "2026-10-16T11:04:41Z",
+        "trackName": "SocialLite-Block Reels&Shorts",
+        "version": "3.1.5",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "social.Social-lite",
+        "primaryGenreName": "Productivity",
+        "trackId": 6757661674,
+        "price": 0.0,
+        "userRatingCount": 0,
+        "descriptionSHA256": "9dbd89f368c17dc50b7187fccb2c303ea2893d4ea389e2290954ac38e87b7144"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/tt/app/scrollguard-block-reels/id6754183872?uo=4",
+        "genres": [
+          "Productivity",
+          "Utilities"
+        ],
+        "artistName": "BreakTheScroll",
+        "releaseDate": "2026-02-10T08:00:00Z",
+        "currentVersionReleaseDate": "2026-11-18T13:35:55Z",
+        "trackName": "ScrollGuard: Block Reels",
+        "version": "1.2.8",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.breakthescroll.scrollguard",
+        "primaryGenreName": "Productivity",
+        "trackId": 6754183872,
+        "price": 0.0,
+        "userRatingCount": 0,
+        "descriptionSHA256": "f86ed0e555432bea394b8f50474532f41318c3cabc1e1d389bee5024f909e63c"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/tt/app/no-scroll-limit-screen-time/id6474079216?uo=4",
+        "genres": [
+          "Productivity"
+        ],
+        "artistName": "Self Invest LLC",
+        "releaseDate": "2024-03-19T07:00:00Z",
+        "currentVersionReleaseDate": "2026-10-24T00:10:19Z",
+        "trackName": "No Scroll - Limit Screen Time",
+        "version": "2.2.6",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.SelfInvest.Cooldown",
+        "primaryGenreName": "Productivity",
+        "trackId": 6474079216,
+        "price": 0.0,
+        "userRatingCount": 0,
+        "descriptionSHA256": "e85c59d401bb05cd788cfe2856c6e9f23c9d5da9a2e87d896908ece3b872d41b"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/tt/app/scroll-block-pornblocker-app/id6755958698?uo=4",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "artistName": "ByteBloom Solutions",
+        "releaseDate": "2025-12-02T08:00:00Z",
+        "currentVersionReleaseDate": "2026-06-14T10:07:56Z",
+        "trackName": "Scroll Block: pornblocker App",
+        "version": "2.7",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.blaneoroark.ScrollBlock",
+        "primaryGenreName": "Productivity",
+        "trackId": 6755958698,
+        "price": 0.0,
+        "userRatingCount": 0,
+        "descriptionSHA256": "80b054d982e29ebbdbf58291a259b2fdae2adf40f9a9c88782be7381831b6a91"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 4.5,
+        "trackViewUrl": "https://apps.apple.com/tt/app/one-sec-screen-time-focus/id1532875441?uo=4",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "artistName": "riedel.wtf apps S.L.",
+        "releaseDate": "2020-09-29T07:00:00Z",
+        "currentVersionReleaseDate": "2026-11-14T18:42:34Z",
+        "trackName": "one sec | screen time + focus",
+        "version": "6.1.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "wtf.riedel.one-sec",
+        "primaryGenreName": "Productivity",
+        "trackId": 1532875441,
+        "price": 0.0,
+        "userRatingCount": 12,
+        "descriptionSHA256": "7458286eeec2edf883eec2f9abc49582f9924be2e29f484b82b1014b4b2a0462"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "a22d8c7fb64be11e5d2d7b8595ee9b2f6cfb5d4a9b06cc7770dcd0a830c91d21",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

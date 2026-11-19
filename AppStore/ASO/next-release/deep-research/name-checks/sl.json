@@ -1,0 +1,21 @@
+{
+  "locale": "sl",
+  "store": "si",
+  "proposedName": "Screen Time – Račka",
+  "limitations": "A public top-five name search, not App Store Connect reservation or trademark clearance.",
+  "response": {
+    "id": "0e1b50a6-5b1c-4a03-9ea7-d0a77555891b",
+    "jsonrpc": "2.0",
+    "result": {
+      "content": [
+        {
+          "text": "{\n  \"apps\" : [\n\n  ],\n  \"keyword\" : \"Screen Time – Račka\",\n  \"platform\" : \"iphone\",\n  \"store\" : \"si\",\n  \"totalResults\" : 0\n}",
+          "type": "text"
+        }
+      ],
+      "isError": false
+    }
+  },
+  "error": null,
+  "exactOtherAppMatches": []
+}

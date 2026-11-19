@@ -1,0 +1,13 @@
+{
+  "id": "47e10f5e-78d1-4321-a4b2-e25b119c0af6",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"apps\" : [\n    {\n      \"appStoreId\" : \"6757323160\",\n      \"averageRating\" : 0,\n      \"bundleId\" : \"pjc.Move\",\n      \"developer\" : \"Be Right Back App LLC\",\n      \"genre\" : \"Hälsa och motion\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple221\\/v4\\/d7\\/59\\/c5\\/d759c5eb-21be-4609-982b-5b04e81e2bd9\\/AppIcon-0-0-1x_U007ephone-0-1-sRGB-85-220.png\\/80x0w.webp\",\n      \"name\" : \"brb: Gå för att låsa upp\",\n      \"ranking\" : 1,\n      \"ratingCount\" : 0,\n      \"subtitle\" : \"Tjäna skärmtid med steg\"\n    }\n  ],\n  \"keyword\" : \"digital avgiftning\",\n  \"platform\" : \"iphone\",\n  \"store\" : \"se\",\n  \"totalResults\" : 1\n}",
+        "type": "text"
+      }
+    ],
+    "isError": false
+  }
+}

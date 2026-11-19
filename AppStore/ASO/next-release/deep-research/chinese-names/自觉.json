@@ -1,0 +1,16 @@
+{
+  "query": "自觉",
+  "response": {
+    "id": "5196efc9-b865-40f6-9bce-9adf94f14065",
+    "jsonrpc": "2.0",
+    "result": {
+      "content": [
+        {
+          "text": "{\n  \"apps\" : [\n    {\n      \"appStoreId\" : \"581412281\",\n      \"averageRating\" : 0,\n      \"bundleId\" : \"com.supercoolvibes.sahajaquotes\",\n      \"developer\" : \"coolvibes\",\n      \"genre\" : \"参考资料\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple221\\/v4\\/61\\/18\\/e2\\/6118e23f-bd7c-9204-06d6-ebc0ec3ec02e\\/AppIcon-0-0-1x_U007epad-0-1-85-220.png\\/80x0w.webp\",\n      \"name\" : \"Sahaja语录\",\n      \"ranking\" : 1,\n      \"ratingCount\" : 0,\n      \"subtitle\" : \"雪莉玛塔吉每日话语\"\n    },\n    {\n      \"appStoreId\" : \"1329483992\",\n      \"averageRating\" : 2.7,\n      \"bundleId\" : \"npj.SplitNotes\",\n      \"developer\" : \"Keiko Nishie\",\n      \"genre\" : \"效率\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple118\\/v4\\/b3\\/a4\\/85\\/b3a48546-2a1c-6d2a-5ee7-095a27d18aa0\\/AppIcon-1x_U007emarketing-sRGB-85-220-0-4.png\\/80x0w.webp\",\n      \"name\" : \"拆分笔记 : 两列笔记\",\n      \"ranking\" : 2,\n      \"ratingCount\" : 3,\n      \"subtitle\" : \"它可以写成2列\"\n    },\n    {\n      \"appStoreId\" : \"6751785408\",\n      \"averageRating\" : 0,\n      \"bundleId\" : \"com.magik.gokids\",\n      \"developer\" : \"Michael Bouix\",\n      \"genre\" : \"效率\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple211\\/v4\\/43\\/7e\\/43\\/437e4313-feec-9754-51c4-cf06c98c7b21\\/AppIcon-0-0-1x_U007epad-0-1-85-220.png\\/80x0w.webp\",\n      \"name\" : \"GoKids：儿童自律打卡与积分奖励\",\n      \"ranking\" : 3,\n      \"ratingCount\" : 0,\n      \"subtitle\" : \"习惯养成，家务与作息任务表，攒星星兑换心愿奖励\"\n    },\n    {\n      \"appStoreId\" : \"6817049163\",\n      \"averageRating\" : 5,\n      \"bundleId\" : \"com.franliber.punicchee\",\n      \"developer\" : \"株式会社フランリベル\",\n      \"genre\" : \"教育\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple211\\/v4\\/64\\/e9\\/12\\/64e91293-746d-490a-3a7f-593f4c28f5b0\\/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png\\/80x0w.webp\",\n      \"name\" : \"儿童习惯养成打卡-小红花奖励表 Punicchee\",\n      \"ranking\" : 4,\n      \"ratingCount\" : 5,\n      \"subtitle\" : \"宝宝自律积分·家务作息计划·萌宠成长\"\n    },\n    {\n      \"appStoreId\" : \"1570188429\",\n      \"averageRating\" : 4,\n      \"bundleId\" : \"com.baobeiai.tech\",\n      \"developer\" : \"深圳铢宝益科技有限公司\",\n      \"genre\" : \"娱乐\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple115\\/v4\\/e4\\/f4\\/09\\/e4f4098d-f2ce-6417-bf41-d5277cbcb0cb\\/AppIcon-0-0-1x_U007emarketing-0-0-0-9-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png\\/80x0w.webp\",\n      \"name\" : \"宝宝爱刷牙\",\n      \"ranking\" : 5,\n      \"ratingCount\" : 2\n    }\n  ],\n  \"keyword\" : \"自觉\",\n  \"platform\" : \"iphone\",\n  \"store\" : \"cn\",\n  \"totalResults\" : 7\n}",
+          "type": "text"
+        }
+      ],
+      "isError": false
+    }
+  }
+}

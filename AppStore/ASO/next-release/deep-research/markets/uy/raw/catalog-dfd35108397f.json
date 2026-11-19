@@ -1,0 +1,122 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=bloquear+aplicaciones&country=uy&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/uy/app/app-lock-password-for-apps/id6746766591?uo=4",
+        "averageUserRating": 0,
+        "artistName": "LYKOV STUDIO LTD",
+        "genres": [
+          "Utilities"
+        ],
+        "currentVersionReleaseDate": "2026-11-10T16:00:02Z",
+        "bundleId": "com.lykovstudio.AppLock",
+        "trackName": "App Lock - Password For Apps",
+        "trackId": 6746766591,
+        "releaseDate": "2025-06-26T07:00:00Z",
+        "primaryGenreName": "Utilities",
+        "version": "1.0.30",
+        "wrapperType": "software",
+        "currency": "USD",
+        "price": 0.0,
+        "userRatingCount": 0,
+        "descriptionSHA256": "1a1f89cfbf97346eb5db2de5439ac39f79f6a7105b9130647317997f72456a3d"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/uy/app/refocus-app-blocker-lock/id1645639057?uo=4",
+        "averageUserRating": 4.72727,
+        "artistName": "Labi, LLC",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "currentVersionReleaseDate": "2026-11-18T15:32:47Z",
+        "bundleId": "com.refocus.refocus",
+        "trackName": "Refocus: App Blocker & Lock",
+        "trackId": 1645639057,
+        "releaseDate": "2022-09-22T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "version": "2.2.11",
+        "wrapperType": "software",
+        "currency": "USD",
+        "price": 0.0,
+        "userRatingCount": 22,
+        "descriptionSHA256": "31bd6049418a698d36c61b2eafbe2ca02a56d8aa24878c1963caa5895db876a1"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/uy/app/appblock-app-site-blocker/id1515753232?uo=4",
+        "averageUserRating": 4.52632,
+        "artistName": "MobileSoft s.r.o.",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "currentVersionReleaseDate": "2026-11-11T10:48:39Z",
+        "bundleId": "eu.mobilesoft.appblock",
+        "trackName": "AppBlock: App & Site Blocker",
+        "trackId": 1515753232,
+        "releaseDate": "2021-08-17T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "version": "4.14.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "price": 0.0,
+        "userRatingCount": 38,
+        "descriptionSHA256": "f4e2257d9c85cbaf9cd8496ddc82a9a5d41b2e0440020c527d8b3b8c4bbe4236"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/uy/app/opal-screen-time-control/id1497465230?uo=4",
+        "averageUserRating": 4.83448,
+        "artistName": "Opal OS",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "bundleId": "com.withopal.opal",
+        "trackName": "Opal: Screen Time Control",
+        "trackId": 1497465230,
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "primaryGenreName": "Productivity",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "USD",
+        "price": 0.0,
+        "userRatingCount": 145,
+        "descriptionSHA256": "79545dcfd9d33edf53d3567fc6a6eb5b582561ed18b9d49245fbff4af0417656"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/uy/app/app-lock-lock-apps/id6469686557?uo=4",
+        "averageUserRating": 4.66667,
+        "artistName": "友财 徐",
+        "genres": [
+          "Utilities"
+        ],
+        "currentVersionReleaseDate": "2026-06-22T01:26:35Z",
+        "bundleId": "com.xu.applock",
+        "trackName": "App Lock - Lock Apps .",
+        "trackId": 6469686557,
+        "releaseDate": "2023-11-07T08:00:00Z",
+        "primaryGenreName": "Utilities",
+        "version": "1.5.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "price": 0.0,
+        "userRatingCount": 3,
+        "descriptionSHA256": "15b3c0f184bdcdd978e379e824c1b4e91598fa21e1c383a33a31fc4c581a3e52"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "45910f68ed3fc9935cfd97bf56258d96086ec49c0f3be3efd50a26b1c10af45f",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

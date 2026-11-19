@@ -1,0 +1,123 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=screen+time+control&country=zm&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "artistName": "Opal OS",
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "trackName": "Opal: Screen Time Control",
+        "trackId": 1497465230,
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 4.65517,
+        "trackViewUrl": "https://apps.apple.com/zm/app/opal-screen-time-control/id1497465230?uo=4",
+        "bundleId": "com.withopal.opal",
+        "price": 0.0,
+        "userRatingCount": 29,
+        "descriptionSHA256": "79545dcfd9d33edf53d3567fc6a6eb5b582561ed18b9d49245fbff4af0417656"
+      },
+      {
+        "kind": "software",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "artistName": "ScreenZen LLC",
+        "releaseDate": "2021-07-16T07:00:00Z",
+        "trackName": "ScreenZen- Screen Time Control",
+        "trackId": 1541027222,
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-09-06T14:20:14Z",
+        "version": "4.0.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 4.61538,
+        "trackViewUrl": "https://apps.apple.com/zm/app/screenzen-screen-time-control/id1541027222?uo=4",
+        "bundleId": "com.scottharvey.screenzenapp.ios",
+        "price": 0.0,
+        "userRatingCount": 13,
+        "descriptionSHA256": "def0cb7cf41c8f7b1619d270d38fe8aa23859b81147ae63a1041bc0a1b7f8cc8"
+      },
+      {
+        "kind": "software",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "artistName": "Screen Detox Inc",
+        "releaseDate": "2022-09-29T07:00:00Z",
+        "trackName": "BePresent: Screen Time Tracker",
+        "trackId": 1644737181,
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-17T21:48:19Z",
+        "version": "0.18.114",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/zm/app/bepresent-screen-time-tracker/id1644737181?uo=4",
+        "bundleId": "com.getpresentapp.Present",
+        "price": 0.0,
+        "userRatingCount": 0,
+        "descriptionSHA256": "9e95923ffd20bc165bc1b53c7661f2d4334ba2865dd171c33d46a18826231bfe"
+      },
+      {
+        "kind": "software",
+        "genres": [
+          "Productivity"
+        ],
+        "artistName": "Deebex Tech Ltd.",
+        "releaseDate": "2023-10-10T07:00:00Z",
+        "trackName": "App Blocker - Screen Time",
+        "trackId": 6456942073,
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-08-13T00:04:05Z",
+        "version": "3.0.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/zm/app/app-blocker-screen-time/id6456942073?uo=4",
+        "bundleId": "com.idreamdesign.screen",
+        "price": 0.0,
+        "userRatingCount": 0,
+        "descriptionSHA256": "97f0576b3c2db9b58153d327b549d41dd39cce7ace43d700c29f2becd85cf727"
+      },
+      {
+        "kind": "software",
+        "genres": [
+          "Lifestyle",
+          "Productivity"
+        ],
+        "artistName": "Screen Time Labs",
+        "releaseDate": "2020-04-10T07:00:00Z",
+        "trackName": "Screen Time Parental Control",
+        "trackId": 1055315077,
+        "primaryGenreName": "Lifestyle",
+        "currentVersionReleaseDate": "2022-12-07T13:43:25Z",
+        "version": "3.72",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/zm/app/screen-time-parental-control/id1055315077?uo=4",
+        "bundleId": "com.screentime",
+        "price": 0.0,
+        "userRatingCount": 0,
+        "descriptionSHA256": "4304fa45bc672e931bb3f98d3b8232f55d3f776c5eb880d3d113c7227a932ad6"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "7e613549dd6dfecdf05f096851e10f7fa4a6daa56e1a435f4d6cfa2e540ea6a5",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

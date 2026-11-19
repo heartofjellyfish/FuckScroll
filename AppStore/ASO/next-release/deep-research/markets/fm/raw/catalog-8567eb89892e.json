@@ -1,0 +1,124 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=app+blocker&country=fm&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "artistName": "Labi, LLC",
+        "price": 0.0,
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2022-09-22T07:00:00Z",
+        "trackId": 1645639057,
+        "trackName": "Refocus: App Blocker & Lock",
+        "currentVersionReleaseDate": "2026-11-18T15:32:47Z",
+        "version": "2.2.11",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 0,
+        "bundleId": "com.refocus.refocus",
+        "trackViewUrl": "https://apps.apple.com/fm/app/refocus-app-blocker-lock/id1645639057?uo=4",
+        "userRatingCount": 0,
+        "descriptionSHA256": "31bd6049418a698d36c61b2eafbe2ca02a56d8aa24878c1963caa5895db876a1"
+      },
+      {
+        "kind": "software",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "artistName": "KAMAN LABS LLC",
+        "price": 0.0,
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2025-09-12T07:00:00Z",
+        "trackId": 6749405784,
+        "trackName": "PushUp Time: App Blocker",
+        "currentVersionReleaseDate": "2026-11-13T22:27:44Z",
+        "version": "3.5.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 3,
+        "bundleId": "com.pushuptime.PushUpTime",
+        "trackViewUrl": "https://apps.apple.com/fm/app/pushup-time-app-blocker/id6749405784?uo=4",
+        "userRatingCount": 1,
+        "descriptionSHA256": "381d3e9ca6df467e24b76b910052b08c42e30d138369d7f7d0c987a61ca8892c"
+      },
+      {
+        "kind": "software",
+        "genres": [
+          "Utilities",
+          "Productivity"
+        ],
+        "artistName": "Muhammet Yalcın Ozdemir Halil Ibrahim Karahan Mustafa Ayten Kupertino Bilisim Yazılım K.S",
+        "price": 0.0,
+        "primaryGenreName": "Utilities",
+        "releaseDate": "2021-06-12T07:00:00Z",
+        "trackId": 1569973513,
+        "trackName": "App Lock - Lock Apps & Photos",
+        "currentVersionReleaseDate": "2026-09-25T07:10:51Z",
+        "version": "2.2.4",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 2,
+        "bundleId": "co.appnation.applocker",
+        "trackViewUrl": "https://apps.apple.com/fm/app/app-lock-lock-apps-photos/id1569973513?uo=4",
+        "userRatingCount": 1,
+        "descriptionSHA256": "7ba2ea3794744905bae3c370c1d34f9ff79f824d3ed6e187d44098d261070cc2"
+      },
+      {
+        "kind": "software",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "artistName": "BlockSite LP",
+        "price": 0.0,
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2019-09-01T07:00:00Z",
+        "trackId": 1474967653,
+        "trackName": "BlockSite: Block Apps & Focus",
+        "currentVersionReleaseDate": "2026-10-18T07:41:00Z",
+        "version": "4.4.5",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 0,
+        "bundleId": "co.ios.BlockSite",
+        "trackViewUrl": "https://apps.apple.com/fm/app/blocksite-block-apps-focus/id1474967653?uo=4",
+        "userRatingCount": 0,
+        "descriptionSHA256": "3eb447725c9fc35e830b2ea7ff4f799cbbf9f0a174fb4879e2041c2cb7805265"
+      },
+      {
+        "kind": "software",
+        "genres": [
+          "Social Networking",
+          "Productivity"
+        ],
+        "artistName": "Meta Platforms, Inc.",
+        "price": 0.0,
+        "primaryGenreName": "Social Networking",
+        "releaseDate": "2012-06-03T18:47:24Z",
+        "trackId": 454638411,
+        "trackName": "Messenger",
+        "currentVersionReleaseDate": "2026-11-15T11:07:02Z",
+        "version": "588.0.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 4.55266,
+        "bundleId": "com.facebook.Messenger",
+        "trackViewUrl": "https://apps.apple.com/fm/app/messenger/id454638411?uo=4",
+        "userRatingCount": 1918,
+        "descriptionSHA256": "880dc5747f24658997557eaf5742b74a4f323ec723438c9d1221293e7315235d"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "003585923f54c1a4371899e8d2dcb76b5882cb0bda3fd94d2cb20266c89b7251",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

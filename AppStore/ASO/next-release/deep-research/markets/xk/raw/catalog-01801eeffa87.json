@@ -1,0 +1,123 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=scroll+blocker&country=xk&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "currentVersionReleaseDate": "2026-10-16T11:04:41Z",
+        "genres": [
+          "Productivity",
+          "Social Networking"
+        ],
+        "artistName": "Sociallite LLC",
+        "trackId": 6757661674,
+        "trackName": "SocialLite-Block Reels&Shorts",
+        "primaryGenreName": "Productivity",
+        "version": "3.1.5",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "trackViewUrl": "https://apps.apple.com/xk/app/sociallite-block-reels-shorts/id6757661674?uo=4",
+        "averageUserRating": 4,
+        "bundleId": "social.Social-lite",
+        "price": 0.0,
+        "releaseDate": "2026-01-29T08:00:00Z",
+        "userRatingCount": 1,
+        "descriptionSHA256": "9dbd89f368c17dc50b7187fccb2c303ea2893d4ea389e2290954ac38e87b7144"
+      },
+      {
+        "kind": "software",
+        "currentVersionReleaseDate": "2026-11-18T13:35:55Z",
+        "genres": [
+          "Productivity",
+          "Utilities"
+        ],
+        "artistName": "BreakTheScroll",
+        "trackId": 6754183872,
+        "trackName": "ScrollGuard: Block Reels",
+        "primaryGenreName": "Productivity",
+        "version": "1.2.8",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "trackViewUrl": "https://apps.apple.com/xk/app/scrollguard-block-reels/id6754183872?uo=4",
+        "averageUserRating": 0,
+        "bundleId": "com.breakthescroll.scrollguard",
+        "price": 0.0,
+        "releaseDate": "2026-02-10T08:00:00Z",
+        "userRatingCount": 0,
+        "descriptionSHA256": "f86ed0e555432bea394b8f50474532f41318c3cabc1e1d389bee5024f909e63c"
+      },
+      {
+        "kind": "software",
+        "currentVersionReleaseDate": "2026-10-24T00:10:19Z",
+        "genres": [
+          "Productivity"
+        ],
+        "artistName": "Self Invest LLC",
+        "trackId": 6474079216,
+        "trackName": "No Scroll - Limit Screen Time",
+        "primaryGenreName": "Productivity",
+        "version": "2.2.6",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "trackViewUrl": "https://apps.apple.com/xk/app/no-scroll-limit-screen-time/id6474079216?uo=4",
+        "averageUserRating": 5,
+        "bundleId": "com.SelfInvest.Cooldown",
+        "price": 0.0,
+        "releaseDate": "2024-03-19T07:00:00Z",
+        "userRatingCount": 1,
+        "descriptionSHA256": "e85c59d401bb05cd788cfe2856c6e9f23c9d5da9a2e87d896908ece3b872d41b"
+      },
+      {
+        "kind": "software",
+        "currentVersionReleaseDate": "2026-11-14T18:42:34Z",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "artistName": "riedel.wtf apps S.L.",
+        "trackId": 1532875441,
+        "trackName": "one sec | screen time + focus",
+        "primaryGenreName": "Productivity",
+        "version": "6.1.3",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "trackViewUrl": "https://apps.apple.com/xk/app/one-sec-screen-time-focus/id1532875441?uo=4",
+        "averageUserRating": 4.5,
+        "bundleId": "wtf.riedel.one-sec",
+        "price": 0.0,
+        "releaseDate": "2020-09-29T07:00:00Z",
+        "userRatingCount": 4,
+        "descriptionSHA256": "7458286eeec2edf883eec2f9abc49582f9924be2e29f484b82b1014b4b2a0462"
+      },
+      {
+        "kind": "software",
+        "currentVersionReleaseDate": "2026-06-14T10:07:56Z",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "artistName": "ByteBloom Solutions",
+        "trackId": 6755958698,
+        "trackName": "Scroll Block: pornblocker App",
+        "primaryGenreName": "Productivity",
+        "version": "2.7",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "trackViewUrl": "https://apps.apple.com/xk/app/scroll-block-pornblocker-app/id6755958698?uo=4",
+        "averageUserRating": 0,
+        "bundleId": "com.blaneoroark.ScrollBlock",
+        "price": 0.0,
+        "releaseDate": "2025-12-02T08:00:00Z",
+        "userRatingCount": 0,
+        "descriptionSHA256": "80b054d982e29ebbdbf58291a259b2fdae2adf40f9a9c88782be7381831b6a91"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "867deef52670f86079a3b41ad03cca94c2bd4ccf3f2133a8c342c8c08e8ee27f",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

@@ -1,0 +1,124 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=bloqueur+d%E2%80%99applications&country=ci&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "averageUserRating": 4.36,
+        "trackViewUrl": "https://apps.apple.com/ci/app/one-sec-temps-d%C3%A9cran-focus/id1532875441?uo=4",
+        "genres": [
+          "Productivité",
+          "Forme et santé"
+        ],
+        "price": 0.0,
+        "artistName": "riedel.wtf apps S.L.",
+        "trackId": 1532875441,
+        "trackName": "one sec–temps d'écran & focus",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-14T18:42:34Z",
+        "version": "6.1.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "wtf.riedel.one-sec",
+        "releaseDate": "2020-09-29T07:00:00Z",
+        "userRatingCount": 25,
+        "descriptionSHA256": "715bc05374e0cd89a6cc12a733a4364b877af8f965c0d4db3ea738c1f0d554a8"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 4.42494,
+        "trackViewUrl": "https://apps.apple.com/ci/app/callapp-id-bloqueur-dappel/id6739289261?uo=4",
+        "genres": [
+          "Utilitaires",
+          "Productivité"
+        ],
+        "price": 0.0,
+        "artistName": "CallApp",
+        "trackId": 6739289261,
+        "trackName": "Callapp: ID & Bloqueur d'appel",
+        "primaryGenreName": "Utilities",
+        "currentVersionReleaseDate": "2026-11-16T06:52:43Z",
+        "version": "1.29",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.callapp.contacts",
+        "releaseDate": "2025-09-29T07:00:00Z",
+        "userRatingCount": 393,
+        "descriptionSHA256": "e36fb910d9a54f134eabe7b917d4ebd086ab80c96a06de8d407a4da1984f4665"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 4.56707,
+        "trackViewUrl": "https://apps.apple.com/ci/app/opal-temps-d%C3%A9cran-et-focus/id1497465230?uo=4",
+        "genres": [
+          "Productivité",
+          "Forme et santé"
+        ],
+        "price": 0.0,
+        "artistName": "Opal OS",
+        "trackId": 1497465230,
+        "trackName": "Opal: Temps d'écran et Focus",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.withopal.opal",
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "userRatingCount": 164,
+        "descriptionSHA256": "c0fba23699dd09c567f31251e42122228bee0170b55079e3167ec7297b90a927"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 4.04444,
+        "trackViewUrl": "https://apps.apple.com/ci/app/salahscreen-bloqueur-dapps/id6748571304?uo=4",
+        "genres": [
+          "Références",
+          "Productivité"
+        ],
+        "price": 0.0,
+        "artistName": "Rayane Sahi",
+        "trackId": 6748571304,
+        "trackName": "SalahScreen : Bloqueur d’apps",
+        "primaryGenreName": "Reference",
+        "currentVersionReleaseDate": "2026-09-02T14:13:01Z",
+        "version": "2.0.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "Zikr.SalahScreen",
+        "releaseDate": "2025-10-09T07:00:00Z",
+        "userRatingCount": 90,
+        "descriptionSHA256": "eee21246fec604e38cca1a69cd88193f71e085fd7ad913c60f108af12c790f18"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 4.875,
+        "trackViewUrl": "https://apps.apple.com/ci/app/stay-focused-bloqueur-dapps/id1658592224?uo=4",
+        "genres": [
+          "Productivité",
+          "Utilitaires"
+        ],
+        "price": 0.0,
+        "artistName": "INNOXAPPS LLP",
+        "trackId": 1658592224,
+        "trackName": "Stay Focused - Bloqueur d'apps",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-10-01T19:56:32Z",
+        "version": "7.0.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.stayfocused",
+        "releaseDate": "2023-01-26T08:00:00Z",
+        "userRatingCount": 8,
+        "descriptionSHA256": "bedbf23117848478cf17d309abe20d4a17dc09265b4a7ed4ee6a57d387671805"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "23d3ea41848ebe9f43878478311d4b56c4b39bced43de4adbb99aa87858fafc8",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

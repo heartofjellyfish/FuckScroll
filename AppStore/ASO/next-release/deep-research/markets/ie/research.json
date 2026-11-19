@@ -1,0 +1,873 @@
+{
+  "store": "ie",
+  "country": "Ireland",
+  "defaultLanguage": "English (U.K.)",
+  "additionalLanguages": "",
+  "languages": [
+    "en"
+  ],
+  "candidates": [
+    "app blocker",
+    "screen time",
+    "screen time control",
+    "scroll blocker",
+    "stop scrolling",
+    "social media blocker",
+    "block apps",
+    "app limits",
+    "screen time limit",
+    "reduce screen time",
+    "digital detox",
+    "stop doomscrolling",
+    "doomscroll",
+    "app timer",
+    "phone addiction",
+    "stay focused",
+    "focus",
+    "self control",
+    "distraction blocker",
+    "phone detox",
+    "screen time tracker",
+    "social media addiction",
+    "app lock",
+    "parental control"
+  ],
+  "astroSupported": true,
+  "catalogQueries": [
+    "app blocker",
+    "screen time",
+    "screen time control",
+    "scroll blocker",
+    "stop scrolling",
+    "social media blocker",
+    "block apps",
+    "app limits"
+  ],
+  "startedAt": "2026-11-19T06:25:15.576726+00:00",
+  "source": "Astro MCP, iPhone storefront",
+  "metrics": [
+    {
+      "appsCount": 237,
+      "currentRanking": 1000,
+      "difficulty": 21,
+      "keyword": "app blocker",
+      "lastUpdate": "2026-11-19T01:31:19Z",
+      "popularity": 43,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "ie"
+    },
+    {
+      "appsCount": 238,
+      "currentRanking": 1000,
+      "difficulty": 19,
+      "keyword": "screen time",
+      "lastUpdate": "2026-11-19T01:31:19Z",
+      "popularity": 36,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "ie"
+    },
+    {
+      "appsCount": 241,
+      "currentRanking": 1000,
+      "difficulty": 19,
+      "keyword": "screen time control",
+      "lastUpdate": "2026-11-19T05:15:53Z",
+      "popularity": 35,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "ie"
+    },
+    {
+      "appsCount": 221,
+      "currentRanking": 1000,
+      "difficulty": 9,
+      "keyword": "scroll blocker",
+      "lastUpdate": "2026-11-19T05:15:53Z",
+      "popularity": 5,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "ie"
+    },
+    {
+      "appsCount": 232,
+      "currentRanking": 32,
+      "difficulty": 11,
+      "keyword": "stop scrolling",
+      "lastUpdate": "2026-11-19T01:31:19Z",
+      "popularity": 5,
+      "previousRanking": 32,
+      "rankingChange": 0,
+      "store": "ie"
+    },
+    {
+      "appsCount": 218,
+      "currentRanking": 1000,
+      "difficulty": 19,
+      "keyword": "social media blocker",
+      "lastUpdate": "2026-11-19T06:25:37Z",
+      "popularity": 5,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "ie"
+    },
+    {
+      "appsCount": 236,
+      "currentRanking": 1000,
+      "difficulty": 17,
+      "keyword": "block apps",
+      "lastUpdate": "2026-11-19T06:25:37Z",
+      "popularity": 5,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "ie"
+    },
+    {
+      "appsCount": 240,
+      "currentRanking": 1000,
+      "difficulty": 48,
+      "keyword": "app limits",
+      "lastUpdate": "2026-11-19T06:25:37Z",
+      "popularity": 5,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "ie"
+    },
+    {
+      "appsCount": 232,
+      "currentRanking": 1000,
+      "difficulty": 13,
+      "keyword": "screen time limit",
+      "lastUpdate": "2026-11-19T06:25:37Z",
+      "popularity": 5,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "ie"
+    },
+    {
+      "appsCount": 241,
+      "currentRanking": 1000,
+      "difficulty": 13,
+      "keyword": "reduce screen time",
+      "lastUpdate": "2026-11-19T06:25:37Z",
+      "popularity": 5,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "ie"
+    },
+    {
+      "appsCount": 234,
+      "currentRanking": 1000,
+      "difficulty": 11,
+      "keyword": "digital detox",
+      "lastUpdate": "2026-11-19T01:31:19Z",
+      "popularity": 5,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "ie"
+    },
+    {
+      "appsCount": 222,
+      "currentRanking": 178,
+      "difficulty": 11,
+      "keyword": "stop doomscrolling",
+      "lastUpdate": "2026-11-19T06:25:37Z",
+      "popularity": 5,
+      "previousRanking": 178,
+      "rankingChange": 0,
+      "store": "ie"
+    },
+    {
+      "appsCount": 217,
+      "currentRanking": 1000,
+      "difficulty": 13,
+      "keyword": "doomscroll",
+      "lastUpdate": "2026-11-19T06:25:37Z",
+      "popularity": 5,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "ie"
+    },
+    {
+      "appsCount": 236,
+      "currentRanking": 1000,
+      "difficulty": 38,
+      "keyword": "app timer",
+      "lastUpdate": "2026-11-19T06:25:37Z",
+      "popularity": 5,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "ie"
+    },
+    {
+      "appsCount": 221,
+      "currentRanking": 1000,
+      "difficulty": 13,
+      "keyword": "phone addiction",
+      "lastUpdate": "2026-11-19T06:25:37Z",
+      "popularity": 5,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "ie"
+    },
+    {
+      "appsCount": 211,
+      "currentRanking": 1000,
+      "difficulty": 21,
+      "keyword": "stay focused",
+      "lastUpdate": "2026-11-19T06:25:37Z",
+      "popularity": 5,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "ie"
+    },
+    {
+      "appsCount": 238,
+      "currentRanking": 1000,
+      "difficulty": 23,
+      "keyword": "focus",
+      "lastUpdate": "2026-11-19T06:25:37Z",
+      "popularity": 42,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "ie"
+    },
+    {
+      "appsCount": 228,
+      "currentRanking": 1000,
+      "difficulty": 13,
+      "keyword": "self control",
+      "lastUpdate": "2026-11-19T06:25:37Z",
+      "popularity": 5,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "ie"
+    },
+    {
+      "appsCount": 230,
+      "currentRanking": 1000,
+      "difficulty": 19,
+      "keyword": "distraction blocker",
+      "lastUpdate": "2026-11-19T06:25:37Z",
+      "popularity": 5,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "ie"
+    },
+    {
+      "appsCount": 225,
+      "currentRanking": 1000,
+      "difficulty": 13,
+      "keyword": "phone detox",
+      "lastUpdate": "2026-11-19T06:25:37Z",
+      "popularity": 5,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "ie"
+    },
+    {
+      "appsCount": 233,
+      "currentRanking": 1000,
+      "difficulty": 17,
+      "keyword": "screen time tracker",
+      "lastUpdate": "2026-11-19T06:25:37Z",
+      "popularity": 5,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "ie"
+    },
+    {
+      "appsCount": 194,
+      "currentRanking": 1000,
+      "difficulty": 11,
+      "keyword": "social media addiction",
+      "lastUpdate": "2026-11-19T06:25:37Z",
+      "popularity": 5,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "ie"
+    },
+    {
+      "appsCount": 227,
+      "currentRanking": 1000,
+      "difficulty": 7,
+      "keyword": "app lock",
+      "lastUpdate": "2026-11-19T06:25:37Z",
+      "popularity": 39,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "ie"
+    },
+    {
+      "appsCount": 226,
+      "currentRanking": 1000,
+      "difficulty": 21,
+      "keyword": "parental control",
+      "lastUpdate": "2026-11-19T06:25:37Z",
+      "popularity": 37,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "ie"
+    }
+  ],
+  "queries": [
+    "app blocker",
+    "screen time",
+    "screen time control",
+    "focus",
+    "scroll blocker",
+    "stop scrolling",
+    "digital detox",
+    "stop doomscrolling"
+  ],
+  "searches": [
+    {
+      "query": "app blocker",
+      "apps": [
+        {
+          "appStoreId": "1497465230",
+          "averageRating": 4.7,
+          "bundleId": "com.withopal.opal",
+          "developer": "Opal OS",
+          "genre": "Productivity",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/49/82/784982f1-f983-4980-1fac-0d542c970db8/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/80x0w.webp",
+          "name": "Opal: Screen Time Control",
+          "ranking": 1,
+          "ratingCount": 947,
+          "subtitle": "Focus, App Blocker & Timer"
+        },
+        {
+          "appStoreId": "1515753232",
+          "averageRating": 4.6,
+          "bundleId": "eu.mobilesoft.appblock",
+          "developer": "MobileSoft s.r.o.",
+          "genre": "Productivity",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/5a/d7/9c5ad7ef-7122-af9e-baa4-4f35d377ef16/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/80x0w.webp",
+          "name": "AppBlock: App & Site Blocker",
+          "ranking": 2,
+          "ratingCount": 163,
+          "subtitle": "Limit Screen Time | Block Web"
+        },
+        {
+          "appStoreId": "1541027222",
+          "averageRating": 4.8,
+          "bundleId": "com.scottharvey.screenzenapp.ios",
+          "developer": "ScreenZen LLC",
+          "genre": "Productivity",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/c8/de/89c8deef-2a7e-5abf-c5ec-ac3ffa343494/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/80x0w.webp",
+          "name": "ScreenZen- Screen Time Control",
+          "ranking": 3,
+          "ratingCount": 675,
+          "subtitle": "App blocker, limit screen time"
+        },
+        {
+          "appStoreId": "1645639057",
+          "averageRating": 4.7,
+          "bundleId": "com.refocus.refocus",
+          "developer": "Labi, LLC",
+          "genre": "Productivity",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/88/ea/0288ea6d-6953-945e-1749-944b673f6d90/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/80x0w.webp",
+          "name": "Refocus: App Blocker & Lock",
+          "ranking": 4,
+          "ratingCount": 226,
+          "subtitle": "Block Websites, Social Media"
+        },
+        {
+          "appStoreId": "1532875441",
+          "averageRating": 4.8,
+          "bundleId": "wtf.riedel.one-sec",
+          "developer": "riedel.wtf apps S.L.",
+          "genre": "Productivity",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/f1/83/faf18373-f0af-4b1d-2625-e47565d9ff05/one_sec_Default_App_Icon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/80x0w.webp",
+          "name": "one sec | screen time + focus",
+          "ranking": 5,
+          "ratingCount": 608,
+          "subtitle": "App Blocker & Website Limits"
+        }
+      ],
+      "source": "top5/ie-8567eb89.json",
+      "error": null,
+      "purpose": "Functional search hypothesis"
+    },
+    {
+      "query": "screen time",
+      "apps": [
+        {
+          "appStoreId": "1541027222",
+          "averageRating": 4.8,
+          "bundleId": "com.scottharvey.screenzenapp.ios",
+          "developer": "ScreenZen LLC",
+          "genre": "Productivity",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/c8/de/89c8deef-2a7e-5abf-c5ec-ac3ffa343494/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/80x0w.webp",
+          "name": "ScreenZen- Screen Time Control",
+          "ranking": 1,
+          "ratingCount": 676,
+          "subtitle": "App blocker, limit screen time"
+        },
+        {
+          "appStoreId": "1644737181",
+          "averageRating": 4.7,
+          "bundleId": "com.getpresentapp.Present",
+          "developer": "Screen Detox Inc",
+          "genre": "Productivity",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/4d/85/df4d850b-de5e-04d7-6770-2d308b4741d7/Modern_Icon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/80x0w.webp",
+          "name": "BePresent: Screen Time Tracker",
+          "ranking": 2,
+          "ratingCount": 936,
+          "subtitle": "Phone App Time Limit & Blocker"
+        },
+        {
+          "appStoreId": "1497465230",
+          "averageRating": 4.7,
+          "bundleId": "com.withopal.opal",
+          "developer": "Opal OS",
+          "genre": "Productivity",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/49/82/784982f1-f983-4980-1fac-0d542c970db8/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/80x0w.webp",
+          "name": "Opal: Screen Time Control",
+          "ranking": 3,
+          "ratingCount": 947,
+          "subtitle": "Focus, App Blocker & Timer"
+        },
+        {
+          "appStoreId": "6738397686",
+          "averageRating": 5,
+          "bundleId": "com.jackfinnis.ScreenTimeTracker",
+          "developer": "Jack Finnis",
+          "genre": "Productivity",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/83/78/b883782f-005e-c634-00cb-3fd348c09bf9/ScreenTime-0-0-1x_U007epad-0-1-85-220.png/80x0w.webp",
+          "name": "Screen Time Tracker",
+          "ranking": 4,
+          "ratingCount": 3,
+          "subtitle": "App & Website Blocker Control"
+        },
+        {
+          "appStoreId": "1532875441",
+          "averageRating": 4.8,
+          "bundleId": "wtf.riedel.one-sec",
+          "developer": "riedel.wtf apps S.L.",
+          "genre": "Productivity",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/f1/83/faf18373-f0af-4b1d-2625-e47565d9ff05/one_sec_Default_App_Icon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/80x0w.webp",
+          "name": "one sec | screen time + focus",
+          "ranking": 5,
+          "ratingCount": 608,
+          "subtitle": "App Blocker & Website Limits"
+        }
+      ],
+      "source": "deep-research/markets/ie/raw/search-95492313e9b1.json",
+      "error": null,
+      "purpose": "Functional search hypothesis"
+    },
+    {
+      "query": "screen time control",
+      "apps": [
+        {
+          "appStoreId": "1497465230",
+          "averageRating": 4.7,
+          "bundleId": "com.withopal.opal",
+          "developer": "Opal OS",
+          "genre": "Productivity",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/49/82/784982f1-f983-4980-1fac-0d542c970db8/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/80x0w.webp",
+          "name": "Opal: Screen Time Control",
+          "ranking": 1,
+          "ratingCount": 947,
+          "subtitle": "Focus, App Blocker & Timer"
+        },
+        {
+          "appStoreId": "1541027222",
+          "averageRating": 4.8,
+          "bundleId": "com.scottharvey.screenzenapp.ios",
+          "developer": "ScreenZen LLC",
+          "genre": "Productivity",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/c8/de/89c8deef-2a7e-5abf-c5ec-ac3ffa343494/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/80x0w.webp",
+          "name": "ScreenZen- Screen Time Control",
+          "ranking": 2,
+          "ratingCount": 676,
+          "subtitle": "App blocker, limit screen time"
+        },
+        {
+          "appStoreId": "6746537171",
+          "averageRating": 4.6,
+          "bundleId": "com.unrotou.unrot",
+          "developer": "Unrot OÜ",
+          "genre": "Productivity",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/0b/06/b90b065c-d3fd-e45e-e499-96acac1cbe4d/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/80x0w.webp",
+          "name": "Unrot: Earn your Screen Time",
+          "ranking": 3,
+          "ratingCount": 572,
+          "subtitle": "Complete habits, then scroll"
+        },
+        {
+          "appStoreId": "1644737181",
+          "averageRating": 4.7,
+          "bundleId": "com.getpresentapp.Present",
+          "developer": "Screen Detox Inc",
+          "genre": "Productivity",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/4d/85/df4d850b-de5e-04d7-6770-2d308b4741d7/Modern_Icon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/80x0w.webp",
+          "name": "BePresent: Screen Time Tracker",
+          "ranking": 4,
+          "ratingCount": 936,
+          "subtitle": "Phone App Time Limit & Blocker"
+        },
+        {
+          "appStoreId": "6456942073",
+          "averageRating": 0,
+          "bundleId": "com.idreamdesign.screen",
+          "developer": "Deebex Tech Ltd.",
+          "genre": "Productivity",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/66/de/2066def0-19be-aa2f-f2e9-94d0a58c514c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/80x0w.webp",
+          "name": "App Blocker - Screen Time",
+          "ranking": 5,
+          "ratingCount": 0,
+          "subtitle": "Focus, block apps, save time"
+        }
+      ],
+      "source": "deep-research/markets/ie/raw/search-e8a1a599cf91.json",
+      "error": null,
+      "purpose": "Functional search hypothesis"
+    },
+    {
+      "query": "focus",
+      "apps": [
+        {
+          "appStoreId": "866450515",
+          "averageRating": 4.8,
+          "bundleId": "com.forestapp.Forest",
+          "developer": "SEEKRTECH CO., LTD.",
+          "genre": "Productivity",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/58/dc/0458dcb3-7e16-087d-eb7f-3a05d68f8bdb/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/80x0w.webp",
+          "name": "Forest: Focus for Productivity",
+          "ranking": 1,
+          "ratingCount": 2435,
+          "subtitle": "Pomodoro Timer & ADHD Focus"
+        },
+        {
+          "appStoreId": "6742278016",
+          "averageRating": 4.8,
+          "bundleId": "com.underthing.focus.friend",
+          "developer": "B-Tech Consulting Group LLC",
+          "genre": "Productivity",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/ab/45/39ab45f6-214f-ea1d-012a-a6b3b100788e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/80x0w.webp",
+          "name": "Focus Friend, by Hank Green",
+          "ranking": 2,
+          "ratingCount": 73,
+          "subtitle": "ADHD-friendly Focus Timer"
+        },
+        {
+          "appStoreId": "1055677337",
+          "averageRating": 4.6,
+          "bundleId": "org.mozilla.ios.Focus",
+          "developer": "Mozilla",
+          "genre": "Utilities",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/db/93/68db9301-1361-2f0e-8514-050819826ffe/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/80x0w.webp",
+          "name": "Firefox Focus: Privacy browser",
+          "ranking": 3,
+          "ratingCount": 640,
+          "subtitle": "Always-on ad blocking"
+        },
+        {
+          "appStoreId": "1225155794",
+          "averageRating": 4.7,
+          "bundleId": "com.appfinca.flora.ios",
+          "developer": "AppFinca Inc.",
+          "genre": "Productivity",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ca/1c/f6/ca1cf617-2313-efe5-2d7a-e8b793cb5c5a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/80x0w.webp",
+          "name": "Flora - Green Focus",
+          "ranking": 4,
+          "ratingCount": 5686,
+          "subtitle": "To-do list, habit tracker"
+        },
+        {
+          "appStoreId": "1497465230",
+          "averageRating": 4.7,
+          "bundleId": "com.withopal.opal",
+          "developer": "Opal OS",
+          "genre": "Productivity",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/49/82/784982f1-f983-4980-1fac-0d542c970db8/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/80x0w.webp",
+          "name": "Opal: Screen Time Control",
+          "ranking": 5,
+          "ratingCount": 947,
+          "subtitle": "Focus, App Blocker & Timer"
+        }
+      ],
+      "source": "deep-research/markets/ie/raw/search-c51faa148557.json",
+      "error": null,
+      "purpose": "Intent comparator; not a claim this app provides that feature"
+    },
+    {
+      "query": "scroll blocker",
+      "apps": [
+        {
+          "appStoreId": "6754183872",
+          "averageRating": 3.8,
+          "bundleId": "com.breakthescroll.scrollguard",
+          "developer": "BreakTheScroll",
+          "genre": "Productivity",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/65/6c/fe656cde-d653-698f-f7b5-2c9cc205fd58/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/80x0w.webp",
+          "name": "ScrollGuard: Block Reels",
+          "ranking": 1,
+          "ratingCount": 4,
+          "subtitle": "Hide feed, shorts, explore"
+        },
+        {
+          "appStoreId": "6755958698",
+          "averageRating": 0,
+          "bundleId": "com.blaneoroark.ScrollBlock",
+          "developer": "ByteBloom Solutions",
+          "genre": "Productivity",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/09/76/7e/09767ee1-855e-d513-37cc-448c36eeb0a3/AppIcon-0-0-1x_U007epad-0-1-85-220.png/80x0w.webp",
+          "name": "Scroll Block: pornblocker App",
+          "ranking": 2,
+          "ratingCount": 0,
+          "subtitle": "Block adult content & websites"
+        },
+        {
+          "appStoreId": "6474079216",
+          "averageRating": 4.1,
+          "bundleId": "com.SelfInvest.Cooldown",
+          "developer": "Self Invest LLC",
+          "genre": "Productivity",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/be/57/85be57bb-ed9f-8bcd-58ab-eba5dfd9fb89/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/80x0w.webp",
+          "name": "No Scroll - Limit Screen Time",
+          "ranking": 3,
+          "ratingCount": 11,
+          "subtitle": "App Blocker, Control + Reduce"
+        },
+        {
+          "appStoreId": "6758870122",
+          "averageRating": 0,
+          "bundleId": "FeStudio.Scrolless",
+          "developer": "Jared Floersch",
+          "genre": "Productivity",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/8e/d1/95/8ed19523-84af-af72-621b-9370fafa39b4/AppIcon-0-0-1x_U007epad-0-1-85-220.png/80x0w.webp",
+          "name": "Scrolless: Feed Blocker",
+          "ranking": 4,
+          "ratingCount": 0,
+          "subtitle": "Block Reels, Shorts & Feeds"
+        },
+        {
+          "appStoreId": "6757661674",
+          "averageRating": 4.7,
+          "bundleId": "social.Social-lite",
+          "developer": "Sociallite LLC",
+          "genre": "Productivity",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/f9/dd/4ef9dd64-8660-6551-a845-c35ab9765e88/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/80x0w.webp",
+          "name": "SocialLite-Block Reels&Shorts",
+          "ranking": 5,
+          "ratingCount": 338,
+          "subtitle": "Stop Doomscrolling-Stay Social"
+        }
+      ],
+      "source": "deep-research/markets/ie/raw/search-01801eeffa87.json",
+      "error": null,
+      "purpose": "Functional search hypothesis"
+    },
+    {
+      "query": "stop scrolling",
+      "apps": [
+        {
+          "appStoreId": "6757661674",
+          "averageRating": 4.7,
+          "bundleId": "social.Social-lite",
+          "developer": "Sociallite LLC",
+          "genre": "Productivity",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/f9/dd/4ef9dd64-8660-6551-a845-c35ab9765e88/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/80x0w.webp",
+          "name": "SocialLite-Block Reels&Shorts",
+          "ranking": 1,
+          "ratingCount": 338,
+          "subtitle": "Stop Doomscrolling-Stay Social"
+        },
+        {
+          "appStoreId": "6760903985",
+          "averageRating": 0,
+          "bundleId": "com.granulardevelopment.stopscrolling",
+          "developer": "Granular Development Limited",
+          "genre": "Productivity",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ab/a1/05/aba105e1-18c4-1e21-390b-80de80d3a2f5/AppIcon-0-0-1x_U007epad-0-1-85-220.png/80x0w.webp",
+          "name": "Stop Scrolling",
+          "ranking": 2,
+          "ratingCount": 0,
+          "subtitle": "Break the scroll cycle"
+        },
+        {
+          "appStoreId": "6766318473",
+          "averageRating": 0,
+          "bundleId": "com.swens.stopscrolling",
+          "developer": "Swen Sekha",
+          "genre": "Productivity",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/58/11/eb/5811ebc0-37af-abde-e732-b40e696cb720/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/80x0w.webp",
+          "name": "Stop Scrolling!",
+          "ranking": 3,
+          "ratingCount": 0
+        },
+        {
+          "appStoreId": "1532875441",
+          "averageRating": 4.8,
+          "bundleId": "wtf.riedel.one-sec",
+          "developer": "riedel.wtf apps S.L.",
+          "genre": "Productivity",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/f1/83/faf18373-f0af-4b1d-2625-e47565d9ff05/one_sec_Default_App_Icon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/80x0w.webp",
+          "name": "one sec | screen time + focus",
+          "ranking": 4,
+          "ratingCount": 608,
+          "subtitle": "App Blocker & Website Limits"
+        },
+        {
+          "appStoreId": "6474079216",
+          "averageRating": 4.1,
+          "bundleId": "com.SelfInvest.Cooldown",
+          "developer": "Self Invest LLC",
+          "genre": "Productivity",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/be/57/85be57bb-ed9f-8bcd-58ab-eba5dfd9fb89/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/80x0w.webp",
+          "name": "No Scroll - Limit Screen Time",
+          "ranking": 5,
+          "ratingCount": 11,
+          "subtitle": "App Blocker, Control + Reduce"
+        }
+      ],
+      "source": "deep-research/markets/ie/raw/search-98145236903c.json",
+      "error": null,
+      "purpose": "Functional search hypothesis"
+    },
+    {
+      "query": "digital detox",
+      "apps": [
+        {
+          "appStoreId": "6532588334",
+          "averageRating": 0,
+          "bundleId": "com.b4k3r.DigitalDetox",
+          "developer": "ScreenSense Studios LLC",
+          "genre": "Productivity",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ec/50/20/ec50201a-f3a4-a66a-53b3-df788c8220e5/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/80x0w.webp",
+          "name": "Digital Detox ADHD AppBlocker",
+          "ranking": 1,
+          "ratingCount": 0,
+          "subtitle": "Dopamine & Cortisol Detox"
+        },
+        {
+          "appStoreId": "6450723324",
+          "averageRating": 4.4,
+          "bundleId": "io.filos.focus",
+          "developer": "Detox",
+          "genre": "Productivity",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a4/16/12/a41612f9-3c75-d43d-5ec1-7371851620d5/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/80x0w.webp",
+          "name": "Detox: App & Website Blocker",
+          "ranking": 2,
+          "ratingCount": 7,
+          "subtitle": "Screen Time Limit & Focus"
+        },
+        {
+          "appStoreId": "6749869519",
+          "averageRating": 0,
+          "bundleId": "com.acmustudio.digitaldetox",
+          "developer": "MUSTAFA ACAR",
+          "genre": "Productivity",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/41/0b/c0410b5f-4079-ccb7-ff88-3c513e1ecaa1/AppIcon-0-0-1x_U007epad-0-1-85-220.png/80x0w.webp",
+          "name": "Digital Detox App Blocker",
+          "ranking": 3,
+          "ratingCount": 0,
+          "subtitle": "Reduce screen time, focus more"
+        },
+        {
+          "appStoreId": "6504188981",
+          "averageRating": 3,
+          "bundleId": "pony.tothemoon.Cold.Turkey",
+          "developer": "OnOff Labs",
+          "genre": "Productivity",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/da/49/c4da498c-98be-3e38-fab1-acbdf1780469/AppIcon-0-0-1x_U007epad-0-1-85-220.png/80x0w.webp",
+          "name": "DetoxLock: Extreme App Blocker",
+          "ranking": 4,
+          "ratingCount": 1,
+          "subtitle": "Go Cold Turkey. Block Apps"
+        },
+        {
+          "appStoreId": "1532875441",
+          "averageRating": 4.8,
+          "bundleId": "wtf.riedel.one-sec",
+          "developer": "riedel.wtf apps S.L.",
+          "genre": "Productivity",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/f1/83/faf18373-f0af-4b1d-2625-e47565d9ff05/one_sec_Default_App_Icon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/80x0w.webp",
+          "name": "one sec | screen time + focus",
+          "ranking": 5,
+          "ratingCount": 608,
+          "subtitle": "App Blocker & Website Limits"
+        }
+      ],
+      "source": "deep-research/markets/ie/raw/search-7292afe13aca.json",
+      "error": null,
+      "purpose": "Functional search hypothesis"
+    },
+    {
+      "query": "stop doomscrolling",
+      "apps": [
+        {
+          "appStoreId": "6784308174",
+          "averageRating": 0,
+          "bundleId": "com.areser.derot",
+          "developer": "Anh Nguyen",
+          "genre": "Productivity",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ef/37/31/ef3731b4-8f15-8125-d8a0-d0cec1986eab/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/80x0w.webp",
+          "name": "Stop Doomscrolling - Derot",
+          "ranking": 1,
+          "ratingCount": 0,
+          "subtitle": "Screen Time & App Blocker"
+        },
+        {
+          "appStoreId": "6757661674",
+          "averageRating": 4.7,
+          "bundleId": "social.Social-lite",
+          "developer": "Sociallite LLC",
+          "genre": "Productivity",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/f9/dd/4ef9dd64-8660-6551-a845-c35ab9765e88/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/80x0w.webp",
+          "name": "SocialLite-Block Reels&Shorts",
+          "ranking": 2,
+          "ratingCount": 338,
+          "subtitle": "Stop Doomscrolling-Stay Social"
+        },
+        {
+          "appStoreId": "6798124251",
+          "averageRating": 0,
+          "bundleId": "com.cwbdigital.socialzen",
+          "developer": "Christian Brown",
+          "genre": "Productivity",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/61/5f/9a/615f9a6f-87a0-897f-48c3-002f1fab01bf/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/80x0w.webp",
+          "name": "SocialZen: Stop Doomscrolling",
+          "ranking": 3,
+          "ratingCount": 0,
+          "subtitle": "The people, not the feed"
+        },
+        {
+          "appStoreId": "1532875441",
+          "averageRating": 4.8,
+          "bundleId": "wtf.riedel.one-sec",
+          "developer": "riedel.wtf apps S.L.",
+          "genre": "Productivity",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/f1/83/faf18373-f0af-4b1d-2625-e47565d9ff05/one_sec_Default_App_Icon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/80x0w.webp",
+          "name": "one sec | screen time + focus",
+          "ranking": 4,
+          "ratingCount": 608,
+          "subtitle": "App Blocker & Website Limits"
+        },
+        {
+          "appStoreId": "6755320067",
+          "averageRating": 0,
+          "bundleId": "rjabro.Rewired",
+          "developer": "Ryan Jabro",
+          "genre": "Health & Fitness",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/16/c2/b316c245-c97a-2046-6c43-28b489e0755e/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/80x0w.webp",
+          "name": "Rewired: Stop Doomscrolling",
+          "ranking": 5,
+          "ratingCount": 0,
+          "subtitle": "60 Day Dopamine Detox Plan"
+        }
+      ],
+      "source": "deep-research/markets/ie/raw/search-72f204db7c8d.json",
+      "error": null,
+      "purpose": "Functional search hypothesis"
+    }
+  ],
+  "status": "deep-astro-complete",
+  "completedAt": "2026-11-19T06:26:41.308816+00:00",
+  "fullTop5Queries": 8,
+  "limitation": "Popularity/difficulty are tool estimates, not search counts. Missing subtitles remain missing. Broad or password-lock/parental-control intent is compared, never copied as an unsupported feature."
+}

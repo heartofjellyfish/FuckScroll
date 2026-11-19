@@ -1,0 +1,124 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=screen+time&country=lt&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "artistName": "Opal OS",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "trackName": "Opal: Screen Time Control",
+        "trackId": 1497465230,
+        "bundleId": "com.withopal.opal",
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "averageUserRating": 4.68627,
+        "trackViewUrl": "https://apps.apple.com/lt/app/opal-screen-time-control/id1497465230?uo=4",
+        "primaryGenreName": "Productivity",
+        "userRatingCount": 204,
+        "descriptionSHA256": "79545dcfd9d33edf53d3567fc6a6eb5b582561ed18b9d49245fbff4af0417656"
+      },
+      {
+        "kind": "software",
+        "artistName": "clearspace",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "trackName": "ClearSpace: Reduce Screen Time",
+        "trackId": 1572515807,
+        "bundleId": "com.betteryes.clearspace",
+        "releaseDate": "2021-07-24T07:00:00Z",
+        "currentVersionReleaseDate": "2026-11-09T20:51:21Z",
+        "version": "2.7.6",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "averageUserRating": 4.91667,
+        "trackViewUrl": "https://apps.apple.com/lt/app/clearspace-reduce-screen-time/id1572515807?uo=4",
+        "primaryGenreName": "Productivity",
+        "userRatingCount": 12,
+        "descriptionSHA256": "71a31af6283b4056c69999da0d780d76bcaa0eba99d12ae5f8c54e056bd2ef6a"
+      },
+      {
+        "kind": "software",
+        "artistName": "riedel.wtf apps S.L.",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "trackName": "one sec | screen time + focus",
+        "trackId": 1532875441,
+        "bundleId": "wtf.riedel.one-sec",
+        "releaseDate": "2020-09-29T07:00:00Z",
+        "currentVersionReleaseDate": "2026-11-14T18:42:34Z",
+        "version": "6.1.3",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "averageUserRating": 4.86869,
+        "trackViewUrl": "https://apps.apple.com/lt/app/one-sec-screen-time-focus/id1532875441?uo=4",
+        "primaryGenreName": "Productivity",
+        "userRatingCount": 99,
+        "descriptionSHA256": "7458286eeec2edf883eec2f9abc49582f9924be2e29f484b82b1014b4b2a0462"
+      },
+      {
+        "kind": "software",
+        "artistName": "ScreenZen LLC",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "trackName": "ScreenZen- Screen Time Control",
+        "trackId": 1541027222,
+        "bundleId": "com.scottharvey.screenzenapp.ios",
+        "releaseDate": "2021-07-16T07:00:00Z",
+        "currentVersionReleaseDate": "2026-09-06T14:20:14Z",
+        "version": "4.0.0",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "averageUserRating": 4.83607,
+        "trackViewUrl": "https://apps.apple.com/lt/app/screenzen-screen-time-control/id1541027222?uo=4",
+        "primaryGenreName": "Productivity",
+        "userRatingCount": 183,
+        "descriptionSHA256": "def0cb7cf41c8f7b1619d270d38fe8aa23859b81147ae63a1041bc0a1b7f8cc8"
+      },
+      {
+        "kind": "software",
+        "artistName": "LIN DU",
+        "genres": [
+          "Productivity",
+          "Utilities"
+        ],
+        "price": 0.0,
+        "trackName": "67: Strict Screen Time Blocker",
+        "trackId": 6760668517,
+        "bundleId": "com.sixseven.app",
+        "releaseDate": "2026-06-10T07:00:00Z",
+        "currentVersionReleaseDate": "2026-10-14T01:14:58Z",
+        "version": "1.5",
+        "wrapperType": "software",
+        "currency": "EUR",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/lt/app/67-strict-screen-time-blocker/id6760668517?uo=4",
+        "primaryGenreName": "Productivity",
+        "userRatingCount": 0,
+        "descriptionSHA256": "8673dac958c4ec9900aa0a81b05577f632075cba80987ffc00d5d79ed489fb34"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "3a346c66a80f2b7457f301ca56736b9499aa3b9cd1c53a85abd17d69a32ab807",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

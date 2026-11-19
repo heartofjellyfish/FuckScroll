@@ -1,0 +1,782 @@
+{
+  "store": "nl",
+  "country": "Netherlands",
+  "defaultLanguage": "Dutch",
+  "additionalLanguages": "English (U.K.)",
+  "languages": [
+    "nl"
+  ],
+  "candidates": [
+    "schermtijd",
+    "app blocker",
+    "apps blokkeren",
+    "schermtijd beperken",
+    "stop scrollen",
+    "telefoonverslaving",
+    "minder op telefoon",
+    "schermtijd verminderen",
+    "apps vergrendelen",
+    "app limiet",
+    "social media blokkeren",
+    "minder sociale media",
+    "digitale detox",
+    "digital detox",
+    "focus",
+    "concentratie",
+    "zelfcontrole",
+    "telefoon pauze",
+    "app timer",
+    "screen time",
+    "schermtijd app",
+    "telefoongebruik",
+    "ouderlijk toezicht",
+    "tijdslimiet apps",
+    "screen time control",
+    "scroll blocker"
+  ],
+  "astroSupported": true,
+  "catalogQueries": [
+    "schermtijd",
+    "app blocker",
+    "apps blokkeren",
+    "schermtijd beperken",
+    "stop scrollen",
+    "telefoonverslaving",
+    "screen time",
+    "minder op telefoon"
+  ],
+  "startedAt": "2026-11-19T06:09:57.653382+00:00",
+  "source": "Astro MCP, iPhone storefront",
+  "metrics": [
+    {
+      "difficulty": 23,
+      "keyword": "schermtijd",
+      "popularity": 44,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 45,
+      "keyword": "app blocker",
+      "popularity": 48,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 13,
+      "keyword": "apps blokkeren",
+      "popularity": 27,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 7,
+      "keyword": "schermtijd beperken",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 7,
+      "keyword": "stop scrollen",
+      "popularity": 5,
+      "ranking": 37,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 9,
+      "keyword": "telefoonverslaving",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 8,
+      "keyword": "minder op telefoon",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 11,
+      "keyword": "schermtijd verminderen",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 17,
+      "keyword": "apps vergrendelen",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 21,
+      "keyword": "app limiet",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 7,
+      "keyword": "social media blokkeren",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 74,
+      "keyword": "minder sociale media",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 13,
+      "keyword": "digitale detox",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 38,
+      "keyword": "digital detox",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 48,
+      "keyword": "focus",
+      "popularity": 48,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 39,
+      "keyword": "concentratie",
+      "popularity": 26,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 7,
+      "keyword": "zelfcontrole",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 5,
+      "keyword": "telefoon pauze",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 49,
+      "keyword": "app timer",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 46,
+      "keyword": "screen time",
+      "popularity": 40,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 39,
+      "keyword": "schermtijd app",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 49,
+      "keyword": "telefoongebruik",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 21,
+      "keyword": "ouderlijk toezicht",
+      "popularity": 46,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 7,
+      "keyword": "tijdslimiet apps",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 47,
+      "keyword": "screen time control",
+      "popularity": 32,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 11,
+      "keyword": "scroll blocker",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    }
+  ],
+  "queries": [
+    "schermtijd",
+    "app blocker",
+    "screen time",
+    "apps blokkeren",
+    "focus",
+    "screen time control",
+    "telefoon pauze",
+    "schermtijd beperken"
+  ],
+  "searches": [
+    {
+      "query": "schermtijd",
+      "apps": [
+        {
+          "appStoreId": "1532875441",
+          "averageRating": 4.8,
+          "bundleId": "wtf.riedel.one-sec",
+          "developer": "riedel.wtf apps S.L.",
+          "genre": "Productiviteit",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/f1/83/faf18373-f0af-4b1d-2625-e47565d9ff05/one_sec_Default_App_Icon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/80x0w.webp",
+          "name": "one sec | schermtijd & focus",
+          "ranking": 1,
+          "ratingCount": 2271,
+          "subtitle": "app & website impuls blokker"
+        },
+        {
+          "appStoreId": "6758338291",
+          "averageRating": 4.4,
+          "bundleId": "com.blox.app.Blox",
+          "developer": "Diyar Dirik",
+          "genre": "Productiviteit",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/bd/92/b9bd9232-5aea-b2f9-af9f-973d12b50d3b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/80x0w.webp",
+          "name": "Blocus: Verdien schermtijd",
+          "ranking": 2,
+          "ratingCount": 12,
+          "subtitle": "Blokkeren, Focus & Limieten"
+        },
+        {
+          "appStoreId": "1609960918",
+          "averageRating": 4.6,
+          "bundleId": "com.jomo.Jomo",
+          "developer": "Jomo",
+          "genre": "Productiviteit",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/9a/11/239a118e-7e7d-2178-714b-9fd591550394/AppIcon-0-0-1x_U007epad-0-9-0-85-220.png/80x0w.webp",
+          "name": "Jomo - Schermtijd verminderen",
+          "ranking": 3,
+          "ratingCount": 234,
+          "subtitle": "Stop telefoonverslaving"
+        },
+        {
+          "appStoreId": "1497465230",
+          "averageRating": 4.6,
+          "bundleId": "com.withopal.opal",
+          "developer": "Opal OS",
+          "genre": "Productiviteit",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/49/82/784982f1-f983-4980-1fac-0d542c970db8/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/80x0w.webp",
+          "name": "Opal Schermtijd Limiet & Focus",
+          "ranking": 4,
+          "ratingCount": 1688,
+          "subtitle": "App & Website Impuls Blokkeer"
+        },
+        {
+          "appStoreId": "1645639057",
+          "averageRating": 4.5,
+          "bundleId": "com.refocus.refocus",
+          "developer": "Labi, LLC",
+          "genre": "Productiviteit",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/88/ea/0288ea6d-6953-945e-1749-944b673f6d90/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/80x0w.webp",
+          "name": "Refocus: app blokkeren & sites",
+          "ranking": 5,
+          "ratingCount": 307,
+          "subtitle": "Blocker, blokkeer websites"
+        }
+      ],
+      "source": "all-storefronts/nl.json",
+      "error": null,
+      "purpose": "Functional search hypothesis"
+    },
+    {
+      "query": "app blocker",
+      "apps": [
+        {
+          "appStoreId": "1541027222",
+          "averageRating": 4.8,
+          "bundleId": "com.scottharvey.screenzenapp.ios",
+          "developer": "ScreenZen LLC",
+          "genre": "Productiviteit",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/c8/de/89c8deef-2a7e-5abf-c5ec-ac3ffa343494/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/80x0w.webp",
+          "name": "ScreenZen- Screen Time Control",
+          "ranking": 1,
+          "ratingCount": 2574
+        },
+        {
+          "appStoreId": "1497465230",
+          "averageRating": 4.6,
+          "bundleId": "com.withopal.opal",
+          "developer": "Opal OS",
+          "genre": "Productiviteit",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/49/82/784982f1-f983-4980-1fac-0d542c970db8/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/80x0w.webp",
+          "name": "Opal Schermtijd Limiet & Focus",
+          "ranking": 2,
+          "ratingCount": 1688,
+          "subtitle": "App & Website Impuls Blokkeer"
+        },
+        {
+          "appStoreId": "1532875441",
+          "averageRating": 4.8,
+          "bundleId": "wtf.riedel.one-sec",
+          "developer": "riedel.wtf apps S.L.",
+          "genre": "Productiviteit",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/f1/83/faf18373-f0af-4b1d-2625-e47565d9ff05/one_sec_Default_App_Icon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/80x0w.webp",
+          "name": "one sec | schermtijd & focus",
+          "ranking": 3,
+          "ratingCount": 2271,
+          "subtitle": "app & website impuls blokker"
+        },
+        {
+          "appStoreId": "1459096306",
+          "averageRating": 4.5,
+          "bundleId": "com.shikudo.focus",
+          "developer": "Shikudo",
+          "genre": "Productiviteit",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/2d/1f/f22d1f1c-9bce-93fa-719c-c9d81dc04891/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/80x0w.webp",
+          "name": "Focus Plant：forest app blocker",
+          "ranking": 4,
+          "ratingCount": 2270
+        },
+        {
+          "appStoreId": "1515753232",
+          "averageRating": 4.5,
+          "bundleId": "eu.mobilesoft.appblock",
+          "developer": "MobileSoft s.r.o.",
+          "genre": "Productiviteit",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/5a/d7/9c5ad7ef-7122-af9e-baa4-4f35d377ef16/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/80x0w.webp",
+          "name": "AppBLock: Blokkeer Apps. Sites",
+          "ranking": 5,
+          "ratingCount": 749,
+          "subtitle": "Beheer en verminder schermtijd"
+        }
+      ],
+      "source": "deep-research/markets/nl/raw/search-8567eb89892e.json",
+      "error": null,
+      "purpose": "Functional search hypothesis"
+    },
+    {
+      "query": "screen time",
+      "apps": [
+        {
+          "appStoreId": "1541027222",
+          "averageRating": 4.8,
+          "bundleId": "com.scottharvey.screenzenapp.ios",
+          "developer": "ScreenZen LLC",
+          "genre": "Productiviteit",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/c8/de/89c8deef-2a7e-5abf-c5ec-ac3ffa343494/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/80x0w.webp",
+          "name": "ScreenZen- Screen Time Control",
+          "ranking": 1,
+          "ratingCount": 2574
+        },
+        {
+          "appStoreId": "1497465230",
+          "averageRating": 4.6,
+          "bundleId": "com.withopal.opal",
+          "developer": "Opal OS",
+          "genre": "Productiviteit",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/49/82/784982f1-f983-4980-1fac-0d542c970db8/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/80x0w.webp",
+          "name": "Opal Schermtijd Limiet & Focus",
+          "ranking": 2,
+          "ratingCount": 1688,
+          "subtitle": "App & Website Impuls Blokkeer"
+        },
+        {
+          "appStoreId": "1532875441",
+          "averageRating": 4.8,
+          "bundleId": "wtf.riedel.one-sec",
+          "developer": "riedel.wtf apps S.L.",
+          "genre": "Productiviteit",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/f1/83/faf18373-f0af-4b1d-2625-e47565d9ff05/one_sec_Default_App_Icon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/80x0w.webp",
+          "name": "one sec | schermtijd & focus",
+          "ranking": 3,
+          "ratingCount": 2271,
+          "subtitle": "app & website impuls blokker"
+        },
+        {
+          "appStoreId": "1644737181",
+          "averageRating": 4.7,
+          "bundleId": "com.getpresentapp.Present",
+          "developer": "Screen Detox Inc",
+          "genre": "Productiviteit",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/4d/85/df4d850b-de5e-04d7-6770-2d308b4741d7/Modern_Icon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/80x0w.webp",
+          "name": "BePresent: Screen Time Control",
+          "ranking": 4,
+          "ratingCount": 1423
+        },
+        {
+          "appStoreId": "6746537171",
+          "averageRating": 4.5,
+          "bundleId": "com.unrotou.unrot",
+          "developer": "Unrot OÜ",
+          "genre": "Productiviteit",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/0b/06/b90b065c-d3fd-e45e-e499-96acac1cbe4d/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/80x0w.webp",
+          "name": "Unrot: Earn your Screen Time",
+          "ranking": 5,
+          "ratingCount": 2423
+        }
+      ],
+      "source": "deep-research/markets/nl/raw/search-95492313e9b1.json",
+      "error": null,
+      "purpose": "Functional search hypothesis"
+    },
+    {
+      "query": "apps blokkeren",
+      "apps": [
+        {
+          "appStoreId": "1532875441",
+          "averageRating": 4.8,
+          "bundleId": "wtf.riedel.one-sec",
+          "developer": "riedel.wtf apps S.L.",
+          "genre": "Productiviteit",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/f1/83/faf18373-f0af-4b1d-2625-e47565d9ff05/one_sec_Default_App_Icon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/80x0w.webp",
+          "name": "one sec | schermtijd & focus",
+          "ranking": 1,
+          "ratingCount": 2271,
+          "subtitle": "app & website impuls blokker"
+        },
+        {
+          "appStoreId": "6806876559",
+          "averageRating": 0,
+          "bundleId": "com.mkayamadeit.focusapp",
+          "developer": "Mustafa Anıl Kaya",
+          "genre": "Productiviteit",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/81/e0/b681e010-9f80-3056-a35d-44bee0e27c3b/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/80x0w.webp",
+          "name": "Focus: Apps Blokkeren & Slot",
+          "ranking": 2,
+          "ratingCount": 0,
+          "subtitle": "Schermtijdbeheer & limieten"
+        },
+        {
+          "appStoreId": "6759315272",
+          "averageRating": 0,
+          "bundleId": "com.storiator.reelockr",
+          "developer": "Joel Happ",
+          "genre": "Productiviteit",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7f/55/7b/7f557b42-9179-d79f-1a7c-1d7fbae0be8b/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-P3-0-85-220.png/80x0w.webp",
+          "name": "RelockIn: Apps blokkeren",
+          "ranking": 3,
+          "ratingCount": 0,
+          "subtitle": "Browser zonder Shorts & Reels"
+        },
+        {
+          "appStoreId": "1515753232",
+          "averageRating": 4.5,
+          "bundleId": "eu.mobilesoft.appblock",
+          "developer": "MobileSoft s.r.o.",
+          "genre": "Productiviteit",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/5a/d7/9c5ad7ef-7122-af9e-baa4-4f35d377ef16/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/80x0w.webp",
+          "name": "AppBLock: Blokkeer Apps. Sites",
+          "ranking": 4,
+          "ratingCount": 749,
+          "subtitle": "Beheer en verminder schermtijd"
+        },
+        {
+          "appStoreId": "1645639057",
+          "averageRating": 4.5,
+          "bundleId": "com.refocus.refocus",
+          "developer": "Labi, LLC",
+          "genre": "Productiviteit",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/88/ea/0288ea6d-6953-945e-1749-944b673f6d90/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/80x0w.webp",
+          "name": "Refocus: app blokkeren & sites",
+          "ranking": 5,
+          "ratingCount": 307,
+          "subtitle": "Blocker, blokkeer websites"
+        }
+      ],
+      "source": "deep-research/markets/nl/raw/search-2f289c42ccc1.json",
+      "error": null,
+      "purpose": "Functional search hypothesis"
+    },
+    {
+      "query": "focus",
+      "apps": [
+        {
+          "appStoreId": "866450515",
+          "averageRating": 4.7,
+          "bundleId": "com.forestapp.Forest",
+          "developer": "SEEKRTECH CO., LTD.",
+          "genre": "Productiviteit",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/58/dc/0458dcb3-7e16-087d-eb7f-3a05d68f8bdb/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/80x0w.webp",
+          "name": "Forest: Focus for Productivity",
+          "ranking": 1,
+          "ratingCount": 4826
+        },
+        {
+          "appStoreId": "1055677337",
+          "averageRating": 4.5,
+          "bundleId": "org.mozilla.ios.Focus",
+          "developer": "Mozilla",
+          "genre": "Diensten",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/68/db/93/68db9301-1361-2f0e-8514-050819826ffe/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/80x0w.webp",
+          "name": "Firefox Focus: Privacy browser",
+          "ranking": 2,
+          "ratingCount": 3485
+        },
+        {
+          "appStoreId": "6742278016",
+          "averageRating": 4.7,
+          "bundleId": "com.underthing.focus.friend",
+          "developer": "B-Tech Consulting Group LLC",
+          "genre": "Productiviteit",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/ab/45/39ab45f6-214f-ea1d-012a-a6b3b100788e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/80x0w.webp",
+          "name": "Focus Friend, by Hank Green",
+          "ranking": 3,
+          "ratingCount": 200
+        },
+        {
+          "appStoreId": "1559730367",
+          "averageRating": 4.8,
+          "bundleId": "co.daily.focustraveller",
+          "developer": "WEI JEN CHEN",
+          "genre": "Productiviteit",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4f/2e/36/4f2e364e-fe16-b852-e4eb-747142ebb94e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/80x0w.webp",
+          "name": "Focus Traveller - Flow Timer",
+          "ranking": 4,
+          "ratingCount": 192
+        },
+        {
+          "appStoreId": "1459096306",
+          "averageRating": 4.5,
+          "bundleId": "com.shikudo.focus",
+          "developer": "Shikudo",
+          "genre": "Productiviteit",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/2d/1f/f22d1f1c-9bce-93fa-719c-c9d81dc04891/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/80x0w.webp",
+          "name": "Focus Plant：forest app blocker",
+          "ranking": 5,
+          "ratingCount": 2270
+        }
+      ],
+      "source": "deep-research/markets/nl/raw/search-c51faa148557.json",
+      "error": null,
+      "purpose": "Intent comparator; not a claim this app provides that feature"
+    },
+    {
+      "query": "screen time control",
+      "apps": [
+        {
+          "appStoreId": "1541027222",
+          "averageRating": 4.8,
+          "bundleId": "com.scottharvey.screenzenapp.ios",
+          "developer": "ScreenZen LLC",
+          "genre": "Productiviteit",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/c8/de/89c8deef-2a7e-5abf-c5ec-ac3ffa343494/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/80x0w.webp",
+          "name": "ScreenZen- Screen Time Control",
+          "ranking": 1,
+          "ratingCount": 2574
+        },
+        {
+          "appStoreId": "1497465230",
+          "averageRating": 4.6,
+          "bundleId": "com.withopal.opal",
+          "developer": "Opal OS",
+          "genre": "Productiviteit",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/49/82/784982f1-f983-4980-1fac-0d542c970db8/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/80x0w.webp",
+          "name": "Opal Schermtijd Limiet & Focus",
+          "ranking": 2,
+          "ratingCount": 1688,
+          "subtitle": "App & Website Impuls Blokkeer"
+        },
+        {
+          "appStoreId": "1532875441",
+          "averageRating": 4.8,
+          "bundleId": "wtf.riedel.one-sec",
+          "developer": "riedel.wtf apps S.L.",
+          "genre": "Productiviteit",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/f1/83/faf18373-f0af-4b1d-2625-e47565d9ff05/one_sec_Default_App_Icon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/80x0w.webp",
+          "name": "one sec | schermtijd & focus",
+          "ranking": 3,
+          "ratingCount": 2271,
+          "subtitle": "app & website impuls blokker"
+        },
+        {
+          "appStoreId": "1572515807",
+          "averageRating": 4.5,
+          "bundleId": "com.betteryes.clearspace",
+          "developer": "clearspace",
+          "genre": "Productiviteit",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/c2/a0/25c2a080-e5a3-5349-2800-7f00711f683d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/80x0w.webp",
+          "name": "ClearSpace: Reduce Screen Time",
+          "ranking": 4,
+          "ratingCount": 146
+        },
+        {
+          "appStoreId": "6746537171",
+          "averageRating": 4.5,
+          "bundleId": "com.unrotou.unrot",
+          "developer": "Unrot OÜ",
+          "genre": "Productiviteit",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/0b/06/b90b065c-d3fd-e45e-e499-96acac1cbe4d/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/80x0w.webp",
+          "name": "Unrot: Earn your Screen Time",
+          "ranking": 5,
+          "ratingCount": 2423
+        }
+      ],
+      "source": "deep-research/markets/nl/raw/search-e8a1a599cf91.json",
+      "error": null,
+      "purpose": "Functional search hypothesis"
+    },
+    {
+      "query": "telefoon pauze",
+      "apps": [
+        {
+          "appStoreId": "6741723570",
+          "averageRating": 5,
+          "bundleId": "com.CodeWerm.BreakCheck",
+          "developer": "CodeWerm LLC",
+          "genre": "Productiviteit",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/05/38/f7/0538f72d-e56b-b18a-ce54-e19cced164e5/Icon-0-0-1x_U007epad-0-1-sRGB-85-220.png/80x0w.webp",
+          "name": "Schermtijd - Pauze Check",
+          "ranking": 1,
+          "ratingCount": 1,
+          "subtitle": "Timers voor gewoontes"
+        },
+        {
+          "appStoreId": "6752664538",
+          "averageRating": 5,
+          "bundleId": "com.phonelessgarden",
+          "developer": "Hanna Posio",
+          "genre": "Productiviteit",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/96/47/57/96475752-b255-3824-0f67-1bd0c4629aad/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/80x0w.webp",
+          "name": "Phoneless Garden: Screen Time",
+          "ranking": 2,
+          "ratingCount": 1,
+          "subtitle": "Pauze vóór het doomscrollen"
+        },
+        {
+          "appStoreId": "6781214388",
+          "averageRating": 0,
+          "bundleId": "com.somavibe.somavibe",
+          "developer": "Onitum Software Marek Karwacki",
+          "genre": "Gezondheid en fitness",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/39/dc/88/39dc8817-6067-f1a2-6e16-0f5141e4daae/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/80x0w.webp",
+          "name": "SomaVibe: Rust & Slaap",
+          "ranking": 3,
+          "ratingCount": 0,
+          "subtitle": "Ontspan met geluid & trilling"
+        },
+        {
+          "appStoreId": "6802907680",
+          "averageRating": 0,
+          "bundleId": "com.connexa.quiet",
+          "developer": "Connexa GmbH (CH)",
+          "genre": "Productiviteit",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/15/c0/cb/15c0cbcb-dd44-19f0-d7ba-1fa6ab45d9de/AppIcon-0-1x_U007ephone-0-1-85-220-0.png/80x0w.webp",
+          "name": "Quiet: Stop met doomscrollen",
+          "ranking": 4,
+          "ratingCount": 0,
+          "subtitle": "Je feed, met een daglimiet"
+        },
+        {
+          "appStoreId": "6759663519",
+          "averageRating": 0,
+          "bundleId": "com.huseyinbagana.FamilyFirst",
+          "developer": "Huseyin Bagana",
+          "genre": "Gezondheid en fitness",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ef/3e/45/ef3e4593-ea32-9dad-a5ef-b645ec324b26/AppIcon-0-0-1x_U007epad-0-1-85-220.png/80x0w.webp",
+          "name": "Family First: Schermtijd",
+          "ranking": 5,
+          "ratingCount": 0,
+          "subtitle": "App blocker voor focus en rust"
+        }
+      ],
+      "source": "deep-research/markets/nl/raw/search-5fb3bc11c57c.json",
+      "error": null,
+      "purpose": "Functional search hypothesis"
+    },
+    {
+      "query": "schermtijd beperken",
+      "apps": [
+        {
+          "appStoreId": "6451398522",
+          "averageRating": 5,
+          "bundleId": "com.c2.applock.cloak",
+          "developer": "Sihoooo Network Technology Co Ltd",
+          "genre": "Productiviteit",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/da/18/5cda1892-e59c-a87f-e64a-82d1eaa6d78b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/80x0w.webp",
+          "name": "PAUSED: Schermtijd beperken",
+          "ranking": 1,
+          "ratingCount": 1,
+          "subtitle": "Blokkeer apps en websites"
+        },
+        {
+          "appStoreId": "6758555012",
+          "averageRating": 0,
+          "bundleId": "app.qadry.ios",
+          "developer": "Yurii Koshkin",
+          "genre": "Productiviteit",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/69/dc/4869dc52-3aac-1af5-9fed-72075b6ae6bf/ProtectedFocus-0-0-1x_U007ephone-0-1-85-220.png/80x0w.webp",
+          "name": "Schermtijd beperken",
+          "ranking": 2,
+          "ratingCount": 0,
+          "subtitle": "Focustimer & weekdoelen"
+        },
+        {
+          "appStoreId": "830466924",
+          "averageRating": 4.4,
+          "bundleId": "com.limepresso.pomodoro",
+          "developer": "PIXO Incorporation",
+          "genre": "Productiviteit",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/14/0c/ed/140ced7a-f8c4-1f56-3ab9-3e6aa0bda1a9/AppIcon-1x_U007epad-0-1-0-85-220-0.jpeg/80x0w.webp",
+          "name": "Pond – Schermtijd & Focus",
+          "ranking": 3,
+          "ratingCount": 52,
+          "subtitle": "Beperk app en verhoog je focus"
+        },
+        {
+          "appStoreId": "6474093604",
+          "averageRating": 4.6,
+          "bundleId": "com.why.WhyApp",
+          "developer": "Naze App LTD",
+          "genre": "Productiviteit",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d2/63/4e/d2634e06-c67b-07e2-a7eb-da175a5351cd/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/80x0w.webp",
+          "name": "Naze: Stop Telefoonverslaving",
+          "ranking": 4,
+          "ratingCount": 48,
+          "subtitle": "Minder schermtijd & scrollen"
+        },
+        {
+          "appStoreId": "1365784521",
+          "averageRating": 3.4,
+          "bundleId": "com.meshukraina.parentalcontrol",
+          "developer": "MESH Ukraina",
+          "genre": "Onderwijs",
+          "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/b3/3b/5db33b6a-e1a6-36e6-38d3-8e8d98d8b827/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/80x0w.webp",
+          "name": "Ouderlijk toezicht Kroha",
+          "ranking": 5,
+          "ratingCount": 39,
+          "subtitle": "Schermtijd, Kindermodus"
+        }
+      ],
+      "source": "deep-research/markets/nl/raw/search-b247347c17cb.json",
+      "error": null,
+      "purpose": "Functional search hypothesis"
+    }
+  ],
+  "status": "deep-astro-complete",
+  "completedAt": "2026-11-19T06:11:27.435413+00:00",
+  "fullTop5Queries": 8,
+  "limitation": "Popularity/difficulty are tool estimates, not search counts. Missing subtitles remain missing. Broad or password-lock/parental-control intent is compared, never copied as an unsupported feature."
+}

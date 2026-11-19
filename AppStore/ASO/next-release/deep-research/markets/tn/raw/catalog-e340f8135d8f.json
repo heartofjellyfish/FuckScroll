@@ -1,0 +1,124 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=%D8%AA%D8%AD%D8%AF%D9%8A%D8%AF+%D9%88%D9%82%D8%AA+%D8%A7%D9%84%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A7%D8%AA&country=tn&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "averageUserRating": 3.71736,
+        "trackViewUrl": "https://apps.apple.com/tn/app/instagram/id389801252?uo=4",
+        "artistName": "Instagram, Inc.",
+        "releaseDate": "2010-10-06T08:12:41Z",
+        "primaryGenreName": "Photo & Video",
+        "currentVersionReleaseDate": "2026-11-16T13:17:23Z",
+        "version": "456.0.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.burbn.instagram",
+        "trackId": 389801252,
+        "trackName": "Instagram",
+        "price": 0.0,
+        "genres": [
+          "Photo & Video",
+          "Social Networking"
+        ],
+        "userRatingCount": 160435,
+        "descriptionSHA256": "2dc40985ae20998402deb823bec2eca6a90eef74794908a351f18de603e18c19"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 4.43271,
+        "trackViewUrl": "https://apps.apple.com/tn/app/youtube/id544007664?uo=4",
+        "artistName": "Google",
+        "releaseDate": "2012-09-11T07:23:19Z",
+        "primaryGenreName": "Photo & Video",
+        "currentVersionReleaseDate": "2026-11-15T17:07:14Z",
+        "version": "21.46.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.google.ios.youtube",
+        "trackId": 544007664,
+        "trackName": "YouTube",
+        "price": 0.0,
+        "genres": [
+          "Photo & Video",
+          "Entertainment"
+        ],
+        "userRatingCount": 123929,
+        "descriptionSHA256": "1e6f0cf91581de1c7a968a4ce4e586263baef427a78914044c88539d05cc4b2a"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 4.51609,
+        "trackViewUrl": "https://apps.apple.com/tn/app/qibla-compass-kaaba-locator/id824927276?uo=4",
+        "artistName": "FATIMA OMER APPS LLC",
+        "releaseDate": "2014-05-13T00:26:35Z",
+        "primaryGenreName": "Navigation",
+        "currentVersionReleaseDate": "2026-11-13T08:01:51Z",
+        "version": "5.2",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.sumaiya.sumaiyaCompass",
+        "trackId": 824927276,
+        "trackName": "Qibla Compass (Kaaba Locator)",
+        "price": 0.0,
+        "genres": [
+          "Navigation",
+          "Utilities"
+        ],
+        "userRatingCount": 777,
+        "descriptionSHA256": "46554c88f2e68172ecf51646d7516b0a71fca6b1efa6afe9d16b8dcd715d7ada"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 4.09658,
+        "trackViewUrl": "https://apps.apple.com/tn/app/athkar-%D8%A3%D8%B0%D9%83%D8%A7%D8%B1/id374050672?uo=4",
+        "artistName": "fares.net",
+        "releaseDate": "2010-05-27T01:28:54Z",
+        "primaryGenreName": "Reference",
+        "currentVersionReleaseDate": "2026-11-17T13:05:59Z",
+        "version": "10.2",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.fares.net.athkar",
+        "trackId": 374050672,
+        "trackName": "Athkar - أذكار",
+        "price": 0.0,
+        "genres": [
+          "Reference",
+          "Lifestyle"
+        ],
+        "userRatingCount": 1636,
+        "descriptionSHA256": "576425280b64e08425f91a75894b1c1a192b97f60aeab1d561da6c6916ea2be0"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 3,
+        "trackViewUrl": "https://apps.apple.com/tn/app/easy-alarm-time-setting/id554489445?uo=4",
+        "artistName": "SHIGETO TAKAGI",
+        "releaseDate": "2012-09-18T13:49:19Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2025-01-26T22:37:03Z",
+        "version": "20250124",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "net.oxdb.EasyAlarm",
+        "trackId": 554489445,
+        "trackName": "Easy Alarm Time Setting",
+        "price": 0.0,
+        "genres": [
+          "Productivity",
+          "Utilities"
+        ],
+        "userRatingCount": 1,
+        "descriptionSHA256": "2e0a0a19e1df4b67b60d89f8e96c65d95f8c8fd6a038dbd9b20e1ba364cf3251"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "1f25b9b520e5f708c580083b630e540a5249376a2f82ccb6d78ab06d0fd98fda",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

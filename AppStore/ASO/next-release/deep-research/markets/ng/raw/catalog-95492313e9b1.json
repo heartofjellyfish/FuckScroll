@@ -1,0 +1,123 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=screen+time&country=ng&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "price": 0.0,
+        "artistName": "Opal OS",
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "bundleId": "com.withopal.opal",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "NGN",
+        "averageUserRating": 4.76449,
+        "trackViewUrl": "https://apps.apple.com/ng/app/opal-screen-time-control/id1497465230?uo=4",
+        "trackId": 1497465230,
+        "trackName": "Opal: Screen Time Control",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "userRatingCount": 828,
+        "descriptionSHA256": "79545dcfd9d33edf53d3567fc6a6eb5b582561ed18b9d49245fbff4af0417656"
+      },
+      {
+        "kind": "software",
+        "price": 0.0,
+        "artistName": "ScreenZen LLC",
+        "releaseDate": "2021-07-16T07:00:00Z",
+        "bundleId": "com.scottharvey.screenzenapp.ios",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-09-06T14:20:14Z",
+        "version": "4.0.0",
+        "wrapperType": "software",
+        "currency": "NGN",
+        "averageUserRating": 4.80556,
+        "trackViewUrl": "https://apps.apple.com/ng/app/screenzen-screen-time-control/id1541027222?uo=4",
+        "trackId": 1541027222,
+        "trackName": "ScreenZen- Screen Time Control",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "userRatingCount": 288,
+        "descriptionSHA256": "def0cb7cf41c8f7b1619d270d38fe8aa23859b81147ae63a1041bc0a1b7f8cc8"
+      },
+      {
+        "kind": "software",
+        "price": 0.0,
+        "artistName": "升 徐",
+        "releaseDate": "2024-11-05T08:00:00Z",
+        "bundleId": "com.shane.indie.StayOff",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2025-07-11T03:24:41Z",
+        "version": "2.2",
+        "wrapperType": "software",
+        "currency": "NGN",
+        "averageUserRating": 5,
+        "trackViewUrl": "https://apps.apple.com/ng/app/screen-time-control-stay-off/id6736673615?uo=4",
+        "trackId": 6736673615,
+        "trackName": "Screen Time Control - Stay Off",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "userRatingCount": 1,
+        "descriptionSHA256": "38ebb0243f3ee55a4715497f6b41c75a4f6353ca9ab8357549494a3c48dd35d5"
+      },
+      {
+        "kind": "software",
+        "price": 0.0,
+        "artistName": "BLANC DAHAMNI CAPITAL",
+        "releaseDate": "2023-08-26T07:00:00Z",
+        "bundleId": "com.adrienblc.fokus",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2023-08-26T08:17:33Z",
+        "version": "1.0",
+        "wrapperType": "software",
+        "currency": "NGN",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/ng/app/fokus-screen-time/id6450756696?uo=4",
+        "trackId": 6450756696,
+        "trackName": "Fokus - Screen time",
+        "genres": [
+          "Productivity"
+        ],
+        "userRatingCount": 0,
+        "descriptionSHA256": "8315b961a33d2a93ca7efda604bcb687a73c1140d6708da6b1c03fc6a026b9cd"
+      },
+      {
+        "kind": "software",
+        "price": 0.0,
+        "artistName": "riedel.wtf apps S.L.",
+        "releaseDate": "2020-09-29T07:00:00Z",
+        "bundleId": "wtf.riedel.one-sec",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-14T18:42:34Z",
+        "version": "6.1.3",
+        "wrapperType": "software",
+        "currency": "NGN",
+        "averageUserRating": 4.7381,
+        "trackViewUrl": "https://apps.apple.com/ng/app/one-sec-screen-time-focus/id1532875441?uo=4",
+        "trackId": 1532875441,
+        "trackName": "one sec | screen time + focus",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "userRatingCount": 126,
+        "descriptionSHA256": "7458286eeec2edf883eec2f9abc49582f9924be2e29f484b82b1014b4b2a0462"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "63aa17172cdda7402f1c4aef549994caaca13cabe11f0a4ed8970bc709cdef66",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

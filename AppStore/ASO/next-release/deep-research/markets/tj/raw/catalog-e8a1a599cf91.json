@@ -1,0 +1,123 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=screen+time+control&country=tj&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/tj/app/xlocker-screen-time-limit/id6446263551?uo=4",
+        "averageUserRating": 0,
+        "genres": [
+          "Productivity",
+          "Utilities"
+        ],
+        "artistName": "文 熊",
+        "price": 0.0,
+        "releaseDate": "2023-05-08T07:00:00Z",
+        "currentVersionReleaseDate": "2024-10-25T18:57:31Z",
+        "primaryGenreName": "Productivity",
+        "version": "1.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.magicplugin.offscreen.mask.ios",
+        "trackName": "XLocker - Screen Time Limit",
+        "trackId": 6446263551,
+        "userRatingCount": 0,
+        "descriptionSHA256": "dbbb78670248f40bc2c3917726bd4292331c74ab81754d54d1c9606f11efb8af"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/tj/app/screen-time-control-inscreen/id6737131495?uo=4",
+        "averageUserRating": 0,
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "artistName": "Vaibhav Negi",
+        "price": 0.0,
+        "releaseDate": "2024-12-16T08:00:00Z",
+        "currentVersionReleaseDate": "2026-02-10T18:45:54Z",
+        "primaryGenreName": "Productivity",
+        "version": "1.6.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.inscreen.app",
+        "trackName": "Screen Time Control: Inscreen",
+        "trackId": 6737131495,
+        "userRatingCount": 0,
+        "descriptionSHA256": "79a4d2da17032d2581f733fe1c13c4f6dd648e0dba345de097bd680acd0f2534"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/tj/app/opal-screen-time-control/id1497465230?uo=4",
+        "averageUserRating": 4.83333,
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "artistName": "Opal OS",
+        "price": 0.0,
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "primaryGenreName": "Productivity",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.withopal.opal",
+        "trackName": "Opal: Screen Time Control",
+        "trackId": 1497465230,
+        "userRatingCount": 12,
+        "descriptionSHA256": "79545dcfd9d33edf53d3567fc6a6eb5b582561ed18b9d49245fbff4af0417656"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/tj/app/fokus-screen-time/id6450756696?uo=4",
+        "averageUserRating": 5,
+        "genres": [
+          "Productivity"
+        ],
+        "artistName": "BLANC DAHAMNI CAPITAL",
+        "price": 0.0,
+        "releaseDate": "2023-08-26T07:00:00Z",
+        "currentVersionReleaseDate": "2023-08-26T08:17:33Z",
+        "primaryGenreName": "Productivity",
+        "version": "1.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.adrienblc.fokus",
+        "trackName": "Fokus - Screen time",
+        "trackId": 6450756696,
+        "userRatingCount": 1,
+        "descriptionSHA256": "8315b961a33d2a93ca7efda604bcb687a73c1140d6708da6b1c03fc6a026b9cd"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/tj/app/screenzen-screen-time-control/id1541027222?uo=4",
+        "averageUserRating": 5,
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "artistName": "ScreenZen LLC",
+        "price": 0.0,
+        "releaseDate": "2021-07-16T07:00:00Z",
+        "currentVersionReleaseDate": "2026-09-06T14:20:14Z",
+        "primaryGenreName": "Productivity",
+        "version": "4.0.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.scottharvey.screenzenapp.ios",
+        "trackName": "ScreenZen- Screen Time Control",
+        "trackId": 1541027222,
+        "userRatingCount": 7,
+        "descriptionSHA256": "def0cb7cf41c8f7b1619d270d38fe8aa23859b81147ae63a1041bc0a1b7f8cc8"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "db1056e5670802d8b4f1d8698999d909fa9597d2d9e86308599cc4b98a9b54ab",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

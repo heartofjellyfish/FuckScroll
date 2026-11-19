@@ -1,0 +1,122 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=%D8%AA%D9%82%D9%84%D9%8A%D9%84+%D9%88%D9%82%D8%AA+%D8%A7%D9%84%D8%B4%D8%A7%D8%B4%D8%A9&country=mr&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "artistName": "Moutaouakil Mohammed",
+        "price": 0.0,
+        "bundleId": "com.tasafoh.com",
+        "releaseDate": "2026-11-13T08:00:00Z",
+        "trackId": 6831379511,
+        "trackName": "مهلة - تقليل وقت الشاشة",
+        "primaryGenreName": "Lifestyle",
+        "currentVersionReleaseDate": "2026-11-13T17:07:08Z",
+        "version": "1.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/mr/app/%D9%85%D9%87%D9%84%D8%A9-%D8%AA%D9%82%D9%84%D9%8A%D9%84-%D9%88%D9%82%D8%AA-%D8%A7%D9%84%D8%B4%D8%A7%D8%B4%D8%A9/id6831379511?uo=4",
+        "genres": [
+          "Lifestyle"
+        ],
+        "userRatingCount": 0,
+        "descriptionSHA256": "6a7c969d1bbb959e9d52125a2f1b4a2d10b86162d93424172c1bb96e48744d24"
+      },
+      {
+        "kind": "software",
+        "artistName": "云燕 陈",
+        "price": 1.99,
+        "bundleId": "me.starbay.ScrollLess",
+        "releaseDate": "2026-09-30T07:00:00Z",
+        "trackId": 6810470665,
+        "trackName": "ScrollLess: Screen Time",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-09-30T20:32:15Z",
+        "version": "1.1.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/mr/app/scrollless-screen-time/id6810470665?uo=4",
+        "genres": [
+          "Productivity",
+          "Utilities"
+        ],
+        "userRatingCount": 0,
+        "descriptionSHA256": "5c84011965550c3b2bdb2398c863ba013e450f5195b1cfcccc4d8db675b8a61e"
+      },
+      {
+        "kind": "software",
+        "artistName": "Studio Next Ltd",
+        "price": 0.0,
+        "bundleId": "com.StudioNext.DigitalDetox",
+        "releaseDate": "2026-10-07T07:00:00Z",
+        "trackId": 6757798555,
+        "trackName": "Lento: Mindful Screen Time",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-10-24T00:52:40Z",
+        "version": "1.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/mr/app/lento-mindful-screen-time/id6757798555?uo=4",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "userRatingCount": 0,
+        "descriptionSHA256": "11d944fa6bf1063c27f3950002004137e83299a2b8e0c871166688f4c4de1460"
+      },
+      {
+        "kind": "software",
+        "artistName": "Zario AG",
+        "price": 0.0,
+        "bundleId": "io.zario",
+        "releaseDate": "2022-03-18T07:00:00Z",
+        "trackId": 1611031269,
+        "trackName": "Zario AI: Screen Time Coach",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2025-03-26T15:49:01Z",
+        "version": "4.6.2",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 5,
+        "trackViewUrl": "https://apps.apple.com/mr/app/zario-ai-screen-time-coach/id1611031269?uo=4",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "userRatingCount": 1,
+        "descriptionSHA256": "29881627fbf5b17e0c2f4b93e81b0fd32675fab8dd8483df94b0182e565cc73f"
+      },
+      {
+        "kind": "software",
+        "artistName": "abdullah zubeyir ceylan",
+        "price": 0.0,
+        "bundleId": "com.azc.ScrollLess",
+        "releaseDate": "2026-03-20T07:00:00Z",
+        "trackId": 6757498554,
+        "trackName": "Screen Time Limit: ScrollLess",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-01T19:16:17Z",
+        "version": "3.4",
+        "wrapperType": "software",
+        "currency": "USD",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/mr/app/screen-time-limit-scrollless/id6757498554?uo=4",
+        "genres": [
+          "Productivity"
+        ],
+        "userRatingCount": 0,
+        "descriptionSHA256": "16f1863956259f0b21941f3526f70f8eaec31dc231cd46277fdbad3d7876347d"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "e87beb8f64116d2274136c2c6fbf10e0c0d53eccfecffe8d9f95abe4a69e987d",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

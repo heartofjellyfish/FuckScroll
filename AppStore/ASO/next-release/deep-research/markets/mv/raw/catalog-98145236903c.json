@@ -1,0 +1,122 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=stop+scrolling&country=mv&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "artistName": "Swen Sekha",
+        "genres": [
+          "Productivity"
+        ],
+        "price": 0.0,
+        "trackName": "Stop Scrolling!",
+        "trackId": 6766318473,
+        "releaseDate": "2026-05-04T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-09-01T21:49:58Z",
+        "version": "3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.swens.stopscrolling",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/mv/app/stop-scrolling/id6766318473?uo=4",
+        "userRatingCount": 0,
+        "descriptionSHA256": "3dd99162afc28b6430a290c54b2f63adaa1c9cf59e848ff6109700235f111527"
+      },
+      {
+        "kind": "software",
+        "artistName": "ScreenZen LLC",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "trackName": "ScreenZen- Screen Time Control",
+        "trackId": 1541027222,
+        "releaseDate": "2021-07-16T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-09-06T14:20:14Z",
+        "version": "4.0.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.scottharvey.screenzenapp.ios",
+        "averageUserRating": 4.66667,
+        "trackViewUrl": "https://apps.apple.com/mv/app/screenzen-screen-time-control/id1541027222?uo=4",
+        "userRatingCount": 6,
+        "descriptionSHA256": "def0cb7cf41c8f7b1619d270d38fe8aa23859b81147ae63a1041bc0a1b7f8cc8"
+      },
+      {
+        "kind": "software",
+        "artistName": "Sociallite LLC",
+        "genres": [
+          "Productivity",
+          "Social Networking"
+        ],
+        "price": 0.0,
+        "trackName": "SocialLite-Block Reels&Shorts",
+        "trackId": 6757661674,
+        "releaseDate": "2026-01-29T08:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-10-16T11:04:41Z",
+        "version": "3.1.5",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "social.Social-lite",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/mv/app/sociallite-block-reels-shorts/id6757661674?uo=4",
+        "userRatingCount": 0,
+        "descriptionSHA256": "9dbd89f368c17dc50b7187fccb2c303ea2893d4ea389e2290954ac38e87b7144"
+      },
+      {
+        "kind": "software",
+        "artistName": "Dropouts Technologies LLP",
+        "genres": [
+          "Productivity"
+        ],
+        "price": 0.0,
+        "trackName": "Stop Scrolling - Refocus Life",
+        "trackId": 6449493645,
+        "releaseDate": "2025-08-19T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-05-15T16:40:18Z",
+        "version": "2.0.2",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.dropouts.Stop-Scrolling",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/mv/app/stop-scrolling-refocus-life/id6449493645?uo=4",
+        "userRatingCount": 0,
+        "descriptionSHA256": "94840722ae123c2cb134fa5878c662b593fe92791197c27a7ed962f04008f457"
+      },
+      {
+        "kind": "software",
+        "artistName": "Moumen Hamada",
+        "genres": [
+          "Utilities",
+          "Productivity"
+        ],
+        "price": 0.0,
+        "trackName": "Block Reels Shorts: StopScroll",
+        "trackId": 6760980801,
+        "releaseDate": "2026-03-25T07:00:00Z",
+        "primaryGenreName": "Utilities",
+        "currentVersionReleaseDate": "2026-10-24T00:51:17Z",
+        "version": "1.4",
+        "wrapperType": "software",
+        "currency": "USD",
+        "bundleId": "com.stopscroll.reelsblocker",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/mv/app/block-reels-shorts-stopscroll/id6760980801?uo=4",
+        "userRatingCount": 0,
+        "descriptionSHA256": "8f37dce4b56fc018439bff3b83ed76545201278a3b5fa6687229d0fa458a06e7"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "04f1ea53734d831a48558967e9be677674239d504aade2a2f2cb96c3f0581ba6",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

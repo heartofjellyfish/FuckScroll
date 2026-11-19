@@ -1,0 +1,13 @@
+{
+  "id": "eb6b025d-0445-4b6c-ab2f-10bc492ffffb",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"apps\" : [\n\n  ],\n  \"keyword\" : \"masa skrin\",\n  \"platform\" : \"iphone\",\n  \"store\" : \"sg\",\n  \"totalResults\" : 0\n}",
+        "type": "text"
+      }
+    ],
+    "isError": false
+  }
+}

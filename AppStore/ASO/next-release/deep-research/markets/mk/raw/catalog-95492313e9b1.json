@@ -1,0 +1,123 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=screen+time&country=mk&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "averageUserRating": 4.60975,
+        "trackViewUrl": "https://apps.apple.com/mk/app/opal-screen-time-control/id1497465230?uo=4",
+        "price": 0.0,
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "bundleId": "com.withopal.opal",
+        "trackId": 1497465230,
+        "trackName": "Opal: Screen Time Control",
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "version": "4.24",
+        "wrapperType": "software",
+        "currency": "USD",
+        "artistName": "Opal OS",
+        "userRatingCount": 41,
+        "descriptionSHA256": "79545dcfd9d33edf53d3567fc6a6eb5b582561ed18b9d49245fbff4af0417656"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 4.72093,
+        "trackViewUrl": "https://apps.apple.com/mk/app/unrot-earn-your-screen-time/id6746537171?uo=4",
+        "price": 0.0,
+        "genres": [
+          "Productivity"
+        ],
+        "bundleId": "com.unrotou.unrot",
+        "trackId": 6746537171,
+        "trackName": "Unrot: Earn your Screen Time",
+        "releaseDate": "2025-06-04T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-17T23:57:22Z",
+        "version": "5.0.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "artistName": "Unrot OÜ",
+        "userRatingCount": 43,
+        "descriptionSHA256": "12adff6dd116c1ee691ffdde6965edfdf9a3d682b6fdc4a3214199fc9ce2beea"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/mk/app/screen-time-tracker/id6738397686?uo=4",
+        "price": 0.0,
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "bundleId": "com.jackfinnis.ScreenTimeTracker",
+        "trackId": 6738397686,
+        "trackName": "Screen Time Tracker",
+        "releaseDate": "2024-12-17T08:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2025-10-21T22:49:43Z",
+        "version": "2.1",
+        "wrapperType": "software",
+        "currency": "USD",
+        "artistName": "Jack Finnis",
+        "userRatingCount": 0,
+        "descriptionSHA256": "818e2b4d99d866d797722d84f7e4cb5f38639db2d2e8c74030a03e53a20ba82b"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 4.77778,
+        "trackViewUrl": "https://apps.apple.com/mk/app/screenzen-screen-time-control/id1541027222?uo=4",
+        "price": 0.0,
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "bundleId": "com.scottharvey.screenzenapp.ios",
+        "trackId": 1541027222,
+        "trackName": "ScreenZen- Screen Time Control",
+        "releaseDate": "2021-07-16T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-09-06T14:20:14Z",
+        "version": "4.0.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "artistName": "ScreenZen LLC",
+        "userRatingCount": 27,
+        "descriptionSHA256": "def0cb7cf41c8f7b1619d270d38fe8aa23859b81147ae63a1041bc0a1b7f8cc8"
+      },
+      {
+        "kind": "software",
+        "averageUserRating": 5,
+        "trackViewUrl": "https://apps.apple.com/mk/app/offscreen-screen-time-control/id1474340105?uo=4",
+        "price": 0.0,
+        "genres": [
+          "Health & Fitness",
+          "Productivity"
+        ],
+        "bundleId": "tech.miidii.off-screen",
+        "trackId": 1474340105,
+        "trackName": "OffScreen: Screen Time Control",
+        "releaseDate": "2019-09-10T07:00:00Z",
+        "primaryGenreName": "Health & Fitness",
+        "currentVersionReleaseDate": "2026-11-16T15:54:59Z",
+        "version": "3.22.6",
+        "wrapperType": "software",
+        "currency": "USD",
+        "artistName": "MD Studio",
+        "userRatingCount": 2,
+        "descriptionSHA256": "079a343ef3820f7b726bc6a79a3cc60eb0f9faf0dc1070c1af73e61123346c28"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "fe1b90567c81d2fd83d9fccf2a39a41104461b6ead70805bcd77c742658e6325",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}

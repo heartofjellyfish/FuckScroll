@@ -1,0 +1,125 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=%D1%82%D0%B0%D0%B9%D0%BC%D0%B5%D1%80+%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9&country=by&entity=software&limit=5",
+  "response": {
+    "resultCount": 5,
+    "results": [
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/by/app/one-sec-screen-time-focus/id1532875441?uo=4",
+        "averageUserRating": 4.86667,
+        "artistName": "riedel.wtf apps S.L.",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "bundleId": "wtf.riedel.one-sec",
+        "releaseDate": "2020-09-29T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "trackId": 1532875441,
+        "trackName": "one sec | screen time + focus",
+        "currentVersionReleaseDate": "2026-11-14T18:42:34Z",
+        "version": "6.1.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "userRatingCount": 105,
+        "descriptionSHA256": "7458286eeec2edf883eec2f9abc49582f9924be2e29f484b82b1014b4b2a0462"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/by/app/prizma-app-blocker-timer/id6798402624?uo=4",
+        "averageUserRating": 0,
+        "artistName": "Asset Kudaibergenov",
+        "genres": [
+          "Productivity"
+        ],
+        "price": 0.0,
+        "bundleId": "kz.asset.focus",
+        "releaseDate": "2026-08-10T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "trackId": 6798402624,
+        "trackName": "Prizma: App Blocker & Timer",
+        "currentVersionReleaseDate": "2026-08-23T11:36:28Z",
+        "version": "2.0.0",
+        "wrapperType": "software",
+        "currency": "USD",
+        "userRatingCount": 0,
+        "descriptionSHA256": "40e067bff818de9726e5a5c167b02bc159d65f3ebbfeeab273438f6c1f7d3d3a"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/by/app/%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B2%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5-%D0%B3%D0%BE%D0%BB%D0%BE%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-%D1%82%D1%80%D0%B5%D0%BA%D0%B5%D1%80/id6760171653?uo=4",
+        "averageUserRating": 4.95,
+        "artistName": "Kseniya Kerner",
+        "genres": [
+          "Health & Fitness",
+          "Lifestyle"
+        ],
+        "price": 0.0,
+        "bundleId": "intermittent.fasting.tracker.kerner",
+        "releaseDate": "2026-03-20T07:00:00Z",
+        "primaryGenreName": "Health & Fitness",
+        "trackId": 6760171653,
+        "trackName": "Интервальное Голодание: Трекер",
+        "currentVersionReleaseDate": "2026-10-31T17:06:19Z",
+        "version": "1.5",
+        "wrapperType": "software",
+        "currency": "USD",
+        "userRatingCount": 20,
+        "descriptionSHA256": "9f10a3a4acd421d457d4e3b6b9cc3769da203678b7debc644e6baebeea7aa265"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/by/app/%D1%81%D1%87%D0%B5%D1%82%D1%87%D0%B8%D0%BA-%D1%81%D1%85%D0%B2%D0%B0%D1%82%D0%BE%D0%BA-%D1%81%D1%85%D0%B2%D0%B0%D1%82%D0%BA%D0%B8-%D1%80%D0%BE%D0%B4%D1%8B/id6736592854?uo=4",
+        "averageUserRating": 4.59999,
+        "artistName": "Kseniya Kerner",
+        "genres": [
+          "Medical",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "bundleId": "Contraction.Timer.Counter.Tracker",
+        "releaseDate": "2024-10-23T07:00:00Z",
+        "primaryGenreName": "Medical",
+        "trackId": 6736592854,
+        "trackName": "Счетчик Схваток: Схватки, Роды",
+        "currentVersionReleaseDate": "2026-04-11T15:09:21Z",
+        "version": "1.19",
+        "wrapperType": "software",
+        "currency": "USD",
+        "userRatingCount": 40,
+        "descriptionSHA256": "858b3c8e08ad1bf4e61d9d30007940f600a0ba40aba71370b31101426c5e2ed9"
+      },
+      {
+        "kind": "software",
+        "trackViewUrl": "https://apps.apple.com/by/app/focus-plant-forest-app-blocker/id1459096306?uo=4",
+        "averageUserRating": 4.77011,
+        "artistName": "Shikudo",
+        "genres": [
+          "Productivity",
+          "Games",
+          "Simulation",
+          "Casual"
+        ],
+        "price": 0.0,
+        "bundleId": "com.shikudo.focus",
+        "releaseDate": "2019-09-02T07:00:00Z",
+        "primaryGenreName": "Productivity",
+        "trackId": 1459096306,
+        "trackName": "Focus Plant：forest app blocker",
+        "currentVersionReleaseDate": "2026-11-14T00:10:28Z",
+        "version": "4.6.3",
+        "wrapperType": "software",
+        "currency": "USD",
+        "userRatingCount": 87,
+        "descriptionSHA256": "fe05cd0e5d57fda1dd718d682f963e8ebc60dcf414c417b33b853ed6df9bd015"
+      }
+    ]
+  },
+  "error": null,
+  "omittedFields": [
+    "description: full marketing prose omitted; factual metadata and SHA256 retained"
+  ],
+  "responseMetadataSHA256BeforeProjection": "f5f76f6b49521a6cff033ff6ded1f94f12748b8f9a46809c9fed711f5e3f6998",
+  "responseProjection": "ASO factual fields only; long descriptions, screenshots, artwork and device inventories omitted."
+}
