@@ -1,0 +1,4 @@
+interface:
+  display_name: "Global ASO Research"
+  short_description: "Evidence-led keyword research for every market"
+  default_prompt: "用 $global-aso 为这个 App 逐地区研究搜索词和年轻赢家，优化主标题、副标题及 keywords。"
