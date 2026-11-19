@@ -1,0 +1,17 @@
+{
+  "query": "tempo di utilizzo",
+  "store": "it",
+  "response": {
+    "id": "b619c33f-f85a-4952-8f81-0189d55add21",
+    "jsonrpc": "2.0",
+    "result": {
+      "content": [
+        {
+          "text": "{\n  \"apps\" : [\n    {\n      \"appStoreId\" : \"6479197847\",\n      \"averageRating\" : 3.7,\n      \"bundleId\" : \"com.danyloternovoi.chronos\",\n      \"developer\" : \"Danylo Ternovoi\",\n      \"genre\" : \"Produttività\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple221\\/v4\\/4c\\/2f\\/de\\/4c2fdefa-7e0b-e519-f4cb-d0f5668a7e2a\\/AppIcon-0-0-1x_U007epad-0-1-85-220.png\\/80x0w.webp\",\n      \"name\" : \"Tempozi: Tempo di Utilizzo\",\n      \"ranking\" : 1,\n      \"ratingCount\" : 31,\n      \"subtitle\" : \"Blocco App e Siti, Detox\"\n    },\n    {\n      \"appStoreId\" : \"1497465230\",\n      \"averageRating\" : 4.6,\n      \"bundleId\" : \"com.withopal.opal\",\n      \"developer\" : \"Opal OS\",\n      \"genre\" : \"Produttività\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple211\\/v4\\/78\\/49\\/82\\/784982f1-f983-4980-1fac-0d542c970db8\\/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png\\/80x0w.webp\",\n      \"name\" : \"Opal:Tempo sullo schermo Focus\",\n      \"ranking\" : 2,\n      \"ratingCount\" : 2916,\n      \"subtitle\" : \"Più concentrato e produttivo\"\n    },\n    {\n      \"appStoreId\" : \"6749958149\",\n      \"averageRating\" : 0,\n      \"bundleId\" : \"com.screentime.contr.app\",\n      \"developer\" : \"Virginijus Makauskas\",\n      \"genre\" : \"Produttività\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple221\\/v4\\/c0\\/1d\\/b9\\/c01db9d5-4e79-392d-4525-96f0a9cd44c7\\/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg\\/80x0w.webp\",\n      \"name\" : \"Screen Time Control: App Lock\",\n      \"ranking\" : 3,\n      \"ratingCount\" : 0,\n      \"subtitle\" : \"Tempo di Utilizzo Tuo Schermo\"\n    },\n    {\n      \"appStoreId\" : \"1150085200\",\n      \"averageRating\" : 4.5,\n      \"bundleId\" : \"com.google.FamilyLink\",\n      \"developer\" : \"Google\",\n      \"genre\" : \"Utility\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple221\\/v4\\/a8\\/49\\/d3\\/a849d32b-4029-9c46-c1e3-b8d9c3ed863c\\/logo_family_link_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png\\/80x0w.webp\",\n      \"name\" : \"Google Family Link\",\n      \"ranking\" : 4,\n      \"ratingCount\" : 52194,\n      \"subtitle\" : \"App di controllo genitori\"\n    },\n    {\n      \"appStoreId\" : \"1515753232\",\n      \"averageRating\" : 4.6,\n      \"bundleId\" : \"eu.mobilesoft.appblock\",\n      \"developer\" : \"MobileSoft s.r.o.\",\n      \"genre\" : \"Produttività\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple211\\/v4\\/9c\\/5a\\/d7\\/9c5ad7ef-7122-af9e-baa4-4f35d377ef16\\/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png\\/80x0w.webp\",\n      \"name\" : \"AppBlock: Blocco app e siti\",\n      \"ranking\" : 5,\n      \"ratingCount\" : 821,\n      \"subtitle\" : \"Tempo di utilizzo schermo\"\n    }\n  ],\n  \"keyword\" : \"tempo di utilizzo\",\n  \"platform\" : \"iphone\",\n  \"store\" : \"it\",\n  \"totalResults\" : 50\n}",
+          "type": "text"
+        }
+      ],
+      "isError": false
+    }
+  }
+}

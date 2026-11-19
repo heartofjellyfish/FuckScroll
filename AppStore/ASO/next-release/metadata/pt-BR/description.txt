@@ -1,0 +1,11 @@
+Você abriu as redes sociais só por um minuto. Dê um fim a esse minuto: defina um limite e o pato bloqueia o app quando o tempo acabar.
+
+• Um limite de uso e uma pausa para cada app.
+• Visitas curtas se somam. Uma pausa completa zera o contador quando o Tempo de Uso é atualizado.
+• Altere os limites da próxima rodada durante uma pausa.
+• Escreva a mensagem e o texto do botão de saída.
+• Feche o pato. Os limites continuam ativos.
+
+Humor seco, um olhar de canto e um pouco de drama. O pato está do seu lado.
+
+Seus ajustes ficam no iPhone. O app não coleta dados nem mostra anúncios. É preciso permitir o acesso ao Tempo de Uso. Os horários de bloqueio e liberação dependem do iOS.

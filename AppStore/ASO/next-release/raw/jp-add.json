@@ -1,0 +1,13 @@
+{
+  "id": "7744cc4c-3fd7-4579-bfaf-bd260b0a7e6f",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"added\" : 8,\n  \"app\" : \"Stop Scrolling – Duck on Duty\",\n  \"failed\" : 0,\n  \"platform\" : \"iphone\",\n  \"results\" : [\n    {\n      \"difficulty\" : 46,\n      \"keyword\" : \"スクリーンタイム\",\n      \"popularity\" : 60,\n      \"skipped\" : false,\n      \"success\" : true\n    },\n    {\n      \"difficulty\" : 60,\n      \"keyword\" : \"スマホ制限\",\n      \"popularity\" : 63,\n      \"skipped\" : false,\n      \"success\" : true\n    },\n    {\n      \"difficulty\" : 60,\n      \"keyword\" : \"スマホ依存\",\n      \"popularity\" : 49,\n      \"skipped\" : false,\n      \"success\" : true\n    },\n    {\n      \"difficulty\" : 57,\n      \"keyword\" : \"スマホ依存対策\",\n      \"popularity\" : 23,\n      \"skipped\" : false,\n      \"success\" : true\n    },\n    {\n      \"difficulty\" : 49,\n      \"keyword\" : \"アプリブロック\",\n      \"popularity\" : 27,\n      \"skipped\" : false,\n      \"success\" : true\n    },\n    {\n      \"difficulty\" : 59,\n      \"keyword\" : \"アプリ制限\",\n      \"popularity\" : 58,\n      \"skipped\" : false,\n      \"success\" : true\n    },\n    {\n      \"difficulty\" : 46,\n      \"keyword\" : \"デジタルデトックス\",\n      \"popularity\" : 44,\n      \"skipped\" : false,\n      \"success\" : true\n    },\n    {\n      \"difficulty\" : 64,\n      \"keyword\" : \"集中\",\n      \"popularity\" : 63,\n      \"skipped\" : false,\n      \"success\" : true\n    }\n  ],\n  \"skipped\" : 0,\n  \"store\" : \"jp\",\n  \"total\" : 8\n}",
+        "type": "text"
+      }
+    ],
+    "isError": false
+  }
+}

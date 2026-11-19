@@ -1,0 +1,87 @@
+{
+  "us": [
+    "app blocker",
+    "screen time",
+    "social media blocker",
+    "scroll blocker",
+    "stop scrolling"
+  ],
+  "gb": [
+    "app blocker",
+    "screen time"
+  ],
+  "ca": [
+    "app blocker",
+    "screen time"
+  ],
+  "au": [
+    "app blocker",
+    "screen time"
+  ],
+  "nz": [
+    "screen time"
+  ],
+  "ie": [
+    "app blocker"
+  ],
+  "sg": [
+    "app blocker"
+  ],
+  "cn": [
+    "屏幕使用时间",
+    "防沉迷",
+    "戒手机"
+  ],
+  "tw": [
+    "螢幕使用時間",
+    "戒手機"
+  ],
+  "hk": [
+    "app blocker",
+    "screen time"
+  ],
+  "jp": [
+    "スクリーンタイム",
+    "スマホ制限",
+    "アプリ制限"
+  ],
+  "kr": [
+    "스크린타임",
+    "앱차단"
+  ],
+  "es": [
+    "bloquear aplicaciones",
+    "tiempo de pantalla"
+  ],
+  "mx": [
+    "tiempo en pantalla",
+    "bloquear aplicaciones"
+  ],
+  "fr": [
+    "concentration",
+    "bloqueur application"
+  ],
+  "de": [
+    "app blocker",
+    "bildschirmzeit",
+    "app sperre"
+  ],
+  "at": [
+    "bildschirmzeit"
+  ],
+  "ch": [
+    "bildschirmzeit"
+  ],
+  "it": [
+    "blocco app",
+    "tempo di utilizzo"
+  ],
+  "br": [
+    "tempo de tela",
+    "bloquear aplicativos"
+  ],
+  "pt": [
+    "screen time",
+    "app blocker"
+  ]
+}

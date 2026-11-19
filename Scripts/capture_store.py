@@ -7,7 +7,8 @@ langs=os.environ.get('DUCK_CAPTURE_LANGS','en,zh-Hans,zh-Hant,ja,ko,es,de,fr,it,
 bundle='com.heartofjellyfish.scrollstopper'
 def sim(*args,check=True):
  return subprocess.run(['xcrun','simctl',*args],check=check,capture_output=True,text=True)
-sim('install',device,str(root/'.build/Build/Products/Debug-iphonesimulator/ScrollStopper.app'))
+sim('install',device,os.environ.get('DUCK_CAPTURE_APP_PATH',str(root/'.build/Build/Products/Debug-iphonesimulator/ScrollStopper.app')))
+capture_root=Path(os.environ.get('DUCK_CAPTURE_OUT',str(root/'AppStore'/'Captures')))
 def docs(dev):return Path(sim('get_app_container',dev,bundle,'data').stdout.strip())/'Documents'
 folder,source=docs(device),docs(icon_source)
 if folder!=source:
@@ -29,7 +30,7 @@ try:
   if lang=='en':scenes += [('review-eyebrow',['--qa-edition-1']),('review-intermission',['--qa-edition-0']),('review-nine',['--rehearsal-rest','-rehearsalCount','9'])]
   for name,args in scenes:
    if sys.argv[3:] and name not in sys.argv[3:]:continue
-   target=root/'AppStore'/'Captures'/lang/(name+'.png');target.parent.mkdir(parents=True,exist_ok=True)
+   target=capture_root/lang/(name+'.png');target.parent.mkdir(parents=True,exist_ok=True)
    sim('terminate',device,bundle,check=False)
    sim('launch',device,bundle,'--qa-store-market','-qaStoreExampleCount',str(count),'--locale-'+lang,*args)
    time.sleep(4 if lang==langs[0] and name=='01-break' else 2.3)

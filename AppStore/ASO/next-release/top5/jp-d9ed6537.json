@@ -1,0 +1,17 @@
+{
+  "query": "スクリーンタイム",
+  "store": "jp",
+  "response": {
+    "id": "1f2447f9-027e-47bc-8cba-04a4712e2a4c",
+    "jsonrpc": "2.0",
+    "result": {
+      "content": [
+        {
+          "text": "{\n  \"apps\" : [\n    {\n      \"appStoreId\" : \"1659162950\",\n      \"averageRating\" : 4.6,\n      \"bundleId\" : \"life.blockin\",\n      \"developer\" : \"Noova Inc.\",\n      \"genre\" : \"ヘルスケア／フィットネス\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple221\\/v4\\/d8\\/c5\\/48\\/d8c54871-e947-0cad-cb80-564778999f53\\/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png\\/80x0w.webp\",\n      \"name\" : \"スマホ依存対策Blockinスクリーンタイム制限・勉強・集中\",\n      \"ranking\" : 1,\n      \"ratingCount\" : 19892,\n      \"subtitle\" : \"ブロッキン 集中サプリ・学習時間を記録プラス・スタディアプリ\"\n    },\n    {\n      \"appStoreId\" : \"6504188981\",\n      \"averageRating\" : 4.7,\n      \"bundleId\" : \"pony.tothemoon.Cold.Turkey\",\n      \"developer\" : \"OnOff Labs\",\n      \"genre\" : \"仕事効率化\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple211\\/v4\\/c4\\/da\\/49\\/c4da498c-98be-3e38-fab1-acbdf1780469\\/AppIcon-0-0-1x_U007epad-0-1-85-220.png\\/80x0w.webp\",\n      \"name\" : \"スマホ制限・スタロック｜アプリ制限・アプリロック・勉強集中\",\n      \"ranking\" : 2,\n      \"ratingCount\" : 9060,\n      \"subtitle\" : \"スマホ依存対策・スクリーンタイム管理なら時間制限スマホロック\"\n    },\n    {\n      \"appStoreId\" : \"6736673615\",\n      \"averageRating\" : 3.9,\n      \"bundleId\" : \"com.shane.indie.StayOff\",\n      \"developer\" : \"升 徐\",\n      \"genre\" : \"仕事効率化\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple211\\/v4\\/f3\\/b7\\/15\\/f3b71528-4407-74f8-9419-27a863e75a68\\/AppIcon-0-1x_U007epad-0-1-85-220-0.png\\/80x0w.webp\",\n      \"name\" : \"スクリーンタイム管理 - Stay Off\",\n      \"ranking\" : 3,\n      \"ratingCount\" : 144,\n      \"subtitle\" : \"運動して画面時間を獲得、集中\"\n    },\n    {\n      \"appStoreId\" : \"1497465230\",\n      \"averageRating\" : 4.6,\n      \"bundleId\" : \"com.withopal.opal\",\n      \"developer\" : \"Opal OS\",\n      \"genre\" : \"仕事効率化\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple211\\/v4\\/78\\/49\\/82\\/784982f1-f983-4980-1fac-0d542c970db8\\/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png\\/80x0w.webp\",\n      \"name\" : \"Opal: スクリーンタイム管理\",\n      \"ranking\" : 4,\n      \"ratingCount\" : 3939,\n      \"subtitle\" : \"フォーカス, アプリブロッカー & タイマー\"\n    },\n    {\n      \"appStoreId\" : \"6748847369\",\n      \"averageRating\" : 4.5,\n      \"bundleId\" : \"com.tinylab.Zentime\",\n      \"developer\" : \"Ryunosuke Nagase\",\n      \"genre\" : \"仕事効率化\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple211\\/v4\\/2f\\/00\\/07\\/2f0007ca-b3cd-ef35-800b-b88dbe87ca59\\/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png\\/80x0w.webp\",\n      \"name\" : \"アプリ制限 Zentime - ロックでスマホ制限。依存対策\",\n      \"ranking\" : 5,\n      \"ratingCount\" : 1703,\n      \"subtitle\" : \"決めた時間だけアプリを使えるシンプルなアプリブロッカー\"\n    }\n  ],\n  \"keyword\" : \"スクリーンタイム\",\n  \"platform\" : \"iphone\",\n  \"store\" : \"jp\",\n  \"totalResults\" : 50\n}",
+          "type": "text"
+        }
+      ],
+      "isError": false
+    }
+  }
+}

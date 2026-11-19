@@ -1,0 +1,13 @@
+{
+  "id": "2f908e1c-4279-40b1-a3f3-21e36085ccad",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"added\" : 8,\n  \"app\" : \"Stop Scrolling – Duck on Duty\",\n  \"failed\" : 0,\n  \"platform\" : \"iphone\",\n  \"results\" : [\n    {\n      \"difficulty\" : 21,\n      \"keyword\" : \"tempo di utilizzo\",\n      \"popularity\" : 37,\n      \"skipped\" : false,\n      \"success\" : true\n    },\n    {\n      \"difficulty\" : 9,\n      \"keyword\" : \"tempo schermo\",\n      \"popularity\" : 5,\n      \"skipped\" : false,\n      \"success\" : true\n    },\n    {\n      \"difficulty\" : 38,\n      \"keyword\" : \"blocca app\",\n      \"popularity\" : 16,\n      \"skipped\" : false,\n      \"success\" : true\n    },\n    {\n      \"difficulty\" : 23,\n      \"keyword\" : \"blocco app\",\n      \"popularity\" : 47,\n      \"skipped\" : false,\n      \"success\" : true\n    },\n    {\n      \"difficulty\" : 7,\n      \"keyword\" : \"dipendenza telefono\",\n      \"popularity\" : 5,\n      \"skipped\" : false,\n      \"success\" : true\n    },\n    {\n      \"difficulty\" : 9,\n      \"keyword\" : \"detox digitale\",\n      \"popularity\" : 5,\n      \"skipped\" : false,\n      \"success\" : true\n    },\n    {\n      \"difficulty\" : 49,\n      \"keyword\" : \"concentrazione\",\n      \"popularity\" : 27,\n      \"skipped\" : false,\n      \"success\" : true\n    },\n    {\n      \"difficulty\" : 56,\n      \"keyword\" : \"limite app\",\n      \"popularity\" : 5,\n      \"skipped\" : false,\n      \"success\" : true\n    }\n  ],\n  \"skipped\" : 0,\n  \"store\" : \"it\",\n  \"total\" : 8\n}",
+        "type": "text"
+      }
+    ],
+    "isError": false
+  }
+}

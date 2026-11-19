@@ -20,3 +20,6 @@ AppStore/Builds/
 
 # Unrelated local review media
 /Hush-Garden-9x16-V1-review.mp4
+
+# Regenerable simulator source captures; final ASO screenshots are versioned.
+AppStore/ASO/next-release/Captures/

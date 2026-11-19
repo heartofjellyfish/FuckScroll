@@ -272,6 +272,26 @@ final class ScrollStopperUITests: XCTestCase {
         app.buttons["customTime.cancel"].tap()
         XCTAssertEqual(use.value as? String, duration)
     }
+    func testLocalizedCustomActionsFitAndSave() {
+        let variants = [("fr", "Sur mesure", "D’accord"), ("de", "Eigener Wert", "Abgemacht"),
+                        ("ja", "カスタム", "決まり"), ("ko", "직접 설정", "좋아")]
+        for (locale, customTitle, dealTitle) in variants {
+            launch("--qa-limits", "--locale-" + locale)
+            let use = app.buttons["setup.usage.0"]
+            XCTAssertTrue(use.waitForExistence(timeout: 5))
+            use.tap()
+            app.buttons[customTitle].tap()
+            let deal = app.buttons["customTime.deal"]
+            XCTAssertTrue(deal.waitForExistence(timeout: 5))
+            XCTAssertEqual(deal.label, dealTitle)
+            XCTAssertTrue(deal.isHittable)
+            if locale == "de" { XCTAssertGreaterThan(deal.frame.width, 135) }
+            record("localized-custom-" + locale)
+            deal.tap()
+            XCTAssertTrue(use.isHittable)
+            XCTAssertFalse(deal.exists)
+        }
+    }
     func testCustomMaximumDisablesMinutes() {
         launch("--qa-limits", "--en")
         app.buttons["setup.usage.0"].tap()

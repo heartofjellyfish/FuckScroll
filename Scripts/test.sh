@@ -14,3 +14,5 @@ xcrun swiftc -module-cache-path .build/SwiftModuleCache \
   -o .build/session-scenario-tests
 .build/session-scenario-tests
 python3 Scripts/validate_project.py
+
+python3 Scripts/validate_home_localizations.py

@@ -3,13 +3,17 @@ import Foundation
 
 struct Listing: Decodable { let captions: [String]; let firstScreenshotDetail: String }
 let base = URL(fileURLWithPath: FileManager.default.currentDirectoryPath).appendingPathComponent("AppStore")
-let listings = try JSONDecoder().decode([String:Listing].self,from: Data(contentsOf: base.appendingPathComponent("listings.json")))
+let environment = ProcessInfo.processInfo.environment
+let listingURL = environment["DUCK_STORE_LISTINGS"].map { URL(fileURLWithPath: $0) } ?? base.appendingPathComponent("listings.json")
+let captureRoot = environment["DUCK_STORE_CAPTURES"].map { URL(fileURLWithPath: $0) } ?? base.appendingPathComponent("Captures")
+let screenshotRoot = environment["DUCK_STORE_SCREENSHOTS"].map { URL(fileURLWithPath: $0) } ?? base.appendingPathComponent("Screenshots")
+let listings = try JSONDecoder().decode([String:Listing].self,from: Data(contentsOf: listingURL))
 let size = CGSize(width:1290,height:2796)
 let pages = ["01-break","02-limits","03-walk","04-rules"]
 for (market, listing) in listings {
-    let lang = ["en-US":"en","es-ES":"es","de-DE":"de","fr-FR":"fr"][market] ?? market
+    let lang = ["en-US":"en","en-GB":"en","en-AU":"en","en-CA":"en","es-ES":"es","es-MX":"es","de-DE":"de","fr-FR":"fr","fr-CA":"fr","pt-PT":"pt-BR"][market] ?? market
     for (index,page) in pages.enumerated() {
-        let src = base.appendingPathComponent("Captures/\(lang)/\(page).png")
+        let src = captureRoot.appendingPathComponent("\(lang)/\(page).png")
         guard let ui = NSImage(contentsOf:src) else { fatalError(src.path) }
         let rep = NSBitmapImageRep(bitmapDataPlanes:nil,pixelsWide:1290,pixelsHigh:2796,bitsPerSample:8,samplesPerPixel:3,hasAlpha:false,isPlanar:false,colorSpaceName:.deviceRGB,bytesPerRow:0,bitsPerPixel:32)!
         NSGraphicsContext.saveGraphicsState()
@@ -68,7 +72,7 @@ for (market, listing) in listings {
         NSGraphicsContext.restoreGraphicsState()
         frame.lineWidth=5;ink.setStroke();frame.stroke()
         NSGraphicsContext.restoreGraphicsState()
-        let dest=base.appendingPathComponent("Screenshots/\(market)/\(page).png")
+        let dest=screenshotRoot.appendingPathComponent("\(market)/\(page).png")
         try FileManager.default.createDirectory(at:dest.deletingLastPathComponent(),withIntermediateDirectories:true)
         try rep.representation(using:.png,properties:[:])!.write(to:dest)
     }

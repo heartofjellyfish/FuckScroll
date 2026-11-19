@@ -1,0 +1,17 @@
+{
+  "query": "戒手機",
+  "store": "tw",
+  "response": {
+    "id": "e75d2ef4-b66f-43b9-b990-2e8516a1a04b",
+    "jsonrpc": "2.0",
+    "result": {
+      "content": [
+        {
+          "text": "{\n  \"apps\" : [\n    {\n      \"appStoreId\" : \"6746106911\",\n      \"averageRating\" : 4.8,\n      \"bundleId\" : \"plgd.todoai1\",\n      \"developer\" : \"Pang Yu Chien\",\n      \"genre\" : \"生產力工具\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple221\\/v4\\/30\\/6e\\/9e\\/306e9e7f-35e1-6235-a0ec-954782976ede\\/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png\\/80x0w.webp\",\n      \"name\" : \"Focus Gacha -戒手機成癮、讀書計時、蕃茄鐘、自律\",\n      \"ranking\" : 1,\n      \"ratingCount\" : 186,\n      \"subtitle\" : \"ADHD、自律、讀書計時器、To Do、防沈迷、讀書紀錄\"\n    },\n    {\n      \"appStoreId\" : \"6819562117\",\n      \"averageRating\" : 4.7,\n      \"bundleId\" : \"realbind.gamijii\",\n      \"developer\" : \"REALBIND .inc\",\n      \"genre\" : \"健康與健身\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple221\\/v4\\/9e\\/cc\\/9e\\/9ecc9e9d-1035-de9e-2593-778cc4d93633\\/AppIcon-0-0-1x_U007ephone-0-1-85-220.png\\/80x0w.webp\",\n      \"name\" : \"Gamijii: 戒手機成癮的罵人阿公\",\n      \"ranking\" : 2,\n      \"ratingCount\" : 3,\n      \"subtitle\" : \"App封鎖・螢幕使用時間限制・數位排毒\"\n    },\n    {\n      \"appStoreId\" : \"6469414539\",\n      \"averageRating\" : 4.8,\n      \"bundleId\" : \"com.clarymind.clarymind\",\n      \"developer\" : \"Clarymind\",\n      \"genre\" : \"健康與健身\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple221\\/v4\\/04\\/0a\\/c2\\/040ac20b-2fac-8725-8719-75d718a7ae89\\/AppIcon-0-0-1x_U007emarketing-0-11-0-0-sRGB-85-220.png\\/80x0w.webp\",\n      \"name\" : \"Clarymind：專注戒手機成癮、上鎖app、螢幕使用時間\",\n      \"ranking\" : 3,\n      \"ratingCount\" : 2540,\n      \"subtitle\" : \"專心自律習慣、螢幕時間管理、多巴胺戒斷、睡眠拖延、助眠冥想\"\n    },\n    {\n      \"appStoreId\" : \"866450515\",\n      \"averageRating\" : 4.8,\n      \"bundleId\" : \"com.forestapp.Forest\",\n      \"developer\" : \"SEEKRTECH CO., LTD.\",\n      \"genre\" : \"生產力工具\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple211\\/v4\\/04\\/58\\/dc\\/0458dcb3-7e16-087d-eb7f-3a05d68f8bdb\\/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png\\/80x0w.webp\",\n      \"name\" : \"Forest 專注森林 - 讀書專注番茄鐘\",\n      \"ranking\" : 4,\n      \"ratingCount\" : 10740,\n      \"subtitle\" : \"用高效率番茄工作法，開始自律時間管理！\"\n    },\n    {\n      \"appStoreId\" : \"6769819246\",\n      \"averageRating\" : 4.3,\n      \"bundleId\" : \"com.chaoting.goallock\",\n      \"developer\" : \"CHAO-TING CHANG\",\n      \"genre\" : \"健康與健身\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple221\\/v4\\/de\\/6d\\/80\\/de6d8085-9bcc-97ed-298f-203003ed98a1\\/AppIcon-0-0-1x_U007ephone-0-1-85-220.png\\/80x0w.webp\",\n      \"name\" : \"戒手機 GoalLock：鎖APP、專注、拖延症、ADHD\",\n      \"ranking\" : 5,\n      \"ratingCount\" : 22,\n      \"subtitle\" : \"戒手機成癮、數位排毒、顯化人生目標、專心自律、螢幕時間管理\"\n    }\n  ],\n  \"keyword\" : \"戒手機\",\n  \"platform\" : \"iphone\",\n  \"store\" : \"tw\",\n  \"totalResults\" : 50\n}",
+          "type": "text"
+        }
+      ],
+      "isError": false
+    }
+  }
+}

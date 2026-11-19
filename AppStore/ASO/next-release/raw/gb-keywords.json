@@ -1,0 +1,13 @@
+{
+  "id": "9b9f7426-cbd9-461f-8b3e-3917bac9b7ad",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"app\" : \"Stop Scrolling – Duck on Duty\",\n  \"appId\" : \"6832822647\",\n  \"keywords\" : [\n    {\n      \"appsCount\" : 250,\n      \"currentRanking\" : 42,\n      \"difficulty\" : 19,\n      \"keyword\" : \"stop scrolling\",\n      \"lastUpdate\" : \"2026-11-19T01:31:15Z\",\n      \"popularity\" : 28,\n      \"previousRanking\" : 42,\n      \"rankingChange\" : 0,\n      \"store\" : \"gb\"\n    },\n    {\n      \"appsCount\" : 248,\n      \"currentRanking\" : 1000,\n      \"difficulty\" : 48,\n      \"keyword\" : \"app blocker\",\n      \"lastUpdate\" : \"2026-11-19T01:31:15Z\",\n      \"popularity\" : 52,\n      \"previousRanking\" : 1000,\n      \"rankingChange\" : 0,\n      \"store\" : \"gb\"\n    },\n    {\n      \"appsCount\" : 250,\n      \"currentRanking\" : 1000,\n      \"difficulty\" : 9,\n      \"keyword\" : \"scroll blocker\",\n      \"lastUpdate\" : \"2026-11-19T01:31:15Z\",\n      \"popularity\" : 26,\n      \"previousRanking\" : 1000,\n      \"rankingChange\" : 0,\n      \"store\" : \"gb\"\n    },\n    {\n      \"appsCount\" : 250,\n      \"currentRanking\" : 1000,\n      \"difficulty\" : 51,\n      \"keyword\" : \"screen time\",\n      \"lastUpdate\" : \"2026-11-19T01:31:15Z\",\n      \"popularity\" : 49,\n      \"previousRanking\" : 1000,\n      \"rankingChange\" : 0,\n      \"store\" : \"gb\"\n    },\n    {\n      \"appsCount\" : 250,\n      \"currentRanking\" : 1000,\n      \"difficulty\" : 17,\n      \"keyword\" : \"digital detox\",\n      \"lastUpdate\" : \"2026-11-19T01:31:15Z\",\n      \"popularity\" : 7,\n      \"previousRanking\" : 1000,\n      \"rankingChange\" : 0,\n      \"store\" : \"gb\"\n    }\n  ],\n  \"otherPlatforms\" : [\n\n  ],\n  \"platform\" : \"iphone\",\n  \"store\" : \"gb\",\n  \"total\" : 5\n}",
+        "type": "text"
+      }
+    ],
+    "isError": false
+  }
+}

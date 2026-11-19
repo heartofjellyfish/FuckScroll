@@ -1,0 +1,186 @@
+{
+  "platform": "iphone",
+  "appId": "6832822647",
+  "storeSeeds": {
+    "us": [
+      "stop scrolling",
+      "scroll blocker",
+      "digital detox",
+      "app blocker",
+      "screen time"
+    ],
+    "gb": [
+      "stop scrolling",
+      "scroll blocker",
+      "digital detox",
+      "app blocker",
+      "screen time"
+    ],
+    "ca": [
+      "stop scrolling",
+      "scroll blocker",
+      "digital detox",
+      "app blocker",
+      "screen time",
+      "temps écran",
+      "bloqueur application"
+    ],
+    "au": [
+      "stop scrolling",
+      "scroll blocker",
+      "digital detox",
+      "app blocker",
+      "screen time"
+    ],
+    "nz": [
+      "stop scrolling",
+      "digital detox",
+      "app blocker",
+      "screen time"
+    ],
+    "ie": [
+      "stop scrolling",
+      "digital detox",
+      "app blocker",
+      "screen time"
+    ],
+    "sg": [
+      "stop scrolling",
+      "digital detox",
+      "app blocker",
+      "screen time"
+    ],
+    "cn": [
+      "屏幕使用时间",
+      "应用限时",
+      "戒手机",
+      "防沉迷",
+      "少刷手机",
+      "手机自律",
+      "时间管理",
+      "专注"
+    ],
+    "tw": [
+      "螢幕使用時間",
+      "戒手機",
+      "滑手機",
+      "手機成癮",
+      "專注",
+      "數位排毒",
+      "應用程式限制",
+      "App限制"
+    ],
+    "hk": [
+      "螢幕使用時間",
+      "戒手機",
+      "滑手機",
+      "手機成癮",
+      "專注",
+      "數碼排毒",
+      "屏幕使用時間",
+      "app blocker"
+    ],
+    "jp": [
+      "スクリーンタイム",
+      "スマホ制限",
+      "スマホ依存",
+      "スマホ依存対策",
+      "アプリブロック",
+      "アプリ制限",
+      "デジタルデトックス",
+      "集中"
+    ],
+    "kr": [
+      "스크린타임",
+      "앱차단",
+      "앱 차단",
+      "스마트폰 중독",
+      "디지털 디톡스",
+      "사용시간 제한",
+      "집중",
+      "핸드폰 중독"
+    ],
+    "es": [
+      "bloquear aplicaciones",
+      "tiempo de pantalla",
+      "bloqueador de apps",
+      "dejar el móvil",
+      "redes sociales",
+      "desintoxicación digital",
+      "concentración",
+      "limitar aplicaciones"
+    ],
+    "mx": [
+      "bloquear aplicaciones",
+      "tiempo de pantalla",
+      "bloqueador de apps",
+      "dejar el celular",
+      "redes sociales",
+      "desintoxicación digital"
+    ],
+    "fr": [
+      "temps écran",
+      "temps d’écran",
+      "bloqueur application",
+      "bloquer applications",
+      "réseaux sociaux",
+      "détox digitale",
+      "concentration",
+      "limite écran"
+    ],
+    "de": [
+      "bildschirmzeit",
+      "app blocker",
+      "apps sperren",
+      "handysucht",
+      "digital detox",
+      "handyzeit",
+      "konzentration",
+      "app sperre"
+    ],
+    "at": [
+      "bildschirmzeit",
+      "app blocker",
+      "apps sperren",
+      "handysucht",
+      "digital detox"
+    ],
+    "ch": [
+      "bildschirmzeit",
+      "app blocker",
+      "handysucht",
+      "temps écran",
+      "bloqueur application",
+      "tempo di utilizzo"
+    ],
+    "it": [
+      "tempo di utilizzo",
+      "tempo schermo",
+      "blocca app",
+      "blocco app",
+      "dipendenza telefono",
+      "detox digitale",
+      "concentrazione",
+      "limite app"
+    ],
+    "br": [
+      "tempo de tela",
+      "bloqueador de aplicativos",
+      "bloquear aplicativos",
+      "vício em celular",
+      "detox digital",
+      "foco",
+      "redes sociais",
+      "limite de uso"
+    ],
+    "pt": [
+      "tempo de ecrã",
+      "bloquear aplicações",
+      "bloqueador de apps",
+      "vício no telemóvel",
+      "detox digital",
+      "concentração"
+    ]
+  },
+  "limitations": "A storefront is not a language. Remaining available storefronts inherit applicable localized assets; not all 175 regions have individually measured keyword demand."
+}

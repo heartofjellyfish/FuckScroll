@@ -1,0 +1,13 @@
+{
+  "id": "2f0e4856-3057-480e-a5b3-5882970d0878",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"added\" : 8,\n  \"app\" : \"Stop Scrolling – Duck on Duty\",\n  \"failed\" : 0,\n  \"platform\" : \"iphone\",\n  \"results\" : [\n    {\n      \"difficulty\" : 19,\n      \"keyword\" : \"bloquear aplicaciones\",\n      \"popularity\" : 50,\n      \"skipped\" : false,\n      \"success\" : true\n    },\n    {\n      \"difficulty\" : 23,\n      \"keyword\" : \"tiempo de pantalla\",\n      \"popularity\" : 26,\n      \"skipped\" : false,\n      \"success\" : true\n    },\n    {\n      \"difficulty\" : 19,\n      \"keyword\" : \"bloqueador de apps\",\n      \"popularity\" : 6,\n      \"skipped\" : false,\n      \"success\" : true\n    },\n    {\n      \"difficulty\" : 9,\n      \"keyword\" : \"dejar el móvil\",\n      \"popularity\" : 5,\n      \"skipped\" : false,\n      \"success\" : true\n    },\n    {\n      \"difficulty\" : 83,\n      \"keyword\" : \"redes sociales\",\n      \"popularity\" : 50,\n      \"skipped\" : false,\n      \"success\" : true\n    },\n    {\n      \"difficulty\" : 9,\n      \"keyword\" : \"desintoxicación digital\",\n      \"popularity\" : 5,\n      \"skipped\" : false,\n      \"success\" : true\n    },\n    {\n      \"difficulty\" : 40,\n      \"keyword\" : \"concentración\",\n      \"popularity\" : 14,\n      \"skipped\" : false,\n      \"success\" : true\n    },\n    {\n      \"difficulty\" : 11,\n      \"keyword\" : \"limitar aplicaciones\",\n      \"popularity\" : 5,\n      \"skipped\" : false,\n      \"success\" : true\n    }\n  ],\n  \"skipped\" : 0,\n  \"store\" : \"es\",\n  \"total\" : 8\n}",
+        "type": "text"
+      }
+    ],
+    "isError": false
+  }
+}

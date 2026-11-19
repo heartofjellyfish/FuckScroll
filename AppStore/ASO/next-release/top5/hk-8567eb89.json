@@ -1,0 +1,17 @@
+{
+  "query": "app blocker",
+  "store": "hk",
+  "response": {
+    "id": "377b53b3-a367-4abf-875b-3c6cdacec240",
+    "jsonrpc": "2.0",
+    "result": {
+      "content": [
+        {
+          "text": "{\n  \"apps\" : [\n    {\n      \"appStoreId\" : \"1541027222\",\n      \"averageRating\" : 4.8,\n      \"bundleId\" : \"com.scottharvey.screenzenapp.ios\",\n      \"developer\" : \"ScreenZen LLC\",\n      \"genre\" : \"生產力\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple221\\/v4\\/89\\/c8\\/de\\/89c8deef-2a7e-5abf-c5ec-ac3ffa343494\\/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png\\/80x0w.webp\",\n      \"name\" : \"ScreenZen- Screen Time Control\",\n      \"ranking\" : 1,\n      \"ratingCount\" : 414\n    },\n    {\n      \"appStoreId\" : \"1497465230\",\n      \"averageRating\" : 4.7,\n      \"bundleId\" : \"com.withopal.opal\",\n      \"developer\" : \"Opal OS\",\n      \"genre\" : \"生產力\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple211\\/v4\\/78\\/49\\/82\\/784982f1-f983-4980-1fac-0d542c970db8\\/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png\\/80x0w.webp\",\n      \"name\" : \"Opal: Screen Time Control\",\n      \"ranking\" : 2,\n      \"ratingCount\" : 632\n    },\n    {\n      \"appStoreId\" : \"1515753232\",\n      \"averageRating\" : 4.8,\n      \"bundleId\" : \"eu.mobilesoft.appblock\",\n      \"developer\" : \"MobileSoft s.r.o.\",\n      \"genre\" : \"生產力\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple211\\/v4\\/9c\\/5a\\/d7\\/9c5ad7ef-7122-af9e-baa4-4f35d377ef16\\/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png\\/80x0w.webp\",\n      \"name\" : \"AppBlock | 封鎖應用程式，管理螢幕使用時間\",\n      \"ranking\" : 3,\n      \"ratingCount\" : 77,\n      \"subtitle\" : \"不做手機控 - 保持專注力，保持自律，使用軟體避免干擾\"\n    },\n    {\n      \"appStoreId\" : \"6476863110\",\n      \"averageRating\" : 0,\n      \"bundleId\" : \"lm.com.app.pctroller\",\n      \"developer\" : \"淼 刘\",\n      \"genre\" : \"生產力\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple211\\/v4\\/f7\\/05\\/7c\\/f7057cc7-fb37-f40b-bb7b-d2e1eed20390\\/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png\\/80x0w.webp\",\n      \"name\" : \"自律應用鎖 - 高效自律時鐘隱藏密碼鎖軟體+屏幕鎖\",\n      \"ranking\" : 4,\n      \"ratingCount\" : 0,\n      \"subtitle\" : \"管理限制小孩老年人游戏短视频App防沉迷時間程序鎖\"\n    },\n    {\n      \"appStoreId\" : \"6748830877\",\n      \"averageRating\" : 5,\n      \"bundleId\" : \"com.kellyang.FrogSleep\",\n      \"developer\" : \"林克时间(北京)科技有限公司\",\n      \"genre\" : \"健康與健身\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple211\\/v4\\/d9\\/99\\/36\\/d999367a-2b65-5e44-49e2-b4cb20953203\\/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png\\/80x0w.webp\",\n      \"name\" : \"蛙蛙睡眠－早睡鎖機自律、睡眠紀錄、打卡、戒手機成癮\",\n      \"ranking\" : 5,\n      \"ratingCount\" : 2,\n      \"subtitle\" : \"睡前自动鎖手機，減少熬夜，療癒陪伴，管理限制螢幕使用時間\"\n    }\n  ],\n  \"keyword\" : \"app blocker\",\n  \"platform\" : \"iphone\",\n  \"store\" : \"hk\",\n  \"totalResults\" : 50\n}",
+          "type": "text"
+        }
+      ],
+      "isError": false
+    }
+  }
+}

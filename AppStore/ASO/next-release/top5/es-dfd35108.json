@@ -1,0 +1,17 @@
+{
+  "query": "bloquear aplicaciones",
+  "store": "es",
+  "response": {
+    "id": "31ea7551-786d-42c1-93ad-458a6ead3cbe",
+    "jsonrpc": "2.0",
+    "result": {
+      "content": [
+        {
+          "text": "{\n  \"apps\" : [\n    {\n      \"appStoreId\" : \"1497465230\",\n      \"averageRating\" : 4.7,\n      \"bundleId\" : \"com.withopal.opal\",\n      \"developer\" : \"Opal OS\",\n      \"genre\" : \"Productividad\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple211\\/v4\\/78\\/49\\/82\\/784982f1-f983-4980-1fac-0d542c970db8\\/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png\\/80x0w.webp\",\n      \"name\" : \"Opal: Tiempo de Pantalla Focus\",\n      \"ranking\" : 1,\n      \"ratingCount\" : 3329,\n      \"subtitle\" : \"Productividad y Concentración\"\n    },\n    {\n      \"appStoreId\" : \"1515753232\",\n      \"averageRating\" : 4.6,\n      \"bundleId\" : \"eu.mobilesoft.appblock\",\n      \"developer\" : \"MobileSoft s.r.o.\",\n      \"genre\" : \"Productividad\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple211\\/v4\\/9c\\/5a\\/d7\\/9c5ad7ef-7122-af9e-baa4-4f35d377ef16\\/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png\\/80x0w.webp\",\n      \"name\" : \"AppBlock Bloquear Aplicaciones\",\n      \"ranking\" : 2,\n      \"ratingCount\" : 973,\n      \"subtitle\" : \"Limitar tiempo de pantalla\"\n    },\n    {\n      \"appStoreId\" : \"6469686557\",\n      \"averageRating\" : 4.4,\n      \"bundleId\" : \"com.xu.applock\",\n      \"developer\" : \"友财 徐\",\n      \"genre\" : \"Utilidades\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple221\\/v4\\/ad\\/65\\/29\\/ad6529bc-a635-b89c-4d80-b2773b0602ec\\/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png\\/80x0w.webp\",\n      \"name\" : \"Bloqueo De Aplicaciones -\",\n      \"ranking\" : 3,\n      \"ratingCount\" : 193,\n      \"subtitle\" : \"Poner Para Contraseña a Apps\"\n    },\n    {\n      \"appStoreId\" : \"1645639057\",\n      \"averageRating\" : 4.7,\n      \"bundleId\" : \"com.refocus.refocus\",\n      \"developer\" : \"Labi, LLC\",\n      \"genre\" : \"Productividad\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple211\\/v4\\/02\\/88\\/ea\\/0288ea6d-6953-945e-1749-944b673f6d90\\/AppIcon-0-0-1x_U007ephone-0-1-85-220.png\\/80x0w.webp\",\n      \"name\" : \"Refocus: Bloquear Aplicaciones\",\n      \"ranking\" : 4,\n      \"ratingCount\" : 609,\n      \"subtitle\" : \"Bloqueo de Pantalla y Apps\"\n    },\n    {\n      \"appStoreId\" : \"1459096306\",\n      \"averageRating\" : 4.6,\n      \"bundleId\" : \"com.shikudo.focus\",\n      \"developer\" : \"Shikudo\",\n      \"genre\" : \"Productividad\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple211\\/v4\\/f2\\/2d\\/1f\\/f22d1f1c-9bce-93fa-719c-c9d81dc04891\\/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png\\/80x0w.webp\",\n      \"name\" : \"Focus Plant: estudiar planta\",\n      \"ranking\" : 5,\n      \"ratingCount\" : 8323,\n      \"subtitle\" : \"Tiempo de estudio para arboles\"\n    }\n  ],\n  \"keyword\" : \"bloquear aplicaciones\",\n  \"platform\" : \"iphone\",\n  \"store\" : \"es\",\n  \"totalResults\" : 50\n}",
+          "type": "text"
+        }
+      ],
+      "isError": false
+    }
+  }
+}

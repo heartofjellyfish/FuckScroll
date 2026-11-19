@@ -1,0 +1,17 @@
+{
+  "query": "스크린타임",
+  "store": "kr",
+  "response": {
+    "id": "54722ff1-55c7-4a44-82ad-b0d8d10264f2",
+    "jsonrpc": "2.0",
+    "result": {
+      "content": [
+        {
+          "text": "{\n  \"apps\" : [\n    {\n      \"appStoreId\" : \"6504188981\",\n      \"averageRating\" : 4.6,\n      \"bundleId\" : \"pony.tothemoon.Cold.Turkey\",\n      \"developer\" : \"OnOff Labs\",\n      \"genre\" : \"생산성\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple211\\/v4\\/c4\\/da\\/49\\/c4da498c-98be-3e38-fab1-acbdf1780469\\/AppIcon-0-0-1x_U007epad-0-1-85-220.png\\/80x0w.webp\",\n      \"name\" : \"잠글시간: 앱 잠금, 앱 차단, 공부 타이머\",\n      \"ranking\" : 1,\n      \"ratingCount\" : 6023,\n      \"subtitle\" : \"집중 공부 타이머,스크린타임,앱 차단,공부,열품타\"\n    },\n    {\n      \"appStoreId\" : \"6449270376\",\n      \"averageRating\" : 4.1,\n      \"bundleId\" : \"com.turning.app\",\n      \"developer\" : \"HUSTLERS Corp\",\n      \"genre\" : \"생산성\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple211\\/v4\\/2d\\/81\\/34\\/2d81349f-d42b-7f0b-7f5f-a7620af692e5\\/AppIcon-0-0-1x_U007epad-0-1-85-220.png\\/80x0w.webp\",\n      \"name\" : \"터닝: 앱 잠금, 폰 잠금, 앱 차단, 공부 타이머\",\n      \"ranking\" : 2,\n      \"ratingCount\" : 3731,\n      \"subtitle\" : \"스크린타임 줄이고 집중, 스마트폰 중독 끊기\"\n    },\n    {\n      \"appStoreId\" : \"6477859494\",\n      \"averageRating\" : 4.6,\n      \"bundleId\" : \"com.mir.lock-chest\",\n      \"developer\" : \"Gridus Co.\",\n      \"genre\" : \"생산성\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple211\\/v4\\/9e\\/ec\\/08\\/9eec08b3-b4b4-77ed-7043-81a57f18f2ef\\/AppIcon-0-0-1x_U007epad-0-1-85-220.png\\/80x0w.webp\",\n      \"name\" : \"앱 차단, 앱 잠금, 웹사이트 차단: 락체스트\",\n      \"ranking\" : 3,\n      \"ratingCount\" : 1143,\n      \"subtitle\" : \"휴대폰 잠금, 앱 시간제한, 스크린타임 제한, 중독\"\n    },\n    {\n      \"appStoreId\" : \"6736673615\",\n      \"averageRating\" : 4.1,\n      \"bundleId\" : \"com.shane.indie.StayOff\",\n      \"developer\" : \"升 徐\",\n      \"genre\" : \"생산성\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple211\\/v4\\/f3\\/b7\\/15\\/f3b71528-4407-74f8-9419-27a863e75a68\\/AppIcon-0-1x_U007epad-0-1-85-220-0.png\\/80x0w.webp\",\n      \"name\" : \"스크린 타임 제어 - Stay Off\",\n      \"ranking\" : 4,\n      \"ratingCount\" : 42,\n      \"subtitle\" : \"운동으로 스크린 시간을 얻다\"\n    },\n    {\n      \"appStoreId\" : \"1668971820\",\n      \"averageRating\" : 4.2,\n      \"bundleId\" : \"studio.woollim.Keep\",\n      \"developer\" : \"Pacifiq\",\n      \"genre\" : \"생산성\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple211\\/v4\\/17\\/69\\/1d\\/17691d68-7fbd-005f-6da8-7bf3048b8917\\/AppIcon-0-0-1x_U007epad-0-1-85-220.png\\/80x0w.webp\",\n      \"name\" : \"지키자: 앱 차단, 스크린타임, 공부 집중 타이머\",\n      \"ranking\" : 5,\n      \"ratingCount\" : 1163,\n      \"subtitle\" : \"핸드폰 잠금·중독 방지, 디지털 디톡스, 루틴\"\n    }\n  ],\n  \"keyword\" : \"스크린타임\",\n  \"platform\" : \"iphone\",\n  \"store\" : \"kr\",\n  \"totalResults\" : 50\n}",
+          "type": "text"
+        }
+      ],
+      "isError": false
+    }
+  }
+}

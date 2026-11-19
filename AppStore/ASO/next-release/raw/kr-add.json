@@ -1,0 +1,13 @@
+{
+  "id": "092e3bac-4572-4ccd-b4fe-662f8af69be8",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"added\" : 8,\n  \"app\" : \"Stop Scrolling – Duck on Duty\",\n  \"failed\" : 0,\n  \"platform\" : \"iphone\",\n  \"results\" : [\n    {\n      \"difficulty\" : 45,\n      \"keyword\" : \"스크린타임\",\n      \"popularity\" : 57,\n      \"skipped\" : false,\n      \"success\" : true\n    },\n    {\n      \"difficulty\" : 23,\n      \"keyword\" : \"앱차단\",\n      \"popularity\" : 31,\n      \"skipped\" : false,\n      \"success\" : true\n    },\n    {\n      \"difficulty\" : 23,\n      \"keyword\" : \"앱 차단\",\n      \"popularity\" : 31,\n      \"skipped\" : false,\n      \"success\" : true\n    },\n    {\n      \"difficulty\" : 42,\n      \"keyword\" : \"스마트폰 중독\",\n      \"popularity\" : 29,\n      \"skipped\" : false,\n      \"success\" : true\n    },\n    {\n      \"difficulty\" : 40,\n      \"keyword\" : \"디지털 디톡스\",\n      \"popularity\" : 38,\n      \"skipped\" : false,\n      \"success\" : true\n    },\n    {\n      \"difficulty\" : 37,\n      \"keyword\" : \"사용시간 제한\",\n      \"popularity\" : 23,\n      \"skipped\" : false,\n      \"success\" : true\n    },\n    {\n      \"difficulty\" : 42,\n      \"keyword\" : \"집중\",\n      \"popularity\" : 45,\n      \"skipped\" : false,\n      \"success\" : true\n    },\n    {\n      \"difficulty\" : 39,\n      \"keyword\" : \"핸드폰 중독\",\n      \"popularity\" : 24,\n      \"skipped\" : false,\n      \"success\" : true\n    }\n  ],\n  \"skipped\" : 0,\n  \"store\" : \"kr\",\n  \"total\" : 8\n}",
+        "type": "text"
+      }
+    ],
+    "isError": false
+  }
+}

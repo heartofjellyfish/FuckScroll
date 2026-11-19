@@ -1,0 +1,11 @@
+Dovevi solo dare un’occhiata ai social. Dai un limite a quell’occhiata: quando il tempo finisce, la papera blocca l’app per una pausa.
+
+• Un limite di utilizzo e una pausa per ogni app.
+• Le visite brevi si sommano. Una pausa completa azzera il conteggio quando Tempo di utilizzo si aggiorna.
+• Cambia i limiti del prossimo giro durante una pausa.
+• Scrivi il messaggio e il testo del pulsante di uscita.
+• Chiudi la papera. I limiti restano attivi.
+
+Umorismo asciutto, qualche occhiataccia e un po’ di teatro. La papera è dalla tua parte.
+
+Le impostazioni restano sul tuo iPhone. L’app non raccoglie dati e non mostra pubblicità. Serve l’accesso a Tempo di utilizzo. I tempi di blocco e sblocco dipendono da iOS.

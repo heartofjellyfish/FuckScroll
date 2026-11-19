@@ -1,0 +1,19 @@
+{
+  "status": "Superseded by next-release/listings.json after the expanded competitor search-intent audit; not applied",
+  "name": "Stop Scrolling – Duck on Duty",
+  "subtitle": "Scroll Blocker & Screen Time",
+  "keywords": "social,media,digital,detox,doomscroll,limit,focus,timer,break,distraction,habit,self,control",
+  "rationale": {
+    "name": "Preserve the approved brand and exact stop scrolling phrase; current US rank 39.",
+    "subtitle": "Test the directly relevant scroll blocker term (35 popularity,15 difficulty) plus screen time; no ranking gain promised.",
+    "keywords": "Support digital detox and doomscroll, alongside relevant usage/break concepts. Lower-confidence terms remain experiments, not proven demand."
+  },
+  "validation": {
+    "nameCharacters": 29,
+    "subtitleCharacters": 28,
+    "keywordsUTF8Bytes": 92,
+    "duplicateTokens": false,
+    "repeatedExactIndexedWords": [],
+    "badTokens": []
+  }
+}

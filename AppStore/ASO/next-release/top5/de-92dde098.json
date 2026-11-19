@@ -1,0 +1,17 @@
+{
+  "query": "app sperre",
+  "store": "de",
+  "response": {
+    "id": "14c0b840-7e8e-4a8d-b6bc-3a062832f31c",
+    "jsonrpc": "2.0",
+    "result": {
+      "content": [
+        {
+          "text": "{\n  \"apps\" : [\n    {\n      \"appStoreId\" : \"1532875441\",\n      \"averageRating\" : 4.8,\n      \"bundleId\" : \"wtf.riedel.one-sec\",\n      \"developer\" : \"riedel.wtf apps S.L.\",\n      \"genre\" : \"Produktivität\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple211\\/v4\\/fa\\/f1\\/83\\/faf18373-f0af-4b1d-2625-e47565d9ff05\\/one_sec_Default_App_Icon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png\\/80x0w.webp\",\n      \"name\" : \"one sec | App Zeitlimit Sperre\",\n      \"ranking\" : 1,\n      \"ratingCount\" : 15392,\n      \"subtitle\" : \"Bildschirmzeit, Website Block\"\n    },\n    {\n      \"appStoreId\" : \"1569973513\",\n      \"averageRating\" : 4.4,\n      \"bundleId\" : \"co.appnation.applocker\",\n      \"developer\" : \"Muhammet Yalcın Ozdemir Halil Ibrahim Karahan Mustafa Ayten Kupertino Bilisim Yazılım K.S\",\n      \"genre\" : \"Dienst­programme\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple221\\/v4\\/13\\/f1\\/30\\/13f13020-f19a-ed43-4b6d-8d40c9f99899\\/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg\\/80x0w.webp\",\n      \"name\" : \"App Sperre - App Lock\",\n      \"ranking\" : 2,\n      \"ratingCount\" : 1927,\n      \"subtitle\" : \"Passwort für Apps & App Sperre\"\n    },\n    {\n      \"appStoreId\" : \"1541027222\",\n      \"averageRating\" : 4.8,\n      \"bundleId\" : \"com.scottharvey.screenzenapp.ios\",\n      \"developer\" : \"ScreenZen LLC\",\n      \"genre\" : \"Produktivität\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple221\\/v4\\/89\\/c8\\/de\\/89c8deef-2a7e-5abf-c5ec-ac3ffa343494\\/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png\\/80x0w.webp\",\n      \"name\" : \"ScreenZen- Screen Time Control\",\n      \"ranking\" : 3,\n      \"ratingCount\" : 8137,\n      \"subtitle\" : \"App-Blocker, Bildschirmzeit\"\n    },\n    {\n      \"appStoreId\" : \"6469686557\",\n      \"averageRating\" : 4.5,\n      \"bundleId\" : \"com.xu.applock\",\n      \"developer\" : \"友财 徐\",\n      \"genre\" : \"Dienst­programme\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple221\\/v4\\/ad\\/65\\/29\\/ad6529bc-a635-b89c-4d80-b2773b0602ec\\/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png\\/80x0w.webp\",\n      \"name\" : \"App Sperre - Sperr App\",\n      \"ranking\" : 4,\n      \"ratingCount\" : 292,\n      \"subtitle\" : \"Passwort Für Lock Apps Sperren\"\n    },\n    {\n      \"appStoreId\" : \"1645639057\",\n      \"averageRating\" : 4.6,\n      \"bundleId\" : \"com.refocus.refocus\",\n      \"developer\" : \"Labi, LLC\",\n      \"genre\" : \"Produktivität\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple211\\/v4\\/02\\/88\\/ea\\/0288ea6d-6953-945e-1749-944b673f6d90\\/AppIcon-0-0-1x_U007ephone-0-1-85-220.png\\/80x0w.webp\",\n      \"name\" : \"Refocus: App Sperre, Zeitlimit\",\n      \"ranking\" : 5,\n      \"ratingCount\" : 1291,\n      \"subtitle\" : \"Bildschirmzeit, Website Block\"\n    }\n  ],\n  \"keyword\" : \"app sperre\",\n  \"platform\" : \"iphone\",\n  \"store\" : \"de\",\n  \"totalResults\" : 50\n}",
+          "type": "text"
+        }
+      ],
+      "isError": false
+    }
+  }
+}

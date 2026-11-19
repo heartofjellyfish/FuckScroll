@@ -1,0 +1,48 @@
+{
+  "plannedVersion": "1.2",
+  "scope": "ASO, missing translations and localization text-fit fixes only; no new features or timing changes",
+  "status": "Prepared and checked locally; not uploaded",
+  "currentSubmissionPreserved": {
+    "version": "1.1",
+    "build": "74",
+    "submissionID": "6173039c-b3ad-4d99-ae44-4779599b9f89"
+  },
+  "storeLocalizations": 16,
+  "uiLanguages": 10,
+  "measuredStorefronts": 21,
+  "competitorQueries": 44,
+  "top5Rows": 220,
+  "keywordRows": 173,
+  "availableRegionCountFromExistingReleaseRecord": 175,
+  "independentlyMeasuredAll175Regions": false,
+  "localizationsAdded": [
+    "en-GB",
+    "en-AU",
+    "en-CA",
+    "fr-CA",
+    "es-MX",
+    "pt-PT"
+  ],
+  "baselineOwner": "Qi/Codex",
+  "checkpoints": "Record pre-release 7–14 days; compare 7/14/28 days after release, extending for low traffic. No recurring automation scheduled.",
+  "pendingToRelease": [
+    "Wait for App Store Connect to permit the next version; 1.1 is already submitted",
+    "Archive a new build including localization fixes and verify all distribution entitlements",
+    "Upload 1.2 metadata/screenshots/build and submit when eligible"
+  ],
+  "plannedBuild": "75",
+  "localizationCoverage": {
+    "homePairs": 20,
+    "additionalUIKeys": 17,
+    "literalVoiceKeysChecked": 94,
+    "languages": 10
+  },
+  "verification": {
+    "storeMetadata": "16 passed",
+    "screenshots": "64 at 1290x2796; first-fold contact sheet inspected",
+    "homeCopy": "20 paired stories × ten UI languages",
+    "voiceLiteralKeys": "94 × ten UI languages",
+    "localizedPickerUI": "French, German, Japanese and Korean save actions passed; German truncation fixed and visually rechecked",
+    "timingRulesChanged": false
+  }
+}

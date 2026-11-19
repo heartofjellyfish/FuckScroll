@@ -1,0 +1,13 @@
+{
+  "id": "d6b982ed-f8e5-49b0-9198-e243783987cd",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"app\" : \"Stop Scrolling – Duck on Duty\",\n  \"appId\" : \"6832822647\",\n  \"keywords\" : [\n    {\n      \"appsCount\" : 250,\n      \"currentRanking\" : 1000,\n      \"difficulty\" : 21,\n      \"keyword\" : \"tiempo de pantalla\",\n      \"lastUpdate\" : \"2026-11-19T01:31:30Z\",\n      \"popularity\" : 5,\n      \"previousRanking\" : 1000,\n      \"rankingChange\" : 0,\n      \"store\" : \"mx\"\n    },\n    {\n      \"appsCount\" : 247,\n      \"currentRanking\" : 1000,\n      \"difficulty\" : 94,\n      \"keyword\" : \"redes sociales\",\n      \"lastUpdate\" : \"2026-11-19T01:31:30Z\",\n      \"popularity\" : 57,\n      \"previousRanking\" : 1000,\n      \"rankingChange\" : 0,\n      \"store\" : \"mx\"\n    },\n    {\n      \"appsCount\" : 249,\n      \"currentRanking\" : 1000,\n      \"difficulty\" : 38,\n      \"keyword\" : \"bloquear aplicaciones\",\n      \"lastUpdate\" : \"2026-11-19T01:31:30Z\",\n      \"popularity\" : 30,\n      \"previousRanking\" : 1000,\n      \"rankingChange\" : 0,\n      \"store\" : \"mx\"\n    },\n    {\n      \"appsCount\" : 249,\n      \"currentRanking\" : 1000,\n      \"difficulty\" : 21,\n      \"keyword\" : \"bloqueador de apps\",\n      \"lastUpdate\" : \"2026-11-19T01:31:30Z\",\n      \"popularity\" : 5,\n      \"previousRanking\" : 1000,\n      \"rankingChange\" : 0,\n      \"store\" : \"mx\"\n    },\n    {\n      \"appsCount\" : 29,\n      \"currentRanking\" : 1000,\n      \"difficulty\" : 5,\n      \"keyword\" : \"dejar el celular\",\n      \"lastUpdate\" : \"2026-11-19T01:31:30Z\",\n      \"popularity\" : 5,\n      \"previousRanking\" : 1000,\n      \"rankingChange\" : 0,\n      \"store\" : \"mx\"\n    },\n    {\n      \"appsCount\" : 38,\n      \"currentRanking\" : 1000,\n      \"difficulty\" : 7,\n      \"keyword\" : \"desintoxicación digital\",\n      \"lastUpdate\" : \"2026-11-19T01:31:30Z\",\n      \"popularity\" : 5,\n      \"previousRanking\" : 1000,\n      \"rankingChange\" : 0,\n      \"store\" : \"mx\"\n    }\n  ],\n  \"otherPlatforms\" : [\n\n  ],\n  \"platform\" : \"iphone\",\n  \"store\" : \"mx\",\n  \"total\" : 6\n}",
+        "type": "text"
+      }
+    ],
+    "isError": false
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "query": "bildschirmzeit",
+  "store": "at",
+  "response": {
+    "id": "bd914e36-187a-430b-8d7a-a5c40598fd3e",
+    "jsonrpc": "2.0",
+    "result": {
+      "content": [
+        {
+          "text": "{\n  \"apps\" : [\n    {\n      \"appStoreId\" : \"6473087772\",\n      \"averageRating\" : 4.9,\n      \"bundleId\" : \"net.29apps.limit\",\n      \"developer\" : \"Samet Macit\",\n      \"genre\" : \"Produktivität\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple221\\/v4\\/d4\\/5c\\/79\\/d45c7933-5f00-5bc5-bf52-a242c7ab94eb\\/AppIcon-0-0-1x_U007epad-0-1-85-220.png\\/80x0w.webp\",\n      \"name\" : \"Limit: Wenig Bildschirmzeit\",\n      \"ranking\" : 1,\n      \"ratingCount\" : 9,\n      \"subtitle\" : \"Block apps, stay focused\"\n    },\n    {\n      \"appStoreId\" : \"1497465230\",\n      \"averageRating\" : 4.7,\n      \"bundleId\" : \"com.withopal.opal\",\n      \"developer\" : \"Opal OS\",\n      \"genre\" : \"Produktivität\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple211\\/v4\\/78\\/49\\/82\\/784982f1-f983-4980-1fac-0d542c970db8\\/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png\\/80x0w.webp\",\n      \"name\" : \"Opal: Wenig Bildschirmzeit\",\n      \"ranking\" : 2,\n      \"ratingCount\" : 683,\n      \"subtitle\" : \"Fokus, Website Limit & Blocker\"\n    },\n    {\n      \"appStoreId\" : \"1541027222\",\n      \"averageRating\" : 4.8,\n      \"bundleId\" : \"com.scottharvey.screenzenapp.ios\",\n      \"developer\" : \"ScreenZen LLC\",\n      \"genre\" : \"Produktivität\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple221\\/v4\\/89\\/c8\\/de\\/89c8deef-2a7e-5abf-c5ec-ac3ffa343494\\/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png\\/80x0w.webp\",\n      \"name\" : \"ScreenZen- Screen Time Control\",\n      \"ranking\" : 3,\n      \"ratingCount\" : 976,\n      \"subtitle\" : \"App-Blocker, Bildschirmzeit\"\n    },\n    {\n      \"appStoreId\" : \"1532875441\",\n      \"averageRating\" : 4.8,\n      \"bundleId\" : \"wtf.riedel.one-sec\",\n      \"developer\" : \"riedel.wtf apps S.L.\",\n      \"genre\" : \"Produktivität\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple211\\/v4\\/fa\\/f1\\/83\\/faf18373-f0af-4b1d-2625-e47565d9ff05\\/one_sec_Default_App_Icon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png\\/80x0w.webp\",\n      \"name\" : \"one sec | App Zeitlimit Sperre\",\n      \"ranking\" : 4,\n      \"ratingCount\" : 1356,\n      \"subtitle\" : \"Bildschirmzeit, Website Block\"\n    },\n    {\n      \"appStoreId\" : \"1609960918\",\n      \"averageRating\" : 4.7,\n      \"bundleId\" : \"com.jomo.Jomo\",\n      \"developer\" : \"Jomo\",\n      \"genre\" : \"Produktivität\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple211\\/v4\\/23\\/9a\\/11\\/239a118e-7e7d-2178-714b-9fd591550394\\/AppIcon-0-0-1x_U007epad-0-9-0-85-220.png\\/80x0w.webp\",\n      \"name\" : \"Jomo - Weniger Bildschirmzeit\",\n      \"ranking\" : 5,\n      \"ratingCount\" : 77,\n      \"subtitle\" : \"Handysucht bekämpfen\"\n    }\n  ],\n  \"keyword\" : \"bildschirmzeit\",\n  \"platform\" : \"iphone\",\n  \"store\" : \"at\",\n  \"totalResults\" : 50\n}",
+          "type": "text"
+        }
+      ],
+      "isError": false
+    }
+  }
+}

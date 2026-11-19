@@ -1,0 +1,17 @@
+{
+  "query": "戒手机",
+  "store": "cn",
+  "response": {
+    "id": "ccbd5cd3-c381-4c54-8110-0006f4b81f9d",
+    "jsonrpc": "2.0",
+    "result": {
+      "content": [
+        {
+          "text": "{\n  \"apps\" : [\n    {\n      \"appStoreId\" : \"6822790279\",\n      \"averageRating\" : 4.6,\n      \"bundleId\" : \"com.dushe.app\",\n      \"developer\" : \"明昭 路\",\n      \"genre\" : \"效率\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple221\\/v4\\/99\\/8b\\/0b\\/998b0bd8-9b4e-9b1c-257f-ffe4df163218\\/AppIcon-0-0-1x_U007epad-0-1-85-220.png\\/80x0w.webp\",\n      \"name\" : \"毒舌鹦鹉｜无痛戒手机·自律·少玩手机·防沉迷\",\n      \"ranking\" : 1,\n      \"ratingCount\" : 21,\n      \"subtitle\" : \"专注·早睡早起·熬夜·屏幕时间·拖延症·番茄钟\"\n    },\n    {\n      \"appStoreId\" : \"1474340105\",\n      \"averageRating\" : 4.7,\n      \"bundleId\" : \"tech.miidii.off-screen\",\n      \"developer\" : \"MD Studio\",\n      \"genre\" : \"健康健美\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple211\\/v4\\/71\\/d7\\/24\\/71d724a4-6963-59a5-f56e-dd9b20e92573\\/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png\\/80x0w.webp\",\n      \"name\" : \"OffScreen - 自律番茄钟，不做手机控\",\n      \"ranking\" : 2,\n      \"ratingCount\" : 53781,\n      \"subtitle\" : \"屏幕时间管理，专注学习计时器\"\n    },\n    {\n      \"appStoreId\" : \"6575360746\",\n      \"averageRating\" : 4.8,\n      \"bundleId\" : \"com.shuge888.offphone.ios\",\n      \"developer\" : \"天津薯格网络科技有限公司\",\n      \"genre\" : \"工具\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple221\\/v4\\/a6\\/aa\\/8b\\/a6aa8b6f-bd5d-47c0-42ec-dde09be0f53d\\/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png\\/80x0w.webp\",\n      \"name\" : \"远离手机-不玩手机，不做手机控\",\n      \"ranking\" : 3,\n      \"ratingCount\" : 1129,\n      \"subtitle\" : \"强制减少手机娱乐时间\"\n    },\n    {\n      \"appStoreId\" : \"6756065248\",\n      \"averageRating\" : 4.8,\n      \"bundleId\" : \"com.pl.getaway\",\n      \"developer\" : \"娄底斯塔克网络科技有限公司\",\n      \"genre\" : \"效率\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple221\\/v4\\/c8\\/b4\\/82\\/c8b48283-7d6e-4337-5bf9-ca5172fccc3c\\/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.jpeg\\/80x0w.webp\",\n      \"name\" : \"不做手机控-放下手机自律防沉迷·番茄专注·屏幕使用时间·锁机\",\n      \"ranking\" : 4,\n      \"ratingCount\" : 261,\n      \"subtitle\" : \"学习模式计时器软件·早睡打卡·应用限额管理·监督玩机习惯养成\"\n    },\n    {\n      \"appStoreId\" : \"6479392365\",\n      \"averageRating\" : 4.7,\n      \"bundleId\" : \"io.iftech.timeminer\",\n      \"developer\" : \"宁波群鸟科技有限公司\",\n      \"genre\" : \"健康健美\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple211\\/v4\\/db\\/f1\\/2e\\/dbf12e14-5a3b-590f-243c-f2172e82b3bc\\/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png\\/80x0w.webp\",\n      \"name\" : \"自律石头 - 学习娱乐时间兑换｜自律番茄钟 ｜不做手机控\",\n      \"ranking\" : 5,\n      \"ratingCount\" : 11732,\n      \"subtitle\" : \"读书，专注，早睡，运动兑换玩手机时间，无痛戒手机养成好习惯\"\n    }\n  ],\n  \"keyword\" : \"戒手机\",\n  \"platform\" : \"iphone\",\n  \"store\" : \"cn\",\n  \"totalResults\" : 50\n}",
+          "type": "text"
+        }
+      ],
+      "isError": false
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "fb9bc32d-c829-49e8-b772-ac4355f79086",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"added\" : 7,\n  \"app\" : \"Stop Scrolling – Duck on Duty\",\n  \"failed\" : 0,\n  \"platform\" : \"iphone\",\n  \"results\" : [\n    {\n      \"difficulty\" : 17,\n      \"keyword\" : \"stop scrolling\",\n      \"popularity\" : 26,\n      \"ranking\" : 33,\n      \"skipped\" : false,\n      \"success\" : true\n    },\n    {\n      \"difficulty\" : 11,\n      \"keyword\" : \"scroll blocker\",\n      \"popularity\" : 26,\n      \"skipped\" : false,\n      \"success\" : true\n    },\n    {\n      \"difficulty\" : 21,\n      \"keyword\" : \"digital detox\",\n      \"popularity\" : 7,\n      \"skipped\" : false,\n      \"success\" : true\n    },\n    {\n      \"difficulty\" : 48,\n      \"keyword\" : \"app blocker\",\n      \"popularity\" : 49,\n      \"skipped\" : false,\n      \"success\" : true\n    },\n    {\n      \"difficulty\" : 46,\n      \"keyword\" : \"screen time\",\n      \"popularity\" : 46,\n      \"skipped\" : false,\n      \"success\" : true\n    },\n    {\n      \"difficulty\" : 23,\n      \"keyword\" : \"temps écran\",\n      \"popularity\" : 5,\n      \"skipped\" : false,\n      \"success\" : true\n    },\n    {\n      \"difficulty\" : 33,\n      \"keyword\" : \"bloqueur application\",\n      \"popularity\" : 5,\n      \"skipped\" : false,\n      \"success\" : true\n    }\n  ],\n  \"skipped\" : 0,\n  \"store\" : \"ca\",\n  \"total\" : 7\n}",
+        "type": "text"
+      }
+    ],
+    "isError": false
+  }
+}

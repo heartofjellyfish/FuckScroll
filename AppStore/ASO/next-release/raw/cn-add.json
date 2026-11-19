@@ -1,0 +1,13 @@
+{
+  "id": "8b29d15a-2a66-40b4-becb-3af5fccb704c",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"added\" : 0,\n  \"app\" : \"Stop Scrolling – Duck on Duty\",\n  \"failed\" : 0,\n  \"platform\" : \"iphone\",\n  \"results\" : [\n    {\n      \"difficulty\" : 0,\n      \"error\" : \"Already tracked\",\n      \"keyword\" : \"屏幕使用时间\",\n      \"popularity\" : 0,\n      \"skipped\" : true,\n      \"success\" : false\n    },\n    {\n      \"difficulty\" : 0,\n      \"error\" : \"Already tracked\",\n      \"keyword\" : \"应用限时\",\n      \"popularity\" : 0,\n      \"skipped\" : true,\n      \"success\" : false\n    },\n    {\n      \"difficulty\" : 0,\n      \"error\" : \"Already tracked\",\n      \"keyword\" : \"戒手机\",\n      \"popularity\" : 0,\n      \"skipped\" : true,\n      \"success\" : false\n    },\n    {\n      \"difficulty\" : 0,\n      \"error\" : \"Already tracked\",\n      \"keyword\" : \"防沉迷\",\n      \"popularity\" : 0,\n      \"skipped\" : true,\n      \"success\" : false\n    },\n    {\n      \"difficulty\" : 0,\n      \"error\" : \"Already tracked\",\n      \"keyword\" : \"少刷手机\",\n      \"popularity\" : 0,\n      \"skipped\" : true,\n      \"success\" : false\n    },\n    {\n      \"difficulty\" : 0,\n      \"error\" : \"Already tracked\",\n      \"keyword\" : \"手机自律\",\n      \"popularity\" : 0,\n      \"skipped\" : true,\n      \"success\" : false\n    },\n    {\n      \"difficulty\" : 0,\n      \"error\" : \"Already tracked\",\n      \"keyword\" : \"时间管理\",\n      \"popularity\" : 0,\n      \"skipped\" : true,\n      \"success\" : false\n    },\n    {\n      \"difficulty\" : 0,\n      \"error\" : \"Already tracked\",\n      \"keyword\" : \"专注\",\n      \"popularity\" : 0,\n      \"skipped\" : true,\n      \"success\" : false\n    }\n  ],\n  \"skipped\" : 8,\n  \"store\" : \"cn\",\n  \"total\" : 8\n}",
+        "type": "text"
+      }
+    ],
+    "isError": false
+  }
+}

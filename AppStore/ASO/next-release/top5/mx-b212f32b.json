@@ -1,0 +1,17 @@
+{
+  "query": "tiempo en pantalla",
+  "store": "mx",
+  "response": {
+    "id": "3d4779f5-61a0-4941-812e-4a548f879317",
+    "jsonrpc": "2.0",
+    "result": {
+      "content": [
+        {
+          "text": "{\n  \"apps\" : [\n    {\n      \"appStoreId\" : \"1497465230\",\n      \"averageRating\" : 4.9,\n      \"bundleId\" : \"com.withopal.opal\",\n      \"developer\" : \"Opal OS\",\n      \"genre\" : \"Productividad\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple211\\/v4\\/78\\/49\\/82\\/784982f1-f983-4980-1fac-0d542c970db8\\/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png\\/80x0w.webp\",\n      \"name\" : \"Opal: Tiempo de Pantalla Focus\",\n      \"ranking\" : 1,\n      \"ratingCount\" : 7505,\n      \"subtitle\" : \"Productividad y Concentración\"\n    },\n    {\n      \"appStoreId\" : \"1541027222\",\n      \"averageRating\" : 4.9,\n      \"bundleId\" : \"com.scottharvey.screenzenapp.ios\",\n      \"developer\" : \"ScreenZen LLC\",\n      \"genre\" : \"Productividad\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple221\\/v4\\/89\\/c8\\/de\\/89c8deef-2a7e-5abf-c5ec-ac3ffa343494\\/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png\\/80x0w.webp\",\n      \"name\" : \"ScreenZen- Screen Time Control\",\n      \"ranking\" : 2,\n      \"ratingCount\" : 1916,\n      \"subtitle\" : \"Bloquea apps, limita pantalla\"\n    },\n    {\n      \"appStoreId\" : \"6456942073\",\n      \"averageRating\" : 0,\n      \"bundleId\" : \"com.idreamdesign.screen\",\n      \"developer\" : \"Deebex Tech Ltd.\",\n      \"genre\" : \"Productividad\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple211\\/v4\\/20\\/66\\/de\\/2066def0-19be-aa2f-f2e9-94d0a58c514c\\/AppIcon-0-0-1x_U007ephone-0-1-85-220.png\\/80x0w.webp\",\n      \"name\" : \"Tiempo en Pantalla - Bloqueo\",\n      \"ranking\" : 3,\n      \"ratingCount\" : 0,\n      \"subtitle\" : \"Enfoque, Bloqueador, Límite\"\n    },\n    {\n      \"appStoreId\" : \"6809352229\",\n      \"averageRating\" : 5,\n      \"bundleId\" : \"app.feedminus\",\n      \"developer\" : \"ayumu kitabayashi\",\n      \"genre\" : \"Productividad\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple221\\/v4\\/78\\/a9\\/f7\\/78a9f741-8f6a-6e73-e5ea-f90a834fd419\\/AppIcon-0-0-1x_U007ephone-0-1-85-220.png\\/80x0w.webp\",\n      \"name\" : \"minulo: Bloquea Reels y Shorts\",\n      \"ranking\" : 4,\n      \"ratingCount\" : 1,\n      \"subtitle\" : \"Menos tiempo en redes sociales\"\n    },\n    {\n      \"appStoreId\" : \"1532875441\",\n      \"averageRating\" : 4.9,\n      \"bundleId\" : \"wtf.riedel.one-sec\",\n      \"developer\" : \"riedel.wtf apps S.L.\",\n      \"genre\" : \"Productividad\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple211\\/v4\\/fa\\/f1\\/83\\/faf18373-f0af-4b1d-2625-e47565d9ff05\\/one_sec_Default_App_Icon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png\\/80x0w.webp\",\n      \"name\" : \"one sec—tiempo pantalla y foco\",\n      \"ranking\" : 5,\n      \"ratingCount\" : 1894,\n      \"subtitle\" : \"Limitar apps y websites\"\n    }\n  ],\n  \"keyword\" : \"tiempo en pantalla\",\n  \"platform\" : \"iphone\",\n  \"store\" : \"mx\",\n  \"totalResults\" : 50\n}",
+          "type": "text"
+        }
+      ],
+      "isError": false
+    }
+  }
+}

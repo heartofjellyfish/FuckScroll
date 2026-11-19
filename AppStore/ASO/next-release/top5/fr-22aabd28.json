@@ -1,0 +1,17 @@
+{
+  "query": "bloqueur application",
+  "store": "fr",
+  "response": {
+    "id": "c3aea81f-1c85-4575-9032-be7d9b297c50",
+    "jsonrpc": "2.0",
+    "result": {
+      "content": [
+        {
+          "text": "{\n  \"apps\" : [\n    {\n      \"appStoreId\" : \"1497465230\",\n      \"averageRating\" : 4.7,\n      \"bundleId\" : \"com.withopal.opal\",\n      \"developer\" : \"Opal OS\",\n      \"genre\" : \"Productivité\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple211\\/v4\\/78\\/49\\/82\\/784982f1-f983-4980-1fac-0d542c970db8\\/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png\\/80x0w.webp\",\n      \"name\" : \"Opal: Temps d'écran et Focus\",\n      \"ranking\" : 1,\n      \"ratingCount\" : 13989,\n      \"subtitle\" : \"Bloquage et Limite d'Apps\"\n    },\n    {\n      \"appStoreId\" : \"1541027222\",\n      \"averageRating\" : 4.8,\n      \"bundleId\" : \"com.scottharvey.screenzenapp.ios\",\n      \"developer\" : \"ScreenZen LLC\",\n      \"genre\" : \"Productivité\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple221\\/v4\\/89\\/c8\\/de\\/89c8deef-2a7e-5abf-c5ec-ac3ffa343494\\/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png\\/80x0w.webp\",\n      \"name\" : \"ScreenZen- Screen Time Control\",\n      \"ranking\" : 2,\n      \"ratingCount\" : 2361,\n      \"subtitle\" : \"Bloqueur d'apps, temps d'écran\"\n    },\n    {\n      \"appStoreId\" : \"1609960918\",\n      \"averageRating\" : 4.7,\n      \"bundleId\" : \"com.jomo.Jomo\",\n      \"developer\" : \"Jomo\",\n      \"genre\" : \"Productivité\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple211\\/v4\\/23\\/9a\\/11\\/239a118e-7e7d-2178-714b-9fd591550394\\/AppIcon-0-0-1x_U007epad-0-9-0-85-220.png\\/80x0w.webp\",\n      \"name\" : \"Jomo - Meilleur temps d'écran\",\n      \"ranking\" : 3,\n      \"ratingCount\" : 1816,\n      \"subtitle\" : \"Combattre Addiction Téléphone\"\n    },\n    {\n      \"appStoreId\" : \"1645639057\",\n      \"averageRating\" : 4.7,\n      \"bundleId\" : \"com.refocus.refocus\",\n      \"developer\" : \"Labi, LLC\",\n      \"genre\" : \"Productivité\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple211\\/v4\\/02\\/88\\/ea\\/0288ea6d-6953-945e-1749-944b673f6d90\\/AppIcon-0-0-1x_U007ephone-0-1-85-220.png\\/80x0w.webp\",\n      \"name\" : \"Refocus: Bloquer Application\",\n      \"ranking\" : 4,\n      \"ratingCount\" : 569,\n      \"subtitle\" : \"Bloqueur de Site Temps d'Écran\"\n    },\n    {\n      \"appStoreId\" : \"1532875441\",\n      \"averageRating\" : 4.8,\n      \"bundleId\" : \"wtf.riedel.one-sec\",\n      \"developer\" : \"riedel.wtf apps S.L.\",\n      \"genre\" : \"Productivité\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple211\\/v4\\/fa\\/f1\\/83\\/faf18373-f0af-4b1d-2625-e47565d9ff05\\/one_sec_Default_App_Icon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png\\/80x0w.webp\",\n      \"name\" : \"one sec–temps d'écran & focus\",\n      \"ranking\" : 5,\n      \"ratingCount\" : 5808,\n      \"subtitle\" : \"App & web bloqueur d'impulsion\"\n    }\n  ],\n  \"keyword\" : \"bloqueur application\",\n  \"platform\" : \"iphone\",\n  \"store\" : \"fr\",\n  \"totalResults\" : 50\n}",
+          "type": "text"
+        }
+      ],
+      "isError": false
+    }
+  }
+}

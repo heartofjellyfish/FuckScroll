@@ -1,0 +1,13 @@
+{
+  "id": "b6aad613-fc37-4a3e-8266-50a1abcff899",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"added\" : 1,\n  \"app\" : \"Stop Scrolling – Duck on Duty\",\n  \"failed\" : 0,\n  \"platform\" : \"iphone\",\n  \"results\" : [\n    {\n      \"difficulty\" : 47,\n      \"keyword\" : \"app zeitlimit\",\n      \"popularity\" : 5,\n      \"skipped\" : false,\n      \"success\" : true\n    }\n  ],\n  \"skipped\" : 0,\n  \"store\" : \"de\",\n  \"total\" : 1\n}",
+        "type": "text"
+      }
+    ],
+    "isError": false
+  }
+}

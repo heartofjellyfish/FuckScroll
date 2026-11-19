@@ -1,0 +1,13 @@
+{
+  "id": "fc67a7f6-58b1-4649-b1c2-afdf228351bc",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"added\" : 5,\n  \"app\" : \"Stop Scrolling – Duck on Duty\",\n  \"failed\" : 0,\n  \"platform\" : \"iphone\",\n  \"results\" : [\n    {\n      \"difficulty\" : 17,\n      \"keyword\" : \"stop scrolling\",\n      \"popularity\" : 25,\n      \"ranking\" : 37,\n      \"skipped\" : false,\n      \"success\" : true\n    },\n    {\n      \"difficulty\" : 11,\n      \"keyword\" : \"scroll blocker\",\n      \"popularity\" : 23,\n      \"skipped\" : false,\n      \"success\" : true\n    },\n    {\n      \"difficulty\" : 13,\n      \"keyword\" : \"digital detox\",\n      \"popularity\" : 7,\n      \"skipped\" : false,\n      \"success\" : true\n    },\n    {\n      \"difficulty\" : 40,\n      \"keyword\" : \"app blocker\",\n      \"popularity\" : 48,\n      \"skipped\" : false,\n      \"success\" : true\n    },\n    {\n      \"difficulty\" : 42,\n      \"keyword\" : \"screen time\",\n      \"popularity\" : 49,\n      \"skipped\" : false,\n      \"success\" : true\n    }\n  ],\n  \"skipped\" : 0,\n  \"store\" : \"au\",\n  \"total\" : 5\n}",
+        "type": "text"
+      }
+    ],
+    "isError": false
+  }
+}

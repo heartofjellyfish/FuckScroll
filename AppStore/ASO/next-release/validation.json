@@ -1,0 +1,194 @@
+{
+  "en-US": {
+    "lengths": {
+      "name": 29,
+      "subtitle": 25,
+      "keywords": 87,
+      "description": 588,
+      "promotional_text": 104
+    },
+    "errors": [],
+    "repeatedLatinWords": [],
+    "status": "ready for owner review; not uploaded"
+  },
+  "zh-Hans": {
+    "lengths": {
+      "name": 18,
+      "subtitle": 15,
+      "keywords": 69,
+      "description": 222,
+      "promotional_text": 38
+    },
+    "errors": [],
+    "repeatedLatinWords": [],
+    "status": "ready for owner review; not uploaded"
+  },
+  "zh-Hant": {
+    "lengths": {
+      "name": 16,
+      "subtitle": 19,
+      "keywords": 59,
+      "description": 242,
+      "promotional_text": 39
+    },
+    "errors": [],
+    "repeatedLatinWords": [],
+    "status": "ready for owner review; not uploaded"
+  },
+  "ja": {
+    "lengths": {
+      "name": 19,
+      "subtitle": 17,
+      "keywords": 63,
+      "description": 316,
+      "promotional_text": 46
+    },
+    "errors": [],
+    "repeatedLatinWords": [],
+    "status": "ready for owner review; not uploaded"
+  },
+  "ko": {
+    "lengths": {
+      "name": 18,
+      "subtitle": 17,
+      "keywords": 69,
+      "description": 372,
+      "promotional_text": 67
+    },
+    "errors": [],
+    "repeatedLatinWords": [],
+    "status": "ready for owner review; not uploaded"
+  },
+  "es-ES": {
+    "lengths": {
+      "name": 26,
+      "subtitle": 28,
+      "keywords": 82,
+      "description": 678,
+      "promotional_text": 101
+    },
+    "errors": [],
+    "repeatedLatinWords": [],
+    "status": "ready for owner review; not uploaded"
+  },
+  "fr-FR": {
+    "lengths": {
+      "name": 29,
+      "subtitle": 29,
+      "keywords": 74,
+      "description": 760,
+      "promotional_text": 109
+    },
+    "errors": [],
+    "repeatedLatinWords": [],
+    "status": "ready for owner review; not uploaded"
+  },
+  "de-DE": {
+    "lengths": {
+      "name": 28,
+      "subtitle": 28,
+      "keywords": 77,
+      "description": 820,
+      "promotional_text": 129
+    },
+    "errors": [],
+    "repeatedLatinWords": [],
+    "status": "ready for owner review; not uploaded"
+  },
+  "it": {
+    "lengths": {
+      "name": 24,
+      "subtitle": 25,
+      "keywords": 65,
+      "description": 713,
+      "promotional_text": 110
+    },
+    "errors": [],
+    "repeatedLatinWords": [],
+    "status": "ready for owner review; not uploaded"
+  },
+  "pt-BR": {
+    "lengths": {
+      "name": 27,
+      "subtitle": 30,
+      "keywords": 83,
+      "description": 681,
+      "promotional_text": 95
+    },
+    "errors": [],
+    "repeatedLatinWords": [],
+    "status": "ready for owner review; not uploaded"
+  },
+  "en-GB": {
+    "lengths": {
+      "name": 29,
+      "subtitle": 25,
+      "keywords": 87,
+      "description": 588,
+      "promotional_text": 104
+    },
+    "errors": [],
+    "repeatedLatinWords": [],
+    "status": "ready for owner review; not uploaded"
+  },
+  "en-AU": {
+    "lengths": {
+      "name": 29,
+      "subtitle": 25,
+      "keywords": 87,
+      "description": 588,
+      "promotional_text": 104
+    },
+    "errors": [],
+    "repeatedLatinWords": [],
+    "status": "ready for owner review; not uploaded"
+  },
+  "en-CA": {
+    "lengths": {
+      "name": 29,
+      "subtitle": 25,
+      "keywords": 87,
+      "description": 588,
+      "promotional_text": 104
+    },
+    "errors": [],
+    "repeatedLatinWords": [],
+    "status": "ready for owner review; not uploaded"
+  },
+  "fr-CA": {
+    "lengths": {
+      "name": 27,
+      "subtitle": 30,
+      "keywords": 74,
+      "description": 760,
+      "promotional_text": 109
+    },
+    "errors": [],
+    "repeatedLatinWords": [],
+    "status": "ready for owner review; not uploaded"
+  },
+  "es-MX": {
+    "lengths": {
+      "name": 26,
+      "subtitle": 28,
+      "keywords": 82,
+      "description": 684,
+      "promotional_text": 104
+    },
+    "errors": [],
+    "repeatedLatinWords": [],
+    "status": "ready for owner review; not uploaded"
+  },
+  "pt-PT": {
+    "lengths": {
+      "name": 27,
+      "subtitle": 28,
+      "keywords": 68,
+      "description": 682,
+      "promotional_text": 102
+    },
+    "errors": [],
+    "repeatedLatinWords": [],
+    "status": "ready for owner review; not uploaded"
+  }
+}

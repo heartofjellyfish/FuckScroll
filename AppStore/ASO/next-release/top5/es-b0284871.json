@@ -1,0 +1,17 @@
+{
+  "query": "tiempo de pantalla",
+  "store": "es",
+  "response": {
+    "id": "9ce19d09-8e7d-435a-ab79-8ba8aaf5d8e6",
+    "jsonrpc": "2.0",
+    "result": {
+      "content": [
+        {
+          "text": "{\n  \"apps\" : [\n    {\n      \"appStoreId\" : \"6451370747\",\n      \"averageRating\" : 4,\n      \"bundleId\" : \"app.screentime.unplugged\",\n      \"developer\" : \"SmartDaddy\",\n      \"genre\" : \"Salud y forma física\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple211\\/v4\\/7b\\/3f\\/ee\\/7b3fee0e-5154-1d8b-28e0-fef9b471459f\\/AppIcon-0-0-1x_U007epad-0-0-85-220.png\\/80x0w.webp\",\n      \"name\" : \"Tiempo de Pantalla: Unplugged\",\n      \"ranking\" : 1,\n      \"ratingCount\" : 1,\n      \"subtitle\" : \"Bloqueo de Aplicaciones\"\n    },\n    {\n      \"appStoreId\" : \"1532875441\",\n      \"averageRating\" : 4.8,\n      \"bundleId\" : \"wtf.riedel.one-sec\",\n      \"developer\" : \"riedel.wtf apps S.L.\",\n      \"genre\" : \"Productividad\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple211\\/v4\\/fa\\/f1\\/83\\/faf18373-f0af-4b1d-2625-e47565d9ff05\\/one_sec_Default_App_Icon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png\\/80x0w.webp\",\n      \"name\" : \"one sec—tiempo pantalla y foco\",\n      \"ranking\" : 2,\n      \"ratingCount\" : 2808,\n      \"subtitle\" : \"Limitar apps y websites\"\n    },\n    {\n      \"appStoreId\" : \"1609960918\",\n      \"averageRating\" : 4.7,\n      \"bundleId\" : \"com.jomo.Jomo\",\n      \"developer\" : \"Jomo\",\n      \"genre\" : \"Productividad\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple211\\/v4\\/23\\/9a\\/11\\/239a118e-7e7d-2178-714b-9fd591550394\\/AppIcon-0-0-1x_U007epad-0-9-0-85-220.png\\/80x0w.webp\",\n      \"name\" : \"Jomo - Reducir Tiempo Pantalla\",\n      \"ranking\" : 3,\n      \"ratingCount\" : 199,\n      \"subtitle\" : \"Superar la Adicción al Móvil\"\n    },\n    {\n      \"appStoreId\" : \"1515753232\",\n      \"averageRating\" : 4.6,\n      \"bundleId\" : \"eu.mobilesoft.appblock\",\n      \"developer\" : \"MobileSoft s.r.o.\",\n      \"genre\" : \"Productividad\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple211\\/v4\\/9c\\/5a\\/d7\\/9c5ad7ef-7122-af9e-baa4-4f35d377ef16\\/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png\\/80x0w.webp\",\n      \"name\" : \"AppBlock Bloquear Aplicaciones\",\n      \"ranking\" : 4,\n      \"ratingCount\" : 973,\n      \"subtitle\" : \"Limitar tiempo de pantalla\"\n    },\n    {\n      \"appStoreId\" : \"6772133508\",\n      \"averageRating\" : 0,\n      \"bundleId\" : \"com.lean.screentimelog\",\n      \"developer\" : \"LEAN ASIA CO., LTD\",\n      \"genre\" : \"Productividad\",\n      \"iconUrl\" : \"https:\\/\\/is1-ssl.mzstatic.com\\/image\\/thumb\\/Purple221\\/v4\\/66\\/df\\/8f\\/66df8f09-7a37-62de-4735-377027e02815\\/AppIcon-0-0-1x_U007ephone-0-1-85-220.png\\/80x0w.webp\",\n      \"name\" : \"Tiempo de Pantalla: Mi Diario\",\n      \"ranking\" : 5,\n      \"ratingCount\" : 0,\n      \"subtitle\" : \"Detox digital y menos móvil\"\n    }\n  ],\n  \"keyword\" : \"tiempo de pantalla\",\n  \"platform\" : \"iphone\",\n  \"store\" : \"es\",\n  \"totalResults\" : 50\n}",
+          "type": "text"
+        }
+      ],
+      "isError": false
+    }
+  }
+}

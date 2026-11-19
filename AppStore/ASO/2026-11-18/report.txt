@@ -1,0 +1,37 @@
+ASTRO ASO AUDIT — 2026-11-18 Pacific
+
+Scope: Duck on Duty, iPhone, United States and mainland China. Connected to the user-provided local MCP; no persistent Codex server configuration changed.
+
+Decision: Keep the approved name. Build a baseline before altering the version already submitted for review. Target a small number of relevant, lower-difficulty terms rather than only the largest category terms.
+
+US snapshot (popularity / difficulty / position):
+stop scrolling: 33 / 17 / 39
+scroll stopper: 5 / 9 / 9
+scroll blocker: 35 / 15 / out of tracked charts
+digital detox: 28 / 19 / out of tracked charts
+app blocker: 54 / 59 / out of tracked charts
+screen time: 51 / 60 / out of tracked charts
+social media blocker: 38 / 58 / out of tracked charts
+stop doomscrolling: 34 / 44 / 174
+doomscroll: 24 / 38 / out of tracked charts
+doomscrolling: 5 / 46 / out of tracked charts
+
+Priority hypothesis: scroll blocker and digital detox. Stop scrolling already has a foothold. Scroll stopper has a better position but low measured demand. These scores cannot predict downloads or guarantee a ranking gain. ScreenZen and one sec appear first and second in the returned stop scrolling competitor snapshot; their visible subtitle positioning is app blocking and screen time. This does not prove those words caused their rankings.
+
+Next-version US proposal, not applied:
+Name: Stop Scrolling – Duck on Duty
+Subtitle: Scroll Blocker & Screen Time
+Keyword field: see candidate-metadata.json (validated). Preserve social/media in the keyword field. Test whether moving the direct blocker phrase into the subtitle helps visibility; do not present this as a proven improvement.
+
+China snapshot: 屏幕使用时间 42/53; 戒手机 28/51; 防沉迷 30/52. 少刷手机 5/5, position33; 应用限时 5/19, position136. 专注 55/74 and 时间管理 42/71 are broad, competitive terms. Keep the friendly Chinese name but consider moving 屏幕使用时间 into a future subtitle. More market-specific queries would be needed before a complete Chinese keyword rewrite.
+
+Conversion: Keep the first screenshot focused on the inability to stop scrolling social media and the actual app-blocking benefit. Pair each distinct screenshot with one distinct benefit, including independent app timers. Do not imply accurate continuous-session tracking. Only one US rating is recorded; it is too small a sample to infer listing quality.
+
+Measurement: Qi/Codex owns metadata revisions. Record a 7–14 day baseline after 1.1 becomes available; compare keyword positions separately from App Store Search impressions, product-page conversion and first downloads in App Store Connect. Track each market separately. Prioritize rank improvements for stop scrolling and first measurable visibility for scroll blocker/digital detox. Do not start multi-variant screenshot experiments until traffic can support interpretation. No automatic recurring monitoring was scheduled.
+
+Tracking added in Astro: 14 US terms (now19),8 CN terms. Existing tracking preserved. App Store metadata and the submitted release were not modified.
+
+Limitations: snapshot only; scores are not search counts;1000 is an out-of-chart sentinel. AI suggestions and one live-search request timed out. Findings use the successfully returned tracked metrics and competitor response, not AI-generated volume estimates.
+
+Primary reference: https://developer.apple.com/app-store/search/
+Apple identifies title, subtitle, keywords, categories and user behavior as search signals; promotional text does not affect ranking. Avoid unauthorized trademark keywords and competitor names. Description and screenshot changes should serve conversion, not keyword stuffing.
