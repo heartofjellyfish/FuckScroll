@@ -1,0 +1,136 @@
+{
+  "iso3": "ESP",
+  "store": "es",
+  "country": "Spain",
+  "defaultLanguage": "Spanish (Spain)",
+  "additionalLanguages": "Catalan, English (U.K.)",
+  "seeds": [
+    "bloquear aplicaciones",
+    "tiempo de pantalla",
+    "bloqueador de apps",
+    "limitar aplicaciones"
+  ],
+  "endpoint": "http://127.0.0.1:8089/mcp",
+  "keywords": [
+    {
+      "appsCount": 230,
+      "currentRanking": 1000,
+      "difficulty": 19,
+      "keyword": "bloquear aplicaciones",
+      "lastUpdate": "2026-11-19T01:31:28Z",
+      "popularity": 50,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "es"
+    },
+    {
+      "appsCount": 243,
+      "currentRanking": 1000,
+      "difficulty": 23,
+      "keyword": "tiempo de pantalla",
+      "lastUpdate": "2026-11-19T01:31:28Z",
+      "popularity": 26,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "es"
+    },
+    {
+      "appsCount": 244,
+      "currentRanking": 1000,
+      "difficulty": 19,
+      "keyword": "bloqueador de apps",
+      "lastUpdate": "2026-11-19T01:31:28Z",
+      "popularity": 6,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "es"
+    },
+    {
+      "appsCount": 47,
+      "currentRanking": 1000,
+      "difficulty": 11,
+      "keyword": "limitar aplicaciones",
+      "lastUpdate": "2026-11-19T01:31:28Z",
+      "popularity": 5,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "es"
+    }
+  ],
+  "selectedKeyword": {
+    "appsCount": 230,
+    "currentRanking": 1000,
+    "difficulty": 19,
+    "keyword": "bloquear aplicaciones",
+    "lastUpdate": "2026-11-19T01:31:28Z",
+    "popularity": 50,
+    "previousRanking": 1000,
+    "rankingChange": 0,
+    "store": "es"
+  },
+  "selectionRule": "sweet-spot heuristic: popularity≥25, difficulty≤35, relevance≥4",
+  "top5": [
+    {
+      "appStoreId": "1497465230",
+      "averageRating": 4.7,
+      "bundleId": "com.withopal.opal",
+      "developer": "Opal OS",
+      "genre": "Productividad",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/49/82/784982f1-f983-4980-1fac-0d542c970db8/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/80x0w.webp",
+      "name": "Opal: Tiempo de Pantalla Focus",
+      "ranking": 1,
+      "ratingCount": 3329,
+      "subtitle": "Productividad y Concentración"
+    },
+    {
+      "appStoreId": "1515753232",
+      "averageRating": 4.6,
+      "bundleId": "eu.mobilesoft.appblock",
+      "developer": "MobileSoft s.r.o.",
+      "genre": "Productividad",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/5a/d7/9c5ad7ef-7122-af9e-baa4-4f35d377ef16/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/80x0w.webp",
+      "name": "AppBlock Bloquear Aplicaciones",
+      "ranking": 2,
+      "ratingCount": 973,
+      "subtitle": "Limitar tiempo de pantalla"
+    },
+    {
+      "appStoreId": "6469686557",
+      "averageRating": 4.4,
+      "bundleId": "com.xu.applock",
+      "developer": "友财 徐",
+      "genre": "Utilidades",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/65/29/ad6529bc-a635-b89c-4d80-b2773b0602ec/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/80x0w.webp",
+      "name": "Bloqueo De Aplicaciones -",
+      "ranking": 3,
+      "ratingCount": 193,
+      "subtitle": "Poner Para Contraseña a Apps"
+    },
+    {
+      "appStoreId": "1645639057",
+      "averageRating": 4.7,
+      "bundleId": "com.refocus.refocus",
+      "developer": "Labi, LLC",
+      "genre": "Productividad",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/88/ea/0288ea6d-6953-945e-1749-944b673f6d90/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/80x0w.webp",
+      "name": "Refocus: Bloquear Aplicaciones",
+      "ranking": 4,
+      "ratingCount": 609,
+      "subtitle": "Bloqueo de Pantalla y Apps"
+    },
+    {
+      "appStoreId": "1459096306",
+      "averageRating": 4.6,
+      "bundleId": "com.shikudo.focus",
+      "developer": "Shikudo",
+      "genre": "Productividad",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/2d/1f/f22d1f1c-9bce-93fa-719c-c9d81dc04891/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/80x0w.webp",
+      "name": "Focus Plant: estudiar planta",
+      "ranking": 5,
+      "ratingCount": 8323,
+      "subtitle": "Tiempo de estudio para arboles"
+    }
+  ],
+  "yourAppRanking": null,
+  "status": "completed"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "1312b3d5-be53-4227-868b-4fcaa1c38535",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "Error: Invalid parameters: Unsupported store 'vu'",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}

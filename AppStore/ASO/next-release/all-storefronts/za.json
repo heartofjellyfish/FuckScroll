@@ -1,0 +1,125 @@
+{
+  "iso3": "ZAF",
+  "store": "za",
+  "country": "South Africa",
+  "defaultLanguage": "English (U.K.)",
+  "additionalLanguages": "",
+  "seeds": [
+    "app blocker",
+    "screen time",
+    "screen time control",
+    "scroll blocker",
+    "stop scrolling"
+  ],
+  "endpoint": "http://127.0.0.1:8089/mcp",
+  "keywords": [
+    {
+      "difficulty": 15,
+      "keyword": "app blocker",
+      "popularity": 44,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 19,
+      "keyword": "screen time",
+      "popularity": 36,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 19,
+      "keyword": "screen time control",
+      "popularity": 31,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 17,
+      "keyword": "scroll blocker",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 9,
+      "keyword": "stop scrolling",
+      "popularity": 5,
+      "ranking": 19,
+      "skipped": false,
+      "success": true
+    }
+  ],
+  "selectedKeyword": {
+    "difficulty": 15,
+    "keyword": "app blocker",
+    "popularity": 44,
+    "skipped": false,
+    "success": true
+  },
+  "selectionRule": "sweet-spot heuristic: popularity≥25, difficulty≤35, relevance≥4",
+  "top5": [
+    {
+      "appStoreId": "1645639057",
+      "averageRating": 4.7,
+      "bundleId": "com.refocus.refocus",
+      "developer": "Labi, LLC",
+      "genre": "Productivity",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/88/ea/0288ea6d-6953-945e-1749-944b673f6d90/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/80x0w.webp",
+      "name": "Refocus: App Blocker & Lock",
+      "ranking": 1,
+      "ratingCount": 563,
+      "subtitle": "Block Websites, Social Media"
+    },
+    {
+      "appStoreId": "1497465230",
+      "averageRating": 4.8,
+      "bundleId": "com.withopal.opal",
+      "developer": "Opal OS",
+      "genre": "Productivity",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/49/82/784982f1-f983-4980-1fac-0d542c970db8/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/80x0w.webp",
+      "name": "Opal: Screen Time Control",
+      "ranking": 2,
+      "ratingCount": 1446,
+      "subtitle": "Focus, App Blocker & Timer"
+    },
+    {
+      "appStoreId": "1515753232",
+      "averageRating": 4.5,
+      "bundleId": "eu.mobilesoft.appblock",
+      "developer": "MobileSoft s.r.o.",
+      "genre": "Productivity",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/5a/d7/9c5ad7ef-7122-af9e-baa4-4f35d377ef16/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/80x0w.webp",
+      "name": "AppBlock: App & Site Blocker",
+      "ranking": 3,
+      "ratingCount": 348,
+      "subtitle": "Limit Screen Time | Block Web"
+    },
+    {
+      "appStoreId": "1474967653",
+      "averageRating": 4.2,
+      "bundleId": "co.ios.BlockSite",
+      "developer": "BlockSite LP",
+      "genre": "Productivity",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fd/67/6d/fd676d7c-0822-b25f-2189-a0ca6cf45c7b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/80x0w.webp",
+      "name": "BlockSite: Block Apps & Focus",
+      "ranking": 4,
+      "ratingCount": 67,
+      "subtitle": "Focus & Limit Screen Time"
+    },
+    {
+      "appStoreId": "1541027222",
+      "averageRating": 4.8,
+      "bundleId": "com.scottharvey.screenzenapp.ios",
+      "developer": "ScreenZen LLC",
+      "genre": "Productivity",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/c8/de/89c8deef-2a7e-5abf-c5ec-ac3ffa343494/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/80x0w.webp",
+      "name": "ScreenZen- Screen Time Control",
+      "ranking": 5,
+      "ratingCount": 669,
+      "subtitle": "App blocker, limit screen time"
+    }
+  ],
+  "yourAppRanking": null,
+  "status": "completed"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "4f50d6ce-f959-4f6d-a362-239ea6b29269",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"added\" : 2,\n  \"app\" : \"Stop Scrolling – Duck on Duty\",\n  \"failed\" : 0,\n  \"platform\" : \"iphone\",\n  \"results\" : [\n    {\n      \"difficulty\" : 52,\n      \"keyword\" : \"app blocker\",\n      \"popularity\" : 6,\n      \"skipped\" : false,\n      \"success\" : true\n    },\n    {\n      \"difficulty\" : 44,\n      \"keyword\" : \"screen time\",\n      \"popularity\" : 35,\n      \"skipped\" : false,\n      \"success\" : true\n    }\n  ],\n  \"skipped\" : 0,\n  \"store\" : \"fr\",\n  \"total\" : 2\n}",
+        "type": "text"
+      }
+    ],
+    "isError": false
+  }
+}

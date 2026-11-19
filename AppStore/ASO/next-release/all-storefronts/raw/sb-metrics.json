@@ -1,0 +1,13 @@
+{
+  "id": "f2d55517-89fd-4c98-9ddb-142211af9a22",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "Error: Invalid parameters: Unsupported store 'sb'",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}

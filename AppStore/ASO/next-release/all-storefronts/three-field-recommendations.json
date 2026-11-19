@@ -1,0 +1,322 @@
+{
+  "state": "Local draft only; no App Store Connect changes or name reservation.",
+  "scope": "Only name, subtitle, keywords. Sixteen complete existing listings updated; three new locales are metadata-only candidates.",
+  "keywordEvidence": "Functional relevance plus seed demand evidence; individual keyword tokens are not all separately volume-validated. No competitor brand names, website-blocking, private-lock or continuous-session claims.",
+  "localizations": {
+    "en-US": {
+      "name": "App Blocker – Duck on Duty",
+      "subtitle": "Screen Time Control & Focus",
+      "keywords": "scroll,social,media,limit,break,digital,detox,doomscroll,distraction,habit,timer",
+      "anchorStores": [
+        "us"
+      ],
+      "rationale": "采用 Qi 最新提出的组合：最大相关需求 App Blocker 54/59 放主名；Screen Time Control 50/65 放副标题。关键词补 scroll。",
+      "conflict": "Scroll Blocker 35/15 是低竞争备选，仍保留为实验；不是因为 OpenAppLock 排第八就保证能复制。",
+      "scope": "同步已有完整物料"
+    },
+    "en-GB": {
+      "name": "App Blocker – Duck on Duty",
+      "subtitle": "Screen Time Control & Focus",
+      "keywords": "scroll,social,media,limit,break,digital,detox,doomscroll,distraction,habit,timer",
+      "anchorStores": [
+        "gb",
+        "ie",
+        "nz",
+        "za"
+      ],
+      "rationale": "英国 App Blocker 52/48，比 Scroll Blocker 26/9 需求明显更高；没有同时满足相对热度门槛的低难度词，按用户偏好优先热度。",
+      "conflict": "大量国家共用 en-GB。印度偏 Screen Time，其他国家偏 Control，不能按国家分别写 en-GB 名称；副标题兼顾两者。",
+      "scope": "同步已有完整物料"
+    },
+    "en-AU": {
+      "name": "App Blocker – Duck on Duty",
+      "subtitle": "Screen Time Control & Focus",
+      "keywords": "scroll,social,media,limit,break,digital,detox,doomscroll,distraction,habit,timer",
+      "anchorStores": [
+        "au"
+      ],
+      "rationale": "澳洲 Screen Time 49/42 与 App Blocker 48/40 很接近；人为选择略低竞争的 App Blocker，并保持英语品牌一致，副标题覆盖前者。",
+      "conflict": "",
+      "scope": "同步已有完整物料"
+    },
+    "en-CA": {
+      "name": "App Blocker – Duck on Duty",
+      "subtitle": "Screen Time Control & Focus",
+      "keywords": "scroll,social,media,limit,break,digital,detox,doomscroll,distraction,habit,timer",
+      "anchorStores": [
+        "ca"
+      ],
+      "rationale": "加拿大 App Blocker 49/48，高于 Screen Time 46/46；Scroll Blocker 26/11 需求落差较大，选最大相关词。",
+      "conflict": "",
+      "scope": "同步已有完整物料"
+    },
+    "zh-Hans": {
+      "name": "屏幕使用时间 – Duck on Duty",
+      "subtitle": "戒手机，少刷社交媒体，到点休息",
+      "keywords": "防沉迷,应用限制,专注,自律,数字健康,定时,休息提醒",
+      "anchorStores": [
+        "cn"
+      ],
+      "rationale": "屏幕使用时间 42/53，高于戒手机 28/51。功能词前置，副标题讲场景和结果；两字词按中文语义保留，不套用英语长度规则。",
+      "conflict": "",
+      "scope": "同步已有完整物料"
+    },
+    "zh-Hant": {
+      "name": "螢幕使用時間 – Duck on Duty",
+      "subtitle": "戒手機，少滑社群動態，到點休息",
+      "keywords": "專注,防沉迷,滑手機,數位健康,減少分心,自律,應用限制",
+      "anchorStores": [
+        "tw",
+        "hk"
+      ],
+      "rationale": "台湾螢幕使用時間 33/19，相关且有量、难度低。",
+      "conflict": "香港英文 App Blocker 38/9 更强，但与台湾共享繁体字段。英文 en-GB 本地化可承接英文设备用户；不能保证所有香港用户看到英文。",
+      "scope": "同步已有完整物料"
+    },
+    "ja": {
+      "name": "スマホ制限 – Duck on Duty",
+      "subtitle": "スクリーンタイム管理、アプリごとに休憩",
+      "keywords": "スマホ依存,デジタルデトックス,集中,タイマー,SNS",
+      "anchorStores": [
+        "jp"
+      ],
+      "rationale": "スマホ制限 63/60、スクリーンタイム 60/46。主名优先热度，副标题覆盖较低难度的核心词；没有假称存在低竞争甜点。",
+      "conflict": "",
+      "scope": "同步已有完整物料"
+    },
+    "ko": {
+      "name": "스크린타임 – Duck on Duty",
+      "subtitle": "앱 차단으로 줄이는 SNS 사용 시간",
+      "keywords": "스마트폰중독,집중,타이머,디지털디톡스,휴식",
+      "anchorStores": [
+        "kr"
+      ],
+      "rationale": "스크린타임 57/45 高于 앱차단 31/23；后者不足最高相关热度的六成，主名选择更大需求，副标题补充应用拦截。",
+      "conflict": "",
+      "scope": "同步已有完整物料"
+    },
+    "es-ES": {
+      "name": "Bloquear aplicaciones – Duck",
+      "subtitle": "Límites de tiempo y descansos",
+      "keywords": "pantalla,concentración,temporizador,redes,sociales,hábitos,pausa",
+      "anchorStores": [
+        "es"
+      ],
+      "rationale": "西班牙 Bloquear aplicaciones 50/19，有量且难度低；缩短品牌为 Duck 才能在 30 字内保留完整功能表达。",
+      "conflict": "搜索结果包含隐私锁工具；副标题明确限时与休息，不声称密码保护。",
+      "scope": "同步已有完整物料"
+    },
+    "es-MX": {
+      "name": "Tiempo en pantalla – Duck",
+      "subtitle": "Bloquear aplicaciones y pausar",
+      "keywords": "límites,concentración,temporizador,redes,sociales,descanso,hábitos",
+      "anchorStores": [
+        "mx",
+        "ar",
+        "cl",
+        "co"
+      ],
+      "rationale": "墨西哥 Tiempo en pantalla 33/38 高于 Bloquear aplicaciones 30/38；主名与副标题合并覆盖两个功能方向。",
+      "conflict": "阿根廷偏 Bloquear aplicaciones 44/17，智利与哥伦比亚偏 Tiempo en pantalla；共享 es-MX，只能在一组字段里折中。",
+      "scope": "同步已有完整物料"
+    },
+    "fr-FR": {
+      "name": "Screen Time – Duck on Duty",
+      "subtitle": "Bloqueur d’apps et pauses",
+      "keywords": "application,limite,concentration,minuteur,réseaux,sociaux,détox,habitude",
+      "anchorStores": [
+        "fr"
+      ],
+      "rationale": "法国实测 Screen Time 35/44 高于 bloqueur application 22/47；temps d’écran 仅得 5 的低信号，不冒充高热度。主名用实测英文词，副标题保留自然法语。",
+      "conflict": "concentration 44/47 意图过宽，不因热度更高就用于主名。法语其他地区共用字段，未支持商店以法国为语言锚点。",
+      "scope": "同步已有完整物料"
+    },
+    "fr-CA": {
+      "name": "App Blocker – Duck on Duty",
+      "subtitle": "Temps d’écran et pauses",
+      "keywords": "application,limite,concentration,minuteur,réseaux,sociaux,détox,habitude",
+      "anchorStores": [
+        "ca"
+      ],
+      "rationale": "加拿大本地 App Blocker 49/48 最大；主名保留该词，副标题用法语明确功能与休息。",
+      "conflict": "补查 temps d’écran、bloqueur application、bloqueur apps 均为低信号 5；不把国家级数据等同于魁北克用户的独立搜索量。见 ca-french-tracked.json。",
+      "scope": "同步已有完整物料"
+    },
+    "de-DE": {
+      "name": "App Blocker – Duck on Duty",
+      "subtitle": "Bildschirmzeit, feste Pausen",
+      "keywords": "fokus,timer,scrollen,handyzeit,sperren,digital,detox,limit,gewohnheit",
+      "anchorStores": [
+        "de",
+        "at",
+        "ch"
+      ],
+      "rationale": "德国 App Blocker 52/52 略高于 Bildschirmzeit 50/47；前者放主名，后者放副标题；两项都保留。",
+      "conflict": "瑞士 apps sperren 26/13 更容易，但有密码锁意图且共用德语字段，不用其取代主功能。",
+      "scope": "同步已有完整物料"
+    },
+    "it": {
+      "name": "Tempo di utilizzo – Duck",
+      "subtitle": "Limiti app, pause obbligatorie",
+      "keywords": "concentrazione,timer,digitale,detox,scroll,abitudini,bloccare",
+      "anchorStores": [
+        "it"
+      ],
+      "rationale": "Tempo di utilizzo 37/21 是相关的低竞争方向。blocco app 47/23 更热但混有隐私／密码锁意图，未直接以它命名。",
+      "conflict": "",
+      "scope": "同步已有完整物料"
+    },
+    "pt-BR": {
+      "name": "Tempo de Tela – Duck on Duty",
+      "subtitle": "Bloqueie apps e faça pausas",
+      "keywords": "limite,foco,celular,redes,sociais,digital,detox,cronômetro,hábito",
+      "anchorStores": [
+        "br"
+      ],
+      "rationale": "巴西 tempo de tela 40/45 高于 bloquear aplicativos 33/40，优先热度；副标题自然表达拦截与暂停。",
+      "conflict": "",
+      "scope": "同步已有完整物料"
+    },
+    "pt-PT": {
+      "name": "Screen Time – Duck on Duty",
+      "subtitle": "Limites de apps e pausas",
+      "keywords": "ecrã,telemóvel,foco,bloquear,redes,sociais,digital,detox,temporizador",
+      "anchorStores": [
+        "pt"
+      ],
+      "rationale": "葡萄牙 Screen Time 29/17 与 App Blocker 28/21 都可用；前者热度略高、难度更低。原生 tempo de ecrã 得 5，只作相关词而非流量主张。",
+      "conflict": "",
+      "scope": "同步已有完整物料"
+    },
+    "nl-NL": {
+      "name": "Schermtijd – Duck on Duty",
+      "subtitle": "App Blocker met vaste pauzes",
+      "keywords": "limiet,focus,scrollen,sociale,media,digitale,detox,timer,afleiding,gebruik",
+      "anchorStores": [
+        "nl"
+      ],
+      "rationale": "荷兰 schermtijd 44/23，较 app blocker 48/45 只少少量热度、竞争明显更低，适合功能词前置。",
+      "conflict": "",
+      "scope": "仅三字段草案；未新增 UI 语言"
+    },
+    "ru": {
+      "name": "Экранное время – Duck",
+      "subtitle": "Лимиты приложений и перерывы",
+      "keywords": "фокус,пауза,таймер,блокировка",
+      "anchorStores": [
+        "ru"
+      ],
+      "rationale": "俄罗斯 экранное время 49/17；高热度、低难度且符合限时功能。避免直接声称隐私锁。俄文关键词按 UTF-8 字节控制。",
+      "conflict": "",
+      "scope": "仅三字段草案；未新增 UI 语言"
+    },
+    "sv": {
+      "name": "App Blocker – Duck on Duty",
+      "subtitle": "Skärmtid, gränser och pauser",
+      "keywords": "fokus,scrolla,sociala,medier,digital,detox,timer,vanor,begränsa",
+      "anchorStores": [
+        "se"
+      ],
+      "rationale": "瑞典 app blocker 34/38 高于 skärmtid 21/9；后者热度较低，不把低难度直接当最优，采用大词并在副标题覆盖原生词。",
+      "conflict": "",
+      "scope": "仅三字段草案；未新增 UI 语言"
+    }
+  },
+  "validation": {
+    "en-US": {
+      "name": 26,
+      "subtitle": 27,
+      "keywords": 80
+    },
+    "en-GB": {
+      "name": 26,
+      "subtitle": 27,
+      "keywords": 80
+    },
+    "en-AU": {
+      "name": 26,
+      "subtitle": 27,
+      "keywords": 80
+    },
+    "en-CA": {
+      "name": 26,
+      "subtitle": 27,
+      "keywords": 80
+    },
+    "zh-Hans": {
+      "name": 21,
+      "subtitle": 15,
+      "keywords": 69
+    },
+    "zh-Hant": {
+      "name": 21,
+      "subtitle": 15,
+      "keywords": 72
+    },
+    "ja": {
+      "name": 20,
+      "subtitle": 19,
+      "keywords": 67
+    },
+    "ko": {
+      "name": 20,
+      "subtitle": 20,
+      "keywords": 61
+    },
+    "es-ES": {
+      "name": 28,
+      "subtitle": 29,
+      "keywords": 66
+    },
+    "es-MX": {
+      "name": 25,
+      "subtitle": 30,
+      "keywords": 69
+    },
+    "fr-FR": {
+      "name": 26,
+      "subtitle": 25,
+      "keywords": 74
+    },
+    "fr-CA": {
+      "name": 26,
+      "subtitle": 23,
+      "keywords": 74
+    },
+    "de-DE": {
+      "name": 26,
+      "subtitle": 28,
+      "keywords": 69
+    },
+    "it": {
+      "name": 24,
+      "subtitle": 30,
+      "keywords": 61
+    },
+    "pt-BR": {
+      "name": 28,
+      "subtitle": 27,
+      "keywords": 67
+    },
+    "pt-PT": {
+      "name": 26,
+      "subtitle": 24,
+      "keywords": 71
+    },
+    "nl-NL": {
+      "name": 25,
+      "subtitle": 28,
+      "keywords": 74
+    },
+    "ru": {
+      "name": 21,
+      "subtitle": 28,
+      "keywords": 55
+    },
+    "sv": {
+      "name": 26,
+      "subtitle": 28,
+      "keywords": 64
+    }
+  }
+}

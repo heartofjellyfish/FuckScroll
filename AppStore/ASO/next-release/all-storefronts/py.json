@@ -1,0 +1,116 @@
+{
+  "iso3": "PRY",
+  "store": "py",
+  "country": "Paraguay",
+  "defaultLanguage": "Spanish (Mexico)",
+  "additionalLanguages": "English (U.K.)",
+  "seeds": [
+    "bloquear aplicaciones",
+    "tiempo en pantalla",
+    "tiempo de pantalla",
+    "limitar apps"
+  ],
+  "endpoint": "http://127.0.0.1:8089/mcp",
+  "keywords": [
+    {
+      "difficulty": 5,
+      "keyword": "bloquear aplicaciones",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 15,
+      "keyword": "tiempo en pantalla",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 5,
+      "keyword": "tiempo de pantalla",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 21,
+      "keyword": "limitar apps",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    }
+  ],
+  "selectedKeyword": {
+    "difficulty": 5,
+    "keyword": "bloquear aplicaciones",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  "selectionRule": "low-data market; relevance-first provisional, not a proven sweet spot",
+  "top5": [
+    {
+      "appStoreId": "6746766591",
+      "averageRating": 1,
+      "bundleId": "com.lykovstudio.AppLock",
+      "developer": "LYKOV STUDIO LTD",
+      "genre": "Utilidades",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/fe/f0/d1fef0a7-c6dd-e678-0eac-cb6f0486ca3d/AppLock-0-0-1x_U007epad-0-1-sRGB-85-220.png/80x0w.webp",
+      "name": "Bloquear aplicaciones: AppLock",
+      "ranking": 1,
+      "ratingCount": 1,
+      "subtitle": "Bloqueo de aplicación Lockdown"
+    },
+    {
+      "appStoreId": "6469686557",
+      "averageRating": 4.9,
+      "bundleId": "com.xu.applock",
+      "developer": "友财 徐",
+      "genre": "Utilidades",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/65/29/ad6529bc-a635-b89c-4d80-b2773b0602ec/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/80x0w.webp",
+      "name": "Bloqueo De Aplicaciones -",
+      "ranking": 2,
+      "ratingCount": 27,
+      "subtitle": "Contraseña Para Apps Bloquear"
+    },
+    {
+      "appStoreId": "1598861873",
+      "averageRating": 0,
+      "bundleId": "com.7stars.password",
+      "developer": "伟文 贺",
+      "genre": "Productividad",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/db/33/5e/db335e6d-2169-3c9e-61c0-1ffc398948a9/AppIcon-1x_U007emarketing-0-10-0-85-220.png/80x0w.webp",
+      "name": "Contraseñas-gestor contraseña",
+      "ranking": 3,
+      "ratingCount": 0,
+      "subtitle": "Bloqueo bloquear aplicaciones"
+    },
+    {
+      "appStoreId": "6458880741",
+      "averageRating": 4.4,
+      "bundleId": "com.zheng.appblocker",
+      "developer": "万龙 戴",
+      "genre": "Productividad",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/6d/fc/9e6dfc46-1588-4b63-5f29-7400d43a2aff/AppIcon-0-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/80x0w.webp",
+      "name": "Bloqueo De Apps - Contraseña ™",
+      "ranking": 4,
+      "ratingCount": 17,
+      "subtitle": "App Para Bloquear Aplicaciones"
+    },
+    {
+      "appStoreId": "6467732552",
+      "averageRating": 0,
+      "bundleId": "com.Jarvis.app.ScreenCube",
+      "developer": "小玲 黄",
+      "genre": "Estilo de vida",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/16/d5/e7/16d5e7e9-4edf-eba3-332a-c051132e7394/AppIcon-1x_U007epad-0-1-0-85-220-0.png/80x0w.webp",
+      "name": "App Lock-Bloquear Aplicaciones",
+      "ranking": 5,
+      "ratingCount": 0,
+      "subtitle": "Contraseña para de bloqueo"
+    }
+  ],
+  "yourAppRanking": null,
+  "status": "completed"
+}

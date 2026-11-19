@@ -1,0 +1,13 @@
+{
+  "id": "96e7f35b-8ff6-4cac-b2c0-bf422b77acc9",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "Error: Invalid parameters: Unsupported store 'vg'",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "103391ec-308a-4e75-a959-ca94e5c072c9",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "Error: Invalid parameters: Unsupported store 'la'",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}

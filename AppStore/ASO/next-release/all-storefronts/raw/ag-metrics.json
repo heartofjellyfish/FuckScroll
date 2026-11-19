@@ -1,0 +1,13 @@
+{
+  "id": "6dc527d9-8121-4848-af83-1f9d585abc11",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "Error: Invalid parameters: Unsupported store 'ag'",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}

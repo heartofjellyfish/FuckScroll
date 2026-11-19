@@ -1,0 +1,118 @@
+{
+  "iso3": "MAC",
+  "store": "mo",
+  "country": "Macau",
+  "defaultLanguage": "Chinese (Traditional)",
+  "additionalLanguages": "English (U.K.)",
+  "seeds": [
+    "螢幕使用時間",
+    "戒手機",
+    "app blocker",
+    "screen time"
+  ],
+  "endpoint": "http://127.0.0.1:8089/mcp",
+  "keywords": [
+    {
+      "difficulty": 5,
+      "keyword": "螢幕使用時間",
+      "popularity": 5,
+      "ranking": 227,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 7,
+      "keyword": "戒手機",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 5,
+      "keyword": "app blocker",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 5,
+      "keyword": "screen time",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    }
+  ],
+  "selectedKeyword": {
+    "difficulty": 5,
+    "keyword": "螢幕使用時間",
+    "popularity": 5,
+    "ranking": 227,
+    "skipped": false,
+    "success": true
+  },
+  "selectionRule": "low-data market; relevance-first provisional, not a proven sweet spot",
+  "top5": [
+    {
+      "appStoreId": "6469414539",
+      "averageRating": 5,
+      "bundleId": "com.clarymind.clarymind",
+      "developer": "Clarymind",
+      "genre": "健康與健身",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/0a/c2/040ac20b-2fac-8725-8719-75d718a7ae89/AppIcon-0-0-1x_U007emarketing-0-11-0-0-sRGB-85-220.png/80x0w.webp",
+      "name": "Clarymind：專注戒手機成癮、上鎖app、螢幕使用時間",
+      "ranking": 1,
+      "ratingCount": 1,
+      "subtitle": "專心自律習慣、螢幕時間管理、多巴胺戒斷、睡眠拖延、助眠冥想"
+    },
+    {
+      "appStoreId": "6479197847",
+      "averageRating": 0,
+      "bundleId": "com.danyloternovoi.chronos",
+      "developer": "Danylo Ternovoi",
+      "genre": "生產力",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/2f/de/4c2fdefa-7e0b-e519-f4cb-d0f5668a7e2a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/80x0w.webp",
+      "name": "Tempozi: 鎖手機・戒手機・螢幕使用時間・讀書計時器",
+      "ranking": 2,
+      "ratingCount": 0,
+      "subtitle": "應用程式鎖・專注計時器・自律讀書・番茄鐘・封鎖網站"
+    },
+    {
+      "appStoreId": "1365784521",
+      "averageRating": 3.7,
+      "bundleId": "com.meshukraina.parentalcontrol",
+      "developer": "MESH Ukraina",
+      "genre": "教育",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/b3/3b/5db33b6a-e1a6-36e6-38d3-8e8d98d8b827/AppIcon-0-0-1x_U007emarketing-0-11-0-0-85-220.png/80x0w.webp",
+      "name": "Kroha：家長控制－螢幕使用時間與兒童定位",
+      "ranking": 3,
+      "ratingCount": 3,
+      "subtitle": "手機監控、應用鎖、兒童模式、位置"
+    },
+    {
+      "appStoreId": "1474340105",
+      "averageRating": 4.5,
+      "bundleId": "tech.miidii.off-screen",
+      "developer": "MD Studio",
+      "genre": "健康與健身",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/d7/24/71d724a4-6963-59a5-f56e-dd9b20e92573/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/80x0w.webp",
+      "name": "OffScreen - 自律番茄鍾，不做手機控",
+      "ranking": 4,
+      "ratingCount": 26,
+      "subtitle": "屏幕時間管理，專注學習計時器"
+    },
+    {
+      "appStoreId": "6451398522",
+      "averageRating": 0,
+      "bundleId": "com.c2.applock.cloak",
+      "developer": "Sihoooo Network Technology Co Ltd",
+      "genre": "生產力",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5c/da/18/5cda1892-e59c-a87f-e64a-82d1eaa6d78b/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/80x0w.webp",
+      "name": "PAUSED: 限制螢幕使用時間，封鎖 App 與網站",
+      "ranking": 5,
+      "ratingCount": 0,
+      "subtitle": "減少滑社群、戒手機成癮，提升生產力，時間管理軟體"
+    }
+  ],
+  "yourAppRanking": null,
+  "status": "completed"
+}

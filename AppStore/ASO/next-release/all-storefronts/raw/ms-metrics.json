@@ -1,0 +1,13 @@
+{
+  "id": "7d36e9d5-d934-4272-b814-cec423d56ac8",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "Error: Invalid parameters: Unsupported store 'ms'",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}

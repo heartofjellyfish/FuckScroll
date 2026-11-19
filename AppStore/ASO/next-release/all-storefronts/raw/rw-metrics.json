@@ -1,0 +1,13 @@
+{
+  "id": "758885ad-38ff-4f94-aa23-9aba7aa6370b",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "Error: Invalid parameters: Unsupported store 'rw'",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}

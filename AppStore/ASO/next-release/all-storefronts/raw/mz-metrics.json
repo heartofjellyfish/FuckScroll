@@ -1,0 +1,13 @@
+{
+  "id": "2532b955-66d8-4d53-b414-b801899fd529",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "Error: Invalid parameters: Unsupported store 'mz'",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "c439a740-0488-418e-97b9-066b64583195",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "Error: Invalid parameters: Unsupported store 'ly'",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}

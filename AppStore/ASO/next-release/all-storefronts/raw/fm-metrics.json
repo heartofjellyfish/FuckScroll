@@ -1,0 +1,13 @@
+{
+  "id": "8c15ecb3-534a-4ec0-9bf0-1cd03408744e",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "Error: Invalid parameters: Unsupported store 'fm'",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}

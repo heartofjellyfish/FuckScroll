@@ -1,0 +1,13 @@
+{
+  "id": "cd8e2ca2-1ec5-473d-9a69-fbeb00f07ef0",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "Error: Invalid parameters: Unsupported store 'jm'",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}

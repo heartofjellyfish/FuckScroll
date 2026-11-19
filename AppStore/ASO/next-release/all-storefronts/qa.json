@@ -1,0 +1,125 @@
+{
+  "iso3": "QAT",
+  "store": "qa",
+  "country": "Qatar",
+  "defaultLanguage": "English (U.K.)",
+  "additionalLanguages": "Arabic",
+  "seeds": [
+    "app blocker",
+    "screen time",
+    "screen time control",
+    "scroll blocker",
+    "stop scrolling"
+  ],
+  "endpoint": "http://127.0.0.1:8089/mcp",
+  "keywords": [
+    {
+      "difficulty": 36,
+      "keyword": "app blocker",
+      "popularity": 21,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 7,
+      "keyword": "screen time",
+      "popularity": 23,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 7,
+      "keyword": "screen time control",
+      "popularity": 21,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 13,
+      "keyword": "scroll blocker",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 5,
+      "keyword": "stop scrolling",
+      "popularity": 5,
+      "ranking": 68,
+      "skipped": false,
+      "success": true
+    }
+  ],
+  "selectedKeyword": {
+    "difficulty": 7,
+    "keyword": "screen time",
+    "popularity": 23,
+    "skipped": false,
+    "success": true
+  },
+  "selectionRule": "no qualifying sweet spot; popularity first, difficulty as tie-break",
+  "top5": [
+    {
+      "appStoreId": "1497465230",
+      "averageRating": 4.8,
+      "bundleId": "com.withopal.opal",
+      "developer": "Opal OS",
+      "genre": "Productivity",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/49/82/784982f1-f983-4980-1fac-0d542c970db8/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/80x0w.webp",
+      "name": "Opal: Screen Time Control",
+      "ranking": 1,
+      "ratingCount": 169,
+      "subtitle": "Focus, App Blocker & Timer"
+    },
+    {
+      "appStoreId": "6738397686",
+      "averageRating": 3,
+      "bundleId": "com.jackfinnis.ScreenTimeTracker",
+      "developer": "Jack Finnis",
+      "genre": "Productivity",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/83/78/b883782f-005e-c634-00cb-3fd348c09bf9/ScreenTime-0-0-1x_U007epad-0-1-85-220.png/80x0w.webp",
+      "name": "Screen Time Tracker",
+      "ranking": 2,
+      "ratingCount": 1,
+      "subtitle": "App & Website Blocker Control"
+    },
+    {
+      "appStoreId": "1532875441",
+      "averageRating": 4.7,
+      "bundleId": "wtf.riedel.one-sec",
+      "developer": "riedel.wtf apps S.L.",
+      "genre": "Productivity",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/f1/83/faf18373-f0af-4b1d-2625-e47565d9ff05/one_sec_Default_App_Icon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/80x0w.webp",
+      "name": "one sec | screen time + focus",
+      "ranking": 3,
+      "ratingCount": 56,
+      "subtitle": "App Blocker & Website Limits"
+    },
+    {
+      "appStoreId": "1474340105",
+      "averageRating": 4,
+      "bundleId": "tech.miidii.off-screen",
+      "developer": "MD Studio",
+      "genre": "Health & Fitness",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/d7/24/71d724a4-6963-59a5-f56e-dd9b20e92573/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/80x0w.webp",
+      "name": "OffScreen: Screen Time Control",
+      "ranking": 4,
+      "ratingCount": 12,
+      "subtitle": "App blocker for focus"
+    },
+    {
+      "appStoreId": "6744338972",
+      "averageRating": 4.7,
+      "bundleId": "smobiz.brainrot",
+      "developer": "Smolworks Inc",
+      "genre": "Productivity",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/3c/08/0a3c086c-e92f-23ac-270c-9f4841086302/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/80x0w.webp",
+      "name": "Brainrot: Screen Time Control",
+      "ranking": 5,
+      "ratingCount": 95,
+      "subtitle": "App Blocker & Focus Timer"
+    }
+  ],
+  "yourAppRanking": null,
+  "status": "completed"
+}

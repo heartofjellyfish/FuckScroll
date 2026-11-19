@@ -1,0 +1,13 @@
+{
+  "id": "d6a6bc83-b52d-4e01-898e-3eab14e5fc4c",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "Error: Invalid parameters: Unsupported store 'gm'",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "156c6b96-efc8-47e6-a6e5-58d630f440ad",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "Error: Invalid parameters: Unsupported store 'ao'",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}

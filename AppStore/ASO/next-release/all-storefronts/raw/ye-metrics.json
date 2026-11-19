@@ -1,0 +1,13 @@
+{
+  "id": "e7f37f2b-876e-4a1d-8bc9-49d867510cad",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "Error: Invalid parameters: Unsupported store 'ye'",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}

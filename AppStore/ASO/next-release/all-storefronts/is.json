@@ -1,0 +1,125 @@
+{
+  "iso3": "ISL",
+  "store": "is",
+  "country": "Iceland",
+  "defaultLanguage": "English (U.K.)",
+  "additionalLanguages": "",
+  "seeds": [
+    "app blocker",
+    "screen time",
+    "screen time control",
+    "scroll blocker",
+    "stop scrolling"
+  ],
+  "endpoint": "http://127.0.0.1:8089/mcp",
+  "keywords": [
+    {
+      "difficulty": 13,
+      "keyword": "app blocker",
+      "popularity": 22,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 7,
+      "keyword": "screen time",
+      "popularity": 22,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 7,
+      "keyword": "screen time control",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 11,
+      "keyword": "scroll blocker",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 5,
+      "keyword": "stop scrolling",
+      "popularity": 5,
+      "ranking": 62,
+      "skipped": false,
+      "success": true
+    }
+  ],
+  "selectedKeyword": {
+    "difficulty": 7,
+    "keyword": "screen time",
+    "popularity": 22,
+    "skipped": false,
+    "success": true
+  },
+  "selectionRule": "no qualifying sweet spot; popularity first, difficulty as tie-break",
+  "top5": [
+    {
+      "appStoreId": "1497465230",
+      "averageRating": 4.9,
+      "bundleId": "com.withopal.opal",
+      "developer": "Opal OS",
+      "genre": "Productivity",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/49/82/784982f1-f983-4980-1fac-0d542c970db8/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/80x0w.webp",
+      "name": "Opal: Screen Time Control",
+      "ranking": 1,
+      "ratingCount": 95,
+      "subtitle": "Focus, App Blocker & Timer"
+    },
+    {
+      "appStoreId": "6738397686",
+      "averageRating": 0,
+      "bundleId": "com.jackfinnis.ScreenTimeTracker",
+      "developer": "Jack Finnis",
+      "genre": "Productivity",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b8/83/78/b883782f-005e-c634-00cb-3fd348c09bf9/ScreenTime-0-0-1x_U007epad-0-1-85-220.png/80x0w.webp",
+      "name": "Screen Time Tracker",
+      "ranking": 2,
+      "ratingCount": 0,
+      "subtitle": "App & Website Blocker Control"
+    },
+    {
+      "appStoreId": "1644737181",
+      "averageRating": 4.8,
+      "bundleId": "com.getpresentapp.Present",
+      "developer": "Screen Detox Inc",
+      "genre": "Productivity",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/df/4d/85/df4d850b-de5e-04d7-6770-2d308b4741d7/Modern_Icon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/80x0w.webp",
+      "name": "BePresent: Screen Time Tracker",
+      "ranking": 3,
+      "ratingCount": 128,
+      "subtitle": "Phone App Time Limit & Blocker"
+    },
+    {
+      "appStoreId": "6746537171",
+      "averageRating": 4.5,
+      "bundleId": "com.unrotou.unrot",
+      "developer": "Unrot OÜ",
+      "genre": "Productivity",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/0b/06/b90b065c-d3fd-e45e-e499-96acac1cbe4d/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/80x0w.webp",
+      "name": "Unrot: Earn your Screen Time",
+      "ranking": 4,
+      "ratingCount": 66,
+      "subtitle": "Complete habits, then scroll"
+    },
+    {
+      "appStoreId": "1541027222",
+      "averageRating": 4.9,
+      "bundleId": "com.scottharvey.screenzenapp.ios",
+      "developer": "ScreenZen LLC",
+      "genre": "Productivity",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/c8/de/89c8deef-2a7e-5abf-c5ec-ac3ffa343494/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/80x0w.webp",
+      "name": "ScreenZen- Screen Time Control",
+      "ranking": 5,
+      "ratingCount": 57,
+      "subtitle": "App blocker, limit screen time"
+    }
+  ],
+  "yourAppRanking": null,
+  "status": "completed"
+}

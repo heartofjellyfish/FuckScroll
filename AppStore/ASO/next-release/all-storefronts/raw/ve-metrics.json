@@ -1,0 +1,13 @@
+{
+  "id": "3473b91a-10b7-4cea-92ac-7e45814ca3e4",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "Error: Invalid parameters: Unsupported store 've'",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}

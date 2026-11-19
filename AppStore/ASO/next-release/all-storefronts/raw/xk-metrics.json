@@ -1,0 +1,13 @@
+{
+  "id": "80cc6960-9046-4d14-85e5-498233fde315",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "Error: Invalid parameters: Unsupported store 'xk'",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}

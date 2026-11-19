@@ -1,0 +1,124 @@
+{
+  "iso3": "RUS",
+  "store": "ru",
+  "country": "Russia",
+  "defaultLanguage": "Russian",
+  "additionalLanguages": "English (U.K.), Ukrainian",
+  "seeds": [
+    "экранное время",
+    "блокировка приложений",
+    "таймер приложений",
+    "цифровой детокс",
+    "app blocker"
+  ],
+  "endpoint": "http://127.0.0.1:8089/mcp",
+  "keywords": [
+    {
+      "difficulty": 17,
+      "keyword": "экранное время",
+      "popularity": 49,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 13,
+      "keyword": "блокировка приложений",
+      "popularity": 47,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 11,
+      "keyword": "таймер приложений",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 5,
+      "keyword": "цифровой детокс",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 19,
+      "keyword": "app blocker",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    }
+  ],
+  "selectedKeyword": {
+    "difficulty": 17,
+    "keyword": "экранное время",
+    "popularity": 49,
+    "skipped": false,
+    "success": true
+  },
+  "selectionRule": "sweet-spot heuristic: popularity≥25, difficulty≤35, relevance≥4",
+  "top5": [
+    {
+      "appStoreId": "6473087772",
+      "averageRating": 5,
+      "bundleId": "net.29apps.limit",
+      "developer": "Samet Macit",
+      "genre": "Производительность",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/5c/79/d45c7933-5f00-5bc5-bf52-a242c7ab94eb/AppIcon-0-0-1x_U007epad-0-1-85-220.png/80x0w.webp",
+      "name": "Limit: Время экрана для фокуса",
+      "ranking": 1,
+      "ratingCount": 3,
+      "subtitle": "Блок. прилож., держи фокус"
+    },
+    {
+      "appStoreId": "1667126271",
+      "averageRating": 3.7,
+      "bundleId": "com.iliastukalov.Focus",
+      "developer": "Ilia Stukalov",
+      "genre": "Производительность",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/8b/8c/69/8b8c69ba-5113-21b7-ffb2-cf7c7d907b6f/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/80x0w.webp",
+      "name": "Покус: Уменьши экранное время",
+      "ranking": 2,
+      "ratingCount": 139,
+      "subtitle": "Вжух и ты не залипаешь"
+    },
+    {
+      "appStoreId": "6755889415",
+      "averageRating": 5,
+      "bundleId": "com.leokuz.flocus",
+      "developer": "Leonid Kuznetsov",
+      "genre": "Производительность",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/b0/7c/4fb07c33-76f4-6ac3-563a-a164412eb975/Flocus-0-0-1x_U007ephone-0-1-sRGB-85-220.png/80x0w.webp",
+      "name": "Flocus: Экранное время",
+      "ranking": 3,
+      "ratingCount": 3,
+      "subtitle": "Блокировщик приложений"
+    },
+    {
+      "appStoreId": "966057213",
+      "averageRating": 4.9,
+      "bundleId": "com.SuperElement.PomodoroToDo",
+      "developer": "Shenzhen Tomato Software Technology Co., Ltd.",
+      "genre": "Производительность",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/a4/c9/a8a4c9db-ea0d-eb10-6d2b-917a27035332/appicon-0-0-1x_U007epad-0-1-0-85-220.png/80x0w.webp",
+      "name": "Focus To-Do：Помодоро и задачи",
+      "ranking": 4,
+      "ratingCount": 9035,
+      "subtitle": "Помодоро таймер и список задач"
+    },
+    {
+      "appStoreId": "1532875441",
+      "averageRating": 4.9,
+      "bundleId": "wtf.riedel.one-sec",
+      "developer": "riedel.wtf apps S.L.",
+      "genre": "Производительность",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/f1/83/faf18373-f0af-4b1d-2625-e47565d9ff05/one_sec_Default_App_Icon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/80x0w.webp",
+      "name": "one sec | экранное время",
+      "ranking": 5,
+      "ratingCount": 2021,
+      "subtitle": "Блокировка приложений и сайтов"
+    }
+  ],
+  "yourAppRanking": null,
+  "status": "completed"
+}

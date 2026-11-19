@@ -1,0 +1,116 @@
+{
+  "iso3": "CHL",
+  "store": "cl",
+  "country": "Chile",
+  "defaultLanguage": "Spanish (Mexico)",
+  "additionalLanguages": "English (U.K.)",
+  "seeds": [
+    "bloquear aplicaciones",
+    "tiempo en pantalla",
+    "tiempo de pantalla",
+    "limitar apps"
+  ],
+  "endpoint": "http://127.0.0.1:8089/mcp",
+  "keywords": [
+    {
+      "difficulty": 11,
+      "keyword": "bloquear aplicaciones",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 23,
+      "keyword": "tiempo en pantalla",
+      "popularity": 27,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 15,
+      "keyword": "tiempo de pantalla",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 19,
+      "keyword": "limitar apps",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    }
+  ],
+  "selectedKeyword": {
+    "difficulty": 23,
+    "keyword": "tiempo en pantalla",
+    "popularity": 27,
+    "skipped": false,
+    "success": true
+  },
+  "selectionRule": "sweet-spot heuristic: popularity≥25, difficulty≤35, relevance≥4",
+  "top5": [
+    {
+      "appStoreId": "1497465230",
+      "averageRating": 4.8,
+      "bundleId": "com.withopal.opal",
+      "developer": "Opal OS",
+      "genre": "Productividad",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/49/82/784982f1-f983-4980-1fac-0d542c970db8/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/80x0w.webp",
+      "name": "Opal: Tiempo de Pantalla Focus",
+      "ranking": 1,
+      "ratingCount": 1223,
+      "subtitle": "Productividad y Concentración"
+    },
+    {
+      "appStoreId": "749083919",
+      "averageRating": 4.6,
+      "bundleId": "com.apalonapps.wlf",
+      "developer": "Mosaic S.r.l.",
+      "genre": "Clima",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ca/d0/66/cad06623-25fd-b966-2b89-08d2d1f68d92/AppIcon-free-0-0-1x_U007emarketing-0-11-0-85-220.png/80x0w.webp",
+      "name": "Tiempo En Vivo - Pronóstico",
+      "ranking": 2,
+      "ratingCount": 10057,
+      "subtitle": "Estado del clima y temperatura"
+    },
+    {
+      "appStoreId": "543364901",
+      "averageRating": 4.8,
+      "bundleId": "ios.aplicacion.tiempo-com",
+      "developer": "Alpred, S.L.",
+      "genre": "Clima",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e1/0c/50/e10c50d1-be2c-3b30-bef2-bd2d87b01532/icon_meteored_free_black-0-0-1x_U007epad-0-1-0-85-220.png/80x0w.webp",
+      "name": "Clima - El Tiempo por Meteored",
+      "ranking": 3,
+      "ratingCount": 12897,
+      "subtitle": "Pronóstico del tiempo y avisos"
+    },
+    {
+      "appStoreId": "6786942350",
+      "averageRating": 4.4,
+      "bundleId": "com.catto.app",
+      "developer": "Guilherme Ferraz",
+      "genre": "Salud y fitness",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/ba/f4/39baf4cc-086d-a4ce-8c0a-b74aa780cec8/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/80x0w.webp",
+      "name": "Catto: tiempo en pantalla",
+      "ranking": 4,
+      "ratingCount": 10,
+      "subtitle": "tu pantalla alimenta a un gato"
+    },
+    {
+      "appStoreId": "1532875441",
+      "averageRating": 4.9,
+      "bundleId": "wtf.riedel.one-sec",
+      "developer": "riedel.wtf apps S.L.",
+      "genre": "Productividad",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/f1/83/faf18373-f0af-4b1d-2625-e47565d9ff05/one_sec_Default_App_Icon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/80x0w.webp",
+      "name": "one sec—tiempo pantalla y foco",
+      "ranking": 5,
+      "ratingCount": 669,
+      "subtitle": "Limitar apps y websites"
+    }
+  ],
+  "yourAppRanking": null,
+  "status": "completed"
+}

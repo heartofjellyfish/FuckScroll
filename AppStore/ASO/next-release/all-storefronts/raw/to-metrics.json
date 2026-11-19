@@ -1,0 +1,13 @@
+{
+  "id": "041ab89c-9331-4e84-a9bf-0d0605cec1d1",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "Error: Invalid parameters: Unsupported store 'to'",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "76c1153c-073b-4d8a-a60d-6157cb48b361",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "Error: Invalid parameters: Unsupported store 'vc'",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}

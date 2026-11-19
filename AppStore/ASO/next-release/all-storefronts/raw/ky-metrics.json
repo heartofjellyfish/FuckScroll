@@ -1,0 +1,13 @@
+{
+  "id": "71e2e3b3-3f61-467e-a6aa-49317e38b278",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "Error: Invalid parameters: Unsupported store 'ky'",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}

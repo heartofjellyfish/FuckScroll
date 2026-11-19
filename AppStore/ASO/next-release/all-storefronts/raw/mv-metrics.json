@@ -1,0 +1,13 @@
+{
+  "id": "b87a5e35-9515-443f-809a-ea678c698331",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "Error: Invalid parameters: Unsupported store 'mv'",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}

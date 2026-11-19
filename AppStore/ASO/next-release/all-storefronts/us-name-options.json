@@ -1,0 +1,27 @@
+{
+  "interpretedKeyword": "app blocker, not ad blocker",
+  "dataSource": "Astro US iPhone, 2026-11-18 Pacific",
+  "options": [
+    {
+      "name": "App Blocker – Duck on Duty",
+      "titleCharacters": 26,
+      "subtitle": "Screen Time Control & Focus",
+      "popularity": 54,
+      "difficulty": 59,
+      "role": "popularity-first candidate"
+    },
+    {
+      "name": "Scroll Blocker – Duck on Duty",
+      "titleCharacters": 29,
+      "subtitle": "Screen Time & App Limits",
+      "popularity": 35,
+      "difficulty": 15,
+      "role": "lower-competition candidate; clarify whole-app time limits, not selective Reels removal"
+    }
+  ],
+  "invalidRequestedName": {
+    "name": "Screen Time Control – Duck on Duty",
+    "characters": 34,
+    "allowed": 30
+  }
+}

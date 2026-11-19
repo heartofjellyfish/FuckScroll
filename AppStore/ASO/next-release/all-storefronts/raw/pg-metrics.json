@@ -1,0 +1,13 @@
+{
+  "id": "fe230318-851f-4d36-ae38-7063c7daed67",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "Error: Invalid parameters: Unsupported store 'pg'",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}

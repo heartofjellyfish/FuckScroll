@@ -1,0 +1,125 @@
+{
+  "iso3": "UZB",
+  "store": "uz",
+  "country": "Uzbekistan",
+  "defaultLanguage": "English (U.K.)",
+  "additionalLanguages": "",
+  "seeds": [
+    "app blocker",
+    "screen time",
+    "screen time control",
+    "scroll blocker",
+    "stop scrolling"
+  ],
+  "endpoint": "http://127.0.0.1:8089/mcp",
+  "keywords": [
+    {
+      "difficulty": 9,
+      "keyword": "app blocker",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 9,
+      "keyword": "screen time",
+      "popularity": 34,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 19,
+      "keyword": "screen time control",
+      "popularity": 56,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 15,
+      "keyword": "scroll blocker",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 7,
+      "keyword": "stop scrolling",
+      "popularity": 5,
+      "ranking": 67,
+      "skipped": false,
+      "success": true
+    }
+  ],
+  "selectedKeyword": {
+    "difficulty": 19,
+    "keyword": "screen time control",
+    "popularity": 56,
+    "skipped": false,
+    "success": true
+  },
+  "selectionRule": "sweet-spot heuristic: popularity≥25, difficulty≤35, relevance≥4",
+  "top5": [
+    {
+      "appStoreId": "6450756696",
+      "averageRating": 4.5,
+      "bundleId": "com.adrienblc.fokus",
+      "developer": "BLANC DAHAMNI CAPITAL",
+      "genre": "Productivity",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/03/5f/72/035f72aa-680b-6b86-7d73-784667e4046a/AppIcon-1x_U007epad-85-220.png/80x0w.webp",
+      "name": "Fokus - Screen time",
+      "ranking": 1,
+      "ratingCount": 15,
+      "subtitle": "Hide & block apps to detox!"
+    },
+    {
+      "appStoreId": "6737131495",
+      "averageRating": 4.8,
+      "bundleId": "com.inscreen.app",
+      "developer": "Vaibhav Negi",
+      "genre": "Productivity",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/2f/b5/4f2fb511-4b52-e90b-cb2c-d88648203ac9/AppIcon-0-0-1x_U007ephone-0-9-0-85-220.png/80x0w.webp",
+      "name": "Screen Time Control: Inscreen",
+      "ranking": 2,
+      "ratingCount": 8,
+      "subtitle": "App Blocker, Focus, Stay free"
+    },
+    {
+      "appStoreId": "6446263551",
+      "averageRating": 3.7,
+      "bundleId": "com.magicplugin.offscreen.mask.ios",
+      "developer": "文 熊",
+      "genre": "Productivity",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/f1/c8/33f1c815-0b26-18c6-9651-3210442d5c4e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/80x0w.webp",
+      "name": "XLocker - Screen Time Limit",
+      "ranking": 3,
+      "ratingCount": 3,
+      "subtitle": "Hide Secret Photos & Videos"
+    },
+    {
+      "appStoreId": "6758152591",
+      "averageRating": 5,
+      "bundleId": "com.lilucat.screentimecontrolapp",
+      "developer": "Lilucat",
+      "genre": "Productivity",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/0e/b2/9d0eb206-0045-29b3-2190-5acf23f6feb7/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/80x0w.webp",
+      "name": "Screen Time Control App",
+      "ranking": 4,
+      "ratingCount": 1,
+      "subtitle": "App Lock, Limit for Focus"
+    },
+    {
+      "appStoreId": "1497465230",
+      "averageRating": 4.8,
+      "bundleId": "com.withopal.opal",
+      "developer": "Opal OS",
+      "genre": "Productivity",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/49/82/784982f1-f983-4980-1fac-0d542c970db8/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/80x0w.webp",
+      "name": "Opal: Screen Time Control",
+      "ranking": 5,
+      "ratingCount": 400,
+      "subtitle": "Focus, App Blocker & Timer"
+    }
+  ],
+  "yourAppRanking": null,
+  "status": "completed"
+}

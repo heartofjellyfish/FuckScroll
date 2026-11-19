@@ -1,0 +1,13 @@
+{
+  "id": "dc32a682-7102-4510-9e13-7fe23721b8f3",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "Error: Invalid parameters: Unsupported store 'bm'",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}

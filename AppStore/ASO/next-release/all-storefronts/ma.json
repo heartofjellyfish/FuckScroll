@@ -1,0 +1,125 @@
+{
+  "iso3": "MAR",
+  "store": "ma",
+  "country": "Morocco",
+  "defaultLanguage": "English (U.K.)",
+  "additionalLanguages": "Arabic, French",
+  "seeds": [
+    "app blocker",
+    "screen time",
+    "screen time control",
+    "scroll blocker",
+    "stop scrolling"
+  ],
+  "endpoint": "http://127.0.0.1:8089/mcp",
+  "keywords": [
+    {
+      "difficulty": 15,
+      "keyword": "app blocker",
+      "popularity": 29,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 13,
+      "keyword": "screen time",
+      "popularity": 31,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 19,
+      "keyword": "screen time control",
+      "popularity": 33,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 15,
+      "keyword": "scroll blocker",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 9,
+      "keyword": "stop scrolling",
+      "popularity": 5,
+      "ranking": 36,
+      "skipped": false,
+      "success": true
+    }
+  ],
+  "selectedKeyword": {
+    "difficulty": 19,
+    "keyword": "screen time control",
+    "popularity": 33,
+    "skipped": false,
+    "success": true
+  },
+  "selectionRule": "sweet-spot heuristic: popularity≥25, difficulty≤35, relevance≥4",
+  "top5": [
+    {
+      "appStoreId": "1497465230",
+      "averageRating": 4.7,
+      "bundleId": "com.withopal.opal",
+      "developer": "Opal OS",
+      "genre": "Productivity",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/49/82/784982f1-f983-4980-1fac-0d542c970db8/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/80x0w.webp",
+      "name": "Opal: Screen Time Control",
+      "ranking": 1,
+      "ratingCount": 555,
+      "subtitle": "Focus, App Blocker & Timer"
+    },
+    {
+      "appStoreId": "6446263551",
+      "averageRating": 0,
+      "bundleId": "com.magicplugin.offscreen.mask.ios",
+      "developer": "文 熊",
+      "genre": "Productivity",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/f1/c8/33f1c815-0b26-18c6-9651-3210442d5c4e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/80x0w.webp",
+      "name": "XLocker - Screen Time Limit",
+      "ranking": 2,
+      "ratingCount": 0,
+      "subtitle": "Hide Secret Photos & Videos"
+    },
+    {
+      "appStoreId": "1645639057",
+      "averageRating": 4.7,
+      "bundleId": "com.refocus.refocus",
+      "developer": "Labi, LLC",
+      "genre": "Productivity",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/88/ea/0288ea6d-6953-945e-1749-944b673f6d90/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/80x0w.webp",
+      "name": "Refocus: App Blocker & Lock",
+      "ranking": 3,
+      "ratingCount": 176,
+      "subtitle": "Block Websites, Social Media"
+    },
+    {
+      "appStoreId": "6759700381",
+      "averageRating": 4,
+      "bundleId": "com.screen.time.control.app.lock",
+      "developer": "少杰 李",
+      "genre": "Productivity",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1d/33/f5/1d33f5c0-fa58-7172-2766-d616a81b5441/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/80x0w.webp",
+      "name": "Screen time control - Screenza",
+      "ranking": 4,
+      "ratingCount": 1,
+      "subtitle": "App Lock, Focus & App Blocker"
+    },
+    {
+      "appStoreId": "6444819615",
+      "averageRating": 4.6,
+      "bundleId": "com.air-matters.Cloak",
+      "developer": "Air Matters Network Pty Ltd",
+      "genre": "Utilities",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/da/b9/78dab994-4caf-142a-3658-b27635e4e378/Cloak-0-0-1x_U007epad-0-1-0-85-220.png/80x0w.webp",
+      "name": "Cape: App to Pause Excess",
+      "ranking": 5,
+      "ratingCount": 1300,
+      "subtitle": "Take Control of Screen Time"
+    }
+  ],
+  "yourAppRanking": null,
+  "status": "completed"
+}

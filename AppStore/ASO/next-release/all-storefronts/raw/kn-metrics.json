@@ -1,0 +1,13 @@
+{
+  "id": "d7b3fc4a-8684-4296-8e46-ae809954171e",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "Error: Invalid parameters: Unsupported store 'kn'",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}

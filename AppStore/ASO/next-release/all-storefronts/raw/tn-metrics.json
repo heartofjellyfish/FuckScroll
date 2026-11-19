@@ -1,0 +1,13 @@
+{
+  "id": "5cdd1508-1c24-4ffb-b506-cc8619cd4488",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "Error: Invalid parameters: Unsupported store 'tn'",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}

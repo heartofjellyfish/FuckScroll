@@ -1,0 +1,13 @@
+{
+  "id": "07f6e43e-e8e0-4787-9a9f-11d053ea534a",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "Error: Invalid parameters: Unsupported store 'mr'",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}

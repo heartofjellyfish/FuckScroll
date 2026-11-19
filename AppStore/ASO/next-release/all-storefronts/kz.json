@@ -1,0 +1,125 @@
+{
+  "iso3": "KAZ",
+  "store": "kz",
+  "country": "Kazakhstan",
+  "defaultLanguage": "English (U.K.)",
+  "additionalLanguages": "",
+  "seeds": [
+    "app blocker",
+    "screen time",
+    "screen time control",
+    "scroll blocker",
+    "stop scrolling"
+  ],
+  "endpoint": "http://127.0.0.1:8089/mcp",
+  "keywords": [
+    {
+      "difficulty": 19,
+      "keyword": "app blocker",
+      "popularity": 27,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 13,
+      "keyword": "screen time",
+      "popularity": 28,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 13,
+      "keyword": "screen time control",
+      "popularity": 38,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 17,
+      "keyword": "scroll blocker",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 9,
+      "keyword": "stop scrolling",
+      "popularity": 5,
+      "ranking": 87,
+      "skipped": false,
+      "success": true
+    }
+  ],
+  "selectedKeyword": {
+    "difficulty": 13,
+    "keyword": "screen time control",
+    "popularity": 38,
+    "skipped": false,
+    "success": true
+  },
+  "selectionRule": "sweet-spot heuristic: popularity≥25, difficulty≤35, relevance≥4",
+  "top5": [
+    {
+      "appStoreId": "6446263551",
+      "averageRating": 3.8,
+      "bundleId": "com.magicplugin.offscreen.mask.ios",
+      "developer": "文 熊",
+      "genre": "Productivity",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/f1/c8/33f1c815-0b26-18c6-9651-3210442d5c4e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/80x0w.webp",
+      "name": "XLocker - Screen Time Limit",
+      "ranking": 1,
+      "ratingCount": 4,
+      "subtitle": "Hide Secret Photos & Videos"
+    },
+    {
+      "appStoreId": "6737131495",
+      "averageRating": 5,
+      "bundleId": "com.inscreen.app",
+      "developer": "Vaibhav Negi",
+      "genre": "Productivity",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4f/2f/b5/4f2fb511-4b52-e90b-cb2c-d88648203ac9/AppIcon-0-0-1x_U007ephone-0-9-0-85-220.png/80x0w.webp",
+      "name": "Screen Time Control: Inscreen",
+      "ranking": 2,
+      "ratingCount": 1,
+      "subtitle": "App Blocker, Focus, Stay free"
+    },
+    {
+      "appStoreId": "1497465230",
+      "averageRating": 4.8,
+      "bundleId": "com.withopal.opal",
+      "developer": "Opal OS",
+      "genre": "Productivity",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/49/82/784982f1-f983-4980-1fac-0d542c970db8/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/80x0w.webp",
+      "name": "Opal: Screen Time Control",
+      "ranking": 3,
+      "ratingCount": 583,
+      "subtitle": "Focus, App Blocker & Timer"
+    },
+    {
+      "appStoreId": "1541027222",
+      "averageRating": 4.9,
+      "bundleId": "com.scottharvey.screenzenapp.ios",
+      "developer": "ScreenZen LLC",
+      "genre": "Productivity",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/c8/de/89c8deef-2a7e-5abf-c5ec-ac3ffa343494/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/80x0w.webp",
+      "name": "ScreenZen- Screen Time Control",
+      "ranking": 4,
+      "ratingCount": 220,
+      "subtitle": "App blocker, limit screen time"
+    },
+    {
+      "appStoreId": "6757622975",
+      "averageRating": 0,
+      "bundleId": "com.malozyali.screentimecontroll",
+      "developer": "Yalcin Golayoglu",
+      "genre": "Productivity",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/70/bc/3d/70bc3dd4-d7fb-a399-26db-5a6dff4d0898/AppIcon-0-0-1x_U007epad-0-1-85-220.png/80x0w.webp",
+      "name": "Screen Time Control: Block App",
+      "ranking": 5,
+      "ratingCount": 0,
+      "subtitle": "Focus Timer & Website Lock"
+    }
+  ],
+  "yourAppRanking": null,
+  "status": "completed"
+}

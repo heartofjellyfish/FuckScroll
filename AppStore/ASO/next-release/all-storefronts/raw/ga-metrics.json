@@ -1,0 +1,13 @@
+{
+  "id": "6a9b75ee-a394-423c-8b3d-80117c64d1b1",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "Error: Invalid parameters: Unsupported store 'ga'",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}

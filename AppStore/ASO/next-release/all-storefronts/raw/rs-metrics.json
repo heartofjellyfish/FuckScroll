@@ -1,0 +1,13 @@
+{
+  "id": "a5bf1a8a-33b1-4688-bf23-84db126071b3",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "Error: Invalid parameters: Unsupported store 'rs'",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}

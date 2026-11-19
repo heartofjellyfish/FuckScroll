@@ -1,0 +1,13 @@
+{
+  "id": "03be280e-c8a6-4a61-8acb-cd73b32363ef",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "Error: Invalid parameters: Unsupported store 'mw'",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}

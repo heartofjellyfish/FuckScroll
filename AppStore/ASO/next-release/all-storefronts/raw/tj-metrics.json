@@ -1,0 +1,13 @@
+{
+  "id": "edc9eafb-0a17-4e6c-91f9-45ec93f8609d",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "Error: Invalid parameters: Unsupported store 'tj'",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}

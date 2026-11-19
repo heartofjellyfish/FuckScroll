@@ -1,0 +1,125 @@
+{
+  "iso3": "EGY",
+  "store": "eg",
+  "country": "Egypt",
+  "defaultLanguage": "English (U.K.)",
+  "additionalLanguages": "Arabic, French",
+  "seeds": [
+    "app blocker",
+    "screen time",
+    "screen time control",
+    "scroll blocker",
+    "stop scrolling"
+  ],
+  "endpoint": "http://127.0.0.1:8089/mcp",
+  "keywords": [
+    {
+      "difficulty": 21,
+      "keyword": "app blocker",
+      "popularity": 30,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 13,
+      "keyword": "screen time",
+      "popularity": 33,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 34,
+      "keyword": "screen time control",
+      "popularity": 36,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 40,
+      "keyword": "scroll blocker",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 11,
+      "keyword": "stop scrolling",
+      "popularity": 5,
+      "ranking": 106,
+      "skipped": false,
+      "success": true
+    }
+  ],
+  "selectedKeyword": {
+    "difficulty": 34,
+    "keyword": "screen time control",
+    "popularity": 36,
+    "skipped": false,
+    "success": true
+  },
+  "selectionRule": "sweet-spot heuristic: popularity≥25, difficulty≤35, relevance≥4",
+  "top5": [
+    {
+      "appStoreId": "1497465230",
+      "averageRating": 4.8,
+      "bundleId": "com.withopal.opal",
+      "developer": "Opal OS",
+      "genre": "Productivity",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/49/82/784982f1-f983-4980-1fac-0d542c970db8/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/80x0w.webp",
+      "name": "Opal: Screen Time Control",
+      "ranking": 1,
+      "ratingCount": 1838,
+      "subtitle": "Focus, App Blocker & Timer"
+    },
+    {
+      "appStoreId": "1541027222",
+      "averageRating": 4.8,
+      "bundleId": "com.scottharvey.screenzenapp.ios",
+      "developer": "ScreenZen LLC",
+      "genre": "Productivity",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/c8/de/89c8deef-2a7e-5abf-c5ec-ac3ffa343494/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/80x0w.webp",
+      "name": "ScreenZen- Screen Time Control",
+      "ranking": 2,
+      "ratingCount": 436,
+      "subtitle": "App blocker, limit screen time"
+    },
+    {
+      "appStoreId": "6450756696",
+      "averageRating": 0,
+      "bundleId": "com.adrienblc.fokus",
+      "developer": "BLANC DAHAMNI CAPITAL",
+      "genre": "Productivity",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/03/5f/72/035f72aa-680b-6b86-7d73-784667e4046a/AppIcon-1x_U007epad-85-220.png/80x0w.webp",
+      "name": "Fokus - Screen time",
+      "ranking": 3,
+      "ratingCount": 0,
+      "subtitle": "Hide & block apps to detox!"
+    },
+    {
+      "appStoreId": "6444819615",
+      "averageRating": 4.5,
+      "bundleId": "com.air-matters.Cloak",
+      "developer": "Air Matters Network Pty Ltd",
+      "genre": "Utilities",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/da/b9/78dab994-4caf-142a-3658-b27635e4e378/Cloak-0-0-1x_U007epad-0-1-0-85-220.png/80x0w.webp",
+      "name": "Cape: App to Pause Excess",
+      "ranking": 4,
+      "ratingCount": 2884,
+      "subtitle": "Take Control of Screen Time"
+    },
+    {
+      "appStoreId": "1645639057",
+      "averageRating": 4.7,
+      "bundleId": "com.refocus.refocus",
+      "developer": "Labi, LLC",
+      "genre": "Productivity",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/88/ea/0288ea6d-6953-945e-1749-944b673f6d90/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/80x0w.webp",
+      "name": "Refocus: App Blocker & Lock",
+      "ranking": 5,
+      "ratingCount": 240,
+      "subtitle": "Block Websites, Social Media"
+    }
+  ],
+  "yourAppRanking": null,
+  "status": "completed"
+}

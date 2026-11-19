@@ -1,0 +1,128 @@
+{
+  "iso3": "TWN",
+  "store": "tw",
+  "country": "Taiwan",
+  "defaultLanguage": "Chinese (Traditional)",
+  "additionalLanguages": "English (U.K.)",
+  "seeds": [
+    "螢幕使用時間",
+    "戒手機",
+    "app blocker",
+    "screen time"
+  ],
+  "endpoint": "http://127.0.0.1:8089/mcp",
+  "keywords": [
+    {
+      "appsCount": 250,
+      "currentRanking": 1000,
+      "difficulty": 19,
+      "keyword": "螢幕使用時間",
+      "lastUpdate": "2026-11-19T01:31:22Z",
+      "popularity": 33,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "tw"
+    },
+    {
+      "appsCount": 249,
+      "currentRanking": 1000,
+      "difficulty": 17,
+      "keyword": "戒手機",
+      "lastUpdate": "2026-11-19T01:31:22Z",
+      "popularity": 27,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "tw"
+    },
+    {
+      "difficulty": 11,
+      "keyword": "app blocker",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 38,
+      "keyword": "screen time",
+      "popularity": 25,
+      "skipped": false,
+      "success": true
+    }
+  ],
+  "selectedKeyword": {
+    "appsCount": 250,
+    "currentRanking": 1000,
+    "difficulty": 19,
+    "keyword": "螢幕使用時間",
+    "lastUpdate": "2026-11-19T01:31:22Z",
+    "popularity": 33,
+    "previousRanking": 1000,
+    "rankingChange": 0,
+    "store": "tw"
+  },
+  "selectionRule": "sweet-spot heuristic: popularity≥25, difficulty≤35, relevance≥4",
+  "top5": [
+    {
+      "appStoreId": "6469414539",
+      "averageRating": 4.8,
+      "bundleId": "com.clarymind.clarymind",
+      "developer": "Clarymind",
+      "genre": "健康與健身",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/04/0a/c2/040ac20b-2fac-8725-8719-75d718a7ae89/AppIcon-0-0-1x_U007emarketing-0-11-0-0-sRGB-85-220.png/80x0w.webp",
+      "name": "Clarymind：專注戒手機成癮、上鎖app、螢幕使用時間",
+      "ranking": 1,
+      "ratingCount": 2540,
+      "subtitle": "專心自律習慣、螢幕時間管理、多巴胺戒斷、睡眠拖延、助眠冥想"
+    },
+    {
+      "appStoreId": "6479197847",
+      "averageRating": 4.2,
+      "bundleId": "com.danyloternovoi.chronos",
+      "developer": "Danylo Ternovoi",
+      "genre": "生產力工具",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/2f/de/4c2fdefa-7e0b-e519-f4cb-d0f5668a7e2a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/80x0w.webp",
+      "name": "Tempozi: 鎖手機・戒手機・螢幕使用時間・讀書計時器",
+      "ranking": 2,
+      "ratingCount": 65,
+      "subtitle": "應用程式鎖・專注計時器・自律讀書・番茄鐘・封鎖網站"
+    },
+    {
+      "appStoreId": "866450515",
+      "averageRating": 4.8,
+      "bundleId": "com.forestapp.Forest",
+      "developer": "SEEKRTECH CO., LTD.",
+      "genre": "生產力工具",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/58/dc/0458dcb3-7e16-087d-eb7f-3a05d68f8bdb/AppIcon-0-0-1x_U007epad-0-1-0-0-sRGB-85-220.png/80x0w.webp",
+      "name": "Forest 專注森林 - 讀書專注番茄鐘",
+      "ranking": 3,
+      "ratingCount": 10740,
+      "subtitle": "用高效率番茄工作法，開始自律時間管理！"
+    },
+    {
+      "appStoreId": "1474340105",
+      "averageRating": 4.5,
+      "bundleId": "tech.miidii.off-screen",
+      "developer": "MD Studio",
+      "genre": "健康與健身",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/d7/24/71d724a4-6963-59a5-f56e-dd9b20e92573/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/80x0w.webp",
+      "name": "OffScreen - 自律番茄鍾，不做手機控",
+      "ranking": 4,
+      "ratingCount": 641,
+      "subtitle": "屏幕時間管理，專注學習計時器"
+    },
+    {
+      "appStoreId": "6741858692",
+      "averageRating": 0,
+      "bundleId": "butterfalcon.applimit",
+      "developer": "ButterFalcon",
+      "genre": "生產力工具",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/c7/1e/0fc71ed3-42ca-4041-4064-8b40deee51b5/AppIcon-0-0-1x_U007epad-0-1-85-220.png/80x0w.webp",
+      "name": "Applimits - 螢幕使用時間限制",
+      "ranking": 5,
+      "ratingCount": 0,
+      "subtitle": "應用鎖·專注模式·自律·數位排毒"
+    }
+  ],
+  "yourAppRanking": null,
+  "status": "completed"
+}

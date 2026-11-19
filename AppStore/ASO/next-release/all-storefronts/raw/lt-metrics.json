@@ -1,0 +1,13 @@
+{
+  "id": "29cd701b-65c1-473c-a34e-5e4a95cebe42",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "Error: Invalid parameters: Unsupported store 'lt'",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "acea70ce-95fa-4b0d-baa1-297492d0df80",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "Error: Invalid parameters: Unsupported store 'ba'",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}

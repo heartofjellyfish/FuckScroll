@@ -9,9 +9,9 @@
   },
   "storeLocalizations": 16,
   "uiLanguages": 10,
-  "measuredStorefronts": 21,
-  "competitorQueries": 44,
-  "top5Rows": 220,
+  "measuredStorefronts": 91,
+  "competitorQueries": 119,
+  "top5Rows": 595,
   "keywordRows": 173,
   "availableRegionCountFromExistingReleaseRecord": 175,
   "independentlyMeasuredAll175Regions": false,
@@ -43,6 +43,21 @@
     "homeCopy": "20 paired stories × ten UI languages",
     "voiceLiteralKeys": "94 × ten UI languages",
     "localizedPickerUI": "French, German, Japanese and Korean save actions passed; German truncation fixed and visually rechecked",
-    "timingRulesChanged": false
-  }
+    "timingRulesChanged": false,
+    "threeFieldMetadata": "19 passed 30/30/100 UTF-8 bytes and duplicate checks; 16 complete listings synchronized"
+  },
+  "storefrontsAttempted": 175,
+  "unsupportedStorefronts": 84,
+  "usableSignalStorefronts": 79,
+  "lowSignalStorefronts": 12,
+  "threeFieldDraftLocalizations": 19,
+  "newMetadataOnlyLocales": [
+    "nl-NL",
+    "ru",
+    "sv"
+  ],
+  "latestReport": "all-storefronts/index.html",
+  "keywordRowsIn175SeedAudit": 428,
+  "keywordResearchScope": "175 storefront attempts; 91 tool-supported with 4–5 seed metrics and original selected-query top five; 84 unsupported. 79 have >5 signal candidates; 12 low signal. Includes earlier 44-query/21-store audit. Not exhaustive discovery, not 175 independent localizations.",
+  "previous21StorefrontCompetitorQueries": 44
 }

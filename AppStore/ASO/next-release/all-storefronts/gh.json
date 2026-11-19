@@ -1,0 +1,126 @@
+{
+  "iso3": "GHA",
+  "store": "gh",
+  "country": "Ghana",
+  "defaultLanguage": "English (U.K.)",
+  "additionalLanguages": "",
+  "seeds": [
+    "app blocker",
+    "screen time",
+    "screen time control",
+    "scroll blocker",
+    "stop scrolling"
+  ],
+  "endpoint": "http://127.0.0.1:8089/mcp",
+  "keywords": [
+    {
+      "difficulty": 11,
+      "keyword": "app blocker",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 15,
+      "keyword": "screen time",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 7,
+      "keyword": "screen time control",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 15,
+      "keyword": "scroll blocker",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 5,
+      "keyword": "stop scrolling",
+      "popularity": 5,
+      "ranking": 48,
+      "skipped": false,
+      "success": true
+    }
+  ],
+  "selectedKeyword": {
+    "difficulty": 5,
+    "keyword": "stop scrolling",
+    "popularity": 5,
+    "ranking": 48,
+    "skipped": false,
+    "success": true
+  },
+  "selectionRule": "low-data market; relevance-first provisional, not a proven sweet spot",
+  "top5": [
+    {
+      "appStoreId": "1541027222",
+      "averageRating": 4.7,
+      "bundleId": "com.scottharvey.screenzenapp.ios",
+      "developer": "ScreenZen LLC",
+      "genre": "Productivity",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/c8/de/89c8deef-2a7e-5abf-c5ec-ac3ffa343494/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/80x0w.webp",
+      "name": "ScreenZen- Screen Time Control",
+      "ranking": 1,
+      "ratingCount": 63,
+      "subtitle": "App blocker, limit screen time"
+    },
+    {
+      "appStoreId": "6757661674",
+      "averageRating": 0,
+      "bundleId": "social.Social-lite",
+      "developer": "Sociallite LLC",
+      "genre": "Productivity",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/f9/dd/4ef9dd64-8660-6551-a845-c35ab9765e88/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/80x0w.webp",
+      "name": "SocialLite-Block Reels&Shorts",
+      "ranking": 2,
+      "ratingCount": 0,
+      "subtitle": "Stop Doomscrolling-Stay Social"
+    },
+    {
+      "appStoreId": "1532875441",
+      "averageRating": 4.6,
+      "bundleId": "wtf.riedel.one-sec",
+      "developer": "riedel.wtf apps S.L.",
+      "genre": "Productivity",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/f1/83/faf18373-f0af-4b1d-2625-e47565d9ff05/one_sec_Default_App_Icon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/80x0w.webp",
+      "name": "one sec | screen time + focus",
+      "ranking": 3,
+      "ratingCount": 49,
+      "subtitle": "App Blocker & Website Limits"
+    },
+    {
+      "appStoreId": "6449493645",
+      "averageRating": 0,
+      "bundleId": "com.dropouts.Stop-Scrolling",
+      "developer": "Dropouts Technologies LLP",
+      "genre": "Productivity",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/a7/8b/90a78b70-7944-0a4f-2400-cf4049128d0c/AppIcon-0-0-1x_U007epad-0-11-0-85-220.png/80x0w.webp",
+      "name": "Stop Scrolling - Refocus Life",
+      "ranking": 4,
+      "ratingCount": 0,
+      "subtitle": "Zen Time - Screen Time Control"
+    },
+    {
+      "appStoreId": "6760980801",
+      "averageRating": 0,
+      "bundleId": "com.stopscroll.reelsblocker",
+      "developer": "Moumen Hamada",
+      "genre": "Utilities",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2c/cd/f0/2ccdf07d-9b70-fea0-05b6-af71d40a22d4/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/80x0w.webp",
+      "name": "Block Reels Shorts: StopScroll",
+      "ranking": 5,
+      "ratingCount": 0,
+      "subtitle": "Block short form videos"
+    }
+  ],
+  "yourAppRanking": 48,
+  "status": "completed"
+}

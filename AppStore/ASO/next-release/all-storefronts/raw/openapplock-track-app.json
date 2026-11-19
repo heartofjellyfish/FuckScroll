@@ -1,0 +1,13 @@
+{
+  "id": "ce9a0cc9-4471-4ad1-ac68-4bbd496df95e",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"appStoreId\" : \"6780259647\",\n  \"developer\" : \"Brendan Chen\",\n  \"isTemporary\" : false,\n  \"name\" : \"OpenAppLock\",\n  \"platform\" : \"iphone\",\n  \"success\" : true\n}",
+        "type": "text"
+      }
+    ],
+    "isError": false
+  }
+}

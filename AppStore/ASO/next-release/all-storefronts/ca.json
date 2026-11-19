@@ -1,0 +1,144 @@
+{
+  "iso3": "CAN",
+  "store": "ca",
+  "country": "Canada",
+  "defaultLanguage": "English (Canada)",
+  "additionalLanguages": "French (Canada)",
+  "seeds": [
+    "app blocker",
+    "screen time",
+    "screen time control",
+    "scroll blocker",
+    "stop scrolling"
+  ],
+  "endpoint": "http://127.0.0.1:8089/mcp",
+  "keywords": [
+    {
+      "appsCount": 249,
+      "currentRanking": 1000,
+      "difficulty": 48,
+      "keyword": "app blocker",
+      "lastUpdate": "2026-11-19T01:31:16Z",
+      "popularity": 49,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "ca"
+    },
+    {
+      "appsCount": 250,
+      "currentRanking": 1000,
+      "difficulty": 46,
+      "keyword": "screen time",
+      "lastUpdate": "2026-11-19T01:31:16Z",
+      "popularity": 46,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "ca"
+    },
+    {
+      "difficulty": 53,
+      "keyword": "screen time control",
+      "popularity": 41,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "appsCount": 250,
+      "currentRanking": 1000,
+      "difficulty": 11,
+      "keyword": "scroll blocker",
+      "lastUpdate": "2026-11-19T01:31:16Z",
+      "popularity": 26,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "ca"
+    },
+    {
+      "appsCount": 250,
+      "currentRanking": 33,
+      "difficulty": 17,
+      "keyword": "stop scrolling",
+      "lastUpdate": "2026-11-19T01:31:16Z",
+      "popularity": 26,
+      "previousRanking": 33,
+      "rankingChange": 0,
+      "store": "ca"
+    }
+  ],
+  "selectedKeyword": {
+    "appsCount": 250,
+    "currentRanking": 1000,
+    "difficulty": 11,
+    "keyword": "scroll blocker",
+    "lastUpdate": "2026-11-19T01:31:16Z",
+    "popularity": 26,
+    "previousRanking": 1000,
+    "rankingChange": 0,
+    "store": "ca"
+  },
+  "selectionRule": "sweet-spot heuristic: popularity≥25, difficulty≤35, relevance≥4",
+  "top5": [
+    {
+      "appStoreId": "6757661674",
+      "averageRating": 4.7,
+      "bundleId": "social.Social-lite",
+      "developer": "Sociallite LLC",
+      "genre": "Productivity",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/4e/f9/dd/4ef9dd64-8660-6551-a845-c35ab9765e88/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/80x0w.webp",
+      "name": "SocialLite-Block Reels&Shorts",
+      "ranking": 1,
+      "ratingCount": 4163,
+      "subtitle": "Stop Doomscrolling-Stay Social"
+    },
+    {
+      "appStoreId": "6754183872",
+      "averageRating": 4,
+      "bundleId": "com.breakthescroll.scrollguard",
+      "developer": "BreakTheScroll",
+      "genre": "Productivity",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fe/65/6c/fe656cde-d653-698f-f7b5-2c9cc205fd58/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/80x0w.webp",
+      "name": "ScrollGuard: Block Reels",
+      "ranking": 2,
+      "ratingCount": 36,
+      "subtitle": "Hide feed, shorts, explore"
+    },
+    {
+      "appStoreId": "6784061138",
+      "averageRating": 0,
+      "bundleId": "com.chartash.still",
+      "developer": "Zachary Chartash",
+      "genre": "Productivity",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b0/9b/59/b09b5985-79ef-735e-908f-cc9def59eb59/AppIcon-0-0-1x_U007epad-0-1-85-220.png/80x0w.webp",
+      "name": "Still: Reels & Shorts Blocker",
+      "ranking": 3,
+      "ratingCount": 0,
+      "subtitle": "Blocks on mobile and desktop"
+    },
+    {
+      "appStoreId": "6815511380",
+      "averageRating": 5,
+      "bundleId": "app.feedoff",
+      "developer": "Peter Khalil",
+      "genre": "Productivity",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f8/19/f8/f819f8e6-2c37-aed5-b872-879cdee9cfe7/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/80x0w.webp",
+      "name": "FeedOff: Block Reels & Shorts",
+      "ranking": 4,
+      "ratingCount": 3,
+      "subtitle": "Keep Your DMs, Lose the Feed"
+    },
+    {
+      "appStoreId": "6474079216",
+      "averageRating": 4.6,
+      "bundleId": "com.SelfInvest.Cooldown",
+      "developer": "Self Invest LLC",
+      "genre": "Productivity",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/be/57/85be57bb-ed9f-8bcd-58ab-eba5dfd9fb89/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/80x0w.webp",
+      "name": "No Scroll - Limit Screen Time",
+      "ranking": 5,
+      "ratingCount": 165,
+      "subtitle": "App Blocker, Control + Reduce"
+    }
+  ],
+  "yourAppRanking": null,
+  "status": "completed"
+}

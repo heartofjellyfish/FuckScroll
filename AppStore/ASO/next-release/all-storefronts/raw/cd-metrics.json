@@ -1,0 +1,13 @@
+{
+  "id": "1020340b-b973-428b-ba4e-9533aec612c8",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "Error: Invalid parameters: Unsupported store 'cd'",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}

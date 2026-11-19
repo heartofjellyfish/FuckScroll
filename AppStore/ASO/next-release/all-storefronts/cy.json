@@ -1,0 +1,125 @@
+{
+  "iso3": "CYP",
+  "store": "cy",
+  "country": "Cyprus",
+  "defaultLanguage": "English (U.K.)",
+  "additionalLanguages": "Greek, Turkish",
+  "seeds": [
+    "app blocker",
+    "screen time",
+    "screen time control",
+    "scroll blocker",
+    "stop scrolling"
+  ],
+  "endpoint": "http://127.0.0.1:8089/mcp",
+  "keywords": [
+    {
+      "difficulty": 5,
+      "keyword": "app blocker",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 7,
+      "keyword": "screen time",
+      "popularity": 23,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 5,
+      "keyword": "screen time control",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 5,
+      "keyword": "scroll blocker",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 5,
+      "keyword": "stop scrolling",
+      "popularity": 5,
+      "ranking": 20,
+      "skipped": false,
+      "success": true
+    }
+  ],
+  "selectedKeyword": {
+    "difficulty": 7,
+    "keyword": "screen time",
+    "popularity": 23,
+    "skipped": false,
+    "success": true
+  },
+  "selectionRule": "no qualifying sweet spot; popularity first, difficulty as tie-break",
+  "top5": [
+    {
+      "appStoreId": "1497465230",
+      "averageRating": 4.7,
+      "bundleId": "com.withopal.opal",
+      "developer": "Opal OS",
+      "genre": "Productivity",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/49/82/784982f1-f983-4980-1fac-0d542c970db8/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/80x0w.webp",
+      "name": "Opal: Screen Time Control",
+      "ranking": 1,
+      "ratingCount": 79,
+      "subtitle": "Focus, App Blocker & Timer"
+    },
+    {
+      "appStoreId": "1572515807",
+      "averageRating": 4.7,
+      "bundleId": "com.betteryes.clearspace",
+      "developer": "clearspace",
+      "genre": "Productivity",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/25/c2/a0/25c2a080-e5a3-5349-2800-7f00711f683d/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/80x0w.webp",
+      "name": "ClearSpace: Reduce Screen Time",
+      "ranking": 2,
+      "ratingCount": 6,
+      "subtitle": "Make your phone less addicting"
+    },
+    {
+      "appStoreId": "6744338972",
+      "averageRating": 3.5,
+      "bundleId": "smobiz.brainrot",
+      "developer": "Smolworks Inc",
+      "genre": "Productivity",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/3c/08/0a3c086c-e92f-23ac-270c-9f4841086302/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/80x0w.webp",
+      "name": "Brainrot: Screen Time Control",
+      "ranking": 3,
+      "ratingCount": 13,
+      "subtitle": "App Blocker & Focus Timer"
+    },
+    {
+      "appStoreId": "6746537171",
+      "averageRating": 4.8,
+      "bundleId": "com.unrotou.unrot",
+      "developer": "Unrot OÜ",
+      "genre": "Productivity",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/0b/06/b90b065c-d3fd-e45e-e499-96acac1cbe4d/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/80x0w.webp",
+      "name": "Unrot: Earn your Screen Time",
+      "ranking": 4,
+      "ratingCount": 42,
+      "subtitle": "Complete habits, then scroll"
+    },
+    {
+      "appStoreId": "1474340105",
+      "averageRating": 5,
+      "bundleId": "tech.miidii.off-screen",
+      "developer": "MD Studio",
+      "genre": "Health & Fitness",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/71/d7/24/71d724a4-6963-59a5-f56e-dd9b20e92573/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/80x0w.webp",
+      "name": "OffScreen: Screen Time Control",
+      "ranking": 5,
+      "ratingCount": 5,
+      "subtitle": "App blocker for focus"
+    }
+  ],
+  "yourAppRanking": null,
+  "status": "completed"
+}

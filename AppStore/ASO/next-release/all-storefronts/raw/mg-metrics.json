@@ -1,0 +1,13 @@
+{
+  "id": "2a94740e-a4c3-4457-9b07-5967c90599d1",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "Error: Invalid parameters: Unsupported store 'mg'",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}

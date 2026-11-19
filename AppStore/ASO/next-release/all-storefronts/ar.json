@@ -1,0 +1,116 @@
+{
+  "iso3": "ARG",
+  "store": "ar",
+  "country": "Argentina",
+  "defaultLanguage": "Spanish (Mexico)",
+  "additionalLanguages": "English (U.K.)",
+  "seeds": [
+    "bloquear aplicaciones",
+    "tiempo en pantalla",
+    "tiempo de pantalla",
+    "limitar apps"
+  ],
+  "endpoint": "http://127.0.0.1:8089/mcp",
+  "keywords": [
+    {
+      "difficulty": 17,
+      "keyword": "bloquear aplicaciones",
+      "popularity": 44,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 15,
+      "keyword": "tiempo en pantalla",
+      "popularity": 28,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 15,
+      "keyword": "tiempo de pantalla",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 13,
+      "keyword": "limitar apps",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    }
+  ],
+  "selectedKeyword": {
+    "difficulty": 17,
+    "keyword": "bloquear aplicaciones",
+    "popularity": 44,
+    "skipped": false,
+    "success": true
+  },
+  "selectionRule": "sweet-spot heuristic: popularity≥25, difficulty≤35, relevance≥4",
+  "top5": [
+    {
+      "appStoreId": "6777914542",
+      "averageRating": 0,
+      "bundleId": "com.zhang.lockapps",
+      "developer": "宝锋 张",
+      "genre": "Productividad",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/c5/97/ffc597a4-b6e0-35e1-d4b2-28733d0962b6/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/80x0w.webp",
+      "name": "Bloqueo De Aplicaciones - App.",
+      "ranking": 1,
+      "ratingCount": 0,
+      "subtitle": "Bloquear Contraseña Para Apps"
+    },
+    {
+      "appStoreId": "1497465230",
+      "averageRating": 4.8,
+      "bundleId": "com.withopal.opal",
+      "developer": "Opal OS",
+      "genre": "Productividad",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/49/82/784982f1-f983-4980-1fac-0d542c970db8/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/80x0w.webp",
+      "name": "Opal: Tiempo de Pantalla Focus",
+      "ranking": 2,
+      "ratingCount": 1978,
+      "subtitle": "Productividad y Concentración"
+    },
+    {
+      "appStoreId": "6469686557",
+      "averageRating": 4.4,
+      "bundleId": "com.xu.applock",
+      "developer": "友财 徐",
+      "genre": "Utilidades",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/65/29/ad6529bc-a635-b89c-4d80-b2773b0602ec/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/80x0w.webp",
+      "name": "Bloqueo De Aplicaciones -",
+      "ranking": 3,
+      "ratingCount": 74,
+      "subtitle": "Contraseña Para Apps Bloquear"
+    },
+    {
+      "appStoreId": "1645639057",
+      "averageRating": 4.8,
+      "bundleId": "com.refocus.refocus",
+      "developer": "Labi, LLC",
+      "genre": "Productividad",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/88/ea/0288ea6d-6953-945e-1749-944b673f6d90/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/80x0w.webp",
+      "name": "Refocus: Bloquear Aplicaciones",
+      "ranking": 4,
+      "ratingCount": 257,
+      "subtitle": "Bloqueo de Pantalla y Apps"
+    },
+    {
+      "appStoreId": "6746766591",
+      "averageRating": 3.8,
+      "bundleId": "com.lykovstudio.AppLock",
+      "developer": "LYKOV STUDIO LTD",
+      "genre": "Utilidades",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/fe/f0/d1fef0a7-c6dd-e678-0eac-cb6f0486ca3d/AppLock-0-0-1x_U007epad-0-1-sRGB-85-220.png/80x0w.webp",
+      "name": "Bloquear aplicaciones: AppLock",
+      "ranking": 5,
+      "ratingCount": 4,
+      "subtitle": "Bloqueo de aplicación Lockdown"
+    }
+  ],
+  "yourAppRanking": null,
+  "status": "completed"
+}

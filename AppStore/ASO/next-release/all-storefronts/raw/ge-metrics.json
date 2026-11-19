@@ -1,0 +1,13 @@
+{
+  "id": "1a213cf2-7416-4990-9ee2-11c0bfa29e75",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "Error: Invalid parameters: Unsupported store 'ge'",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}

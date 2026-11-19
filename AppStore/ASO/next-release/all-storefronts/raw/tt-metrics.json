@@ -1,0 +1,13 @@
+{
+  "id": "74518b9a-f447-4196-af36-ad03978de724",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "Error: Invalid parameters: Unsupported store 'tt'",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}

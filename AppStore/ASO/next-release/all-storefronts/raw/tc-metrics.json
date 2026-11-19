@@ -1,0 +1,13 @@
+{
+  "id": "b5ab880f-9cfe-4879-bf08-5e68ca2a5518",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "Error: Invalid parameters: Unsupported store 'tc'",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}

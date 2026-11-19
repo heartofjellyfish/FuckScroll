@@ -1,0 +1,13 @@
+{
+  "id": "e40d1498-3336-46a4-a504-427748e00a58",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "Error: Invalid parameters: Unsupported store 'bj'",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}

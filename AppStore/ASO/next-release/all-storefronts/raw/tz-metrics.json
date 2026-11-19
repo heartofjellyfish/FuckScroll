@@ -1,0 +1,13 @@
+{
+  "id": "4b94f54c-498d-4c6e-b538-1b0cb785cb7c",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "Error: Invalid parameters: Unsupported store 'tz'",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}

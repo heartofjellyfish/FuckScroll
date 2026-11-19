@@ -1,0 +1,13 @@
+{
+  "id": "e10f7565-99da-4b95-b7f8-7569eb0bd092",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "Error: Invalid parameters: Unsupported store 'cg'",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "f96d0374-1b37-44f7-84cc-5c994e671bcc",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "Error: Invalid parameters: Unsupported store 'bf'",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}

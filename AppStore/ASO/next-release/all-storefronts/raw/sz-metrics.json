@@ -1,0 +1,13 @@
+{
+  "id": "ae2c1199-7726-43d1-8220-5dc587d6a16b",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "Error: Invalid parameters: Unsupported store 'sz'",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}

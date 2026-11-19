@@ -1,0 +1,13 @@
+{
+  "id": "3a88fc34-67b5-4c90-ad5c-f2ac1c2e0d85",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "Error: Invalid parameters: Unsupported store 'gy'",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}

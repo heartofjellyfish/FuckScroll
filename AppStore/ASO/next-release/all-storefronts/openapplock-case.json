@@ -1,0 +1,34 @@
+{
+  "query": "app blocker",
+  "store": "us",
+  "platform": "iphone",
+  "observed": {
+    "appStoreId": "6780259647",
+    "averageRating": 5,
+    "bundleId": "dev.bchen.OpenAppLock",
+    "developer": "Brendan Chen",
+    "genre": "Productivity",
+    "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/db/72/96/db72964d-8b63-25d9-98ad-872c8cc1a78b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/80x0w.webp",
+    "name": "OpenAppLock",
+    "ranking": 8,
+    "ratingCount": 9,
+    "subtitle": "A simple app for blocking apps"
+  },
+  "sources": [
+    "https://apps.apple.com/us/app/openapplock/id6780259647",
+    "https://developer.apple.com/app-store/search/"
+  ],
+  "known": [
+    "Text and feature intent are relevant.",
+    "A low rating count does not imply few downloads.",
+    "Astro returned rank 8 in this snapshot."
+  ],
+  "unknown": [
+    "Competitor downloads",
+    "Keyword-specific behavior",
+    "Hidden keyword field",
+    "Long-term ranking stability",
+    "Causal attribution for rank 8"
+  ],
+  "tracking": "Added competitor and three keyword records in Astro; no recurring automation."
+}

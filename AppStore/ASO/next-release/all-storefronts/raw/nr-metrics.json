@@ -1,0 +1,13 @@
+{
+  "id": "d4fe3a96-77f9-4ced-bd52-a31a279e933c",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "Error: Invalid parameters: Unsupported store 'nr'",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}

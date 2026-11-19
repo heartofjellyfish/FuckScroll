@@ -1,0 +1,13 @@
+{
+  "id": "3360bc22-81df-43a0-988e-7a3ecc72f25d",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "Error: Invalid parameters: Unsupported store 'ai'",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}

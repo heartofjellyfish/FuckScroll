@@ -1,0 +1,13 @@
+{
+  "id": "993de780-0bb9-4cbb-819f-fb4896a03f2e",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "Error: Invalid parameters: Unsupported store 'sl'",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}

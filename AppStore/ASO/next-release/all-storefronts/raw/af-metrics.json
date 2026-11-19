@@ -1,0 +1,13 @@
+{
+  "id": "f7818c8b-c0b2-45ce-a20e-0953d68a232b",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "Error: Invalid parameters: Unsupported store 'af'",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}

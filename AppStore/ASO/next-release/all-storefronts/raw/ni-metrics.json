@@ -1,0 +1,13 @@
+{
+  "id": "23cfbacb-47ee-471c-af3f-38063b6ecca2",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "Error: Invalid parameters: Unsupported store 'ni'",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}

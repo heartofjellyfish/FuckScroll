@@ -1,0 +1,13 @@
+{
+  "id": "35805778-7b7e-4356-b6b7-beb5513ee896",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "Error: Invalid parameters: Unsupported store 'bs'",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}

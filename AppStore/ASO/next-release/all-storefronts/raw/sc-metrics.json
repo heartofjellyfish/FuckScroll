@@ -1,0 +1,13 @@
+{
+  "id": "60c2a0f4-f44f-4d18-9609-9990bcb87007",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "Error: Invalid parameters: Unsupported store 'sc'",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}

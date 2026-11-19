@@ -1,0 +1,13 @@
+{
+  "id": "4904811c-e79a-439c-a4ac-4977613860f8",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "Error: Invalid parameters: Unsupported store 'gw'",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}

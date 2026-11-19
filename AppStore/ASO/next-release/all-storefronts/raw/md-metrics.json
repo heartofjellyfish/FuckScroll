@@ -1,0 +1,13 @@
+{
+  "id": "aa26ada8-0dd4-46c5-b693-96dc3aedad02",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "Error: Invalid parameters: Unsupported store 'md'",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}

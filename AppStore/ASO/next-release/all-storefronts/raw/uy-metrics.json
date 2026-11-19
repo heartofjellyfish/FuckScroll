@@ -1,0 +1,13 @@
+{
+  "id": "9ee20113-879d-4ccc-aaa9-2c3b9903acc9",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "Error: Invalid parameters: Unsupported store 'uy'",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}

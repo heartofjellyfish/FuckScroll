@@ -1,0 +1,124 @@
+{
+  "iso3": "CHE",
+  "store": "ch",
+  "country": "Switzerland",
+  "defaultLanguage": "German",
+  "additionalLanguages": "English (U.K.), French, Italian",
+  "seeds": [
+    "app blocker",
+    "bildschirmzeit",
+    "apps sperren",
+    "digital detox"
+  ],
+  "endpoint": "http://127.0.0.1:8089/mcp",
+  "keywords": [
+    {
+      "appsCount": 249,
+      "currentRanking": 1000,
+      "difficulty": 39,
+      "keyword": "app blocker",
+      "lastUpdate": "2026-11-19T01:31:34Z",
+      "popularity": 35,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "ch"
+    },
+    {
+      "appsCount": 250,
+      "currentRanking": 1000,
+      "difficulty": 38,
+      "keyword": "bildschirmzeit",
+      "lastUpdate": "2026-11-19T01:31:34Z",
+      "popularity": 42,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "ch"
+    },
+    {
+      "difficulty": 13,
+      "keyword": "apps sperren",
+      "popularity": 26,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 19,
+      "keyword": "digital detox",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    }
+  ],
+  "selectedKeyword": {
+    "difficulty": 13,
+    "keyword": "apps sperren",
+    "popularity": 26,
+    "skipped": false,
+    "success": true
+  },
+  "selectionRule": "sweet-spot heuristic: popularity≥25, difficulty≤35, relevance≥4",
+  "top5": [
+    {
+      "appStoreId": "1532875441",
+      "averageRating": 4.8,
+      "bundleId": "wtf.riedel.one-sec",
+      "developer": "riedel.wtf apps S.L.",
+      "genre": "Produktivität",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/f1/83/faf18373-f0af-4b1d-2625-e47565d9ff05/one_sec_Default_App_Icon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/80x0w.webp",
+      "name": "one sec | App Zeitlimit Sperre",
+      "ranking": 1,
+      "ratingCount": 2021,
+      "subtitle": "Bildschirmzeit, Website Block"
+    },
+    {
+      "appStoreId": "6458880741",
+      "averageRating": 5,
+      "bundleId": "com.zheng.appblocker",
+      "developer": "万龙 戴",
+      "genre": "Produktivität",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9e/6d/fc/9e6dfc46-1588-4b63-5f29-7400d43a2aff/AppIcon-0-0-1x_U007emarketing-0-10-0-sRGB-85-220.png/80x0w.webp",
+      "name": "App Sperre - App Lock ™",
+      "ranking": 2,
+      "ratingCount": 2,
+      "subtitle": "Passwort Für Apps Sperren App"
+    },
+    {
+      "appStoreId": "6787695392",
+      "averageRating": 0,
+      "bundleId": "com.sorayazawa.applocksolo",
+      "developer": "Sora Yazawa",
+      "genre": "Produktivität",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ee/88/23/ee8823ac-e6ee-b588-07c6-c9a4bc833934/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/80x0w.webp",
+      "name": "Apps sperren: LockKun",
+      "ranking": 3,
+      "ratingCount": 0,
+      "subtitle": "Bildschirmzeit & Fokus"
+    },
+    {
+      "appStoreId": "6469686557",
+      "averageRating": 4.7,
+      "bundleId": "com.xu.applock",
+      "developer": "友财 徐",
+      "genre": "Dienst­programme",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/65/29/ad6529bc-a635-b89c-4d80-b2773b0602ec/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/80x0w.webp",
+      "name": "App Sperre - Sperr App",
+      "ranking": 4,
+      "ratingCount": 24,
+      "subtitle": "Passwort Für Lock Apps Sperren"
+    },
+    {
+      "appStoreId": "1645639057",
+      "averageRating": 4.5,
+      "bundleId": "com.refocus.refocus",
+      "developer": "Labi, LLC",
+      "genre": "Produktivität",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/88/ea/0288ea6d-6953-945e-1749-944b673f6d90/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/80x0w.webp",
+      "name": "Refocus: App Sperre, Zeitlimit",
+      "ranking": 5,
+      "ratingCount": 219,
+      "subtitle": "Bildschirmzeit, Website Block"
+    }
+  ],
+  "yourAppRanking": null,
+  "status": "completed"
+}

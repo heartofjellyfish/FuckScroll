@@ -1,0 +1,125 @@
+{
+  "iso3": "NLD",
+  "store": "nl",
+  "country": "Netherlands",
+  "defaultLanguage": "Dutch",
+  "additionalLanguages": "English (U.K.)",
+  "seeds": [
+    "schermtijd",
+    "app blocker",
+    "apps blokkeren",
+    "schermtijd beperken",
+    "stop scrollen"
+  ],
+  "endpoint": "http://127.0.0.1:8089/mcp",
+  "keywords": [
+    {
+      "difficulty": 23,
+      "keyword": "schermtijd",
+      "popularity": 44,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 45,
+      "keyword": "app blocker",
+      "popularity": 48,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 13,
+      "keyword": "apps blokkeren",
+      "popularity": 27,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 7,
+      "keyword": "schermtijd beperken",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 7,
+      "keyword": "stop scrollen",
+      "popularity": 5,
+      "ranking": 37,
+      "skipped": false,
+      "success": true
+    }
+  ],
+  "selectedKeyword": {
+    "difficulty": 23,
+    "keyword": "schermtijd",
+    "popularity": 44,
+    "skipped": false,
+    "success": true
+  },
+  "selectionRule": "sweet-spot heuristic: popularity≥25, difficulty≤35, relevance≥4",
+  "top5": [
+    {
+      "appStoreId": "1532875441",
+      "averageRating": 4.8,
+      "bundleId": "wtf.riedel.one-sec",
+      "developer": "riedel.wtf apps S.L.",
+      "genre": "Productiviteit",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/f1/83/faf18373-f0af-4b1d-2625-e47565d9ff05/one_sec_Default_App_Icon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/80x0w.webp",
+      "name": "one sec | schermtijd & focus",
+      "ranking": 1,
+      "ratingCount": 2271,
+      "subtitle": "app & website impuls blokker"
+    },
+    {
+      "appStoreId": "6758338291",
+      "averageRating": 4.4,
+      "bundleId": "com.blox.app.Blox",
+      "developer": "Diyar Dirik",
+      "genre": "Productiviteit",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b9/bd/92/b9bd9232-5aea-b2f9-af9f-973d12b50d3b/AppIcon-0-0-1x_U007epad-0-1-85-220.png/80x0w.webp",
+      "name": "Blocus: Verdien schermtijd",
+      "ranking": 2,
+      "ratingCount": 12,
+      "subtitle": "Blokkeren, Focus & Limieten"
+    },
+    {
+      "appStoreId": "1609960918",
+      "averageRating": 4.6,
+      "bundleId": "com.jomo.Jomo",
+      "developer": "Jomo",
+      "genre": "Productiviteit",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/9a/11/239a118e-7e7d-2178-714b-9fd591550394/AppIcon-0-0-1x_U007epad-0-9-0-85-220.png/80x0w.webp",
+      "name": "Jomo - Schermtijd verminderen",
+      "ranking": 3,
+      "ratingCount": 234,
+      "subtitle": "Stop telefoonverslaving"
+    },
+    {
+      "appStoreId": "1497465230",
+      "averageRating": 4.6,
+      "bundleId": "com.withopal.opal",
+      "developer": "Opal OS",
+      "genre": "Productiviteit",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/49/82/784982f1-f983-4980-1fac-0d542c970db8/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/80x0w.webp",
+      "name": "Opal Schermtijd Limiet & Focus",
+      "ranking": 4,
+      "ratingCount": 1688,
+      "subtitle": "App & Website Impuls Blokkeer"
+    },
+    {
+      "appStoreId": "1645639057",
+      "averageRating": 4.5,
+      "bundleId": "com.refocus.refocus",
+      "developer": "Labi, LLC",
+      "genre": "Productiviteit",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/02/88/ea/0288ea6d-6953-945e-1749-944b673f6d90/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/80x0w.webp",
+      "name": "Refocus: app blokkeren & sites",
+      "ranking": 5,
+      "ratingCount": 307,
+      "subtitle": "Blocker, blokkeer websites"
+    }
+  ],
+  "yourAppRanking": null,
+  "status": "completed"
+}

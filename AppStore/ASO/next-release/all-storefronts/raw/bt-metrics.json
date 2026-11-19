@@ -1,0 +1,13 @@
+{
+  "id": "68c7869d-df2d-4be6-83b6-5f59b49d7594",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "Error: Invalid parameters: Unsupported store 'bt'",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}

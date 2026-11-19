@@ -1,0 +1,13 @@
+{
+  "id": "ded26753-7710-4970-8689-37b8b7309a1c",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "Error: Invalid parameters: Unsupported store 'ng'",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}

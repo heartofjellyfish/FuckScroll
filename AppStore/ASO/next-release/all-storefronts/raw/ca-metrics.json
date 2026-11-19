@@ -1,0 +1,13 @@
+{
+  "id": "ec8d1e38-f927-4c7e-b354-efe5e6c451d9",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"added\" : 1,\n  \"app\" : \"Stop Scrolling – Duck on Duty\",\n  \"failed\" : 0,\n  \"platform\" : \"iphone\",\n  \"results\" : [\n    {\n      \"difficulty\" : 53,\n      \"keyword\" : \"screen time control\",\n      \"popularity\" : 41,\n      \"skipped\" : false,\n      \"success\" : true\n    }\n  ],\n  \"skipped\" : 0,\n  \"store\" : \"ca\",\n  \"total\" : 1\n}",
+        "type": "text"
+      }
+    ],
+    "isError": false
+  }
+}

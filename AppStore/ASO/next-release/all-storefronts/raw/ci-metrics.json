@@ -1,0 +1,13 @@
+{
+  "id": "f69d799d-ada3-477d-99c5-1f76d394d72d",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "Error: Invalid parameters: Unsupported store 'ci'",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}

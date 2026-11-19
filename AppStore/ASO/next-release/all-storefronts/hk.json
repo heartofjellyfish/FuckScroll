@@ -1,0 +1,130 @@
+{
+  "iso3": "HKG",
+  "store": "hk",
+  "country": "Hong Kong",
+  "defaultLanguage": "Chinese (Traditional)",
+  "additionalLanguages": "English (U.K.)",
+  "seeds": [
+    "螢幕使用時間",
+    "戒手機",
+    "app blocker",
+    "screen time"
+  ],
+  "endpoint": "http://127.0.0.1:8089/mcp",
+  "keywords": [
+    {
+      "appsCount": 250,
+      "currentRanking": 1000,
+      "difficulty": 13,
+      "keyword": "螢幕使用時間",
+      "lastUpdate": "2026-11-19T01:31:25Z",
+      "popularity": 5,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "hk"
+    },
+    {
+      "appsCount": 250,
+      "currentRanking": 1000,
+      "difficulty": 13,
+      "keyword": "戒手機",
+      "lastUpdate": "2026-11-19T01:31:25Z",
+      "popularity": 5,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "hk"
+    },
+    {
+      "appsCount": 247,
+      "currentRanking": 1000,
+      "difficulty": 9,
+      "keyword": "app blocker",
+      "lastUpdate": "2026-11-19T01:31:25Z",
+      "popularity": 38,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "hk"
+    },
+    {
+      "difficulty": 19,
+      "keyword": "screen time",
+      "popularity": 34,
+      "skipped": false,
+      "success": true
+    }
+  ],
+  "selectedKeyword": {
+    "appsCount": 247,
+    "currentRanking": 1000,
+    "difficulty": 9,
+    "keyword": "app blocker",
+    "lastUpdate": "2026-11-19T01:31:25Z",
+    "popularity": 38,
+    "previousRanking": 1000,
+    "rankingChange": 0,
+    "store": "hk"
+  },
+  "selectionRule": "sweet-spot heuristic: popularity≥25, difficulty≤35, relevance≥4",
+  "top5": [
+    {
+      "appStoreId": "1541027222",
+      "averageRating": 4.8,
+      "bundleId": "com.scottharvey.screenzenapp.ios",
+      "developer": "ScreenZen LLC",
+      "genre": "生產力",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/c8/de/89c8deef-2a7e-5abf-c5ec-ac3ffa343494/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/80x0w.webp",
+      "name": "ScreenZen- Screen Time Control",
+      "ranking": 1,
+      "ratingCount": 414
+    },
+    {
+      "appStoreId": "1497465230",
+      "averageRating": 4.7,
+      "bundleId": "com.withopal.opal",
+      "developer": "Opal OS",
+      "genre": "生產力",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/49/82/784982f1-f983-4980-1fac-0d542c970db8/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/80x0w.webp",
+      "name": "Opal: Screen Time Control",
+      "ranking": 2,
+      "ratingCount": 632
+    },
+    {
+      "appStoreId": "1515753232",
+      "averageRating": 4.8,
+      "bundleId": "eu.mobilesoft.appblock",
+      "developer": "MobileSoft s.r.o.",
+      "genre": "生產力",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/5a/d7/9c5ad7ef-7122-af9e-baa4-4f35d377ef16/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/80x0w.webp",
+      "name": "AppBlock | 封鎖應用程式，管理螢幕使用時間",
+      "ranking": 3,
+      "ratingCount": 77,
+      "subtitle": "不做手機控 - 保持專注力，保持自律，使用軟體避免干擾"
+    },
+    {
+      "appStoreId": "6476863110",
+      "averageRating": 0,
+      "bundleId": "lm.com.app.pctroller",
+      "developer": "淼 刘",
+      "genre": "生產力",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f7/05/7c/f7057cc7-fb37-f40b-bb7b-d2e1eed20390/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/80x0w.webp",
+      "name": "自律應用鎖 - 高效自律時鐘隱藏密碼鎖軟體+屏幕鎖",
+      "ranking": 4,
+      "ratingCount": 0,
+      "subtitle": "管理限制小孩老年人游戏短视频App防沉迷時間程序鎖"
+    },
+    {
+      "appStoreId": "6748830877",
+      "averageRating": 5,
+      "bundleId": "com.kellyang.FrogSleep",
+      "developer": "林克时间(北京)科技有限公司",
+      "genre": "健康與健身",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d9/99/36/d999367a-2b65-5e44-49e2-b4cb20953203/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/80x0w.webp",
+      "name": "蛙蛙睡眠－早睡鎖機自律、睡眠紀錄、打卡、戒手機成癮",
+      "ranking": 5,
+      "ratingCount": 2,
+      "subtitle": "睡前自动鎖手機，減少熬夜，療癒陪伴，管理限制螢幕使用時間"
+    }
+  ],
+  "yourAppRanking": null,
+  "status": "completed"
+}

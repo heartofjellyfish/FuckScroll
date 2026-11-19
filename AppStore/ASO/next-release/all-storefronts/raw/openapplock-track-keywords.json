@@ -1,0 +1,13 @@
+{
+  "id": "32913e02-8ed1-4bbd-9c91-98d3a8d70a50",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "{\n  \"added\" : 3,\n  \"app\" : \"OpenAppLock\",\n  \"failed\" : 0,\n  \"platform\" : \"iphone\",\n  \"results\" : [\n    {\n      \"difficulty\" : 59,\n      \"keyword\" : \"app blocker\",\n      \"popularity\" : 54,\n      \"ranking\" : 8,\n      \"skipped\" : false,\n      \"success\" : true\n    },\n    {\n      \"difficulty\" : 60,\n      \"keyword\" : \"screen time\",\n      \"popularity\" : 51,\n      \"skipped\" : false,\n      \"success\" : true\n    },\n    {\n      \"difficulty\" : 15,\n      \"keyword\" : \"scroll blocker\",\n      \"popularity\" : 35,\n      \"skipped\" : false,\n      \"success\" : true\n    }\n  ],\n  \"skipped\" : 0,\n  \"store\" : \"us\",\n  \"total\" : 3\n}",
+        "type": "text"
+      }
+    ],
+    "isError": false
+  }
+}

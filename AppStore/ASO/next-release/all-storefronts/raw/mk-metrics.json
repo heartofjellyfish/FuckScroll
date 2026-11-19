@@ -1,0 +1,13 @@
+{
+  "id": "2e156bae-4c78-4198-8646-f1e75715b28e",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "Error: Invalid parameters: Unsupported store 'mk'",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}

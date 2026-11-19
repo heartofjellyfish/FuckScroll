@@ -1,0 +1,126 @@
+{
+  "iso3": "IDN",
+  "store": "id",
+  "country": "Indonesia",
+  "defaultLanguage": "English (U.K.)",
+  "additionalLanguages": "Indonesian",
+  "seeds": [
+    "app blocker",
+    "screen time",
+    "screen time control",
+    "scroll blocker",
+    "stop scrolling"
+  ],
+  "endpoint": "http://127.0.0.1:8089/mcp",
+  "keywords": [
+    {
+      "difficulty": 19,
+      "keyword": "app blocker",
+      "popularity": 32,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 17,
+      "keyword": "screen time",
+      "popularity": 30,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 17,
+      "keyword": "screen time control",
+      "popularity": 38,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 21,
+      "keyword": "scroll blocker",
+      "popularity": 5,
+      "ranking": 33,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 9,
+      "keyword": "stop scrolling",
+      "popularity": 5,
+      "ranking": 9,
+      "skipped": false,
+      "success": true
+    }
+  ],
+  "selectedKeyword": {
+    "difficulty": 17,
+    "keyword": "screen time control",
+    "popularity": 38,
+    "skipped": false,
+    "success": true
+  },
+  "selectionRule": "sweet-spot heuristic: popularity≥25, difficulty≤35, relevance≥4",
+  "top5": [
+    {
+      "appStoreId": "6456942073",
+      "averageRating": 5,
+      "bundleId": "com.idreamdesign.screen",
+      "developer": "Deebex Tech Ltd.",
+      "genre": "Productivity",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/20/66/de/2066def0-19be-aa2f-f2e9-94d0a58c514c/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/80x0w.webp",
+      "name": "App Blocker - Screen Time",
+      "ranking": 1,
+      "ratingCount": 1,
+      "subtitle": "Focus, block apps, save time"
+    },
+    {
+      "appStoreId": "6450756696",
+      "averageRating": 0,
+      "bundleId": "com.adrienblc.fokus",
+      "developer": "BLANC DAHAMNI CAPITAL",
+      "genre": "Productivity",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/03/5f/72/035f72aa-680b-6b86-7d73-784667e4046a/AppIcon-1x_U007epad-85-220.png/80x0w.webp",
+      "name": "Fokus - Screen time",
+      "ranking": 2,
+      "ratingCount": 0,
+      "subtitle": "Hide & block apps to detox!"
+    },
+    {
+      "appStoreId": "1497465230",
+      "averageRating": 4.8,
+      "bundleId": "com.withopal.opal",
+      "developer": "Opal OS",
+      "genre": "Productivity",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/49/82/784982f1-f983-4980-1fac-0d542c970db8/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/80x0w.webp",
+      "name": "Opal: Screen Time Control",
+      "ranking": 3,
+      "ratingCount": 1013,
+      "subtitle": "Focus, App Blocker & Timer"
+    },
+    {
+      "appStoreId": "1541027222",
+      "averageRating": 4.9,
+      "bundleId": "com.scottharvey.screenzenapp.ios",
+      "developer": "ScreenZen LLC",
+      "genre": "Productivity",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/c8/de/89c8deef-2a7e-5abf-c5ec-ac3ffa343494/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/80x0w.webp",
+      "name": "ScreenZen- Screen Time Control",
+      "ranking": 4,
+      "ratingCount": 261,
+      "subtitle": "App blocker, limit screen time"
+    },
+    {
+      "appStoreId": "6446371405",
+      "averageRating": 5,
+      "bundleId": "com.super.AppLock",
+      "developer": "香兰 张",
+      "genre": "Utilities",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/07/91/a5/0791a596-6c75-ae94-97cd-c89a467da1c5/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/80x0w.webp",
+      "name": "Calculator AppLock - Lock Apps",
+      "ranking": 5,
+      "ratingCount": 7,
+      "subtitle": "App Block & Passcode App Lock"
+    }
+  ],
+  "yourAppRanking": null,
+  "status": "completed"
+}

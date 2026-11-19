@@ -1,0 +1,135 @@
+{
+  "iso3": "BRA",
+  "store": "br",
+  "country": "Brazil",
+  "defaultLanguage": "Portuguese (Brazil)",
+  "additionalLanguages": "English (U.K.)",
+  "seeds": [
+    "tempo de tela",
+    "bloquear aplicativos",
+    "bloqueador de aplicativos",
+    "limite de uso"
+  ],
+  "endpoint": "http://127.0.0.1:8089/mcp",
+  "keywords": [
+    {
+      "appsCount": 250,
+      "currentRanking": 1000,
+      "difficulty": 45,
+      "keyword": "tempo de tela",
+      "lastUpdate": "2026-11-19T01:31:38Z",
+      "popularity": 40,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "br"
+    },
+    {
+      "appsCount": 237,
+      "currentRanking": 1000,
+      "difficulty": 40,
+      "keyword": "bloquear aplicativos",
+      "lastUpdate": "2026-11-19T01:31:38Z",
+      "popularity": 33,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "br"
+    },
+    {
+      "appsCount": 250,
+      "currentRanking": 1000,
+      "difficulty": 41,
+      "keyword": "bloqueador de aplicativos",
+      "lastUpdate": "2026-11-19T01:31:38Z",
+      "popularity": 24,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "br"
+    },
+    {
+      "appsCount": 177,
+      "currentRanking": 143,
+      "difficulty": 23,
+      "keyword": "limite de uso",
+      "lastUpdate": "2026-11-19T01:31:38Z",
+      "popularity": 20,
+      "previousRanking": 143,
+      "rankingChange": 0,
+      "store": "br"
+    }
+  ],
+  "selectedKeyword": {
+    "appsCount": 250,
+    "currentRanking": 1000,
+    "difficulty": 45,
+    "keyword": "tempo de tela",
+    "lastUpdate": "2026-11-19T01:31:38Z",
+    "popularity": 40,
+    "previousRanking": 1000,
+    "rankingChange": 0,
+    "store": "br"
+  },
+  "selectionRule": "no qualifying sweet spot; popularity first, difficulty as tie-break",
+  "top5": [
+    {
+      "appStoreId": "1497465230",
+      "averageRating": 4.9,
+      "bundleId": "com.withopal.opal",
+      "developer": "Opal OS",
+      "genre": "Produtividade",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/49/82/784982f1-f983-4980-1fac-0d542c970db8/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/80x0w.webp",
+      "name": "Opal: Diminuir Tempo de Tela",
+      "ranking": 1,
+      "ratingCount": 12183,
+      "subtitle": "Seja mais focado e produtivo"
+    },
+    {
+      "appStoreId": "1541027222",
+      "averageRating": 4.9,
+      "bundleId": "com.scottharvey.screenzenapp.ios",
+      "developer": "ScreenZen LLC",
+      "genre": "Produtividade",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/c8/de/89c8deef-2a7e-5abf-c5ec-ac3ffa343494/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/80x0w.webp",
+      "name": "ScreenZen- Screen Time Control",
+      "ranking": 2,
+      "ratingCount": 4124
+    },
+    {
+      "appStoreId": "1609960918",
+      "averageRating": 4.9,
+      "bundleId": "com.jomo.Jomo",
+      "developer": "Jomo",
+      "genre": "Produtividade",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/9a/11/239a118e-7e7d-2178-714b-9fd591550394/AppIcon-0-0-1x_U007epad-0-9-0-85-220.png/80x0w.webp",
+      "name": "Jomo - Reduza o tempo de tela",
+      "ranking": 3,
+      "ratingCount": 504,
+      "subtitle": "Combater o Vício em Celular"
+    },
+    {
+      "appStoreId": "1459096306",
+      "averageRating": 4.8,
+      "bundleId": "com.shikudo.focus",
+      "developer": "Shikudo",
+      "genre": "Produtividade",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/2d/1f/f22d1f1c-9bce-93fa-719c-c9d81dc04891/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/80x0w.webp",
+      "name": "Focus Plant: aprovado planta",
+      "ranking": 4,
+      "ratingCount": 11395,
+      "subtitle": "Arvore de livros, para estudar"
+    },
+    {
+      "appStoreId": "1532875441",
+      "averageRating": 4.9,
+      "bundleId": "wtf.riedel.one-sec",
+      "developer": "riedel.wtf apps S.L.",
+      "genre": "Produtividade",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/f1/83/faf18373-f0af-4b1d-2625-e47565d9ff05/one_sec_Default_App_Icon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/80x0w.webp",
+      "name": "one sec | sem distrações",
+      "ranking": 5,
+      "ratingCount": 3513,
+      "subtitle": "restringe o tempo de tela"
+    }
+  ],
+  "yourAppRanking": null,
+  "status": "completed"
+}

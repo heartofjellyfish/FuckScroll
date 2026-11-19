@@ -1,0 +1,13 @@
+{
+  "id": "fab9013b-0576-4ef2-890f-e57c8e737219",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "Error: Invalid parameters: Unsupported store 'mt'",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "en-US": {
+    "name": "Stop Scrolling – Duck on Duty",
+    "subtitle": "App Blocker & Screen Time",
+    "keywords": "control,focus,social,media,digital,detox,doomscroll,distraction,break,habit,timer,limit",
+    "captions": [
+      "Can’t stop scrolling\nsocial media?",
+      "Different apps. Different timers.",
+      "Go stretch your legs.",
+      "Your phone. Your terms."
+    ],
+    "description": "You opened social media for a minute. Give that minute an ending. Set a limit; the duck blocks the app when its time is up.\n\n• Set a separate usage limit and break for each app.\n• Short visits add up. Stay away for a full break to start fresh when Screen Time updates.\n• Change next round’s limits during a break.\n• Write your own reminder and exit-button text.\n• Close the duck. Your limits keep working.\n\nA raised eyebrow. A little humor. The duck is on your side.\n\nFree and ad-free. Your data stays on your iPhone. Requires Screen Time access. Reminder and unlock timing depend on iOS.",
+    "promotional_text": "Your feed can wait. Set separate app limits and mandatory breaks, with a small duck to hold you to them.",
+    "firstScreenshotDetail": "The duck blocks the app when you hit your limit."
+  },
+  "zh-Hans": {
+    "name": "Duck on Duty – 戒手机",
+    "subtitle": "屏幕使用时间管理，到点强制休息",
+    "keywords": "防沉迷,应用限制,专注,自律,数字健康,少刷手机,定时",
+    "captions": [
+      "社交媒体，\n一刷就停不下来？",
+      "各刷各的，各歇各的。",
+      "去走两步。",
+      "我的手机，我的规矩。"
+    ],
+    "description": "本来只想看一眼，又刷了半天？给每个 App 定个上限，到点鸭子拦住它，让你歇会儿。\n\n• 每个 App，分别设置使用上限和休息时长。\n• 多次打开会累计；离开够一轮休息时间，系统更新后重新计时。\n• 正在休息，也能改下一轮的时间。\n• 提醒的话和退出按钮，都能自己写。\n• 关掉鸭子，限时照常。\n\n有点冷幽默，偶尔翻个白眼。鸭子站你这边。\n\n免费，无广告。数据只留在你的 iPhone。需要授权屏幕使用时间；提醒与解锁时机受 iOS 调度影响。",
+    "promotional_text": "每个 App 各有上限，各有休息。把“再刷一条”交给鸭子处理。免费，无广告。",
+    "firstScreenshotDetail": "到你设的上限，鸭子就拦住这个 App。"
+  },
+  "zh-Hant": {
+    "name": "Duck on Duty：戒手機",
+    "subtitle": "螢幕使用時間管理，各 App 限時休息",
+    "keywords": "專注,防沉迷,滑手機,數位健康,減少分心,自律",
+    "captions": [
+      "社群動態，\n一滑就停不下來？",
+      "各自計時，各自休息。",
+      "起來走兩步。",
+      "我的手機，我的規矩。"
+    ],
+    "description": "本來只想滑一下，又過了半天？替每個 App 訂個上限，時間到了，鴨子就擋住它，讓你休息一下。\n\n• 每個 App 分別設定使用上限和休息時間。\n• 短暫開啟也會累計。主動休息滿一輪，螢幕使用時間更新後重新計時。\n• 休息期間也能修改下一輪的時間。\n• 提醒文字和離開按鈕，都能自己寫。\n• 關掉鴨子，限制照常運作。\n\n一點冷幽默，偶爾翻個白眼。鴨子站在你這邊。\n\n設定只留在你的 iPhone。App 不蒐集資料、不顯示廣告。需要授權螢幕使用時間，提醒與解鎖時機由 iOS 排程決定。",
+    "promotional_text": "每個 App 各自計時、各自休息。下一則動態可以等，你先歇一下。免費、無廣告。",
+    "firstScreenshotDetail": "到了你設的上限，鴨子就會擋住這個 App。"
+  },
+  "ja": {
+    "name": "Duck on Duty: スマホ制限",
+    "subtitle": "スクリーンタイムをアプリごとに制限",
+    "keywords": "スマホ依存,デジタルデトックス,集中,タイマー",
+    "captions": [
+      "SNS、\nつい見続けてしまう？",
+      "上限も休憩も、アプリごと。",
+      "ちょっと歩こう。",
+      "自分のスマホ。自分のルール。"
+    ],
+    "description": "SNSを少しだけ見るつもりが、いつの間にか長時間。アプリごとに上限を決めると、時間が来たらアヒルがブロックして休憩を促します。\n\n• 利用時間と休憩時間をアプリごとに設定。\n• 短い利用も合算。十分に離れると、スクリーンタイムの更新後にカウントがリセットされます。\n• 休憩中でも次の利用上限を変更できます。\n• 休憩メッセージも終了ボタンの言葉も、自分で編集。\n• アヒルのアプリを閉じても制限は有効。\n\n少し皮肉っぽく、時々大げさ。それでも、アヒルはあなたの味方です。\n\n設定はiPhone内に保存。データ収集や広告表示はありません。スクリーンタイムの許可が必要です。通知と解除のタイミングはiOSの処理状況によって変わります。",
+    "promotional_text": "アプリごとに使用時間と休憩を設定。「あとひとつ」を止める、小さなアヒルです。無料・広告なし。",
+    "firstScreenshotDetail": "決めた時間に達したら、アヒルがアプリをブロック。"
+  },
+  "ko": {
+    "name": "Duck on Duty: 앱 차단",
+    "subtitle": "스크린타임 줄이고, 앱마다 휴식",
+    "keywords": "스마트폰 중독,집중,타이머,사용시간,디지털 디톡스",
+    "captions": [
+      "SNS,\n계속 넘기고 있나요?",
+      "앱마다 타이머 하나씩.",
+      "다리 좀 펴고 와요.",
+      "내 휴대폰. 내 규칙."
+    ],
+    "description": "SNS를 잠깐만 보려다 또 시간이 훌쩍 지났나요? 앱마다 한도를 정해 보세요. 시간이 차면 오리가 앱을 막고 쉬는 시간을 지켜 줘요.\n\n• 앱마다 사용 한도와 휴식 시간을 따로 설정하세요.\n• 짧게 여러 번 열어도 합산돼요. 충분히 쉬면 스크린 타임이 업데이트될 때 새로 시작해요.\n• 휴식 중에도 다음 차례의 한도를 바꿀 수 있어요.\n• 휴식 문구와 나가기 버튼의 글을 직접 쓰세요.\n• 오리 앱을 닫아도 제한은 작동해요.\n\n무심한 농담, 가끔은 과장된 표정. 그래도 오리는 당신 편이에요.\n\n설정은 iPhone에만 저장돼요. 앱은 데이터를 수집하거나 광고를 표시하지 않아요. 스크린 타임 권한이 필요하며 알림과 차단 해제 시점은 iOS에 따라 달라질 수 있어요.",
+    "promotional_text": "앱마다 사용 시간과 휴식 시간을 따로 정하세요. 한 번만 더 넘기고 싶을 때, 오리가 나설게요. 무료이며 광고도 없어요.",
+    "firstScreenshotDetail": "정해 둔 시간이 되면 오리가 앱을 막아줘요."
+  },
+  "es-ES": {
+    "name": "Duck on Duty: Bloquea apps",
+    "subtitle": "Limita tu tiempo de pantalla",
+    "keywords": "bloquear aplicaciones,concentración,temporizador,redes sociales,descanso,hábitos",
+    "captions": [
+      "¿No puedes dejar\nde mirar las redes?",
+      "Una app, un contador.",
+      "Estira las piernas.",
+      "Tu móvil. Tus reglas."
+    ],
+    "description": "Ibas a mirar las redes un momento. Ponle un final: fija un límite y el pato bloqueará la app cuando se cumpla.\n\n• Un límite de uso y una pausa para cada app.\n• Las visitas cortas se suman. Una pausa completa reinicia el contador cuando Tiempo de uso se actualiza.\n• Cambia los límites de la siguiente ronda durante una pausa.\n• Escribe tu mensaje y el texto del botón de salida.\n• Cierra el pato. Los límites siguen activos.\n\nHumor seco, alguna mirada de reojo y un poco de drama. El pato está de tu lado.\n\nTus ajustes se quedan en tu iPhone. La app no recoge datos ni muestra anuncios. Requiere acceso a Tiempo de uso. iOS controla cuándo se muestran y se retiran los bloqueos.",
+    "promotional_text": "Cada app tiene su límite y su pausa. El pato se encarga de ese «un vídeo más». Gratis y sin anuncios.",
+    "firstScreenshotDetail": "Al llegar a tu límite, el pato bloquea la app."
+  },
+  "fr-FR": {
+    "name": "Duck on Duty: Bloqueur d’apps",
+    "subtitle": "Temps d’écran, pauses par app",
+    "keywords": "application,concentration,minuteur,réseaux sociaux,détox,limite,habitude",
+    "captions": [
+      "Impossible de quitter\nles réseaux sociaux ?",
+      "À chaque app son compteur.",
+      "Dégourdis-toi les jambes.",
+      "Mon téléphone. Mes règles."
+    ],
+    "description": "Vous ouvriez les réseaux pour une minute. Donnez-lui une fin : fixez une limite et le canard bloquera l’app une fois le temps écoulé.\n\n• Une limite et une pause propres à chaque app.\n• Les courtes visites s’additionnent. Une pause complète remet le compteur à zéro quand Temps d’écran se met à jour.\n• Modifie les limites du prochain tour pendant une pause.\n• Écris ton message et le texte du bouton de sortie.\n• Ferme le canard. Les limites restent actives.\n\nUn humour pince-sans-rire, un regard en coin, parfois un peu de théâtre. Le canard est de ton côté.\n\nTes réglages restent sur ton iPhone. L’app ne collecte pas de données et n’affiche pas de publicité. L’accès à Temps d’écran est nécessaire. Le déclenchement et la levée des blocages dépendent d’iOS.",
+    "promotional_text": "Une limite et une pause pour chaque app. Le canard s’occupe du « encore une vidéo ». Gratuit, sans publicité.",
+    "firstScreenshotDetail": "À la limite que tu as fixée, le canard bloque l’app."
+  },
+  "de-DE": {
+    "name": "Duck on Duty: Bildschirmzeit",
+    "subtitle": "App-Limits mit festen Pausen",
+    "keywords": "sperren,fokus,timer,digital detox,handyzeit,konzentration,gewohnheit,scrollen",
+    "captions": [
+      "Social Media:\nDu scrollst immer weiter?",
+      "Jede App zählt für sich.",
+      "Beine vertreten?",
+      "Mein Handy. Meine Regeln."
+    ],
+    "description": "Du wolltest nur kurz durch Social Media scrollen. Gib dem ein Ende: Lege ein Zeitlimit fest. Ist es erreicht, sperrt die Ente die App für eine Pause.\n\n• Eigene Nutzungsgrenzen und Pausen für jede App.\n• Kurze Besuche zählen zusammen. Nach einer vollen Auszeit setzt Bildschirmzeit den Zähler bei der nächsten Aktualisierung zurück.\n• Ändere während einer Pause die Limits für die nächste Runde.\n• Schreibe deinen Pausentext und die Beschriftung der Ausstiegstaste selbst.\n• Schließe die Ente. Die Limits bleiben aktiv.\n\nTrockener Humor, eine hochgezogene Augenbraue und gelegentlich etwas Drama. Die Ente ist auf deiner Seite.\n\nDeine Einstellungen bleiben auf deinem iPhone. Die App sammelt keine Daten und zeigt keine Werbung. Bildschirmzeit-Zugriff ist erforderlich. iOS bestimmt den Zeitpunkt von Sperre und Freigabe.",
+    "promotional_text": "Jede App bekommt ihr eigenes Limit und ihre eigene Pause. Die Ente kümmert sich um „nur noch ein Video“. Kostenlos und werbefrei.",
+    "firstScreenshotDetail": "Ist dein Zeitlimit erreicht, sperrt die Ente die App."
+  },
+  "it": {
+    "name": "Duck on Duty: Limiti app",
+    "subtitle": "Tempo di utilizzo e pause",
+    "keywords": "blocca,blocco,concentrazione,timer,social,abitudini,detox,schermo",
+    "captions": [
+      "Non riesci a smettere\ndi scorrere i social?",
+      "Un timer per ogni app.",
+      "Sgranchisci le gambe.",
+      "Il mio telefono. Le mie regole."
+    ],
+    "description": "Dovevi solo dare un’occhiata ai social. Dai un limite a quell’occhiata: quando il tempo finisce, la papera blocca l’app per una pausa.\n\n• Un limite di utilizzo e una pausa per ogni app.\n• Le visite brevi si sommano. Una pausa completa azzera il conteggio quando Tempo di utilizzo si aggiorna.\n• Cambia i limiti del prossimo giro durante una pausa.\n• Scrivi il messaggio e il testo del pulsante di uscita.\n• Chiudi la papera. I limiti restano attivi.\n\nUmorismo asciutto, qualche occhiataccia e un po’ di teatro. La papera è dalla tua parte.\n\nLe impostazioni restano sul tuo iPhone. L’app non raccoglie dati e non mostra pubblicità. Serve l’accesso a Tempo di utilizzo. I tempi di blocco e sblocco dipendono da iOS.",
+    "promotional_text": "Ogni app ha il suo limite e la sua pausa. All’«ancora un video» ci pensa la papera. Gratis e senza pubblicità.",
+    "firstScreenshotDetail": "Quando raggiungi il limite, l’anatra blocca l’app."
+  },
+  "pt-BR": {
+    "name": "Duck on Duty: Tempo de Tela",
+    "subtitle": "Bloqueie apps e faça uma pausa",
+    "keywords": "bloquear aplicativos,foco,limite de uso,redes sociais,temporizador,hábito,descanso",
+    "captions": [
+      "Não consegue parar\nde rolar o feed?",
+      "Cada app tem seu tempo.",
+      "Vai esticar as pernas.",
+      "Meu celular. Minhas regras."
+    ],
+    "description": "Você abriu as redes sociais só por um minuto. Dê um fim a esse minuto: defina um limite e o pato bloqueia o app quando o tempo acabar.\n\n• Um limite de uso e uma pausa para cada app.\n• Visitas curtas se somam. Uma pausa completa zera o contador quando o Tempo de Uso é atualizado.\n• Altere os limites da próxima rodada durante uma pausa.\n• Escreva a mensagem e o texto do botão de saída.\n• Feche o pato. Os limites continuam ativos.\n\nHumor seco, um olhar de canto e um pouco de drama. O pato está do seu lado.\n\nSeus ajustes ficam no iPhone. O app não coleta dados nem mostra anúncios. É preciso permitir o acesso ao Tempo de Uso. Os horários de bloqueio e liberação dependem do iOS.",
+    "promotional_text": "Cada app tem seu limite e sua pausa. O pato cuida do «só mais um vídeo». Grátis e sem anúncios.",
+    "firstScreenshotDetail": "Deu seu tempo nas redes sociais? O pato bloqueia o app."
+  },
+  "en-GB": {
+    "name": "Stop Scrolling – Duck on Duty",
+    "subtitle": "App Blocker & Screen Time",
+    "keywords": "control,focus,social,media,digital,detox,doomscroll,distraction,break,habit,timer,limit",
+    "captions": [
+      "Can’t stop scrolling\nsocial media?",
+      "Different apps. Different timers.",
+      "Go stretch your legs.",
+      "Your phone. Your terms."
+    ],
+    "description": "You opened social media for a minute. Give that minute an ending. Set a limit; the duck blocks the app when its time is up.\n\n• Set a separate usage limit and break for each app.\n• Short visits add up. Stay away for a full break to start fresh when Screen Time updates.\n• Change next round’s limits during a break.\n• Write your own reminder and exit-button text.\n• Close the duck. Your limits keep working.\n\nA raised eyebrow. A little humor. The duck is on your side.\n\nFree and ad-free. Your data stays on your iPhone. Requires Screen Time access. Reminder and unlock timing depend on iOS.",
+    "promotional_text": "Your feed can wait. Set separate app limits and mandatory breaks, with a small duck to hold you to them.",
+    "firstScreenshotDetail": "The duck blocks the app when you hit your limit."
+  },
+  "en-AU": {
+    "name": "Stop Scrolling – Duck on Duty",
+    "subtitle": "App Blocker & Screen Time",
+    "keywords": "control,focus,social,media,digital,detox,doomscroll,distraction,break,habit,timer,limit",
+    "captions": [
+      "Can’t stop scrolling\nsocial media?",
+      "Different apps. Different timers.",
+      "Go stretch your legs.",
+      "Your phone. Your terms."
+    ],
+    "description": "You opened social media for a minute. Give that minute an ending. Set a limit; the duck blocks the app when its time is up.\n\n• Set a separate usage limit and break for each app.\n• Short visits add up. Stay away for a full break to start fresh when Screen Time updates.\n• Change next round’s limits during a break.\n• Write your own reminder and exit-button text.\n• Close the duck. Your limits keep working.\n\nA raised eyebrow. A little humor. The duck is on your side.\n\nFree and ad-free. Your data stays on your iPhone. Requires Screen Time access. Reminder and unlock timing depend on iOS.",
+    "promotional_text": "Your feed can wait. Set separate app limits and mandatory breaks, with a small duck to hold you to them.",
+    "firstScreenshotDetail": "The duck blocks the app when you hit your limit."
+  },
+  "en-CA": {
+    "name": "Stop Scrolling – Duck on Duty",
+    "subtitle": "App Blocker & Screen Time",
+    "keywords": "control,focus,social,media,digital,detox,doomscroll,distraction,break,habit,timer,limit",
+    "captions": [
+      "Can’t stop scrolling\nsocial media?",
+      "Different apps. Different timers.",
+      "Go stretch your legs.",
+      "Your phone. Your terms."
+    ],
+    "description": "You opened social media for a minute. Give that minute an ending. Set a limit; the duck blocks the app when its time is up.\n\n• Set a separate usage limit and break for each app.\n• Short visits add up. Stay away for a full break to start fresh when Screen Time updates.\n• Change next round’s limits during a break.\n• Write your own reminder and exit-button text.\n• Close the duck. Your limits keep working.\n\nA raised eyebrow. A little humor. The duck is on your side.\n\nFree and ad-free. Your data stays on your iPhone. Requires Screen Time access. Reminder and unlock timing depend on iOS.",
+    "promotional_text": "Your feed can wait. Set separate app limits and mandatory breaks, with a small duck to hold you to them.",
+    "firstScreenshotDetail": "The duck blocks the app when you hit your limit."
+  },
+  "fr-CA": {
+    "name": "Duck on Duty: Temps d’écran",
+    "subtitle": "Bloqueur d’apps, vraies pauses",
+    "keywords": "concentration,minuteur,réseaux sociaux,limite,habitude,détox,téléphone",
+    "captions": [
+      "Impossible de quitter\nles réseaux sociaux ?",
+      "À chaque app son compteur.",
+      "Dégourdis-toi les jambes.",
+      "Mon téléphone. Mes règles."
+    ],
+    "description": "Vous ouvriez les réseaux pour une minute. Donnez-lui une fin : fixez une limite et le canard bloquera l’app une fois le temps écoulé.\n\n• Une limite et une pause propres à chaque app.\n• Les courtes visites s’additionnent. Une pause complète remet le compteur à zéro quand Temps d’écran se met à jour.\n• Modifie les limites du prochain tour pendant une pause.\n• Écris ton message et le texte du bouton de sortie.\n• Ferme le canard. Les limites restent actives.\n\nUn humour pince-sans-rire, un regard en coin, parfois un peu de théâtre. Le canard est de ton côté.\n\nTes réglages restent sur ton iPhone. L’app ne collecte pas de données et n’affiche pas de publicité. L’accès à Temps d’écran est nécessaire. Le déclenchement et la levée des blocages dépendent d’iOS.",
+    "promotional_text": "Une limite et une pause pour chaque app. Le canard s’occupe du « encore une vidéo ». Gratuit, sans publicité.",
+    "firstScreenshotDetail": "À la limite que tu as fixée, le canard bloque l’app."
+  },
+  "es-MX": {
+    "name": "Duck on Duty: Bloquea apps",
+    "subtitle": "Limita tu tiempo en pantalla",
+    "keywords": "bloquear aplicaciones,concentración,temporizador,redes sociales,descanso,hábitos",
+    "captions": [
+      "¿No puedes dejar\nde mirar las redes?",
+      "Una app, un contador.",
+      "Estira las piernas.",
+      "Tu móvil. Tus reglas."
+    ],
+    "description": "Ibas a revisar las redes un momento y se te fue el tiempo. Pon un límite: el pato bloquea la app cuando lo alcanzas.\n\n• Un límite de uso y una pausa para cada app.\n• Las visitas cortas se suman. Una pausa completa reinicia el contador cuando Tiempo de uso se actualiza.\n• Cambia los límites de la siguiente ronda durante una pausa.\n• Escribe tu mensaje y el texto del botón de salida.\n• Cierra el pato. Los límites siguen activos.\n\nHumor seco, alguna mirada de reojo y un poco de drama. El pato está de tu lado.\n\nTus ajustes se quedan en tu iPhone. La app no recoge datos ni muestra anuncios. Requiere acceso a Tiempo de uso. iOS controla cuándo se muestran y se retiran los bloqueos.",
+    "promotional_text": "Cada app tiene su límite y su descanso. El pato se encarga de ese «un video más». Gratis y sin anuncios.",
+    "firstScreenshotDetail": "Al llegar a tu límite, el pato bloquea la app."
+  },
+  "pt-PT": {
+    "name": "Duck on Duty: Tempo de Ecrã",
+    "subtitle": "Limite apps e faça uma pausa",
+    "keywords": "screen time,blocker,foco,redes sociais,temporizador,descanso,hábito",
+    "captions": [
+      "Não consegue parar\nde percorrer o feed?",
+      "Cada app tem o seu tempo.",
+      "Vá esticar as pernas.",
+      "O seu telemóvel. As suas regras."
+    ],
+    "description": "Abriu as redes sociais só por um minuto. Dê um fim a esse minuto: defina um limite e o pato bloqueia a app quando o tempo acabar.\n\n• Defina um limite de utilização e uma pausa para cada app.\n• As visitas curtas acumulam-se. Afaste-se durante uma pausa completa para recomeçar quando o Tempo de ecrã atualizar.\n• Altere os limites da próxima ronda durante uma pausa.\n• Escreva o seu próprio lembrete e o texto do botão de saída.\n• Feche o pato. Os limites continuam a funcionar.\n\nUma sobrancelha levantada. Um pouco de humor. O pato está do seu lado.\n\nGrátis e sem publicidade. Os dados ficam no seu iPhone. Requer acesso ao Tempo de ecrã. Os alertas e o desbloqueio dependem do iOS.",
+    "promotional_text": "Cada app tem o seu limite e a sua pausa. O pato trata do «só mais um vídeo». Grátis e sem publicidade.",
+    "firstScreenshotDetail": "Deu seu tempo nas redes sociais? O pato bloqueia o app."
+  }
+}

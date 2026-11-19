@@ -1,0 +1,116 @@
+{
+  "iso3": "DOM",
+  "store": "do",
+  "country": "Dominican Republic",
+  "defaultLanguage": "Spanish (Mexico)",
+  "additionalLanguages": "English (U.K.)",
+  "seeds": [
+    "bloquear aplicaciones",
+    "tiempo en pantalla",
+    "tiempo de pantalla",
+    "limitar apps"
+  ],
+  "endpoint": "http://127.0.0.1:8089/mcp",
+  "keywords": [
+    {
+      "difficulty": 11,
+      "keyword": "bloquear aplicaciones",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 15,
+      "keyword": "tiempo en pantalla",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 11,
+      "keyword": "tiempo de pantalla",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 19,
+      "keyword": "limitar apps",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    }
+  ],
+  "selectedKeyword": {
+    "difficulty": 11,
+    "keyword": "bloquear aplicaciones",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  "selectionRule": "low-data market; relevance-first provisional, not a proven sweet spot",
+  "top5": [
+    {
+      "appStoreId": "6469686557",
+      "averageRating": 4.5,
+      "bundleId": "com.xu.applock",
+      "developer": "友财 徐",
+      "genre": "Utilidades",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/65/29/ad6529bc-a635-b89c-4d80-b2773b0602ec/AppIcon-0-0-1x_U007epad-0-1-0-sRGB-0-85-220.png/80x0w.webp",
+      "name": "Bloqueo De Aplicaciones -",
+      "ranking": 1,
+      "ratingCount": 430,
+      "subtitle": "Contraseña Para Apps Bloquear"
+    },
+    {
+      "appStoreId": "1509154892",
+      "averageRating": 3.9,
+      "bundleId": "com.domobile.applock",
+      "developer": "DoMobile Co., Ltd.",
+      "genre": "Utilidades",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/fa/31/c4/fa31c473-5f55-9dcf-98c6-67bddd9c3187/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/80x0w.webp",
+      "name": "AppLock - photo lock",
+      "ranking": 2,
+      "ratingCount": 72,
+      "subtitle": "Protect your privacy"
+    },
+    {
+      "appStoreId": "6746766591",
+      "averageRating": 4.5,
+      "bundleId": "com.lykovstudio.AppLock",
+      "developer": "LYKOV STUDIO LTD",
+      "genre": "Utilidades",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d1/fe/f0/d1fef0a7-c6dd-e678-0eac-cb6f0486ca3d/AppLock-0-0-1x_U007epad-0-1-sRGB-85-220.png/80x0w.webp",
+      "name": "Bloquear aplicaciones: AppLock",
+      "ranking": 3,
+      "ratingCount": 40,
+      "subtitle": "Bloqueo de aplicación Lockdown"
+    },
+    {
+      "appStoreId": "6452721618",
+      "averageRating": 4.5,
+      "bundleId": "com.liu.hideapps",
+      "developer": "俊杰 刘",
+      "genre": "Utilidades",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2c/c1/48/2cc1485d-d52b-6331-4457-cc78d50f5792/AppIcon-0-0-1x_U007epad-0-1-0-0-85-220.png/80x0w.webp",
+      "name": "Contraseña Para Apps Bloqueo",
+      "ranking": 4,
+      "ratingCount": 253,
+      "subtitle": "Contraseñas De Aplicaciones"
+    },
+    {
+      "appStoreId": "6777914542",
+      "averageRating": 5,
+      "bundleId": "com.zhang.lockapps",
+      "developer": "宝锋 张",
+      "genre": "Productividad",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/c5/97/ffc597a4-b6e0-35e1-d4b2-28733d0962b6/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/80x0w.webp",
+      "name": "Bloqueo De Aplicaciones - App.",
+      "ranking": 5,
+      "ratingCount": 1,
+      "subtitle": "Bloquear Contraseña Para Apps"
+    }
+  ],
+  "yourAppRanking": null,
+  "status": "completed"
+}

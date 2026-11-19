@@ -1,8 +1,8 @@
 {
   "en-US": {
-    "name": "Stop Scrolling – Duck on Duty",
-    "subtitle": "App Blocker & Screen Time",
-    "keywords": "control,focus,social,media,digital,detox,doomscroll,distraction,break,habit,timer,limit",
+    "name": "App Blocker – Duck on Duty",
+    "subtitle": "Screen Time Control & Focus",
+    "keywords": "scroll,social,media,limit,break,digital,detox,doomscroll,distraction,habit,timer",
     "captions": [
       "Can’t stop scrolling\nsocial media?",
       "Different apps. Different timers.",
@@ -14,9 +14,9 @@
     "firstScreenshotDetail": "The duck blocks the app when you hit your limit."
   },
   "zh-Hans": {
-    "name": "Duck on Duty – 戒手机",
-    "subtitle": "屏幕使用时间管理，到点强制休息",
-    "keywords": "防沉迷,应用限制,专注,自律,数字健康,少刷手机,定时",
+    "name": "屏幕使用时间 – Duck on Duty",
+    "subtitle": "戒手机，少刷社交媒体，到点休息",
+    "keywords": "防沉迷,应用限制,专注,自律,数字健康,定时,休息提醒",
     "captions": [
       "社交媒体，\n一刷就停不下来？",
       "各刷各的，各歇各的。",
@@ -28,9 +28,9 @@
     "firstScreenshotDetail": "到你设的上限，鸭子就拦住这个 App。"
   },
   "zh-Hant": {
-    "name": "Duck on Duty：戒手機",
-    "subtitle": "螢幕使用時間管理，各 App 限時休息",
-    "keywords": "專注,防沉迷,滑手機,數位健康,減少分心,自律",
+    "name": "螢幕使用時間 – Duck on Duty",
+    "subtitle": "戒手機，少滑社群動態，到點休息",
+    "keywords": "專注,防沉迷,滑手機,數位健康,減少分心,自律,應用限制",
     "captions": [
       "社群動態，\n一滑就停不下來？",
       "各自計時，各自休息。",
@@ -42,9 +42,9 @@
     "firstScreenshotDetail": "到了你設的上限，鴨子就會擋住這個 App。"
   },
   "ja": {
-    "name": "Duck on Duty: スマホ制限",
-    "subtitle": "スクリーンタイムをアプリごとに制限",
-    "keywords": "スマホ依存,デジタルデトックス,集中,タイマー",
+    "name": "スマホ制限 – Duck on Duty",
+    "subtitle": "スクリーンタイム管理、アプリごとに休憩",
+    "keywords": "スマホ依存,デジタルデトックス,集中,タイマー,SNS",
     "captions": [
       "SNS、\nつい見続けてしまう？",
       "上限も休憩も、アプリごと。",
@@ -56,9 +56,9 @@
     "firstScreenshotDetail": "決めた時間に達したら、アヒルがアプリをブロック。"
   },
   "ko": {
-    "name": "Duck on Duty: 앱 차단",
-    "subtitle": "스크린타임 줄이고, 앱마다 휴식",
-    "keywords": "스마트폰 중독,집중,타이머,사용시간,디지털 디톡스",
+    "name": "스크린타임 – Duck on Duty",
+    "subtitle": "앱 차단으로 줄이는 SNS 사용 시간",
+    "keywords": "스마트폰중독,집중,타이머,디지털디톡스,휴식",
     "captions": [
       "SNS,\n계속 넘기고 있나요?",
       "앱마다 타이머 하나씩.",
@@ -70,9 +70,9 @@
     "firstScreenshotDetail": "정해 둔 시간이 되면 오리가 앱을 막아줘요."
   },
   "es-ES": {
-    "name": "Duck on Duty: Bloquea apps",
-    "subtitle": "Limita tu tiempo de pantalla",
-    "keywords": "bloquear aplicaciones,concentración,temporizador,redes sociales,descanso,hábitos",
+    "name": "Bloquear aplicaciones – Duck",
+    "subtitle": "Límites de tiempo y descansos",
+    "keywords": "pantalla,concentración,temporizador,redes,sociales,hábitos,pausa",
     "captions": [
       "¿No puedes dejar\nde mirar las redes?",
       "Una app, un contador.",
@@ -84,9 +84,9 @@
     "firstScreenshotDetail": "Al llegar a tu límite, el pato bloquea la app."
   },
   "fr-FR": {
-    "name": "Duck on Duty: Bloqueur d’apps",
-    "subtitle": "Temps d’écran, pauses par app",
-    "keywords": "application,concentration,minuteur,réseaux sociaux,détox,limite,habitude",
+    "name": "Screen Time – Duck on Duty",
+    "subtitle": "Bloqueur d’apps et pauses",
+    "keywords": "application,limite,concentration,minuteur,réseaux,sociaux,détox,habitude",
     "captions": [
       "Impossible de quitter\nles réseaux sociaux ?",
       "À chaque app son compteur.",
@@ -98,9 +98,9 @@
     "firstScreenshotDetail": "À la limite que tu as fixée, le canard bloque l’app."
   },
   "de-DE": {
-    "name": "Duck on Duty: Bildschirmzeit",
-    "subtitle": "App-Limits mit festen Pausen",
-    "keywords": "sperren,fokus,timer,digital detox,handyzeit,konzentration,gewohnheit,scrollen",
+    "name": "App Blocker – Duck on Duty",
+    "subtitle": "Bildschirmzeit, feste Pausen",
+    "keywords": "fokus,timer,scrollen,handyzeit,sperren,digital,detox,limit,gewohnheit",
     "captions": [
       "Social Media:\nDu scrollst immer weiter?",
       "Jede App zählt für sich.",
@@ -112,9 +112,9 @@
     "firstScreenshotDetail": "Ist dein Zeitlimit erreicht, sperrt die Ente die App."
   },
   "it": {
-    "name": "Duck on Duty: Limiti app",
-    "subtitle": "Tempo di utilizzo e pause",
-    "keywords": "blocca,blocco,concentrazione,timer,social,abitudini,detox,schermo",
+    "name": "Tempo di utilizzo – Duck",
+    "subtitle": "Limiti app, pause obbligatorie",
+    "keywords": "concentrazione,timer,digitale,detox,scroll,abitudini,bloccare",
     "captions": [
       "Non riesci a smettere\ndi scorrere i social?",
       "Un timer per ogni app.",
@@ -126,9 +126,9 @@
     "firstScreenshotDetail": "Quando raggiungi il limite, l’anatra blocca l’app."
   },
   "pt-BR": {
-    "name": "Duck on Duty: Tempo de Tela",
-    "subtitle": "Bloqueie apps e faça uma pausa",
-    "keywords": "bloquear aplicativos,foco,limite de uso,redes sociais,temporizador,hábito,descanso",
+    "name": "Tempo de Tela – Duck on Duty",
+    "subtitle": "Bloqueie apps e faça pausas",
+    "keywords": "limite,foco,celular,redes,sociais,digital,detox,cronômetro,hábito",
     "captions": [
       "Não consegue parar\nde rolar o feed?",
       "Cada app tem seu tempo.",
@@ -140,9 +140,9 @@
     "firstScreenshotDetail": "Deu seu tempo nas redes sociais? O pato bloqueia o app."
   },
   "en-GB": {
-    "name": "Stop Scrolling – Duck on Duty",
-    "subtitle": "App Blocker & Screen Time",
-    "keywords": "control,focus,social,media,digital,detox,doomscroll,distraction,break,habit,timer,limit",
+    "name": "App Blocker – Duck on Duty",
+    "subtitle": "Screen Time Control & Focus",
+    "keywords": "scroll,social,media,limit,break,digital,detox,doomscroll,distraction,habit,timer",
     "captions": [
       "Can’t stop scrolling\nsocial media?",
       "Different apps. Different timers.",
@@ -154,9 +154,9 @@
     "firstScreenshotDetail": "The duck blocks the app when you hit your limit."
   },
   "en-AU": {
-    "name": "Stop Scrolling – Duck on Duty",
-    "subtitle": "App Blocker & Screen Time",
-    "keywords": "control,focus,social,media,digital,detox,doomscroll,distraction,break,habit,timer,limit",
+    "name": "App Blocker – Duck on Duty",
+    "subtitle": "Screen Time Control & Focus",
+    "keywords": "scroll,social,media,limit,break,digital,detox,doomscroll,distraction,habit,timer",
     "captions": [
       "Can’t stop scrolling\nsocial media?",
       "Different apps. Different timers.",
@@ -168,9 +168,9 @@
     "firstScreenshotDetail": "The duck blocks the app when you hit your limit."
   },
   "en-CA": {
-    "name": "Stop Scrolling – Duck on Duty",
-    "subtitle": "App Blocker & Screen Time",
-    "keywords": "control,focus,social,media,digital,detox,doomscroll,distraction,break,habit,timer,limit",
+    "name": "App Blocker – Duck on Duty",
+    "subtitle": "Screen Time Control & Focus",
+    "keywords": "scroll,social,media,limit,break,digital,detox,doomscroll,distraction,habit,timer",
     "captions": [
       "Can’t stop scrolling\nsocial media?",
       "Different apps. Different timers.",
@@ -182,9 +182,9 @@
     "firstScreenshotDetail": "The duck blocks the app when you hit your limit."
   },
   "fr-CA": {
-    "name": "Duck on Duty: Temps d’écran",
-    "subtitle": "Bloqueur d’apps, vraies pauses",
-    "keywords": "concentration,minuteur,réseaux sociaux,limite,habitude,détox,téléphone",
+    "name": "App Blocker – Duck on Duty",
+    "subtitle": "Temps d’écran et pauses",
+    "keywords": "application,limite,concentration,minuteur,réseaux,sociaux,détox,habitude",
     "captions": [
       "Impossible de quitter\nles réseaux sociaux ?",
       "À chaque app son compteur.",
@@ -196,9 +196,9 @@
     "firstScreenshotDetail": "À la limite que tu as fixée, le canard bloque l’app."
   },
   "es-MX": {
-    "name": "Duck on Duty: Bloquea apps",
-    "subtitle": "Limita tu tiempo en pantalla",
-    "keywords": "bloquear aplicaciones,concentración,temporizador,redes sociales,descanso,hábitos",
+    "name": "Tiempo en pantalla – Duck",
+    "subtitle": "Bloquear aplicaciones y pausar",
+    "keywords": "límites,concentración,temporizador,redes,sociales,descanso,hábitos",
     "captions": [
       "¿No puedes dejar\nde mirar las redes?",
       "Una app, un contador.",
@@ -210,9 +210,9 @@
     "firstScreenshotDetail": "Al llegar a tu límite, el pato bloquea la app."
   },
   "pt-PT": {
-    "name": "Duck on Duty: Tempo de Ecrã",
-    "subtitle": "Limite apps e faça uma pausa",
-    "keywords": "screen time,blocker,foco,redes sociais,temporizador,descanso,hábito",
+    "name": "Screen Time – Duck on Duty",
+    "subtitle": "Limites de apps e pausas",
+    "keywords": "ecrã,telemóvel,foco,bloquear,redes,sociais,digital,detox,temporizador",
     "captions": [
       "Não consegue parar\nde percorrer o feed?",
       "Cada app tem o seu tempo.",

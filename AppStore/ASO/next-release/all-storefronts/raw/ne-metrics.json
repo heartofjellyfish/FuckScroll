@@ -1,0 +1,13 @@
+{
+  "id": "7b5085af-68cf-42ba-a21f-4b9c6c3a4665",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "Error: Invalid parameters: Unsupported store 'ne'",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}

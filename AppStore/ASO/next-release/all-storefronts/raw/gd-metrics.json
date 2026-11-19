@@ -1,0 +1,13 @@
+{
+  "id": "4d94f3d5-4ccb-4492-ad36-ede7e6f7162b",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "Error: Invalid parameters: Unsupported store 'gd'",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}

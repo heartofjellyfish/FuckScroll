@@ -1,0 +1,20 @@
+{
+  "iso3": "SWZ",
+  "store": "sz",
+  "country": "Eswatini",
+  "defaultLanguage": "English (U.K.)",
+  "additionalLanguages": "",
+  "seeds": [
+    "app blocker",
+    "screen time",
+    "screen time control",
+    "scroll blocker",
+    "stop scrolling"
+  ],
+  "endpoint": "http://127.0.0.1:8089/mcp",
+  "keywords": [],
+  "selectedKeyword": null,
+  "selectionRule": "low-data market; relevance-first provisional, not a proven sweet spot",
+  "status": "data-unavailable",
+  "error": "No measurable keyword data returned"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "21ff7baf-cfe7-478f-bee7-56a556823bf4",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "Error: Invalid parameters: Unsupported store 'bw'",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}

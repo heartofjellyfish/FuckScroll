@@ -1,0 +1,13 @@
+{
+  "id": "9d106bcc-a80d-48e2-9681-cc62a9311a4a",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "Error: Invalid parameters: Unsupported store 'by'",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}

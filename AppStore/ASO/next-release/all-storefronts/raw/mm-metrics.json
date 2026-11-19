@@ -1,0 +1,13 @@
+{
+  "id": "c5f1e9be-ffcc-4ba4-9217-4ebfd61c6557",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "Error: Invalid parameters: Unsupported store 'mm'",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}

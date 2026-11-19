@@ -1,0 +1,13 @@
+{
+  "id": "723b680b-0642-407c-976a-a1c122d41e1b",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "Error: Invalid parameters: Unsupported store 'tm'",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}

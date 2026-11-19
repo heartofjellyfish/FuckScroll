@@ -1,0 +1,13 @@
+{
+  "id": "e2c81cfe-c3f9-4684-9d1b-86f9d0bc57ab",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "Error: Invalid parameters: Unsupported store 'me'",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}

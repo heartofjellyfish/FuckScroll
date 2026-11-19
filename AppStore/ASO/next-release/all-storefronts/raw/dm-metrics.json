@@ -1,0 +1,13 @@
+{
+  "id": "45ac6f82-65ae-4f05-932f-6639f9fcab1f",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "Error: Invalid parameters: Unsupported store 'dm'",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}

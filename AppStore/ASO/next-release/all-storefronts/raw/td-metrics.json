@@ -1,0 +1,13 @@
+{
+  "id": "e9fa9ecc-13fd-4add-bdec-d5f0d54db22b",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "Error: Invalid parameters: Unsupported store 'td'",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}

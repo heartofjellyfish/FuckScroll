@@ -1,0 +1,13 @@
+{
+  "id": "7ff340ed-2f12-4620-9a7d-1b785f003bd4",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "Error: Invalid parameters: Unsupported store 'ml'",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}

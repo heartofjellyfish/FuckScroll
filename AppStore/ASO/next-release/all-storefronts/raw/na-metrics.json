@@ -1,0 +1,13 @@
+{
+  "id": "93c3173c-79eb-4d9c-bd83-ecbe8910194b",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "Error: Invalid parameters: Unsupported store 'na'",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}

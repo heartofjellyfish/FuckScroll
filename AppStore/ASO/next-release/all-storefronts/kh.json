@@ -1,0 +1,125 @@
+{
+  "iso3": "KHM",
+  "store": "kh",
+  "country": "Cambodia",
+  "defaultLanguage": "English (U.K.)",
+  "additionalLanguages": "French",
+  "seeds": [
+    "app blocker",
+    "screen time",
+    "screen time control",
+    "scroll blocker",
+    "stop scrolling"
+  ],
+  "endpoint": "http://127.0.0.1:8089/mcp",
+  "keywords": [
+    {
+      "difficulty": 13,
+      "keyword": "app blocker",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 5,
+      "keyword": "screen time",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 7,
+      "keyword": "screen time control",
+      "popularity": 27,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 15,
+      "keyword": "scroll blocker",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 5,
+      "keyword": "stop scrolling",
+      "popularity": 5,
+      "ranking": 41,
+      "skipped": false,
+      "success": true
+    }
+  ],
+  "selectedKeyword": {
+    "difficulty": 7,
+    "keyword": "screen time control",
+    "popularity": 27,
+    "skipped": false,
+    "success": true
+  },
+  "selectionRule": "sweet-spot heuristic: popularity≥25, difficulty≤35, relevance≥4",
+  "top5": [
+    {
+      "appStoreId": "1672817168",
+      "averageRating": 0,
+      "bundleId": "com.tr.hideapps",
+      "developer": "Huong Nguyen",
+      "genre": "Lifestyle",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f5/36/8c/f5368c16-c0d0-6a59-d8b3-83cf2d824cd6/AppIcon-1x_U007emarketing-0-10-0-85-220.png/80x0w.webp",
+      "name": "LockIt - Parental control app",
+      "ranking": 1,
+      "ratingCount": 0,
+      "subtitle": "Privacy & Screen time control"
+    },
+    {
+      "appStoreId": "6446263551",
+      "averageRating": 0,
+      "bundleId": "com.magicplugin.offscreen.mask.ios",
+      "developer": "文 熊",
+      "genre": "Productivity",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/33/f1/c8/33f1c815-0b26-18c6-9651-3210442d5c4e/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/80x0w.webp",
+      "name": "XLocker - Screen Time Limit",
+      "ranking": 2,
+      "ratingCount": 0,
+      "subtitle": "Hide Secret Photos & Videos"
+    },
+    {
+      "appStoreId": "6502186144",
+      "averageRating": 5,
+      "bundleId": "com.screentimecalendar",
+      "developer": "Screen Time Control LLC",
+      "genre": "Productivity",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/70/ca/2e70caf3-979b-cf0f-ca8f-2f6666f984ad/AppIcon-0-0-1x_U007epad-0-1-0-85-220.jpeg/80x0w.webp",
+      "name": "Screen Time Control-AppBlocker",
+      "ranking": 3,
+      "ratingCount": 2,
+      "subtitle": "Control & Block Social Media"
+    },
+    {
+      "appStoreId": "1569973513",
+      "averageRating": 4.5,
+      "bundleId": "co.appnation.applocker",
+      "developer": "Muhammet Yalcın Ozdemir Halil Ibrahim Karahan Mustafa Ayten Kupertino Bilisim Yazılım K.S",
+      "genre": "Utilities",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/f1/30/13f13020-f19a-ed43-4b6d-8d40c9f99899/AppIcon-0-0-1x_U007epad-0-1-85-220.jpeg/80x0w.webp",
+      "name": "App Lock - Lock Apps & Photos",
+      "ranking": 4,
+      "ratingCount": 382,
+      "subtitle": "Password for Apps & App Locker"
+    },
+    {
+      "appStoreId": "6758152591",
+      "averageRating": 0,
+      "bundleId": "com.lilucat.screentimecontrolapp",
+      "developer": "Lilucat",
+      "genre": "Productivity",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/9d/0e/b2/9d0eb206-0045-29b3-2190-5acf23f6feb7/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/80x0w.webp",
+      "name": "Screen Time Control App",
+      "ranking": 5,
+      "ratingCount": 0,
+      "subtitle": "App Lock, Limit for Focus"
+    }
+  ],
+  "yourAppRanking": null,
+  "status": "completed"
+}

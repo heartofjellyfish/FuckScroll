@@ -1,0 +1,13 @@
+{
+  "id": "6d8a341a-1ace-40f4-8845-17e9a02336cf",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "Error: Invalid parameters: Unsupported store 'bz'",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}

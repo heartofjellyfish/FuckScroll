@@ -1,0 +1,136 @@
+{
+  "iso3": "KOR",
+  "store": "kr",
+  "country": "Republic of Korea",
+  "defaultLanguage": "Korean",
+  "additionalLanguages": "English (U.K.)",
+  "seeds": [
+    "스크린타임",
+    "앱차단",
+    "사용시간 제한",
+    "디지털 디톡스"
+  ],
+  "endpoint": "http://127.0.0.1:8089/mcp",
+  "keywords": [
+    {
+      "appsCount": 249,
+      "currentRanking": 1000,
+      "difficulty": 45,
+      "keyword": "스크린타임",
+      "lastUpdate": "2026-11-19T01:31:26Z",
+      "popularity": 57,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "kr"
+    },
+    {
+      "appsCount": 249,
+      "currentRanking": 1000,
+      "difficulty": 23,
+      "keyword": "앱차단",
+      "lastUpdate": "2026-11-19T01:31:26Z",
+      "popularity": 31,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "kr"
+    },
+    {
+      "appsCount": 244,
+      "currentRanking": 1000,
+      "difficulty": 37,
+      "keyword": "사용시간 제한",
+      "lastUpdate": "2026-11-19T01:31:26Z",
+      "popularity": 23,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "kr"
+    },
+    {
+      "appsCount": 249,
+      "currentRanking": 1000,
+      "difficulty": 40,
+      "keyword": "디지털 디톡스",
+      "lastUpdate": "2026-11-19T01:31:26Z",
+      "popularity": 38,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "kr"
+    }
+  ],
+  "selectedKeyword": {
+    "appsCount": 249,
+    "currentRanking": 1000,
+    "difficulty": 23,
+    "keyword": "앱차단",
+    "lastUpdate": "2026-11-19T01:31:26Z",
+    "popularity": 31,
+    "previousRanking": 1000,
+    "rankingChange": 0,
+    "store": "kr"
+  },
+  "selectionRule": "sweet-spot heuristic: popularity≥25, difficulty≤35, relevance≥4",
+  "top5": [
+    {
+      "appStoreId": "6449270376",
+      "averageRating": 4.1,
+      "bundleId": "com.turning.app",
+      "developer": "HUSTLERS Corp",
+      "genre": "생산성",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/2d/81/34/2d81349f-d42b-7f0b-7f5f-a7620af692e5/AppIcon-0-0-1x_U007epad-0-1-85-220.png/80x0w.webp",
+      "name": "터닝: 앱 잠금, 폰 잠금, 앱 차단, 공부 타이머",
+      "ranking": 1,
+      "ratingCount": 3731,
+      "subtitle": "스크린타임 줄이고 집중, 스마트폰 중독 끊기"
+    },
+    {
+      "appStoreId": "6504188981",
+      "averageRating": 4.6,
+      "bundleId": "pony.tothemoon.Cold.Turkey",
+      "developer": "OnOff Labs",
+      "genre": "생산성",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c4/da/49/c4da498c-98be-3e38-fab1-acbdf1780469/AppIcon-0-0-1x_U007epad-0-1-85-220.png/80x0w.webp",
+      "name": "잠글시간: 앱 잠금, 앱 차단, 공부 타이머",
+      "ranking": 2,
+      "ratingCount": 6023,
+      "subtitle": "집중 공부 타이머,스크린타임,앱 차단,공부,열품타"
+    },
+    {
+      "appStoreId": "6477859494",
+      "averageRating": 4.6,
+      "bundleId": "com.mir.lock-chest",
+      "developer": "Gridus Co.",
+      "genre": "생산성",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9e/ec/08/9eec08b3-b4b4-77ed-7043-81a57f18f2ef/AppIcon-0-0-1x_U007epad-0-1-85-220.png/80x0w.webp",
+      "name": "앱 차단, 앱 잠금, 웹사이트 차단: 락체스트",
+      "ranking": 3,
+      "ratingCount": 1143,
+      "subtitle": "휴대폰 잠금, 앱 시간제한, 스크린타임 제한, 중독"
+    },
+    {
+      "appStoreId": "1668971820",
+      "averageRating": 4.2,
+      "bundleId": "studio.woollim.Keep",
+      "developer": "Pacifiq",
+      "genre": "생산성",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/69/1d/17691d68-7fbd-005f-6da8-7bf3048b8917/AppIcon-0-0-1x_U007epad-0-1-85-220.png/80x0w.webp",
+      "name": "지키자: 앱 차단, 스크린타임, 공부 집중 타이머",
+      "ranking": 4,
+      "ratingCount": 1163,
+      "subtitle": "핸드폰 잠금·중독 방지, 디지털 디톡스, 루틴"
+    },
+    {
+      "appStoreId": "6792533301",
+      "averageRating": 4.4,
+      "bundleId": "com.jinjjaro.app",
+      "developer": "taeyun lee",
+      "genre": "라이프스타일",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/78/11/c0781181-d8fb-5aef-d8fe-bcc3707b3fb6/AppIcon-0-0-1x_U007epad-0-1-85-220.png/80x0w.webp",
+      "name": "진짜로? - 스크린타임 앱차단",
+      "ranking": 5,
+      "ratingCount": 33,
+      "subtitle": "인스타 유튜브 중독 끊기, 공부 집중"
+    }
+  ],
+  "yourAppRanking": null,
+  "status": "completed"
+}

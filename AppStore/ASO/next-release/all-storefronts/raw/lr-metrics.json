@@ -1,0 +1,13 @@
+{
+  "id": "8b7e070b-68bd-403b-b58e-266dce87a0ab",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "Error: Invalid parameters: Unsupported store 'lr'",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}

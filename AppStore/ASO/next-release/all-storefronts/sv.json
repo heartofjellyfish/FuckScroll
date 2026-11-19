@@ -1,0 +1,116 @@
+{
+  "iso3": "SLV",
+  "store": "sv",
+  "country": "El Salvador",
+  "defaultLanguage": "Spanish (Mexico)",
+  "additionalLanguages": "English (U.K.)",
+  "seeds": [
+    "bloquear aplicaciones",
+    "tiempo en pantalla",
+    "tiempo de pantalla",
+    "limitar apps"
+  ],
+  "endpoint": "http://127.0.0.1:8089/mcp",
+  "keywords": [
+    {
+      "difficulty": 7,
+      "keyword": "bloquear aplicaciones",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 9,
+      "keyword": "tiempo en pantalla",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 5,
+      "keyword": "tiempo de pantalla",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    },
+    {
+      "difficulty": 19,
+      "keyword": "limitar apps",
+      "popularity": 5,
+      "skipped": false,
+      "success": true
+    }
+  ],
+  "selectedKeyword": {
+    "difficulty": 5,
+    "keyword": "tiempo de pantalla",
+    "popularity": 5,
+    "skipped": false,
+    "success": true
+  },
+  "selectionRule": "low-data market; relevance-first provisional, not a proven sweet spot",
+  "top5": [
+    {
+      "appStoreId": "1497465230",
+      "averageRating": 4.8,
+      "bundleId": "com.withopal.opal",
+      "developer": "Opal OS",
+      "genre": "Productividad",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/49/82/784982f1-f983-4980-1fac-0d542c970db8/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/80x0w.webp",
+      "name": "Opal: Tiempo de Pantalla Focus",
+      "ranking": 1,
+      "ratingCount": 76,
+      "subtitle": "Productividad y Concentración"
+    },
+    {
+      "appStoreId": "6451370747",
+      "averageRating": 0,
+      "bundleId": "app.screentime.unplugged",
+      "developer": "SmartDaddy",
+      "genre": "Salud y fitness",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7b/3f/ee/7b3fee0e-5154-1d8b-28e0-fef9b471459f/AppIcon-0-0-1x_U007epad-0-0-85-220.png/80x0w.webp",
+      "name": "Tiempo de Pantalla: Unplugged",
+      "ranking": 2,
+      "ratingCount": 0,
+      "subtitle": "Bloqueo de Aplicaciones"
+    },
+    {
+      "appStoreId": "1532875441",
+      "averageRating": 4.8,
+      "bundleId": "wtf.riedel.one-sec",
+      "developer": "riedel.wtf apps S.L.",
+      "genre": "Productividad",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/f1/83/faf18373-f0af-4b1d-2625-e47565d9ff05/one_sec_Default_App_Icon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/80x0w.webp",
+      "name": "one sec—tiempo pantalla y foco",
+      "ranking": 3,
+      "ratingCount": 40,
+      "subtitle": "Limitar apps y websites"
+    },
+    {
+      "appStoreId": "1609960918",
+      "averageRating": 0,
+      "bundleId": "com.jomo.Jomo",
+      "developer": "Jomo",
+      "genre": "Productividad",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/9a/11/239a118e-7e7d-2178-714b-9fd591550394/AppIcon-0-0-1x_U007epad-0-9-0-85-220.png/80x0w.webp",
+      "name": "Jomo - Reducir Tiempo Pantalla",
+      "ranking": 4,
+      "ratingCount": 0,
+      "subtitle": "Superar la Adicción al Móvil"
+    },
+    {
+      "appStoreId": "6761646436",
+      "averageRating": 0,
+      "bundleId": "com.hrynchuk.flari",
+      "developer": "Tymofii Hrynchuk",
+      "genre": "Productividad",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4e/b7/b6/4eb7b6e6-19cc-c379-0138-2b23eca480f1/Flari-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/80x0w.webp",
+      "name": "Tiempo de Pantalla - Flari",
+      "ranking": 5,
+      "ratingCount": 0,
+      "subtitle": "Bloqueador de Apps & Enfoque"
+    }
+  ],
+  "yourAppRanking": null,
+  "status": "completed"
+}

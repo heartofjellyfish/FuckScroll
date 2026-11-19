@@ -1,0 +1,13 @@
+{
+  "id": "ddd3ec12-e085-4b2f-9ccf-62d4e7a82a22",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "Error: Invalid parameters: Unsupported store 'mu'",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}

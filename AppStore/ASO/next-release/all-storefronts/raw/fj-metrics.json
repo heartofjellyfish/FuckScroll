@@ -1,0 +1,13 @@
+{
+  "id": "5109b27f-7d8b-4aeb-8f67-95f89b2a4903",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "Error: Invalid parameters: Unsupported store 'fj'",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}

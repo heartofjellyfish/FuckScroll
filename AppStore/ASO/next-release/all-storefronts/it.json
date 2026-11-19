@@ -1,0 +1,132 @@
+{
+  "iso3": "ITA",
+  "store": "it",
+  "country": "Italy",
+  "defaultLanguage": "Italian",
+  "additionalLanguages": "English (U.K.)",
+  "seeds": [
+    "tempo di utilizzo",
+    "blocco app",
+    "blocca app",
+    "app blocker"
+  ],
+  "endpoint": "http://127.0.0.1:8089/mcp",
+  "keywords": [
+    {
+      "appsCount": 236,
+      "currentRanking": 1000,
+      "difficulty": 21,
+      "keyword": "tempo di utilizzo",
+      "lastUpdate": "2026-11-19T01:31:37Z",
+      "popularity": 37,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "it"
+    },
+    {
+      "appsCount": 231,
+      "currentRanking": 1000,
+      "difficulty": 23,
+      "keyword": "blocco app",
+      "lastUpdate": "2026-11-19T01:31:37Z",
+      "popularity": 47,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "it"
+    },
+    {
+      "appsCount": 235,
+      "currentRanking": 1000,
+      "difficulty": 38,
+      "keyword": "blocca app",
+      "lastUpdate": "2026-11-19T01:31:37Z",
+      "popularity": 16,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "it"
+    },
+    {
+      "difficulty": 42,
+      "keyword": "app blocker",
+      "popularity": 31,
+      "skipped": false,
+      "success": true
+    }
+  ],
+  "selectedKeyword": {
+    "appsCount": 236,
+    "currentRanking": 1000,
+    "difficulty": 21,
+    "keyword": "tempo di utilizzo",
+    "lastUpdate": "2026-11-19T01:31:37Z",
+    "popularity": 37,
+    "previousRanking": 1000,
+    "rankingChange": 0,
+    "store": "it"
+  },
+  "selectionRule": "sweet-spot heuristic: popularity≥25, difficulty≤35, relevance≥4",
+  "top5": [
+    {
+      "appStoreId": "6479197847",
+      "averageRating": 3.7,
+      "bundleId": "com.danyloternovoi.chronos",
+      "developer": "Danylo Ternovoi",
+      "genre": "Produttività",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4c/2f/de/4c2fdefa-7e0b-e519-f4cb-d0f5668a7e2a/AppIcon-0-0-1x_U007epad-0-1-85-220.png/80x0w.webp",
+      "name": "Tempozi: Tempo di Utilizzo",
+      "ranking": 1,
+      "ratingCount": 31,
+      "subtitle": "Blocco App e Siti, Detox"
+    },
+    {
+      "appStoreId": "1497465230",
+      "averageRating": 4.6,
+      "bundleId": "com.withopal.opal",
+      "developer": "Opal OS",
+      "genre": "Produttività",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/49/82/784982f1-f983-4980-1fac-0d542c970db8/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/80x0w.webp",
+      "name": "Opal:Tempo sullo schermo Focus",
+      "ranking": 2,
+      "ratingCount": 2916,
+      "subtitle": "Più concentrato e produttivo"
+    },
+    {
+      "appStoreId": "6749958149",
+      "averageRating": 0,
+      "bundleId": "com.screentime.contr.app",
+      "developer": "Virginijus Makauskas",
+      "genre": "Produttività",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c0/1d/b9/c01db9d5-4e79-392d-4525-96f0a9cd44c7/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.jpeg/80x0w.webp",
+      "name": "Screen Time Control: App Lock",
+      "ranking": 3,
+      "ratingCount": 0,
+      "subtitle": "Tempo di Utilizzo Tuo Schermo"
+    },
+    {
+      "appStoreId": "1150085200",
+      "averageRating": 4.5,
+      "bundleId": "com.google.FamilyLink",
+      "developer": "Google",
+      "genre": "Utility",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a8/49/d3/a849d32b-4029-9c46-c1e3-b8d9c3ed863c/logo_family_link_color-0-0-1x_U007emarketing-0-0-0-7-0-0-0-85-220.png/80x0w.webp",
+      "name": "Google Family Link",
+      "ranking": 4,
+      "ratingCount": 52194,
+      "subtitle": "App di controllo genitori"
+    },
+    {
+      "appStoreId": "1515753232",
+      "averageRating": 4.6,
+      "bundleId": "eu.mobilesoft.appblock",
+      "developer": "MobileSoft s.r.o.",
+      "genre": "Produttività",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/9c/5a/d7/9c5ad7ef-7122-af9e-baa4-4f35d377ef16/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/80x0w.webp",
+      "name": "AppBlock: Blocco app e siti",
+      "ranking": 5,
+      "ratingCount": 821,
+      "subtitle": "Tempo di utilizzo schermo"
+    }
+  ],
+  "yourAppRanking": null,
+  "status": "completed"
+}

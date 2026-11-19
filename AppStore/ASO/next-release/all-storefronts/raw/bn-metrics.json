@@ -1,0 +1,13 @@
+{
+  "id": "bfab2c95-f5e5-4fb0-afdb-e0c7421ad91a",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "Error: Invalid parameters: Unsupported store 'bn'",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}

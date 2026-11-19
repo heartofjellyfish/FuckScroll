@@ -1,0 +1,13 @@
+{
+  "id": "6aa6d48c-0261-488b-a1cd-49636a921aed",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "Error: Invalid parameters: Unsupported store 'lc'",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}

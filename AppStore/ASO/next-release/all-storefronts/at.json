@@ -1,0 +1,136 @@
+{
+  "iso3": "AUT",
+  "store": "at",
+  "country": "Austria",
+  "defaultLanguage": "German",
+  "additionalLanguages": "English (U.K.)",
+  "seeds": [
+    "app blocker",
+    "bildschirmzeit",
+    "apps sperren",
+    "digital detox"
+  ],
+  "endpoint": "http://127.0.0.1:8089/mcp",
+  "keywords": [
+    {
+      "appsCount": 233,
+      "currentRanking": 1000,
+      "difficulty": 23,
+      "keyword": "app blocker",
+      "lastUpdate": "2026-11-19T01:31:34Z",
+      "popularity": 44,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "at"
+    },
+    {
+      "appsCount": 241,
+      "currentRanking": 1000,
+      "difficulty": 19,
+      "keyword": "bildschirmzeit",
+      "lastUpdate": "2026-11-19T01:31:34Z",
+      "popularity": 44,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "at"
+    },
+    {
+      "appsCount": 229,
+      "currentRanking": 1000,
+      "difficulty": 19,
+      "keyword": "apps sperren",
+      "lastUpdate": "2026-11-19T01:31:34Z",
+      "popularity": 5,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "at"
+    },
+    {
+      "appsCount": 237,
+      "currentRanking": 1000,
+      "difficulty": 19,
+      "keyword": "digital detox",
+      "lastUpdate": "2026-11-19T01:31:34Z",
+      "popularity": 5,
+      "previousRanking": 1000,
+      "rankingChange": 0,
+      "store": "at"
+    }
+  ],
+  "selectedKeyword": {
+    "appsCount": 241,
+    "currentRanking": 1000,
+    "difficulty": 19,
+    "keyword": "bildschirmzeit",
+    "lastUpdate": "2026-11-19T01:31:34Z",
+    "popularity": 44,
+    "previousRanking": 1000,
+    "rankingChange": 0,
+    "store": "at"
+  },
+  "selectionRule": "sweet-spot heuristic: popularity≥25, difficulty≤35, relevance≥4",
+  "top5": [
+    {
+      "appStoreId": "6473087772",
+      "averageRating": 4.9,
+      "bundleId": "net.29apps.limit",
+      "developer": "Samet Macit",
+      "genre": "Produktivität",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d4/5c/79/d45c7933-5f00-5bc5-bf52-a242c7ab94eb/AppIcon-0-0-1x_U007epad-0-1-85-220.png/80x0w.webp",
+      "name": "Limit: Wenig Bildschirmzeit",
+      "ranking": 1,
+      "ratingCount": 9,
+      "subtitle": "Block apps, stay focused"
+    },
+    {
+      "appStoreId": "1497465230",
+      "averageRating": 4.7,
+      "bundleId": "com.withopal.opal",
+      "developer": "Opal OS",
+      "genre": "Produktivität",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/78/49/82/784982f1-f983-4980-1fac-0d542c970db8/AppIcon-0-0-1x_U007ephone-0-0-0-1-0-85-220.png/80x0w.webp",
+      "name": "Opal: Wenig Bildschirmzeit",
+      "ranking": 2,
+      "ratingCount": 683,
+      "subtitle": "Fokus, Website Limit & Blocker"
+    },
+    {
+      "appStoreId": "1541027222",
+      "averageRating": 4.8,
+      "bundleId": "com.scottharvey.screenzenapp.ios",
+      "developer": "ScreenZen LLC",
+      "genre": "Produktivität",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/c8/de/89c8deef-2a7e-5abf-c5ec-ac3ffa343494/AppIcon-0-0-1x_U007emarketing-0-11-0-sRGB-85-220.png/80x0w.webp",
+      "name": "ScreenZen- Screen Time Control",
+      "ranking": 3,
+      "ratingCount": 976,
+      "subtitle": "App-Blocker, Bildschirmzeit"
+    },
+    {
+      "appStoreId": "1532875441",
+      "averageRating": 4.8,
+      "bundleId": "wtf.riedel.one-sec",
+      "developer": "riedel.wtf apps S.L.",
+      "genre": "Produktivität",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fa/f1/83/faf18373-f0af-4b1d-2625-e47565d9ff05/one_sec_Default_App_Icon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-85-220.png/80x0w.webp",
+      "name": "one sec | App Zeitlimit Sperre",
+      "ranking": 4,
+      "ratingCount": 1356,
+      "subtitle": "Bildschirmzeit, Website Block"
+    },
+    {
+      "appStoreId": "1609960918",
+      "averageRating": 4.7,
+      "bundleId": "com.jomo.Jomo",
+      "developer": "Jomo",
+      "genre": "Produktivität",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/23/9a/11/239a118e-7e7d-2178-714b-9fd591550394/AppIcon-0-0-1x_U007epad-0-9-0-85-220.png/80x0w.webp",
+      "name": "Jomo - Weniger Bildschirmzeit",
+      "ranking": 5,
+      "ratingCount": 77,
+      "subtitle": "Handysucht bekämpfen"
+    }
+  ],
+  "yourAppRanking": null,
+  "status": "completed"
+}

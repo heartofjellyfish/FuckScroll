@@ -1,0 +1,13 @@
+{
+  "id": "a6d986ae-09d1-454a-a906-d1d7bbe125b7",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "Error: Invalid parameters: Unsupported store 'sn'",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "2e36a70e-6060-4c6d-b0a2-f2aabb1a14fd",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "Error: Invalid parameters: Unsupported store 'st'",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "621b1ff3-a1bf-4e4d-9c0b-ad84cde5a06c",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "Error: Invalid parameters: Unsupported store 'pw'",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}

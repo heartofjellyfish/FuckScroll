@@ -1,0 +1,13 @@
+{
+  "id": "66a862eb-af9b-4662-b031-bdac331422a3",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "Error: Invalid parameters: Unsupported store 'cv'",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}

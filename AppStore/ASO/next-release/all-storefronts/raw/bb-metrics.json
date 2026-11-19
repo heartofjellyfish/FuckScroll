@@ -1,0 +1,13 @@
+{
+  "id": "ca7d797b-2637-41b7-91ab-5f25401781f2",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "Error: Invalid parameters: Unsupported store 'bb'",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}

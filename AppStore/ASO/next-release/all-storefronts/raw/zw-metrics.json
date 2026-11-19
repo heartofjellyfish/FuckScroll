@@ -1,0 +1,13 @@
+{
+  "id": "e1881c97-9bca-4db7-bc86-d3114827d15e",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "Error: Invalid parameters: Unsupported store 'zw'",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}

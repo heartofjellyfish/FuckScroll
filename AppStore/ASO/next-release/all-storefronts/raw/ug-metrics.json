@@ -1,0 +1,13 @@
+{
+  "id": "36413910-ba39-4003-b787-ab1b3050420b",
+  "jsonrpc": "2.0",
+  "result": {
+    "content": [
+      {
+        "text": "Error: Invalid parameters: Unsupported store 'ug'",
+        "type": "text"
+      }
+    ],
+    "isError": true
+  }
+}
