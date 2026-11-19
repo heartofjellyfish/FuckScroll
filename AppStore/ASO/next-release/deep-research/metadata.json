@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-11-19T06:50:20.935545+00:00",
-  "state": "Draft only; no Apple writes or name reservation.",
-  "scope": "Existing 16 complete listings receive only name/subtitle/keyword edits. Additional locales are three-field drafts, not claims of translated UI or complete store assets.",
+  "generatedAt": "2026-11-19T08:27:03.724551+00:00",
+  "state": "Owner approved and submitted to Apple; awaiting App Review, not yet live.",
+  "scope": "40 store metadata localizations submitted with 1.1 / Build 74; 10 in-app UI languages. Added store locales use localized descriptions and primary-language screenshot fallback.",
   "localizations": {
     "en-US": {
       "name": "App Blocker – Duck on Duty",
@@ -26,8 +26,8 @@
         "subtitle": 27,
         "keywords": 100
       },
-      "scope": "同步已有完整物料",
-      "reviewState": "Prepared draft; language and brand review required before publishing. No registration/trademark clearance."
+      "scope": "商店三字段已提交审核；未新增 App 内语言。实际保存内容见 publication/apple-readback.json",
+      "reviewState": "Owner approved 2026-11-19; submitted to App Review with 1.1 / Build 74. Not yet approved or live."
     },
     "en-GB": {
       "name": "App Blocker – Duck on Duty",
@@ -84,8 +84,8 @@
         "subtitle": 27,
         "keywords": 99
       },
-      "scope": "同步已有完整物料",
-      "reviewState": "Prepared draft; language and brand review required before publishing. No registration/trademark clearance."
+      "scope": "商店三字段已提交审核；未新增 App 内语言。实际保存内容见 publication/apple-readback.json",
+      "reviewState": "Owner approved 2026-11-19; submitted to App Review with 1.1 / Build 74. Not yet approved or live."
     },
     "en-AU": {
       "name": "App Blocker – Duck on Duty",
@@ -118,8 +118,8 @@
         "subtitle": 26,
         "keywords": 96
       },
-      "scope": "同步已有完整物料",
-      "reviewState": "Prepared draft; language and brand review required before publishing. No registration/trademark clearance."
+      "scope": "商店三字段已提交审核；未新增 App 内语言。实际保存内容见 publication/apple-readback.json",
+      "reviewState": "Owner approved 2026-11-19; submitted to App Review with 1.1 / Build 74. Not yet approved or live."
     },
     "en-CA": {
       "name": "App Blocker – Duck on Duty",
@@ -144,8 +144,8 @@
         "subtitle": 27,
         "keywords": 99
       },
-      "scope": "同步已有完整物料",
-      "reviewState": "Prepared draft; language and brand review required before publishing. No registration/trademark clearance."
+      "scope": "商店三字段已提交审核；未新增 App 内语言。实际保存内容见 publication/apple-readback.json",
+      "reviewState": "Owner approved 2026-11-19; submitted to App Review with 1.1 / Build 74. Not yet approved or live."
     },
     "zh-Hans": {
       "name": "自觉鸭：戒手机与屏幕使用时间",
@@ -186,8 +186,8 @@
         "subtitle": 16,
         "keywords": 85
       },
-      "scope": "同步已有完整物料",
-      "reviewState": "Prepared draft; language and brand review required before publishing. No registration/trademark clearance."
+      "scope": "商店三字段已提交审核；未新增 App 内语言。实际保存内容见 publication/apple-readback.json",
+      "reviewState": "Owner approved 2026-11-19; submitted to App Review with 1.1 / Build 74. Not yet approved or live."
     },
     "zh-Hant": {
       "name": "自覺鴨：戒手機與螢幕使用時間",
@@ -228,8 +228,8 @@
         "subtitle": 16,
         "keywords": 68
       },
-      "scope": "同步已有完整物料",
-      "reviewState": "Prepared draft; language and brand review required before publishing. No registration/trademark clearance."
+      "scope": "商店三字段已提交审核；未新增 App 内语言。实际保存内容见 publication/apple-readback.json",
+      "reviewState": "Owner approved 2026-11-19; submitted to App Review with 1.1 / Build 74. Not yet approved or live."
     },
     "ja": {
       "name": "スマホ制限 – みてるアヒル",
@@ -276,8 +276,8 @@
         "subtitle": 19,
         "keywords": 99
       },
-      "scope": "同步已有完整物料",
-      "reviewState": "Prepared draft; language and brand review required before publishing. No registration/trademark clearance."
+      "scope": "商店三字段已提交审核；未新增 App 内语言。实际保存内容见 publication/apple-readback.json",
+      "reviewState": "Owner approved 2026-11-19; submitted to App Review with 1.1 / Build 74. Not yet approved or live."
     },
     "ko": {
       "name": "스크린타임 – 지켜보는 오리",
@@ -302,8 +302,8 @@
         "subtitle": 20,
         "keywords": 64
       },
-      "scope": "同步已有完整物料",
-      "reviewState": "Prepared draft; language and brand review required before publishing. No registration/trademark clearance."
+      "scope": "商店三字段已提交审核；未新增 App 内语言。实际保存内容见 publication/apple-readback.json",
+      "reviewState": "Owner approved 2026-11-19; submitted to App Review with 1.1 / Build 74. Not yet approved or live."
     },
     "fr-FR": {
       "name": "Screen Time – Canard de garde",
@@ -368,8 +368,8 @@
         "subtitle": 30,
         "keywords": 76
       },
-      "scope": "同步已有完整物料",
-      "reviewState": "Prepared draft; language and brand review required before publishing. No registration/trademark clearance."
+      "scope": "商店三字段已提交审核；未新增 App 内语言。实际保存内容见 publication/apple-readback.json",
+      "reviewState": "Owner approved 2026-11-19; submitted to App Review with 1.1 / Build 74. Not yet approved or live."
     },
     "fr-CA": {
       "name": "App Blocker – Canard de garde",
@@ -421,8 +421,8 @@
         "subtitle": 30,
         "keywords": 93
       },
-      "scope": "同步已有完整物料",
-      "reviewState": "Prepared draft; language and brand review required before publishing. No registration/trademark clearance."
+      "scope": "商店三字段已提交审核；未新增 App 内语言。实际保存内容见 publication/apple-readback.json",
+      "reviewState": "Owner approved 2026-11-19; submitted to App Review with 1.1 / Build 74. Not yet approved or live."
     },
     "de-DE": {
       "name": "App Blocker – Ente im Dienst",
@@ -491,8 +491,8 @@
         "subtitle": 28,
         "keywords": 89
       },
-      "scope": "同步已有完整物料",
-      "reviewState": "Prepared draft; language and brand review required before publishing. No registration/trademark clearance."
+      "scope": "商店三字段已提交审核；未新增 App 内语言。实际保存内容见 publication/apple-readback.json",
+      "reviewState": "Owner approved 2026-11-19; submitted to App Review with 1.1 / Build 74. Not yet approved or live."
     },
     "es-ES": {
       "name": "Bloquear aplicaciones – Pato",
@@ -537,8 +537,8 @@
         "subtitle": 30,
         "keywords": 89
       },
-      "scope": "同步已有完整物料",
-      "reviewState": "Prepared draft; language and brand review required before publishing. No registration/trademark clearance."
+      "scope": "商店三字段已提交审核；未新增 App 内语言。实际保存内容见 publication/apple-readback.json",
+      "reviewState": "Owner approved 2026-11-19; submitted to App Review with 1.1 / Build 74. Not yet approved or live."
     },
     "es-MX": {
       "name": "Tiempo en pantalla – Pato",
@@ -607,8 +607,8 @@
         "subtitle": 30,
         "keywords": 92
       },
-      "scope": "同步已有完整物料",
-      "reviewState": "Prepared draft; language and brand review required before publishing. No registration/trademark clearance."
+      "scope": "商店三字段已提交审核；未新增 App 内语言。实际保存内容见 publication/apple-readback.json",
+      "reviewState": "Owner approved 2026-11-19; submitted to App Review with 1.1 / Build 74. Not yet approved or live."
     },
     "it": {
       "name": "Tempo di utilizzo – Papero",
@@ -679,8 +679,8 @@
         "subtitle": 30,
         "keywords": 97
       },
-      "scope": "同步已有完整物料",
-      "reviewState": "Prepared draft; language and brand review required before publishing. No registration/trademark clearance."
+      "scope": "商店三字段已提交审核；未新增 App 内语言。实际保存内容见 publication/apple-readback.json",
+      "reviewState": "Owner approved 2026-11-19; submitted to App Review with 1.1 / Build 74. Not yet approved or live."
     },
     "pt-BR": {
       "name": "Tempo de Tela: Pato de Plantão",
@@ -726,8 +726,8 @@
         "subtitle": 27,
         "keywords": 95
       },
-      "scope": "同步已有完整物料",
-      "reviewState": "Prepared draft; language and brand review required before publishing. No registration/trademark clearance."
+      "scope": "商店三字段已提交审核；未新增 App 内语言。实际保存内容见 publication/apple-readback.json",
+      "reviewState": "Owner approved 2026-11-19; submitted to App Review with 1.1 / Build 74. Not yet approved or live."
     },
     "pt-PT": {
       "name": "Screen Time – Pato de Vigia",
@@ -752,8 +752,8 @@
         "subtitle": 24,
         "keywords": 66
       },
-      "scope": "同步已有完整物料",
-      "reviewState": "Prepared draft; language and brand review required before publishing. No registration/trademark clearance."
+      "scope": "商店三字段已提交审核；未新增 App 内语言。实际保存内容见 publication/apple-readback.json",
+      "reviewState": "Owner approved 2026-11-19; submitted to App Review with 1.1 / Build 74. Not yet approved or live."
     },
     "nl-NL": {
       "name": "Schermtijd – Eend op wacht",
@@ -806,8 +806,8 @@
         "subtitle": 28,
         "keywords": 94
       },
-      "scope": "三字段扩展草案；没有新增 App 内语言或完整商店资产",
-      "reviewState": "Prepared draft; language and brand review required before publishing. No registration/trademark clearance."
+      "scope": "商店三字段已提交审核；未新增 App 内语言。实际保存内容见 publication/apple-readback.json",
+      "reviewState": "Owner approved 2026-11-19; submitted to App Review with 1.1 / Build 74. Not yet approved or live."
     },
     "ru": {
       "name": "Экранное время – Утка на посту",
@@ -878,8 +878,8 @@
         "subtitle": 28,
         "keywords": 89
       },
-      "scope": "三字段扩展草案；没有新增 App 内语言或完整商店资产",
-      "reviewState": "Prepared draft; language and brand review required before publishing. No registration/trademark clearance."
+      "scope": "商店三字段已提交审核；未新增 App 内语言。实际保存内容见 publication/apple-readback.json",
+      "reviewState": "Owner approved 2026-11-19; submitted to App Review with 1.1 / Build 74. Not yet approved or live."
     },
     "sv": {
       "name": "Screen Time – Anka på vakt",
@@ -914,8 +914,8 @@
         "subtitle": 30,
         "keywords": 72
       },
-      "scope": "三字段扩展草案；没有新增 App 内语言或完整商店资产",
-      "reviewState": "Prepared draft; language and brand review required before publishing. No registration/trademark clearance."
+      "scope": "商店三字段已提交审核；未新增 App 内语言。实际保存内容见 publication/apple-readback.json",
+      "reviewState": "Owner approved 2026-11-19; submitted to App Review with 1.1 / Build 74. Not yet approved or live."
     },
     "ar-SA": {
       "name": "Screen Time – بطّة الحراسة",
@@ -1014,8 +1014,8 @@
         "subtitle": 23,
         "keywords": 68
       },
-      "scope": "三字段扩展草案；没有新增 App 内语言或完整商店资产",
-      "reviewState": "Prepared draft; language and brand review required before publishing. No registration/trademark clearance."
+      "scope": "商店三字段已提交审核；未新增 App 内语言。实际保存内容见 publication/apple-readback.json",
+      "reviewState": "Owner approved 2026-11-19; submitted to App Review with 1.1 / Build 74. Not yet approved or live."
     },
     "tr": {
       "name": "Ekran Süresi – Nöbetçi Ördek",
@@ -1060,8 +1060,8 @@
         "subtitle": 29,
         "keywords": 84
       },
-      "scope": "三字段扩展草案；没有新增 App 内语言或完整商店资产",
-      "reviewState": "Prepared draft; language and brand review required before publishing. No registration/trademark clearance."
+      "scope": "商店三字段已提交审核；未新增 App 内语言。实际保存内容见 publication/apple-readback.json",
+      "reviewState": "Owner approved 2026-11-19; submitted to App Review with 1.1 / Build 74. Not yet approved or live."
     },
     "hi": {
       "name": "Screen Time – पहरेदार बत्तख",
@@ -1113,8 +1113,8 @@
         "subtitle": 26,
         "keywords": 88
       },
-      "scope": "三字段扩展草案；没有新增 App 内语言或完整商店资产",
-      "reviewState": "Prepared draft; language and brand review required before publishing. No registration/trademark clearance."
+      "scope": "商店三字段已提交审核；未新增 App 内语言。实际保存内容见 publication/apple-readback.json",
+      "reviewState": "Owner approved 2026-11-19; submitted to App Review with 1.1 / Build 74. Not yet approved or live."
     },
     "id": {
       "name": "Screen Time Control – Bebek",
@@ -1150,8 +1150,8 @@
         "subtitle": 27,
         "keywords": 68
       },
-      "scope": "三字段扩展草案；没有新增 App 内语言或完整商店资产",
-      "reviewState": "Prepared draft; language and brand review required before publishing. No registration/trademark clearance."
+      "scope": "商店三字段已提交审核；未新增 App 内语言。实际保存内容见 publication/apple-readback.json",
+      "reviewState": "Owner approved 2026-11-19; submitted to App Review with 1.1 / Build 74. Not yet approved or live."
     },
     "ms": {
       "name": "App Blocker – Itik Bertugas",
@@ -1188,8 +1188,8 @@
         "subtitle": 28,
         "keywords": 88
       },
-      "scope": "三字段扩展草案；没有新增 App 内语言或完整商店资产",
-      "reviewState": "Prepared draft; language and brand review required before publishing. No registration/trademark clearance."
+      "scope": "商店三字段已提交审核；未新增 App 内语言。实际保存内容见 publication/apple-readback.json",
+      "reviewState": "Owner approved 2026-11-19; submitted to App Review with 1.1 / Build 74. Not yet approved or live."
     },
     "th": {
       "name": "Screen Time – เป็ดคุมเวลา",
@@ -1214,8 +1214,8 @@
         "subtitle": 22,
         "keywords": 86
       },
-      "scope": "三字段扩展草案；没有新增 App 内语言或完整商店资产",
-      "reviewState": "Prepared draft; language and brand review required before publishing. No registration/trademark clearance."
+      "scope": "商店三字段已提交审核；未新增 App 内语言。实际保存内容见 publication/apple-readback.json",
+      "reviewState": "Owner approved 2026-11-19; submitted to App Review with 1.1 / Build 74. Not yet approved or live."
     },
     "vi": {
       "name": "Screen Time – Vịt canh giờ",
@@ -1250,8 +1250,8 @@
         "subtitle": 28,
         "keywords": 54
       },
-      "scope": "三字段扩展草案；没有新增 App 内语言或完整商店资产",
-      "reviewState": "Prepared draft; language and brand review required before publishing. No registration/trademark clearance."
+      "scope": "商店三字段已提交审核；未新增 App 内语言。实际保存内容见 publication/apple-readback.json",
+      "reviewState": "Owner approved 2026-11-19; submitted to App Review with 1.1 / Build 74. Not yet approved or live."
     },
     "pl": {
       "name": "Czas przed ekranem – Kaczka",
@@ -1296,8 +1296,8 @@
         "subtitle": 29,
         "keywords": 77
       },
-      "scope": "三字段扩展草案；没有新增 App 内语言或完整商店资产",
-      "reviewState": "Prepared draft; language and brand review required before publishing. No registration/trademark clearance."
+      "scope": "商店三字段已提交审核；未新增 App 内语言。实际保存内容见 publication/apple-readback.json",
+      "reviewState": "Owner approved 2026-11-19; submitted to App Review with 1.1 / Build 74. Not yet approved or live."
     },
     "cs": {
       "name": "Screen Time – Kachna",
@@ -1332,8 +1332,8 @@
         "subtitle": 30,
         "keywords": 81
       },
-      "scope": "三字段扩展草案；没有新增 App 内语言或完整商店资产",
-      "reviewState": "Prepared draft; language and brand review required before publishing. No registration/trademark clearance."
+      "scope": "商店三字段已提交审核；未新增 App 内语言。实际保存内容见 publication/apple-readback.json",
+      "reviewState": "Owner approved 2026-11-19; submitted to App Review with 1.1 / Build 74. Not yet approved or live."
     },
     "da": {
       "name": "Skærmtid – And på vagt",
@@ -1368,8 +1368,8 @@
         "subtitle": 27,
         "keywords": 81
       },
-      "scope": "三字段扩展草案；没有新增 App 内语言或完整商店资产",
-      "reviewState": "Prepared draft; language and brand review required before publishing. No registration/trademark clearance."
+      "scope": "商店三字段已提交审核；未新增 App 内语言。实际保存内容见 publication/apple-readback.json",
+      "reviewState": "Owner approved 2026-11-19; submitted to App Review with 1.1 / Build 74. Not yet approved or live."
     },
     "fi": {
       "name": "Ruutuaika – Vahtiankka",
@@ -1404,8 +1404,8 @@
         "subtitle": 22,
         "keywords": 77
       },
-      "scope": "三字段扩展草案；没有新增 App 内语言或完整商店资产",
-      "reviewState": "Prepared draft; language and brand review required before publishing. No registration/trademark clearance."
+      "scope": "商店三字段已提交审核；未新增 App 内语言。实际保存内容见 publication/apple-readback.json",
+      "reviewState": "Owner approved 2026-11-19; submitted to App Review with 1.1 / Build 74. Not yet approved or live."
     },
     "no": {
       "name": "Skjermtid – And på vakt",
@@ -1449,8 +1449,8 @@
         "subtitle": 27,
         "keywords": 83
       },
-      "scope": "三字段扩展草案；没有新增 App 内语言或完整商店资产",
-      "reviewState": "Prepared draft; language and brand review required before publishing. No registration/trademark clearance."
+      "scope": "商店三字段已提交审核；未新增 App 内语言。实际保存内容见 publication/apple-readback.json",
+      "reviewState": "Owner approved 2026-11-19; submitted to App Review with 1.1 / Build 74. Not yet approved or live."
     },
     "el": {
       "name": "App Blocker – Πάπια",
@@ -1495,8 +1495,8 @@
         "subtitle": 30,
         "keywords": 91
       },
-      "scope": "三字段扩展草案；没有新增 App 内语言或完整商店资产",
-      "reviewState": "Prepared draft; language and brand review required before publishing. No registration/trademark clearance."
+      "scope": "商店三字段已提交审核；未新增 App 内语言。实际保存内容见 publication/apple-readback.json",
+      "reviewState": "Owner approved 2026-11-19; submitted to App Review with 1.1 / Build 74. Not yet approved or live."
     },
     "he": {
       "name": "זמן מסך – ברווז במשמרת",
@@ -1541,8 +1541,8 @@
         "subtitle": 23,
         "keywords": 79
       },
-      "scope": "三字段扩展草案；没有新增 App 内语言或完整商店资产",
-      "reviewState": "Prepared draft; language and brand review required before publishing. No registration/trademark clearance."
+      "scope": "商店三字段已提交审核；未新增 App 内语言。实际保存内容见 publication/apple-readback.json",
+      "reviewState": "Owner approved 2026-11-19; submitted to App Review with 1.1 / Build 74. Not yet approved or live."
     },
     "hu": {
       "name": "App Blocker – Őrkacsa",
@@ -1587,8 +1587,8 @@
         "subtitle": 23,
         "keywords": 89
       },
-      "scope": "三字段扩展草案；没有新增 App 内语言或完整商店资产",
-      "reviewState": "Prepared draft; language and brand review required before publishing. No registration/trademark clearance."
+      "scope": "商店三字段已提交审核；未新增 App 内语言。实际保存内容见 publication/apple-readback.json",
+      "reviewState": "Owner approved 2026-11-19; submitted to App Review with 1.1 / Build 74. Not yet approved or live."
     },
     "ro": {
       "name": "Screen Time – Rața de pază",
@@ -1623,8 +1623,8 @@
         "subtitle": 29,
         "keywords": 80
       },
-      "scope": "三字段扩展草案；没有新增 App 内语言或完整商店资产",
-      "reviewState": "Prepared draft; language and brand review required before publishing. No registration/trademark clearance."
+      "scope": "商店三字段已提交审核；未新增 App 内语言。实际保存内容见 publication/apple-readback.json",
+      "reviewState": "Owner approved 2026-11-19; submitted to App Review with 1.1 / Build 74. Not yet approved or live."
     },
     "sk": {
       "name": "Screen Time – Kačka",
@@ -1659,8 +1659,8 @@
         "subtitle": 28,
         "keywords": 84
       },
-      "scope": "三字段扩展草案；没有新增 App 内语言或完整商店资产",
-      "reviewState": "Prepared draft; language and brand review required before publishing. No registration/trademark clearance."
+      "scope": "商店三字段已提交审核；未新增 App 内语言。实际保存内容见 publication/apple-readback.json",
+      "reviewState": "Owner approved 2026-11-19; submitted to App Review with 1.1 / Build 74. Not yet approved or live."
     },
     "uk": {
       "name": "Екранний час – Качка на варті",
@@ -1715,8 +1715,8 @@
         "subtitle": 28,
         "keywords": 91
       },
-      "scope": "三字段扩展草案；没有新增 App 内语言或完整商店资产",
-      "reviewState": "Prepared draft; language and brand review required before publishing. No registration/trademark clearance."
+      "scope": "商店三字段已提交审核；未新增 App 内语言。实际保存内容见 publication/apple-readback.json",
+      "reviewState": "Owner approved 2026-11-19; submitted to App Review with 1.1 / Build 74. Not yet approved or live."
     },
     "ca": {
       "name": "Screen Time – Ànec",
@@ -1759,8 +1759,8 @@
         "subtitle": 29,
         "keywords": 86
       },
-      "scope": "三字段扩展草案；没有新增 App 内语言或完整商店资产",
-      "reviewState": "Prepared draft; language and brand review required before publishing. No registration/trademark clearance."
+      "scope": "商店三字段已提交审核；未新增 App 内语言。实际保存内容见 publication/apple-readback.json",
+      "reviewState": "Owner approved 2026-11-19; submitted to App Review with 1.1 / Build 74. Not yet approved or live."
     },
     "hr": {
       "name": "Screen Time – Patka",
@@ -1795,8 +1795,8 @@
         "subtitle": 27,
         "keywords": 77
       },
-      "scope": "三字段扩展草案；没有新增 App 内语言或完整商店资产",
-      "reviewState": "Prepared draft; language and brand review required before publishing. No registration/trademark clearance."
+      "scope": "商店三字段已提交审核；未新增 App 内语言。实际保存内容见 publication/apple-readback.json",
+      "reviewState": "Owner approved 2026-11-19; submitted to App Review with 1.1 / Build 74. Not yet approved or live."
     },
     "sl": {
       "name": "Screen Time – Račka",
@@ -1839,8 +1839,14 @@
         "subtitle": 28,
         "keywords": 86
       },
-      "scope": "三字段扩展草案；没有新增 App 内语言或完整商店资产",
-      "reviewState": "Prepared draft; language and brand review required before publishing. No registration/trademark clearance."
+      "scope": "商店三字段已提交审核；未新增 App 内语言。实际保存内容见 publication/apple-readback.json",
+      "reviewState": "Owner approved 2026-11-19; submitted to App Review with 1.1 / Build 74. Not yet approved or live."
     }
+  },
+  "submission": {
+    "version": "1.1",
+    "build": "74",
+    "releaseMode": "Automatically release after approval",
+    "privateReceipt": "Local-only publication/apple-readback.json; not included in the public repository."
   }
 }

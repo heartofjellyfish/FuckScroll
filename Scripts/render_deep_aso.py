@@ -10,6 +10,7 @@ import unicodedata
 
 ROOT=Path(__file__).resolve().parents[1]/'AppStore/ASO/next-release';OUT=ROOT/'deep-research'
 PLAN=json.loads((OUT/'plan.json').read_text());META=json.loads((OUT/'metadata.json').read_text())
+SUBMITTED=bool(META.get('submission'))
 ESC=lambda value:html.escape(str(value))
 CSS='body{max-width:1150px;margin:44px auto;padding:0 24px 48px;background:#fcf6e6;color:#191916;font:16px/1.65 -apple-system,sans-serif}h1{font-size:40px;line-height:1.15;letter-spacing:-.6px}h2{margin-top:38px}table{border-collapse:collapse;width:100%;font-size:14px}td,th{text-align:left;vertical-align:top;border-bottom:1px solid #c8bfad;padding:12px;overflow-wrap:anywhere}th{white-space:nowrap}.note{background:#fed336;padding:20px;border:2px solid;border-radius:8px}.muted,small{color:#6e6557}.tag{font-size:12px;border:1px solid;padding:3px 7px;border-radius:5px;white-space:nowrap}a{color:inherit}code{white-space:pre-wrap;overflow-wrap:anywhere}details{border-top:1px solid #c8bfad;padding:15px 0}summary{cursor:pointer;font-weight:600}nav{display:flex;flex-wrap:wrap;gap:16px;margin:22px 0}.scroll{overflow-x:auto}input{font:inherit;background:transparent;border:2px solid;border-radius:6px;padding:12px;width:min(600px,90%)}.numbers{display:flex;flex-wrap:wrap;gap:12px}.numbers p{border:1px solid;padding:14px;flex:1;min-width:180px}.numbers b{font-size:28px;display:block}'
 
@@ -109,6 +110,10 @@ parts=[header('全球 ASO 深查与本地品牌'),'<h1>全球 ASO · 本地化�
        '<p>热度低于或等于 5 按低信号处理，不等于零需求。搜索名称无返回不等于获准注册。所有额外语言目前只有三字段草稿；原有 16 份完整物料同步这三个字段，App 内语言仍为现有 10 种。</p>',
        '<p>依据：<a href="https://developer.apple.com/app-store/search/">Apple 搜索规则</a> · <a href="https://developer.apple.com/help/app-store-connect/reference/app-information/app-store-localizations/">本地化展示规则</a> · <a href="https://performance-partners.apple.com/search-api">Apple 公开目录接口</a></p>',
        '<h2 id="locales">本地化三字段</h2>']
+if SUBMITTED:
+    parts=[p.replace('中国候选：','中国定稿：').replace('当前全为本地审阅草稿，未向 Apple 提交。','2026-11-19：40 份三字段已随 1.1 / Build 74 提交审核，通过后自动发布。提交记录与回读凭据保存在本机。')
+           .replace('所有额外语言目前只有三字段草稿；原有 16 份完整物料同步这三个字段，App 内语言仍为现有 10 种。','40 份商店搜索字段已提交，并补齐新增语言的本地简介。新增商店语言沿用主语言截图，App 内界面仍为原有 10 种。')
+           for p in parts]
 for locale,m in META['localizations'].items():
     parts.append(f'<details id="locale-{ESC(locale)}"><summary>{ESC(locale)} · {ESC(m["name"])}</summary><p>{ESC(m["rationale"])}</p><p><small>{ESC(m["scope"])}。锚点：{ESC(", ".join(m["anchorStores"]))}。</small></p><table><tr><th>字段</th><th>草稿</th><th>长度</th></tr>')
     for key in ['name','subtitle','keywords']:

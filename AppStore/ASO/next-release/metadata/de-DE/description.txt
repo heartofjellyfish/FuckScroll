@@ -1,4 +1,4 @@
-Du wolltest nur kurz durch Social Media scrollen. Gib dem ein Ende: Lege ein Zeitlimit fest. Ist es erreicht, sperrt die Ente die App für eine Pause.
+Hör auf zu scrollen, wenn deine selbst gewählte Zeit um ist. Eine kleine Ente sperrt jede App, sobald ihr Limit erreicht ist.
 
 • Eigene Nutzungsgrenzen und Pausen für jede App.
 • Kurze Besuche zählen zusammen. Nach einer vollen Auszeit setzt Bildschirmzeit den Zähler bei der nächsten Aktualisierung zurück.

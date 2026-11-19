@@ -1,4 +1,4 @@
-Dovevi solo dare un’occhiata ai social. Dai un limite a quell’occhiata: quando il tempo finisce, la papera blocca l’app per una pausa.
+Smetti di scorrere i social quando finisce il tempo che hai scelto. Una piccola papera blocca ogni app al raggiungimento del suo limite.
 
 • Un limite di utilizzo e una pausa per ogni app.
 • Le visite brevi si sommano. Una pausa completa azzera il conteggio quando Tempo di utilizzo si aggiorna.

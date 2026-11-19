@@ -158,6 +158,18 @@ if errors:
 result={'generatedAt':datetime.now(timezone.utc).isoformat(),'state':'Draft only; no Apple writes or name reservation.',
         'scope':'Existing 16 complete listings receive only name/subtitle/keyword edits. Additional locales are three-field drafts, not claims of translated UI or complete store assets.',
         'localizations':drafts}
+publication=ROOT/'publication/apple-readback.json'
+if publication.exists():
+    saved=json.loads(publication.read_text())
+    actual={r['locale']:r for r in saved['localizations']}
+    if set(actual)==set(drafts) and all(actual[loc][key]==row[key] for loc,row in drafts.items() for key in ['name','subtitle','keywords']):
+        result['state']='Owner approved and submitted to Apple; awaiting App Review, not yet live.'
+        result['submission']={key:saved[key] for key in ['version','build','releaseMode']}
+        result['submission']['privateReceipt']='Local-only publication/apple-readback.json; not included in the public repository.'
+        result['scope']='40 store metadata localizations submitted with 1.1 / Build 74; 10 in-app UI languages. Added store locales use localized descriptions and primary-language screenshot fallback.'
+        for locale,row in drafts.items():
+            row['reviewState']='Owner approved 2026-11-19; submitted to App Review with 1.1 / Build 74. Not yet approved or live.'
+            row['scope']='商店三字段已提交审核；未新增 App 内语言。实际保存内容见 publication/apple-readback.json'
 (OUT/'metadata.json').write_text(json.dumps(result,ensure_ascii=False,indent=2)+'\n')
 for locale,row in drafts.items():
     folder=(ROOT/'metadata'/locale) if locale in existing else (OUT/'additional-localizations'/locale)

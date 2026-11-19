@@ -1,11 +1,5 @@
-Vous ouvriez les réseaux pour une minute. Donnez-lui une fin : fixez une limite et le canard bloquera l’app une fois le temps écoulé.
+Tu ouvrais les réseaux pour une minute. Donne-lui une fin : fixe une limite et le canard bloque l’app quand son temps est écoulé.
 
-• Une limite et une pause propres à chaque app.
-• Les courtes visites s’additionnent. Une pause complète remet le compteur à zéro quand Temps d’écran se met à jour.
-• Modifie les limites du prochain tour pendant une pause.
-• Écris ton message et le texte du bouton de sortie.
-• Ferme le canard. Les limites restent actives.
+Chaque app a sa propre limite et sa pause. Les courtes visites s’additionnent. Tu peux modifier les limites du prochain tour pendant une pause. Ferme le canard : les limites restent actives.
 
-Un humour pince-sans-rire, un regard en coin, parfois un peu de théâtre. Le canard est de ton côté.
-
-Tes réglages restent sur ton iPhone. L’app ne collecte pas de données et n’affiche pas de publicité. L’accès à Temps d’écran est nécessaire. Le déclenchement et la levée des blocages dépendent d’iOS.
+Gratuit, sans publicité. Tes réglages restent sur ton iPhone. L’accès à Temps d’écran est nécessaire. Le déclenchement et la levée des blocages dépendent d’iOS.

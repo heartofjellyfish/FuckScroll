@@ -23,3 +23,7 @@ AppStore/Builds/
 
 # Regenerable simulator source captures; final ASO screenshots are versioned.
 AppStore/ASO/next-release/Captures/
+
+# Private App Store submission receipts; keep these on this Mac.
+/AppStore/ASO/next-release/publication/
+/AppStore/Review/aso40-submitted.png

@@ -1,4 +1,4 @@
-Ibas a mirar las redes un momento. Ponle un final: fija un límite y el pato bloqueará la app cuando se cumpla.
+Deja de deslizar por las redes más tiempo del que querías. Elige un límite y un pato bloqueará cada app cuando se agote su tiempo.
 
 • Un límite de uso y una pausa para cada app.
 • Las visitas cortas se suman. Una pausa completa reinicia el contador cuando Tiempo de uso se actualiza.

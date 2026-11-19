@@ -1,11 +1,5 @@
-Ibas a revisar las redes un momento y se te fue el tiempo. Pon un límite: el pato bloquea la app cuando lo alcanzas.
+Ibas a revisar las redes un momento. Ponle un final: el pato bloquea cada app cuando alcanza su límite.
 
-• Un límite de uso y una pausa para cada app.
-• Las visitas cortas se suman. Una pausa completa reinicia el contador cuando Tiempo de uso se actualiza.
-• Cambia los límites de la siguiente ronda durante una pausa.
-• Escribe tu mensaje y el texto del botón de salida.
-• Cierra el pato. Los límites siguen activos.
+Configura un límite de uso y un descanso para cada app. Las visitas cortas se suman. Puedes cambiar los límites de la siguiente ronda durante un descanso. Cierra el pato: los límites siguen activos.
 
-Humor seco, alguna mirada de reojo y un poco de drama. El pato está de tu lado.
-
-Tus ajustes se quedan en tu iPhone. La app no recoge datos ni muestra anuncios. Requiere acceso a Tiempo de uso. iOS controla cuándo se muestran y se retiran los bloqueos.
+Gratis y sin anuncios. Tus ajustes se quedan en tu iPhone. Requiere acceso a Tiempo en pantalla. iOS controla cuándo se activan y se retiran los bloqueos.

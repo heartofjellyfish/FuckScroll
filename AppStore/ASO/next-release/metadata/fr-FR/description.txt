@@ -1,4 +1,4 @@
-Vous ouvriez les réseaux pour une minute. Donnez-lui une fin : fixez une limite et le canard bloquera l’app une fois le temps écoulé.
+Arrête de faire défiler les réseaux au-delà du temps que tu avais choisi. Un petit canard bloque chaque app quand sa limite est atteinte.
 
 • Une limite et une pause propres à chaque app.
 • Les courtes visites s’additionnent. Une pause complète remet le compteur à zéro quand Temps d’écran se met à jour.

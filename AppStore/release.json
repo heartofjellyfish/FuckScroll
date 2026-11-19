@@ -113,9 +113,9 @@
   "uploadEvidence": "AppStore/Review/build51-upload-complete.png",
   "websiteDeployment": "https://clean-apps-pbuqm8zfo-heartofjellyfishs-projects.vercel.app",
   "lastSubmissionValidation": {
-    "result": "Build 52 resubmitted; Waiting for Review",
+    "result": "1 Item Submitted; sidebar Waiting for Review",
     "items": [],
-    "evidence": "AppStore/Review/build52-resubmitted.png"
+    "evidence": "AppStore/Review/aso40-submitted.png"
   },
   "screenshotOrderNotes": {
     "zh-Hans": [
@@ -127,9 +127,7 @@
     "others": "01-break,02-limits,03-walk,04-rules"
   },
   "submittedForReview": true,
-  "reviewStatus": "Submitted for Review: Build 74",
-  "reviewSubmissionID": "6173039c-b3ad-4d99-ae44-4779599b9f89",
-  "reviewSubmissionURL": "https://appstoreconnect.apple.com/apps/6832822647/distribution/reviewsubmissions/details/6173039c-b3ad-4d99-ae44-4779599b9f89",
+  "reviewStatus": "Waiting for Review: 1.1 / Build 74 with 40 store metadata localizations",
   "replacementBuild": {
     "version": "1.0",
     "build": "52",
@@ -162,14 +160,11 @@
       "customPickerUI": "passed"
     },
     "uploadStatus": "Uploaded and processed",
-    "submissionStatus": "Submitted for Review",
+    "submissionStatus": "Waiting for Review",
     "approvedForDirectSubmission": true,
     "uploadLog": "/tmp/duck-release74-upload.log",
     "uploaded": true,
     "submittedForReview": true,
-    "submittedAt": "2026-11-18T17:21:51-08:00",
-    "reviewSubmissionID": "6173039c-b3ad-4d99-ae44-4779599b9f89",
-    "reviewSubmissionURL": "https://appstoreconnect.apple.com/apps/6832822647/distribution/reviewsubmissions/details/6173039c-b3ad-4d99-ae44-4779599b9f89",
     "releaseMode": "Automatically release after approval, to all users",
     "localizedReleaseNotesSaved": [
       "en-US",
@@ -184,7 +179,15 @@
       "es-ES"
     ],
     "exportComplianceSaved": "None of the algorithms mentioned above",
-    "appleConfirmation": "1 Item Submitted; review completion notification will arrive by email"
+    "appleConfirmation": "1 Item Submitted; review completion notification will arrive by email",
+    "asoLocalizations": 40,
+    "asoReadback": "AppStore/ASO/next-release/publication/apple-readback.json",
+    "asoSubmissionEvidence": "AppStore/Review/aso40-submitted.png",
+    "submittedClientDate": "2026-11-19",
+    "submissionVerifiedAt": "2026-11-19T08:23:35Z",
+    "submittedAt": "2026-11-19T00:21-08:00",
+    "submissionTimePrecision": "minute, as displayed by Apple"
   },
-  "currentlyPublishedVersion": "1.0"
+  "currentlyPublishedVersion": "1.0",
+  "privateSubmissionReceipt": "Local-only AppStore/ASO/next-release/publication/apple-readback.json"
 }

@@ -1,4 +1,4 @@
-Você abriu as redes sociais só por um minuto. Dê um fim a esse minuto: defina um limite e o pato bloqueia o app quando o tempo acabar.
+Pare de rolar as redes quando acabar o tempo que você escolheu. Um pequeno pato bloqueia cada app ao atingir seu limite.
 
 • Um limite de uso e uma pausa para cada app.
 • Visitas curtas se somam. Uma pausa completa zera o contador quando o Tempo de Uso é atualizado.
