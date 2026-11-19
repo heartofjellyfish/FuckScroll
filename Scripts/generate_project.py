@@ -45,7 +45,7 @@ privacyref = ref('ScrollStopper/Resources/PrivacyInfo.xcprivacy','text.xml')
 products = []
 target_ids = []
 extension_ids = []
-common = {'DEVELOPMENT_TEAM':'47C4WT5UPR','SDKROOT':'iphoneos','IPHONEOS_DEPLOYMENT_TARGET':'17.4','SWIFT_VERSION':'5.0','TARGETED_DEVICE_FAMILY':'1','CODE_SIGN_STYLE':'Automatic','CURRENT_PROJECT_VERSION':'51','MARKETING_VERSION':'1.0','CLANG_ENABLE_MODULES':'YES','SWIFT_EMIT_LOC_STRINGS':'YES','ENABLE_USER_SCRIPT_SANDBOXING':'YES','SUPPORTED_PLATFORMS':'iphoneos iphonesimulator','SUPPORTS_MACCATALYST':'NO','SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD':'NO'}
+common = {'DEVELOPMENT_TEAM':'47C4WT5UPR','SDKROOT':'iphoneos','IPHONEOS_DEPLOYMENT_TARGET':'17.4','SWIFT_VERSION':'5.0','TARGETED_DEVICE_FAMILY':'1','CODE_SIGN_STYLE':'Automatic','CURRENT_PROJECT_VERSION':'74','MARKETING_VERSION':'1.1','CLANG_ENABLE_MODULES':'YES','SWIFT_EMIT_LOC_STRINGS':'YES','ENABLE_USER_SCRIPT_SANDBOXING':'YES','SUPPORTED_PLATFORMS':'iphoneos iphonesimulator','SUPPORTS_MACCATALYST':'NO','SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD':'NO'}
 for name,bundle,sources,ext,principal in target_specs:
     product = add(name+'product','PBXFileReference',explicitFileType='wrapper.app-extension' if ext else 'wrapper.application',includeInIndex=0,path=name+('.appex' if ext else '.app'),sourceTree='BUILT_PRODUCTS_DIR')
     products.append(product)

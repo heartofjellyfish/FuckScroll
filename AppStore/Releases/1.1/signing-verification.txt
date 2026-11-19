@@ -1,0 +1,4 @@
+OK com.heartofjellyfish.scrollstopper: Family Controls in distribution signature and profile
+OK com.heartofjellyfish.scrollstopper.monitor: Family Controls in distribution signature and profile
+OK com.heartofjellyfish.scrollstopper.action: Family Controls in distribution signature and profile
+OK com.heartofjellyfish.scrollstopper.shield: Family Controls in distribution signature and profile

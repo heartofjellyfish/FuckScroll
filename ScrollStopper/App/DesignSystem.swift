@@ -235,3 +235,51 @@ enum BreakDuckCopy {
         }
     }
 }
+
+/// Broad, three-lobed webbing: a duck's signature rather than a mammal paw.
+struct DuckFootMark: Shape {
+    func path(in rect: CGRect) -> Path {
+        func pt(_ x: CGFloat, _ y: CGFloat) -> CGPoint {
+            CGPoint(x: rect.minX + x * rect.width, y: rect.minY + y * rect.height)
+        }
+        var p = Path()
+        p.move(to: pt(0.50, 0.03))
+        p.addCurve(to: pt(0.67, 0.29), control1: pt(0.65, 0.01), control2: pt(0.60, 0.26))
+        p.addCurve(to: pt(0.91, 0.24), control1: pt(0.76, 0.35), control2: pt(0.81, 0.17))
+        p.addCurve(to: pt(0.89, 0.58), control1: pt(1.04, 0.27), control2: pt(0.97, 0.46))
+        p.addCurve(to: pt(0.59, 0.83), control1: pt(0.81, 0.70), control2: pt(0.67, 0.78))
+        p.addCurve(to: pt(0.52, 0.99), control1: pt(0.58, 0.94), control2: pt(0.61, 0.98))
+        p.addCurve(to: pt(0.41, 0.84), control1: pt(0.42, 1.02), control2: pt(0.42, 0.94))
+        p.addCurve(to: pt(0.09, 0.59), control1: pt(0.27, 0.79), control2: pt(0.17, 0.71))
+        p.addCurve(to: pt(0.10, 0.25), control1: pt(-0.02, 0.44), control2: pt(-0.02, 0.28))
+        p.addCurve(to: pt(0.34, 0.29), control1: pt(0.21, 0.20), control2: pt(0.23, 0.35))
+        p.addCurve(to: pt(0.50, 0.03), control1: pt(0.42, 0.25), control2: pt(0.35, 0.04))
+        p.closeSubpath()
+        return p
+    }
+}
+
+struct DuckFootSignature: View {
+    var body: some View {
+        DuckFootMark().fill(Color.duckYellow)
+            .overlay {
+                GeometryReader { geometry in
+                    Path { p in
+                        func pt(_ x: CGFloat, _ y: CGFloat) -> CGPoint {
+                            CGPoint(x: x * geometry.size.width, y: y * geometry.size.height)
+                        }
+                        // Three soft folds radiate from the sole into the webbing.
+                        p.move(to: pt(0.43, 0.67))
+                        p.addQuadCurve(to: pt(0.21, 0.43), control: pt(0.30, 0.55))
+                        p.move(to: pt(0.51, 0.61))
+                        p.addQuadCurve(to: pt(0.50, 0.28), control: pt(0.48, 0.44))
+                        p.move(to: pt(0.60, 0.66))
+                        p.addQuadCurve(to: pt(0.80, 0.43), control: pt(0.71, 0.56))
+                        // A small heel crease, not a separate paw pad.
+                        p.move(to: pt(0.43, 0.78))
+                        p.addQuadCurve(to: pt(0.59, 0.78), control: pt(0.51, 0.82))
+                    }.stroke(Color.ink, style: StrokeStyle(lineWidth: 1.15, lineCap: .round))
+                }
+            }.accessibilityHidden(true)
+    }
+}

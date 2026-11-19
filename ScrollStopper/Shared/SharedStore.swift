@@ -9,7 +9,7 @@ struct AppRule: Codable, Identifiable {
     let id: String
     let token: ApplicationToken
     var limit: Int
-    var restMinutes: Int = 15
+    var restMinutes: Int = ScrollPolicy.defaultBreak
     var store: ManagedSettingsStore { SharedStore.shieldStore }
 }
 

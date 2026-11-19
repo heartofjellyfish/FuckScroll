@@ -2,8 +2,12 @@ import Foundation
 
 /// Pure decision rules, shared by the app and all extensions.
 enum ScrollPolicy {
-    static let minuteOptions = [1, 2, 5, 10, 15, 20, 30, 45, 60]
-    static func validLimit(_ value: Int) -> Int { (1...120).contains(value) ? value : 20 }
+    static let minuteOptions = [1, 2, 5, 10, 15, 20, 30, 60]
+    static let breakOptions = [1, 2, 5, 10, 15, 30, 60, 120]
+    static let minuteRange = 1...1440
+    static let defaultUsage = 10
+    static let defaultBreak = 5
+    static func validLimit(_ value: Int) -> Int { minuteRange.contains(value) ? value : defaultUsage }
     // A two-hour quiet gap ends the streak; old breaks cannot return after a new one.
     // Presentation only: never changes a usage allowance or an active break.
     static func recentBreakCount(_ dates: [Date], at now: Date, calendar: Calendar = .current) -> Int {
@@ -86,6 +90,28 @@ struct Voice {
     }
     func minutes(_ n: Int, _ english: String = "%d min", _ chinese: String = "%d 分钟") -> String {
         String(format: self(english, chinese), locale: Locale(identifier: language.code), n)
+    }
+    func duration(_ totalMinutes: Int) -> String {
+        guard totalMinutes >= 60 else { return minutes(totalMinutes) }
+        let hours = totalMinutes / 60
+        let remainder = totalMinutes % 60
+        if language == .english {
+            let hourPart = "\(hours) " + (hours == 1 ? "hour" : "hours")
+            return remainder == 0 ? hourPart : hourPart + " \(remainder) min"
+        }
+        if language == .chinese || language == .traditional {
+            let hourPart = "\(hours) 小时"
+            let localizedHours = language == .traditional ? "\(hours) 小時" : hourPart
+            return remainder == 0 ? localizedHours : localizedHours + " \(remainder) 分"
+        }
+        let formatter = DateComponentsFormatter()
+        var calendar = Calendar.current
+        calendar.locale = Locale(identifier: language.code)
+        formatter.calendar = calendar
+        formatter.allowedUnits = [.hour, .minute]
+        formatter.unitsStyle = .short
+        formatter.zeroFormattingBehavior = .dropAll
+        return formatter.string(from: TimeInterval(totalMinutes * 60)) ?? minutes(totalMinutes)
     }
     func ruleSummary(usage: Int, rest: Int) -> String {
         let format = self("At %1$d min total, this app locks for %2$d min. Stay away for %2$d min to start fresh.",

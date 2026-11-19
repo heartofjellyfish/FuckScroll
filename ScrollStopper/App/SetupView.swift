@@ -12,12 +12,14 @@ struct SetupView: View {
     @State private var playback = 0
     @State private var previousEdit: (field: String, index: Int, from: Int)?
     @State private var showPicker = false
+    @State private var timeMenu: TimeMenu?
     @State private var showCustomTime = false
+    @AppStorage("customTimeNextFoldedPose") private var nextFoldedPose = false
+    @State private var customDuckAsset = "CustomDuckThinking"
     @State private var customTimeText = ""
     @State private var customTimeTitle = ""
     @State private var customTimeToken: ApplicationToken?
-    @State private var customTimeName = ""
-    @State private var customIsUsage = true
+    @State private var customTimeIcon: UIImage?
     @State private var applyCustomTime: ((Int) -> Void)?
     @Environment(\.dynamicTypeSize) private var sizeCategory
     @State private var order: [ApplicationToken] = []
@@ -69,6 +71,7 @@ struct SetupView: View {
                                 .resizable().scaledToFit().frame(maxWidth: 158)
                                 .contentShape(Rectangle())
                         }.disabled(reduceMotion)
+                            .opacity(showCustomTime ? 0 : 1)
                             .accessibilityLabel(model.voice("Replay duck reaction", "重播鸭子表情"))
                             .accessibilityIdentifier("setup.replayDuck")
                     }
@@ -84,8 +87,8 @@ struct SetupView: View {
                         Section {
                             ForEach(Array(tokens.enumerated()), id: \.element) { index, token in
                                 row(index, resting: model.state(for: token).isResting(at: Date()),
-                                    usage: Binding(get: { model.limits[token] ?? 20 }, set: { model.limits[token] = $0 }),
-                                    rest: Binding(get: { model.breaks[token] ?? 15 }, set: { model.breaks[token] = $0 })) {
+                                    usage: Binding(get: { model.limits[token] ?? ScrollPolicy.defaultUsage }, set: { model.limits[token] = $0 }),
+                                    rest: Binding(get: { model.breaks[token] ?? ScrollPolicy.defaultBreak }, set: { model.breaks[token] = $0 })) {
                                     Label(token).labelStyle(.titleAndIcon)
                                 }.id(token)
                             }
@@ -150,9 +153,21 @@ struct SetupView: View {
             }.background(Color.paper).fixedSize(horizontal: false, vertical: true)
         }
         .safeAreaInset(edge: .top, spacing: 0) {
-            HStack { Spacer(); CloseButton { dismiss() } }.padding(.trailing, 12).background(Color.paper)
+            HStack { Spacer(); CloseButton { dismiss() }
+                .opacity(showCustomTime ? 0 : 1)
+                .allowsHitTesting(!showCustomTime)
+            }.padding(.trailing, 12).background(Color.paper)
+        }
+        .accessibilityHidden(timeMenu != nil || showCustomTime)
+        .overlayPreferenceValue(TimeChipBounds.self) { anchors in
+            if let menu = timeMenu, let anchor = anchors[menu.id] {
+                GeometryReader { geometry in
+                    timeDropdown(menu, anchor: geometry[anchor], size: geometry.size)
+                }
+            }
         }
         .buttonStyle(.plain).background { Paper() }.foregroundStyle(Color.ink)
+        .blur(radius: showCustomTime ? 5 : 0)
         .disabled(model.saving).interactiveDismissDisabled(model.saving)
             .task(id: playback) {
                 guard playback > 0, !reduceMotion else { return }
@@ -162,16 +177,20 @@ struct SetupView: View {
                     replayBeat = false
                 } catch { return }
             }
-            .sheet(isPresented: $showCustomTime, onDismiss: { applyCustomTime = nil }) {
-                NegotiationTimeView(title: customTimeTitle, token: customTimeToken, appName: customTimeName,
-                                    isUsage: customIsUsage, text: $customTimeText) { minutes in
-                    applyCustomTime?(minutes)
-                    showCustomTime = false
+            .overlay {
+                if showCustomTime {
+                    NegotiationTimeView(title: customTimeTitle, duckAsset: customDuckAsset, token: customTimeToken, exampleIcon: customTimeIcon,
+                                        text: $customTimeText, cancel: {
+                        showCustomTime = false
+                        applyCustomTime = nil
+                    }) { minutes in
+                        applyCustomTime?(minutes)
+                        showCustomTime = false
+                        applyCustomTime = nil
+                    }
+                    .environmentObject(model)
+                    .accessibilityAddTraits(.isModal)
                 }
-                .environmentObject(model)
-                .presentationDetents([.height(440)])
-                .presentationDragIndicator(.hidden)
-                .presentationBackground(Color.paper)
             }
             .familyActivityPicker(
                 headerText: model.voice("Open a category and pick individual apps.", "展开分类，逐个选择 App。"),
@@ -213,7 +232,7 @@ struct SetupView: View {
         }
         #endif
         return model.selection.applicationTokens.contains { token in
-            DuckPose.isLenient(use: model.limits[token] ?? 20, rest: model.breaks[token] ?? 15)
+            DuckPose.isLenient(use: model.limits[token] ?? ScrollPolicy.defaultUsage, rest: model.breaks[token] ?? ScrollPolicy.defaultBreak)
         } ? .look : .writing
     }
     private let chipWidth: CGFloat = 79
@@ -245,17 +264,15 @@ struct SetupView: View {
             }.frame(maxWidth: .infinity, alignment: .leading)
             HStack(spacing: 8) {
                 timeChip(usageTitle, id: "usage", index: index, value: usage, choices: ScrollPolicy.minuteOptions)
-                timeChip(restTitle, id: "rest", index: index, value: rest, choices: [1,5,10,15,20,30,60])
+                timeChip(restTitle, id: "rest", index: index, value: rest, choices: ScrollPolicy.breakOptions)
             }
         }.padding(.vertical, 12).frame(minHeight: 77)
             .overlay(alignment: .bottom) { InkRule(variant: index + 1, weight: 0.9) }.padding(.horizontal, 22)
     }
 
     private func timeChip(_ field: String, id: String, index: Int, value: Binding<Int>, choices: [Int]) -> some View {
-        let number = String(value.wrappedValue)
-        let formatted = model.voice.minutes(value.wrappedValue)
-        var styled = AttributedString(formatted)
-        if let range = styled.range(of: number) { styled[range].font = TypeStyle.headline(24) }
+        let formatted = model.voice.duration(value.wrappedValue)
+        let styled = durationLabel(value.wrappedValue, numberSize: value.wrappedValue >= 60 ? 20 : 24, unitSize: 14)
         let update: (Int) -> Void = { next in
                     let old = value.wrappedValue
                     guard next != old else { return }
@@ -278,31 +295,131 @@ struct SetupView: View {
         let availableChoices = Array(Set(choices + [value.wrappedValue])).sorted()
         return VStack(spacing: 2) {
             if sizeCategory.isAccessibilitySize { Text(field).font(.caption) }
-            Menu {
-                Picker(field, selection: Binding(get: { value.wrappedValue }, set: update)) {
-                    ForEach(availableChoices, id: \.self) { Text(model.voice.minutes($0)).tag($0) }
-                }
-                Button(model.voice("Custom", "自定义")) {
+            let chipID = "setup." + id + ".\(index)"
+            Button {
+                timeMenu = TimeMenu(id: chipID, title: field, selected: value.wrappedValue, choices: availableChoices) { minutes in
+                    timeMenu = nil
+                    update(minutes)
+                } custom: {
+                    timeMenu = nil
                     customTimeTitle = field
-                    customIsUsage = id == "usage"
                     customTimeToken = tokens.indices.contains(index) ? tokens[index] : nil
-                    customTimeName = ""
+                    customTimeIcon = nil
                     #if DEBUG && targetEnvironment(simulator)
-                    if sample { customTimeName = exampleNames[index] }
+                    if sample, let folder = FileManager.default.urls(for: .documentDirectory, in: .userDomainMask).first {
+                        customTimeIcon = UIImage(contentsOfFile: folder.appendingPathComponent("qa-icon-\(index).png").path)
+                    }
                     #endif
                     customTimeText = String(value.wrappedValue)
                     applyCustomTime = update
+                    customDuckAsset = nextFoldedPose ? "CustomDuckFolded" : "CustomDuckThinking"
+                    nextFoldedPose.toggle()
                     showCustomTime = true
                 }
             } label: {
                 HStack(spacing: 4) {
-                    Text(styled).font(.custom("AvenirNextCondensed-DemiBold", size: 15)).lineLimit(1).minimumScaleFactor(0.75)
+                    Text(styled).font(.custom("AvenirNextCondensed-DemiBold", size: 15)).lineLimit(2).multilineTextAlignment(.center).minimumScaleFactor(0.85)
                     Image(systemName: "chevron.down").font(.system(size: 10, weight: .bold))
                 }.frame(width: chipWidth, height: 43)
                     .background { RoundedRectangle(cornerRadius: 5).fill(Color.duckYellow).shadow(color: .ink, radius: 0, x: 1, y: 2) }
                     .overlay(RoundedRectangle(cornerRadius: 5).strokeBorder(Color.ink, lineWidth: 1.5))
                     .frame(minHeight: 46)
-            }.accessibilityLabel(field).accessibilityValue(formatted).accessibilityIdentifier("setup." + id + ".\(index)")
+            }
+            .accessibilityLabel(field).accessibilityValue(formatted).accessibilityIdentifier(chipID)
+            .anchorPreference(key: TimeChipBounds.self, value: .bounds) { [chipID: $0] }
+        }
+    }
+
+    private func durationLabel(_ minutes: Int, numberSize: CGFloat, unitSize: CGFloat) -> AttributedString {
+        var label = AttributedString()
+        for character in model.voice.duration(minutes) {
+            var part = AttributedString(String(character))
+            part.font = character.isNumber ? TypeStyle.headline(numberSize)
+                : .custom("AvenirNextCondensed-DemiBold", size: unitSize)
+            label += part
+        }
+        return label
+    }
+
+    private func timeDropdown(_ menu: TimeMenu, anchor: CGRect, size: CGSize) -> some View {
+        let margin: CGFloat = 12
+        let gap: CGFloat = 6
+        let width = min(size.width - 2 * margin, sizeCategory.isAccessibilitySize ? 270 : 184)
+        let availableHeight = max(0, size.height - 2 * margin)
+        let x = max(margin, min(anchor.maxX - width, size.width - margin - width))
+        let rowHeight: CGFloat = sizeCategory.isAccessibilitySize ? 60 : 44
+        let desiredHeight = CGFloat(menu.choices.count) * rowHeight + 96
+        let height = min(desiredHeight, availableHeight)
+        let below = anchor.maxY + gap
+        let above = anchor.minY - gap - height
+        let y = below + height <= size.height - margin ? below
+            : above >= margin ? above
+            : max(margin, min(below, size.height - margin - height))
+
+        return ZStack(alignment: .topLeading) {
+            Color.ink.opacity(0.12)
+                .ignoresSafeArea()
+                .onTapGesture { timeMenu = nil }
+                .accessibilityHidden(true)
+            VStack(spacing: 0) {
+                Text(menu.title)
+                    .font(TypeStyle.label(12))
+                    .foregroundStyle(Color.mutedInk)
+                    .frame(maxWidth: .infinity, alignment: .leading)
+                    .padding(.horizontal, 10).padding(.vertical, 10)
+                    .accessibilityAddTraits(.isHeader)
+                ScrollViewReader { reader in
+                    ScrollView {
+                        VStack(spacing: 0) {
+                            ForEach(menu.choices, id: \.self) { minutes in
+                                let selected = minutes == menu.selected
+                                Button { menu.select(minutes) } label: {
+                                    HStack {
+                                        Text(durationLabel(minutes, numberSize: 23, unitSize: 16))
+                                        Spacer(minLength: 6)
+                                        if selected {
+                                            Image(systemName: "checkmark").font(.system(size: 14, weight: .heavy))
+                                        }
+                                    }
+                                    .padding(.horizontal, 10).frame(minHeight: rowHeight)
+                                    .background {
+                                        if selected {
+                                            RoundedRectangle(cornerRadius: 3).fill(Color.duckYellow)
+                                                .padding(.vertical, 4)
+                                        }
+                                    }
+                                    .contentShape(Rectangle())
+                                }
+                                .accessibilityAddTraits(selected ? .isSelected : [])
+                                .id(minutes)
+                            }
+                        }
+                    }
+                    .onAppear { reader.scrollTo(menu.selected, anchor: .center) }
+                }
+                InkRule(variant: 2, weight: 1)
+                Button(action: menu.custom) {
+                    HStack(spacing: 8) {
+                        Image(systemName: "pencil").font(.system(size: 15, weight: .semibold))
+                            .accessibilityHidden(true)
+                        Text(model.voice("Custom", "自定义"))
+                            .font(.custom("AvenirNextCondensed-DemiBold", size: 19, relativeTo: .body))
+                        Spacer(minLength: 0)
+                    }
+                    .padding(.horizontal, 10).frame(minHeight: 44)
+                    .contentShape(Rectangle())
+                }
+            }
+            .padding(6)
+            .frame(width: width, height: height)
+            .background {
+                RoundedRectangle(cornerRadius: 6).fill(Color.paper)
+                    .shadow(color: .ink, radius: 0, x: 3, y: 3)
+            }
+            .overlay(RoundedRectangle(cornerRadius: 6).strokeBorder(Color.ink, lineWidth: 1.6))
+            .accessibilityAddTraits(.isModal)
+            .accessibilityAction(.escape) { timeMenu = nil }
+            .offset(x: x, y: y)
         }
     }
 
@@ -314,6 +431,23 @@ struct SetupView: View {
     }
 }
 
+
+private struct TimeMenu {
+    let id: String
+    let title: String
+    let selected: Int
+    let choices: [Int]
+    let select: (Int) -> Void
+    let custom: () -> Void
+}
+
+private struct TimeChipBounds: PreferenceKey {
+    static var defaultValue: [String: Anchor<CGRect>] { [:] }
+
+    static func reduce(value: inout [String: Anchor<CGRect>], nextValue: () -> [String: Anchor<CGRect>]) {
+        value.merge(nextValue(), uniquingKeysWith: { _, latest in latest })
+    }
+}
 
 private enum DuckPose: String {
     case writing = "LimitsDuck", specs = "LimitsSpecs", approve = "LimitsApprove"
@@ -336,98 +470,174 @@ private enum DuckPose: String {
 /// Draft-only editor: Deal updates the limits form; its Save changes still commits the rules.
 private struct NegotiationTimeView: View {
     @EnvironmentObject private var model: AppModel
-    @Environment(\.dismiss) private var dismiss
     let title: String
+    let duckAsset: String
     let token: ApplicationToken?
-    let appName: String
-    let isUsage: Bool
+    let exampleIcon: UIImage?
     @Binding var text: String
+    let cancel: () -> Void
     let apply: (Int) -> Void
-    @FocusState private var editing: Bool
-    private var minutes: Int? {
-        guard let n = Int(text), (1...120).contains(n) else { return nil }
-        return n
-    }
-    private var watching: Bool {
-        guard let n = minutes else { return false }
-        return isUsage ? n >= 30 : n <= 5
-    }
+    @State private var hours = 0
+    @State private var minutes = 0
+    @State private var inputError: String?
+    private var total: Int { hours * 60 + minutes }
     var body: some View {
-        VStack(spacing: 0) {
-            HStack {
-                Spacer()
-                Image(watching ? "DuckLibrary03" : "LimitsDuck")
-                    .resizable().scaledToFit().frame(width: 145, height: 112)
-                    .accessibilityHidden(true)
-            }.padding(.trailing, 18).padding(.bottom, -6)
-            VStack(spacing: 12) {
-                HStack(spacing: 7) {
-                    if let token { Label(token).labelStyle(.titleAndIcon).lineLimit(1) }
-                    else if !appName.isEmpty { Text(appName).lineLimit(1) }
-                    Text("· " + title).fixedSize()
-                    Spacer(minLength: 0)
-                    Button { dismiss() } label: {
+        GeometryReader { geometry in
+        ZStack {
+            Color.ink.opacity(0.32).ignoresSafeArea()
+            VStack(spacing: 0) {
+                Spacer(minLength: 6)
+                Image(duckAsset)
+                    .resizable().scaledToFit()
+                    .frame(width: min(geometry.size.width * 0.60, geometry.size.height * 0.32),
+                           height: min(geometry.size.width * 0.60, geometry.size.height * 0.32), alignment: .bottom)
+                    .frame(maxWidth: .infinity)
+                    .padding(.bottom, -25)
+                    .zIndex(1)
+                    .allowsHitTesting(false).accessibilityHidden(true)
+            VStack(spacing: 0) {
+                HStack(spacing: 8) {
+                    if let token {
+                        Label(token).labelStyle(.iconOnly).fixedSize().frame(width: 28, height: 28)
+                    } else if let exampleIcon {
+                        Image(uiImage: exampleIcon).resizable().scaledToFit()
+                            .frame(width: 28, height: 28)
+                            .clipShape(RoundedRectangle(cornerRadius: 6)).accessibilityHidden(true)
+                    }
+                    Text(title).lineLimit(1).minimumScaleFactor(0.8)
+                }.font(.custom("AvenirNextCondensed-DemiBold", size: 21))
+                    .frame(maxWidth: .infinity).frame(height: 48)
+                    .overlay(alignment: .trailing) {
+                    Button(action: cancel) {
                         Image(systemName: "xmark").font(.system(size: 20, weight: .heavy))
                             .frame(width: 44, height: 44)
                     }.accessibilityLabel(model.voice("Cancel", "取消"))
                         .accessibilityIdentifier("customTime.cancel")
-                }.font(.custom("AvenirNextCondensed-DemiBold", size: 19))
-                HStack(alignment: .firstTextBaseline, spacing: 8) {
-                    TextField("", text: $text)
-                        .font(TypeStyle.headline(76)).multilineTextAlignment(.trailing)
-                        .keyboardType(.numberPad).focused($editing)
-                        .frame(width: 145).tint(Color.ink)
-                        .accessibilityLabel(model.voice("Minutes", "分钟"))
-                        .accessibilityIdentifier("customTime.input")
-                    Text(model.voice("min", "分钟")).font(TypeStyle.note(25))
-                    Button { editing = true } label: {
-                        Image(systemName: "pencil").font(.system(size: 28, weight: .medium))
-                            .frame(width: 44, height: 44)
-                    }.accessibilityLabel(model.voice("Edit minutes", "修改分钟数"))
                 }
-                .overlay(alignment: .bottom) {
-                    Underline().stroke(Color.ink, style: StrokeStyle(lineWidth: 2.2, lineCap: .round))
-                        .frame(width: 190, height: 5).offset(y: 4)
+
+                HStack(spacing: 16) {
+                    Text(model.voice("Hours", "小时")).frame(maxWidth: .infinity)
+                    Text(model.voice("Minutes", "分钟")).frame(maxWidth: .infinity)
                 }
-                Text(model.voice("1–120 minutes", "1–120 分钟"))
-                    .font(.custom("AvenirNextCondensed-DemiBold", size: 17))
-                    .padding(.top, 4)
-                HStack {
-                    Text(model.voice("Your offer.", "你开个价。"))
-                        .font(TypeStyle.note(19))
-                    Spacer()
+                .font(.custom("AvenirNextCondensed-DemiBold", size: 18))
+                .padding(.horizontal, 20).padding(.top, 4)
+
+                HStack(spacing: 16) {
+                    PaperTimeWheel(value: $hours, values: 0...24,
+                                   label: model.voice("Hours", "小时"), identifier: "customTime.hours")
+                    PaperTimeWheel(value: $minutes, values: 0...59,
+                                   label: model.voice("Minutes", "分钟"), identifier: "customTime.minutes")
+                        .disabled(hours == 24).opacity(hours == 24 ? 0.35 : 1)
+                }
+                .padding(.horizontal, 20)
+                .background(alignment: .center) {
+                    RoundedRectangle(cornerRadius: 4).fill(Color.duckYellow).frame(height: 52)
+                        .overlay(alignment: .top) { InkRule(variant: 1, weight: 1) }
+                        .overlay(alignment: .bottom) { InkRule(variant: 2, weight: 1) }
+                }
+
+                VStack(spacing: 8) {
+                    if let inputError {
+                        Text(inputError).font(.custom("AvenirNextCondensed-DemiBold", size: 16))
+                            .foregroundStyle(Color(red: 0.65, green: 0.16, blue: 0.12))
+                            .accessibilityIdentifier("customTime.error")
+                    }
                     Button {
-                        guard let minutes else { return }
-                        apply(minutes)
+                        guard ScrollPolicy.minuteRange.contains(total) else {
+                            inputError = model.voice("Choose 1 minute to 24 hours.", "请选择 1 分钟至 24 小时。")
+                            return
+                        }
+                        text = String(total)
+                        apply(total)
                     } label: {
-                        HStack(spacing: 12) {
-                            Text(model.voice("Deal.", "成交。"))
-                            Image(systemName: "checkmark").font(.system(size: 20, weight: .bold))
-                        }.font(TypeStyle.headline(26))
-                            .padding(.horizontal, 22).frame(height: 50)
+                        HStack(spacing: 7) {
+                            Text(model.voice("Deal", "成交")).font(TypeStyle.headline(24))
+                            DuckFootSignature()
+                                .frame(width: 26, height: 26).rotationEffect(.degrees(-10))
+                                .accessibilityHidden(true)
+                        }.frame(width: 135, height: 50)
                             .foregroundStyle(Color.paper)
-                            .background(Color.ink.opacity(minutes == nil ? 0.35 : 1), in: RoundedRectangle(cornerRadius: 6))
-                    }.disabled(minutes == nil).accessibilityIdentifier("customTime.deal")
-                }.padding(.top, 3)
+                            .background(Color.ink, in: RoundedRectangle(cornerRadius: 6))
+                    }.accessibilityLabel(model.voice("Deal", "成交"))
+                        .accessibilityIdentifier("customTime.deal")
+                }.padding(.top, 12)
             }
-            .padding(.horizontal, 18).padding(.bottom, 18).padding(.top, 7)
-            .background {
-                RoundedRectangle(cornerRadius: 9).fill(Color.duckYellow)
-                    .shadow(color: Color.ink, radius: 0, x: 1, y: 3)
-            }
+            .padding(.horizontal, 18).padding(.bottom, 18).padding(.top, 20)
+            .background(Color.paper, in: RoundedRectangle(cornerRadius: 9))
             .overlay(RoundedRectangle(cornerRadius: 9).strokeBorder(Color.ink, lineWidth: 1.7))
+            .background {
+                RoundedRectangle(cornerRadius: 9).fill(Color.ink).offset(x: 1, y: 3)
+            }
+                Spacer(minLength: 6)
+            }
+            .padding(.horizontal, 15).padding(.bottom, 10)
         }
-        .padding(.horizontal, 15).padding(.bottom, 14)
-        .frame(maxWidth: .infinity, maxHeight: .infinity, alignment: .bottom)
+        .frame(width: geometry.size.width, height: geometry.size.height)
+        }
         .foregroundStyle(Color.ink).buttonStyle(.plain)
-        .task { editing = true }
-        .onReceive(NotificationCenter.default.publisher(for: UITextField.textDidBeginEditingNotification)) { note in
-            guard let field = note.object as? UITextField else { return }
-            DispatchQueue.main.async { field.selectAll(nil) }
+        .accessibilityAction(.escape, cancel)
+        .onAppear {
+            let initial = Int(text) ?? 0
+            hours = initial / 60
+            minutes = initial % 60
         }
-        .onChange(of: text) { _, value in
-            let clean = String(value.filter { $0.isASCII && $0.isNumber }.prefix(3))
-            if clean != value { text = clean }
+        .onChange(of: hours) { _, next in
+            if next == 24 { minutes = 0 }
+        }
+        .onChange(of: total) { _, _ in inputError = nil }
+    }
+}
+
+private struct PaperTimeWheel: View {
+    @Binding var value: Int
+    let values: ClosedRange<Int>
+    let label: String
+    let identifier: String
+    @State private var position: Int?
+    @Environment(\.isEnabled) private var isEnabled
+    @Environment(\.accessibilityReduceMotion) private var reduceMotion
+
+    var body: some View {
+        ScrollView(.vertical) {
+            LazyVStack(spacing: 0) {
+                ForEach(Array(values), id: \.self) { number in
+                    Text(String(number))
+                        .font(TypeStyle.headline(number == value ? 45 : 30))
+                        .foregroundStyle(Color.ink.opacity(number == value ? 1 : abs(number - value) == 1 ? 0.4 : 0.16))
+                        .frame(maxWidth: .infinity).frame(height: 48)
+                        .contentShape(Rectangle())
+                        .onTapGesture {
+                            guard isEnabled else { return }
+                            withAnimation(reduceMotion ? nil : .snappy(duration: 0.2)) { position = number }
+                        }
+                        .id(number)
+                }
+            }.scrollTargetLayout()
+        }
+        .safeAreaPadding(.vertical, 96)
+        .scrollIndicators(.hidden)
+        .scrollDisabled(!isEnabled)
+        .scrollTargetBehavior(.viewAligned)
+        .scrollPosition(id: $position, anchor: .center)
+        .frame(height: 240)
+        .onAppear { position = value }
+        .onChange(of: position) { _, next in
+            if isEnabled, let next { value = next }
+        }
+        .onChange(of: value) { _, next in
+            if position != next { position = next }
+        }
+        .sensoryFeedback(.selection, trigger: value)
+        .accessibilityElement(children: .ignore)
+        .accessibilityLabel(label).accessibilityValue(String(value))
+        .accessibilityIdentifier(identifier)
+        .accessibilityAdjustableAction { direction in
+            guard isEnabled else { return }
+            switch direction {
+            case .increment: value = min(values.upperBound, value + 1)
+            case .decrement: value = max(values.lowerBound, value - 1)
+            @unknown default: break
+            }
         }
     }
 }

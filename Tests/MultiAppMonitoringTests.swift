@@ -30,6 +30,13 @@ import DeviceActivity
         DeviceActivityCenter.delivering = nil
     }
     static func main() throws {
+        let lateStart = Date(timeIntervalSince1970: 1794614340)
+        let fullDay = Monitoring.window(start: lateStart, minutes: 1440)
+        expect(Calendar.current.date(from: fullDay.start) == lateStart, "release schedule retains absolute start date")
+        expect(Calendar.current.date(from: fullDay.end) == lateStart.addingTimeInterval(86400), "24-hour release schedule retains next-day date")
+        expect(!fullDay.repeats, "long rest release is one-shot")
+        expect(Monitoring.marks(for: 1440).last == 1440, "full-day usage threshold is retained")
+
         let a = AppRule(id: "A", token: ApplicationToken("rednote"), limit: 2, restMinutes: 5)
         let b = AppRule(id: "B", token: ApplicationToken("instagram"), limit: 5)
         try Monitoring.configure([a, b])

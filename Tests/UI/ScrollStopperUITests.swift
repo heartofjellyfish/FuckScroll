@@ -243,22 +243,53 @@ final class ScrollStopperUITests: XCTestCase {
         XCTAssertTrue(use.waitForExistence(timeout: 5))
         use.tap()
         app.buttons["Custom"].tap()
-        let input = app.textFields["customTime.input"]
-        XCTAssertTrue(input.waitForExistence(timeout: 5))
-        input.typeText("7")
-        record("custom-time-seven")
+        let hours = app.descendants(matching: .any).matching(identifier: "customTime.hours").firstMatch
+        let minutes = app.descendants(matching: .any).matching(identifier: "customTime.minutes").firstMatch
+        XCTAssertTrue(minutes.waitForExistence(timeout: 5))
+        XCTAssertEqual(hours.value as? String, "0")
+        XCTAssertEqual(minutes.value as? String, "5")
+        XCTAssertFalse(app.keyboards.firstMatch.exists)
+        record("custom-paper-wheels")
+        hours.swipeUp(velocity: .slow)
+        minutes.swipeUp(velocity: .slow)
+        Thread.sleep(forTimeInterval: 1)
+        let h = Int(hours.value as? String ?? "")!
+        let m = Int(minutes.value as? String ?? "")!
+        XCTAssertGreaterThan(h, 0)
+        XCTAssertGreaterThan(m, 5)
+        XCTAssertTrue(app.buttons["customTime.deal"].isHittable)
+        record("custom-paper-wheels-scrolled")
         app.buttons["customTime.deal"].tap()
-        XCTAssertEqual(use.value as? String, "7 min")
-        let rest = app.buttons["setup.rest.0"]
-        rest.tap(); app.buttons["Custom"].tap()
-        XCTAssertTrue(input.waitForExistence(timeout: 5))
-        input.typeText("0")
-        XCTAssertFalse(app.buttons["customTime.deal"].isEnabled)
-        input.typeText(XCUIKeyboardKey.delete.rawValue + "120")
-        XCTAssertTrue(app.buttons["customTime.deal"].isEnabled)
-        record("custom-break-120")
+        let duration = m == 0 ? "\(h) hour\(h == 1 ? "" : "s")" : "\(h) hour\(h == 1 ? "" : "s") \(m) min"
+        XCTAssertEqual(use.value as? String, duration)
+        use.tap(); app.buttons["Custom"].tap()
+        XCTAssertTrue(hours.waitForExistence(timeout: 5))
+        XCTAssertEqual(hours.value as? String, String(h))
+        XCTAssertEqual(minutes.value as? String, String(m))
+        record("custom-alternate-pose")
+        XCTAssertEqual(app.buttons["customTime.deal"].label, "Deal")
+        minutes.swipeDown(velocity: .slow)
         app.buttons["customTime.cancel"].tap()
-        XCTAssertEqual(rest.value as? String, "15 min")
+        XCTAssertEqual(use.value as? String, duration)
+    }
+    func testCustomMaximumDisablesMinutes() {
+        launch("--qa-limits", "--en")
+        app.buttons["setup.usage.0"].tap()
+        app.buttons["Custom"].tap()
+        let hours = app.descendants(matching: .any).matching(identifier: "customTime.hours").firstMatch
+        let minutes = app.descendants(matching: .any).matching(identifier: "customTime.minutes").firstMatch
+        XCTAssertTrue(hours.waitForExistence(timeout: 5))
+        for _ in 0..<18 {
+            if hours.value as? String == "24" { break }
+            hours.swipeUp(velocity: .fast)
+        }
+        XCTAssertEqual(hours.value as? String, "24")
+        XCTAssertEqual(minutes.value as? String, "0")
+        XCTAssertFalse(minutes.isEnabled)
+        record("custom-24-hours")
+        hours.swipeDown(velocity: .slow)
+        XCTAssertTrue(minutes.isEnabled)
+        app.buttons["customTime.cancel"].tap()
     }
     func testGlanceKeepsLimitsLayout() {
         launch("--qa-limits")
@@ -267,6 +298,7 @@ final class ScrollStopperUITests: XCTestCase {
         let initial = use.frame
         record("duck-before")
         use.tap()
+        record("time-dropdown")
         app.buttons["30 min"].tap()
         record("duck-during")
         XCTAssertEqual(initial, use.frame)
@@ -361,6 +393,8 @@ final class ScrollStopperUITests: XCTestCase {
         XCTAssertTrue(app.staticTexts["Use for"].isHittable)
         XCTAssertEqual(footerY, change.frame.midY, accuracy: 1)
         last.tap()
+        XCTAssertTrue(app.buttons["Custom"].isHittable)
+        record("nine-apps-time-dropdown")
         app.buttons["45 min"].tap()
         XCTAssertEqual(last.value as? String, "45 min")
         XCTAssertEqual(app.buttons["setup.rest.8"].value as? String, "5 min")

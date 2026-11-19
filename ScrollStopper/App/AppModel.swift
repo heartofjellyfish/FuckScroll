@@ -21,7 +21,7 @@ final class AppModel: ObservableObject {
     @Published var focusedToken: ApplicationToken?
     @Published var saving = false
     @Published var states = UsageSessions()
-    @Published var limit = 20
+    @Published var limit = ScrollPolicy.defaultUsage
     @Published var breaks: [ApplicationToken: Int] = [:]
     @Published var showSetup = false
     @Published var showSettings = false
@@ -179,7 +179,7 @@ final class AppModel: ObservableObject {
         let newTokens = selection.applicationTokens.subtracting(Set(rules.map(\.token)))
         let chosen = retained.map { old in
             AppRule(id: old.id, token: old.token, limit: ScrollPolicy.validLimit(limits[old.token] ?? old.limit), restMinutes: breaks[old.token] ?? old.restMinutes)
-        } + newTokens.map { AppRule(id: UUID().uuidString, token: $0, limit: ScrollPolicy.validLimit(limits[$0] ?? 20), restMinutes: breaks[$0] ?? 15) }
+        } + newTokens.map { AppRule(id: UUID().uuidString, token: $0, limit: ScrollPolicy.validLimit(limits[$0] ?? ScrollPolicy.defaultUsage), restMinutes: breaks[$0] ?? ScrollPolicy.defaultBreak) }
         saving = true
         Task {
             let issue = await Task.detached { () -> String? in

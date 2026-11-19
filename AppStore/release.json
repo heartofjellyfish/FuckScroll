@@ -1,6 +1,6 @@
 {
-  "version": "1.0",
-  "build": "52",
+  "version": "1.1",
+  "build": "74",
   "bundleID": "com.heartofjellyfish.scrollstopper",
   "primaryLocale": "en-US",
   "categoryProposal": "Productivity",
@@ -22,7 +22,7 @@
     "support": 200,
     "privacy": 200
   },
-  "archivePath": "AppStore/Builds/ScrollStopper-1.0-52.xcarchive",
+  "archivePath": "AppStore/Builds/ScrollStopper-1.1-74.xcarchive",
   "archiveCreated": true,
   "materials": {
     "languages": 10,
@@ -127,9 +127,9 @@
     "others": "01-break,02-limits,03-walk,04-rules"
   },
   "submittedForReview": true,
-  "reviewStatus": "Waiting for Review: Build 52 resubmitted on November 11, 2026 at 9:38 AM PST.",
-  "reviewSubmissionID": "07afb3ed-bb71-4a9e-a62b-79e4ea61b7d1",
-  "reviewSubmissionURL": "https://appstoreconnect.apple.com/apps/6832822647/distribution/reviewsubmissions/details/07afb3ed-bb71-4a9e-a62b-79e4ea61b7d1",
+  "reviewStatus": "Submitted for Review: Build 74",
+  "reviewSubmissionID": "6173039c-b3ad-4d99-ae44-4779599b9f89",
+  "reviewSubmissionURL": "https://appstoreconnect.apple.com/apps/6832822647/distribution/reviewsubmissions/details/6173039c-b3ad-4d99-ae44-4779599b9f89",
   "replacementBuild": {
     "version": "1.0",
     "build": "52",
@@ -145,5 +145,46 @@
     "signingVerification": "Actual Xcode upload package: Family Controls true in each executable signature and embedded App Store profile. Deep strict codesign verification passed.",
     "uploadStatus": "Uploaded and processed by App Store Connect.",
     "submittedForReview": true
-  }
+  },
+  "latestRelease": {
+    "version": "1.1",
+    "build": "74",
+    "date": "2026-11-18",
+    "archivePath": "AppStore/Builds/ScrollStopper-1.1-74.xcarchive",
+    "exportedIPA": "AppStore/Builds/ScrollStopper-1.1-74-store/ScrollStopper.ipa",
+    "signingVerification": "AppStore/Releases/1.1/signing-verification.txt",
+    "packageVerification": "AppStore/Releases/1.1/package-verification.json",
+    "releaseNotes": "AppStore/Releases/1.1/whats-new.json",
+    "tests": {
+      "policyChecks": 71,
+      "multiAppChecks": 76,
+      "scenarioChecks": "passed",
+      "customPickerUI": "passed"
+    },
+    "uploadStatus": "Uploaded and processed",
+    "submissionStatus": "Submitted for Review",
+    "approvedForDirectSubmission": true,
+    "uploadLog": "/tmp/duck-release74-upload.log",
+    "uploaded": true,
+    "submittedForReview": true,
+    "submittedAt": "2026-11-18T17:21:51-08:00",
+    "reviewSubmissionID": "6173039c-b3ad-4d99-ae44-4779599b9f89",
+    "reviewSubmissionURL": "https://appstoreconnect.apple.com/apps/6832822647/distribution/reviewsubmissions/details/6173039c-b3ad-4d99-ae44-4779599b9f89",
+    "releaseMode": "Automatically release after approval, to all users",
+    "localizedReleaseNotesSaved": [
+      "en-US",
+      "zh-Hans",
+      "zh-Hant",
+      "fr-FR",
+      "de-DE",
+      "it",
+      "ja",
+      "ko",
+      "pt-BR",
+      "es-ES"
+    ],
+    "exportComplianceSaved": "None of the algorithms mentioned above",
+    "appleConfirmation": "1 Item Submitted; review completion notification will arrive by email"
+  },
+  "currentlyPublishedVersion": "1.0"
 }

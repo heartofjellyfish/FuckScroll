@@ -1,0 +1,25 @@
+{
+  "sha256": "baf703d51cd7b964efc7c80c43547852bdb8c32f9ff7d7fdd53df568fd12de3c",
+  "bundles": [
+    {
+      "CFBundleIdentifier": "com.heartofjellyfish.scrollstopper.monitor",
+      "CFBundleShortVersionString": "1.1",
+      "CFBundleVersion": "74"
+    },
+    {
+      "CFBundleIdentifier": "com.heartofjellyfish.scrollstopper.shield",
+      "CFBundleShortVersionString": "1.1",
+      "CFBundleVersion": "74"
+    },
+    {
+      "CFBundleIdentifier": "com.heartofjellyfish.scrollstopper.action",
+      "CFBundleShortVersionString": "1.1",
+      "CFBundleVersion": "74"
+    },
+    {
+      "CFBundleIdentifier": "com.heartofjellyfish.scrollstopper",
+      "CFBundleShortVersionString": "1.1",
+      "CFBundleVersion": "74"
+    }
+  ]
+}
