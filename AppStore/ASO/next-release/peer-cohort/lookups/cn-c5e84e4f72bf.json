@@ -1,0 +1,48 @@
+{
+  "requestURL": "https://itunes.apple.com/lookup?id=6792224144%2C1467878678&country=cn",
+  "resultCount": 2,
+  "apps": [
+    {
+      "trackViewUrl": "https://apps.apple.com/cn/app/%E6%84%8F%E5%BF%B5%E6%96%B9%E5%9D%97/id6792224144?uo=4",
+      "averageUserRating": 5,
+      "artistId": 6784090888,
+      "artistName": "强 盛",
+      "genres": [
+        "效率",
+        "健康健美"
+      ],
+      "price": 0.0,
+      "trackId": 6792224144,
+      "trackName": "意念方块",
+      "primaryGenreName": "Productivity",
+      "releaseDate": "2026-09-01T07:00:00Z",
+      "currentVersionReleaseDate": "2026-11-02T12:59:51Z",
+      "version": "1.4.5",
+      "currency": "CNY",
+      "bundleId": "com.mindblock.ios.app",
+      "userRatingCount": 5,
+      "descriptionSHA256": "d53887d518efa1ae4650b056979a9448e9021fc56cc84369a4a727ea498d9f04"
+    },
+    {
+      "trackViewUrl": "https://apps.apple.com/cn/app/%E6%97%B6%E9%97%B4%E8%8A%B1%E5%9B%AD-%E4%B8%93%E6%B3%A8%E9%80%A0%E6%A3%AE%E6%9E%97-%E4%B8%8D%E7%8E%A9%E6%89%8B%E6%9C%BA%E7%A7%8D%E6%A0%91%E5%AD%A6%E4%B9%A0-%E9%94%81%E6%89%8B%E6%9C%BA%E7%9A%84%E4%B8%93%E6%B3%A8%E5%8A%9B%E7%A9%BA%E9%97%B4/id1467878678?uo=4",
+      "averageUserRating": 4.78549,
+      "artistId": 1514052629,
+      "artistName": "Yououqi Co., Ltd.",
+      "genres": [
+        "效率",
+        "教育"
+      ],
+      "price": 0.0,
+      "trackId": 1467878678,
+      "trackName": "时间花园: 专注造森林，不玩手机种树学习，锁手机的专注力空间",
+      "primaryGenreName": "Productivity",
+      "releaseDate": "2019-09-02T07:00:00Z",
+      "currentVersionReleaseDate": "2026-11-13T04:08:30Z",
+      "version": "4.5.12",
+      "currency": "CNY",
+      "bundleId": "com.shikudo.focus.china",
+      "userRatingCount": 24013,
+      "descriptionSHA256": "416777de667cd85e44edbf39946a22d4c1f02b52c94cb330de66edef35fad391"
+    }
+  ]
+}

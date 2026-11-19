@@ -103,7 +103,7 @@ parts=[header('全球 ASO 深查与本地品牌'),'<h1>全球 ASO · 本地化�
        '<p>本轮只处理主标题、副标题和 keywords。地域数据、相邻意图、公开竞品、本地角色名一起看。</p>',
        '<div class="note"><b>中国候选：自觉鸭：戒手机与屏幕使用时间</b><br>副标题：少刷社交媒体，应用限时，到点休息。<br>商店名称、角色与功能表达一起本地化；当前全为本地审阅草稿，未向 Apple 提交。</div>',
        f'<div class="numbers"><p><b>{len(done_a)} / 91</b>Astro 深查完成</p><p><b>{len(done_c)} / 84</b>公开目录补充完成</p><p><b>{len(META["localizations"])}</b>本地化三字段草稿</p></div>',
-       '<nav><a href="#locales">全部名称与关键词</a><a href="#countries">175 地区</a><a href="metadata.json">三字段 JSON</a><a href="metadata.txt">全部文案纯文本</a><a href="summary.json">覆盖统计</a><a href="name-check-summary.json">公开名称检查</a><a href="../china-deep-dive/index.html">中国上一轮专项</a></nav>',
+       '<nav><a href="../peer-cohort/index.html">2026 新产品赢过老牌</a><a href="#locales">全部名称与关键词</a><a href="#countries">175 地区</a><a href="metadata.json">三字段 JSON</a><a href="metadata.txt">全部文案纯文本</a><a href="summary.json">覆盖统计</a><a href="name-check-summary.json">公开名称检查</a><a href="../china-deep-dive/index.html">中国上一轮专项</a></nav>',
        '<h2>这次和初筛有什么不同</h2><p>每个工具支持的国家扩至至少 22 个本地／双语候选，核对八组相关搜索；某些相邻词更热，但结果偏密码锁、番茄钟或家长控制，单独记录而不照抄。加拿大法语、西班牙加泰语、印度印地语、斯洛文尼亚语另有语言专项。</p>',
        '<p>84 个不支持地区也查询八组 Apple 本地公开目录。它们的热度仍是未知，目录位序也不等于 iPhone 自然排名：不把这个缺口藏进“全球已优化”四个字。该部分采用可共享的语言锚点，并保留实际当地返回的产品差异。</p><p>已交叉核对 <a href="https://ads.apple.com/app-store/countries-and-regions">Apple Ads 官方可投地区</a>：其 91 个市场与 Astro 当前支持的国家集合一致。相同覆盖范围不等于证明 Astro 内部采用何种数据来源；它也不能让其他 84 个市场凭空出现可比的热度。<a href="apple-ads-coverage.json">名单核对记录</a></p>',
        '<p>热度低于或等于 5 按低信号处理，不等于零需求。搜索名称无返回不等于获准注册。所有额外语言目前只有三字段草稿；原有 16 份完整物料同步这三个字段，App 内语言仍为现有 10 种。</p>',

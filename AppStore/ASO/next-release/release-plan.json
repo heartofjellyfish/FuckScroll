@@ -124,5 +124,12 @@
       "New locale drafts do not add UI translations or complete store assets.",
       "Names are draft candidates; search does not reserve names or clear trademarks."
     ]
+  },
+  "youngCompetitorResearch": {
+    "report": "peer-cohort/index.html",
+    "data": "peer-cohort/winners.json",
+    "asOfClientDate": "2026-11-18",
+    "scope": "2026 launches, comparable functionality, native Top5 ahead of named pre-2025 incumbents in same response",
+    "metadataAction": "Evidence review; current 40 localization drafts unchanged. No Apple writes."
   }
 }

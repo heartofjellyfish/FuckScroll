@@ -1,0 +1,27 @@
+{
+  "requestURL": "https://itunes.apple.com/lookup?id=6814234573&country=ru",
+  "resultCount": 1,
+  "apps": [
+    {
+      "averageUserRating": 5,
+      "trackViewUrl": "https://apps.apple.com/ru/app/%D0%B3%D1%83%D1%81%D1%8F%D1%80%D0%B0-%D1%80%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9-%D0%BA%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D1%8C/id6814234573?uo=4",
+      "price": 0.0,
+      "artistId": 1121144714,
+      "artistName": "ASTERIUM, OOO",
+      "genres": [
+        "Образ жизни",
+        "Производительность"
+      ],
+      "releaseDate": "2026-10-15T07:00:00Z",
+      "trackId": 6814234573,
+      "trackName": "Гусяра! Родительский контроль",
+      "primaryGenreName": "Lifestyle",
+      "currentVersionReleaseDate": "2026-11-10T02:27:58Z",
+      "version": "1.0.7",
+      "currency": "RUB",
+      "bundleId": "ru.asterium.parent",
+      "userRatingCount": 2,
+      "descriptionSHA256": "8a11d756624fa05f4eb9800ebe8b07a3108d23ae7e782d12f12fd622a8778a53"
+    }
+  ]
+}

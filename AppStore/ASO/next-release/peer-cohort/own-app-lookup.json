@@ -1,0 +1,19 @@
+{
+  "requestURL": "https://itunes.apple.com/lookup?id=6832822647&country=us",
+  "response": {
+    "resultCount": 1,
+    "results": [
+      {
+        "trackId": 6832822647,
+        "trackName": "Stop Scrolling – Duck on Duty",
+        "trackViewUrl": "https://apps.apple.com/us/app/stop-scrolling-duck-on-duty/id6832822647?uo=4",
+        "releaseDate": "2026-11-12T08:00:00Z",
+        "currentVersionReleaseDate": "2026-11-12T16:40:34Z",
+        "version": "1.0",
+        "primaryGenreName": "Productivity",
+        "averageUserRating": 5,
+        "userRatingCount": 1
+      }
+    ]
+  }
+}

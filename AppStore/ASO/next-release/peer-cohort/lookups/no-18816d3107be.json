@@ -1,0 +1,27 @@
+{
+  "requestURL": "https://itunes.apple.com/lookup?id=6812685610&country=no",
+  "resultCount": 1,
+  "apps": [
+    {
+      "trackViewUrl": "https://apps.apple.com/no/app/pausebrikka/id6812685610?uo=4",
+      "bundleId": "no.fjeldbergwesterlin.brikke",
+      "artistId": 6812685612,
+      "artistName": "Fjeldberg Westerlin AS",
+      "genres": [
+        "Productivity",
+        "Lifestyle"
+      ],
+      "price": 0.0,
+      "releaseDate": "2026-10-16T07:00:00Z",
+      "primaryGenreName": "Productivity",
+      "trackId": 6812685610,
+      "trackName": "Pausebrikka",
+      "currentVersionReleaseDate": "2026-11-16T20:55:18Z",
+      "version": "1.0.2",
+      "currency": "NOK",
+      "averageUserRating": 1,
+      "userRatingCount": 1,
+      "descriptionSHA256": "be4a9479c9c5d47607725bbc1a9a6109d869f32555709d35a1f5f912584247bb"
+    }
+  ]
+}

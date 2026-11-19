@@ -1,0 +1,28 @@
+{
+  "requestURL": "https://itunes.apple.com/lookup?id=6470706705&country=ec",
+  "resultCount": 1,
+  "apps": [
+    {
+      "averageUserRating": 0,
+      "trackViewUrl": "https://apps.apple.com/ec/app/blocks-classic-bloques/id6470706705?uo=4",
+      "price": 0.0,
+      "artistId": 1703859800,
+      "artistName": "婷 汤",
+      "genres": [
+        "Juegos",
+        "De ingenio",
+        "Casuales"
+      ],
+      "bundleId": "com.tingtang.blocksclassic",
+      "trackId": 6470706705,
+      "trackName": "Blocks Classic - Bloques",
+      "currentVersionReleaseDate": "2024-09-24T19:55:06Z",
+      "version": "1.0.14",
+      "currency": "USD",
+      "primaryGenreName": "Games",
+      "releaseDate": "2023-10-29T07:00:00Z",
+      "userRatingCount": 0,
+      "descriptionSHA256": "babd09da1ea50f555e9d8acb75c7cc6ec3b1e40452ab7f6001d020a3d1ae6efd"
+    }
+  ]
+}

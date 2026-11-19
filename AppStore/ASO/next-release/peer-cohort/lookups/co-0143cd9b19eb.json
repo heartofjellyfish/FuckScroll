@@ -1,0 +1,27 @@
+{
+  "requestURL": "https://itunes.apple.com/lookup?id=6782174342&country=co",
+  "resultCount": 1,
+  "apps": [
+    {
+      "currentVersionReleaseDate": "2026-11-08T23:13:38Z",
+      "artistId": 6782174494,
+      "artistName": "German Caycedo",
+      "genres": [
+        "Entretenimiento",
+        "Fotografía y video"
+      ],
+      "price": 0.0,
+      "bundleId": "com.cinematch.co.app",
+      "releaseDate": "2026-07-30T07:00:00Z",
+      "trackId": 6782174342,
+      "trackName": "Cinematch",
+      "primaryGenreName": "Entertainment",
+      "version": "1.3.1",
+      "currency": "COP",
+      "trackViewUrl": "https://apps.apple.com/co/app/cinematch/id6782174342?uo=4",
+      "averageUserRating": 5,
+      "userRatingCount": 1,
+      "descriptionSHA256": "adb62326a08b4b97291bb28885cf5e061bce3e71daefede00ccf77a5f7ba4233"
+    }
+  ]
+}

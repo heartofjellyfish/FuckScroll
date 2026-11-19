@@ -1,0 +1,326 @@
+{
+  "6822790279": {
+    "scope": "direct",
+    "note": "按使用时长锁定并休息，角色会吐槽；与我们最接近。",
+    "publicURL": "https://apps.apple.com/us/app/sassy-parrot-stop-scrolling/id6822790279?uo=4",
+    "descriptionChecked": true,
+    "publicReleaseDate": "2026-10-28T07:00:00Z",
+    "descriptionSHA256": "3ab97f2d614166542203b813435eb3b1226c1dabe3be23d3bdaa19d55dd4347a",
+    "evidence": "Public App Store description, not a device test"
+  },
+  "6811619023": {
+    "scope": "related",
+    "note": "整 App 拦截，但以完成习惯任务换取使用时间。",
+    "publicURL": "https://apps.apple.com/us/app/scrollr-app-blocker/id6811619023?uo=4",
+    "descriptionChecked": true,
+    "publicReleaseDate": "2026-10-04T07:00:00Z",
+    "descriptionSHA256": "cd895924d4b880f12e9c4825819fc101e330977b7877a3c9ecfb30f94c1e3024",
+    "evidence": "Public App Store description, not a device test"
+  },
+  "6760668517": {
+    "scope": "direct",
+    "note": "整 App 严格拦截，突出不能轻易跳过；固定等待机制与我们不同。",
+    "publicURL": "https://apps.apple.com/us/app/67-strict-screen-time-blocker/id6760668517?uo=4",
+    "descriptionChecked": true,
+    "publicReleaseDate": "2026-05-26T07:00:00Z",
+    "descriptionSHA256": "8673dac958c4ec9900aa0a81b05577f632075cba80987ffc00d5d79ed489fb34",
+    "evidence": "Public App Store description, not a device test"
+  },
+  "6784308174": {
+    "scope": "direct",
+    "note": "使用时长、打开次数与定时规则拦截，附带习惯和统计。",
+    "publicURL": "https://apps.apple.com/us/app/stop-doomscrolling-derot/id6784308174?uo=4",
+    "descriptionChecked": true,
+    "publicReleaseDate": "2026-07-08T07:00:00Z",
+    "descriptionSHA256": "8b24675fa17aba4d34da0890ad7e58b2e8573d1d348fa48747ad32e7c8fe2b90",
+    "evidence": "Public App Store description, not a device test"
+  },
+  "6758152591": {
+    "scope": "direct",
+    "note": "选择 App、定时拦截、使用统计；广义屏幕时间管理。",
+    "publicURL": "https://apps.apple.com/us/app/screen-time-control-app/id6758152591?uo=4",
+    "descriptionChecked": true,
+    "publicReleaseDate": "2026-02-04T08:00:00Z",
+    "descriptionSHA256": "73855fbd83a22d7946f0ce5107729b4028b30b37ce29884fb4ea1b7337a423df",
+    "evidence": "Public App Store description, not a device test"
+  },
+  "6755889415": {
+    "scope": "direct",
+    "note": "App 与网站分组、专注时段、定时休息与打开前阻力。",
+    "publicURL": "https://apps.apple.com/us/app/flocus-screen-time-blocker/id6755889415?uo=4",
+    "descriptionChecked": true,
+    "publicReleaseDate": "2026-05-29T07:00:00Z",
+    "descriptionSHA256": "ecf5c9279d345cea93782c9d3ccf15055d9bc3e63042dcb3825cdb7f21ed73d2",
+    "evidence": "Public App Store description, not a device test"
+  },
+  "6757622975": {
+    "scope": "direct",
+    "note": "整 App 拦截、使用限额与专注时段。",
+    "publicURL": "https://apps.apple.com/us/app/screen-time-control-block-app/id6757622975?uo=4",
+    "descriptionChecked": true,
+    "publicReleaseDate": "2026-01-14T08:00:00Z",
+    "descriptionSHA256": "91311eb1299a126e6c78ccdfe56316eaaaf18f7464e871d38186be4123122837",
+    "evidence": "Public App Store description, not a device test"
+  },
+  "6758338291": {
+    "scope": "related",
+    "note": "整 App 拦截，可用运动和任务解锁；强度更复杂。",
+    "publicURL": "https://apps.apple.com/us/app/blocus-earn-screen-time/id6758338291?uo=4",
+    "descriptionChecked": true,
+    "publicReleaseDate": "2026-02-25T08:00:00Z",
+    "descriptionSHA256": "327efb22a4681b04ef1204a093bd165f9cf2a8855bcb059c9e2b959ed2c19355",
+    "evidence": "Public App Store description, not a device test"
+  },
+  "6786942350": {
+    "scope": "direct",
+    "note": "角色受使用时长影响，可选 App 限额阻断；可参考温和的动物伙伴定位。",
+    "publicURL": "https://apps.apple.com/us/app/catto-reduce-your-screen-time/id6786942350?uo=4",
+    "descriptionChecked": true,
+    "publicReleaseDate": "2026-08-19T07:00:00Z",
+    "descriptionSHA256": "f8edc239b00b85e03553f0588871cb48ec5dc8b7643f87149c548e3fcc05d77d",
+    "evidence": "Public App Store description, not a device test"
+  },
+  "6759700381": {
+    "scope": "related",
+    "note": "屏幕时间限额与隐私锁混合定位；不照搬隐私相册词。",
+    "publicURL": "https://apps.apple.com/us/app/screen-time-control-screenza/id6759700381?uo=4",
+    "descriptionChecked": true,
+    "publicReleaseDate": "2026-03-19T07:00:00Z",
+    "descriptionSHA256": "6f35c3f0821a49cd7faaed87abb63844f0ec56a5d7480ec3a79a9fb969f181b0",
+    "evidence": "Public App Store description, not a device test"
+  },
+  "6791383965": {
+    "scope": "direct",
+    "note": "打开前提醒、等待与每日限额；与我们触发时机不同。",
+    "publicURL": "https://apps.apple.com/us/app/refund-screen-time/id6791383965?uo=4",
+    "descriptionChecked": true,
+    "publicReleaseDate": "2026-08-29T07:00:00Z",
+    "descriptionSHA256": "805fe03027246cb13d7f07e1dc1068753eb0054d2de8130bd983d9a24f36e28f",
+    "evidence": "Public App Store description, not a device test"
+  },
+  "6755110504": {
+    "scope": "related",
+    "note": "App 拦截与完成习惯换取屏幕时间。",
+    "publicURL": "https://apps.apple.com/us/app/unglue-screen-time-friend/id6755110504?uo=4",
+    "descriptionChecked": true,
+    "publicReleaseDate": "2026-01-05T08:00:00Z",
+    "descriptionSHA256": "0726dc1d1cee8fb8327b04c4a75376c1463b405d79403700010ddf1ad56e6768",
+    "evidence": "Public App Store description, not a device test"
+  },
+  "6784166547": {
+    "scope": "direct",
+    "note": "按 App 每日限额、专注时段、打开前暂停。",
+    "publicURL": "https://apps.apple.com/us/app/yourhour-screen-time-control/id6784166547?uo=4",
+    "descriptionChecked": true,
+    "publicReleaseDate": "2026-07-14T07:00:00Z",
+    "descriptionSHA256": "9087821f9b246037de84fceafd61a44b243472862cc544e171419933bcf25ef1",
+    "evidence": "Public App Store description, not a device test"
+  },
+  "6788488118": {
+    "scope": "direct",
+    "note": "系统级 App 拦截、专注时段、严格模式与休息提醒。",
+    "publicURL": "https://apps.apple.com/us/app/screen-time-focusblock/id6788488118?uo=4",
+    "descriptionChecked": true,
+    "publicReleaseDate": "2026-07-21T07:00:00Z",
+    "descriptionSHA256": "97ae500c6ea005e9c600098c5b9547df5726f847017054b9234de81e9deb5f6a",
+    "evidence": "Public App Store description, not a device test"
+  },
+  "6749869519": {
+    "scope": "direct",
+    "note": "定时与即时 App 拦截、使用报告。",
+    "publicURL": "https://apps.apple.com/us/app/digital-detox-app-blocker/id6749869519?uo=4",
+    "descriptionChecked": true,
+    "publicReleaseDate": "2026-05-15T07:00:00Z",
+    "descriptionSHA256": "ef9b61529f61a774f460286ae1bde3d8b067e0102455ae88f11d355fd66a4a95",
+    "evidence": "Public App Store description, not a device test"
+  },
+  "6787695392": {
+    "scope": "direct",
+    "note": "App 立即锁、定时锁、每日用量阈值锁。",
+    "publicURL": "https://apps.apple.com/us/app/app-blocker-lockkun/id6787695392?uo=4",
+    "descriptionChecked": true,
+    "publicReleaseDate": "2026-08-06T07:00:00Z",
+    "descriptionSHA256": "ee1f1e6228e079aef08e5c625acbae448692053855ce0d11644b9bbab0099f05",
+    "evidence": "Public App Store description, not a device test"
+  },
+  "6761280235": {
+    "scope": "direct",
+    "note": "App 拦截与专注规则；不把 detox 作为医疗功效。",
+    "publicURL": "https://apps.apple.com/us/app/the-reset-screen-time-control/id6761280235?uo=4",
+    "descriptionChecked": true,
+    "publicReleaseDate": "2026-04-16T07:00:00Z",
+    "descriptionSHA256": "a19570aef2304558d6013516bced0271ba0f4384a3d668acfffb2a249e8df86a",
+    "evidence": "Public App Store description, not a device test"
+  },
+  "6806876559": {
+    "scope": "direct",
+    "note": "整 App 定时拦截，以目标和累计专注时间表达收益。",
+    "publicURL": "https://apps.apple.com/us/app/focus-app-blocker-lockdown/id6806876559?uo=4",
+    "descriptionChecked": true,
+    "publicReleaseDate": "2026-09-16T07:00:00Z",
+    "descriptionSHA256": "5309a8c2c7ac3be30a9198dc0bbca384cf90a0d702004a6eebb02acd6d6fe251",
+    "evidence": "Public App Store description, not a device test"
+  },
+  "6759315272": {
+    "scope": "related",
+    "note": "App 限额加内置浏览器；其中移除 Reels 功能不属于我们。",
+    "publicURL": "https://apps.apple.com/us/app/relockin-app-limits-browser/id6759315272?uo=4",
+    "descriptionChecked": true,
+    "publicReleaseDate": "2026-04-13T07:00:00Z",
+    "descriptionSHA256": "395356307d70d0ff435944d35c816e7c2f7c7bdd88669f866e127c47d0621877",
+    "evidence": "Public App Store description, not a device test"
+  },
+  "6748807463": {
+    "scope": "direct",
+    "note": "即时与定时拦截、每日共享限额、临时通行。",
+    "publicURL": "https://apps.apple.com/us/app/screen-time-control-paused/id6748807463?uo=4",
+    "descriptionChecked": true,
+    "publicReleaseDate": "2026-09-13T07:00:00Z",
+    "descriptionSHA256": "be92bf834957c5a83eca499d52f136f7e979bdcd96167d374c727031bf4ff875",
+    "evidence": "Public App Store description, not a device test"
+  },
+  "6834225631": {
+    "scope": "direct",
+    "note": "App 限额、拦截与专注时段；仅有公开描述，未实测。",
+    "publicURL": "https://apps.apple.com/us/app/screen-time-control-focus-app/id6834225631?uo=4",
+    "descriptionChecked": true,
+    "publicReleaseDate": "2026-11-16T08:00:00Z",
+    "descriptionSHA256": "b460e4121ea59faec67f723aa698b9d1b7bc53fd4e7bee82c3c26854fb5e3952",
+    "evidence": "Public App Store description, not a device test"
+  },
+  "6768861415": {
+    "scope": "related",
+    "note": "整 App 拦截，以 NFC/二维码/地点主动解锁。",
+    "publicURL": "https://apps.apple.com/us/app/normal-screen-time-control/id6768861415?uo=4",
+    "descriptionChecked": true,
+    "publicReleaseDate": "2026-05-16T07:00:00Z",
+    "descriptionSHA256": "6baf9519ac747ff89b11760d2a902ae6ca49f63c57ca8195e54703073feea728",
+    "evidence": "Public App Store description, not a device test"
+  },
+  "6818806667": {
+    "scope": "related",
+    "note": "学习计时器，锁 App 作为专注机制；不是刷屏后休息。",
+    "publicURL": "https://apps.apple.com/us/app/iglo-study-timer/id6818806667?uo=4",
+    "descriptionChecked": true,
+    "publicReleaseDate": "2026-10-12T07:00:00Z",
+    "descriptionSHA256": "9814bda69bdd834e7a3d4b8a87d0776b1c3b939aacbcbb979220f94771a5fea6",
+    "evidence": "Public App Store description, not a device test"
+  },
+  "6761388724": {
+    "scope": "direct",
+    "note": "描述主张连续使用后休息；实现与连续识别能力未验证。",
+    "publicURL": "https://apps.apple.com/us/app/screen-time-control-pausi/id6761388724?uo=4",
+    "descriptionChecked": true,
+    "publicReleaseDate": "2026-05-08T07:00:00Z",
+    "descriptionSHA256": "4f44417a38c772e720633ef97b16d6825b1e14887b5042c232c1a2a17c1de4bd",
+    "evidence": "Public App Store description, not a device test"
+  },
+  "6819562117": {
+    "scope": "direct",
+    "note": "角色监督，使用累积后警告和锁 App；动态岛与声音不是我们的能力。",
+    "publicURL": "https://apps.apple.com/us/app/gamijii-screen-time-grandpa/id6819562117?uo=4",
+    "descriptionChecked": true,
+    "publicReleaseDate": "2026-10-09T07:00:00Z",
+    "descriptionSHA256": "82995e859e115c16f7b4cb7364c0185d7ce5352f10726b46929b3d18f9cf078f",
+    "evidence": "Public App Store description, not a device test"
+  },
+  "6769819246": {
+    "scope": "related",
+    "note": "进入 App 前展示目标提醒，不等于到点强制休息。",
+    "publicURL": "https://apps.apple.com/us/app/screen-time-control-goallock/id6769819246?uo=4",
+    "descriptionChecked": true,
+    "publicReleaseDate": "2026-05-22T07:00:00Z",
+    "descriptionSHA256": "fd78b4c2b46ca855af70d0070940928c84ba224344fb744244bbbbe46ce90297",
+    "evidence": "Public App Store description, not a device test"
+  },
+  "6792533301": {
+    "scope": "related",
+    "note": "打开前提醒与文字确认；不是我们的用量到点锁。",
+    "publicURL": "https://apps.apple.com/us/app/really-screen-time-blocker/id6792533301?uo=4",
+    "descriptionChecked": true,
+    "publicReleaseDate": "2026-07-29T07:00:00Z",
+    "descriptionSHA256": "43c62b3df529bff67c74a5380ed4f07336aae2c1ec0dafc01aecc8c590240296",
+    "evidence": "Public App Store description, not a device test"
+  },
+  "6815957929": {
+    "scope": "related",
+    "note": "App 使用预算，运动与学习可换更多分钟。",
+    "publicURL": "https://apps.apple.com/us/app/screencard-screen-time/id6815957929?uo=4",
+    "descriptionChecked": true,
+    "publicReleaseDate": "2026-10-01T07:00:00Z",
+    "descriptionSHA256": "c458736147f3c0f87a476d72f59a9d57c39e149f64d41823d2c2370d58b9bc36",
+    "evidence": "Public App Store description, not a device test"
+  },
+  "6757661674": {
+    "scope": "adjacent",
+    "note": "以浏览体验移除短视频和推荐流，不是整 App 到点拦截。",
+    "publicURL": "https://apps.apple.com/us/app/sociallite-block-reels-shorts/id6757661674?uo=4",
+    "descriptionChecked": true,
+    "publicReleaseDate": "2026-01-29T08:00:00Z",
+    "descriptionSHA256": "9dbd89f368c17dc50b7187fccb2c303ea2893d4ea389e2290954ac38e87b7144",
+    "evidence": "Public App Store description, not a device test"
+  },
+  "6809352229": {
+    "scope": "adjacent",
+    "note": "以移除 Reels/Shorts 为主；不能承诺我们也能保留私信。",
+    "publicURL": "https://apps.apple.com/us/app/minulo-block-reels-shorts/id6809352229?uo=4",
+    "descriptionChecked": true,
+    "publicReleaseDate": "2026-09-10T07:00:00Z",
+    "descriptionSHA256": "4695974971c3f7b959419f96bc581f5677fd2ec388bbf598b7d0db59148c221e",
+    "evidence": "Public App Store description, not a device test"
+  },
+  "6754183872": {
+    "scope": "adjacent",
+    "note": "Safari 过滤社交网页内容，不是原生 App 使用阈值锁。",
+    "publicURL": "https://apps.apple.com/us/app/scrollguard-block-reels/id6754183872?uo=4",
+    "descriptionChecked": true,
+    "publicReleaseDate": "2026-02-10T08:00:00Z",
+    "descriptionSHA256": "f86ed0e555432bea394b8f50474532f41318c3cabc1e1d389bee5024f909e63c",
+    "evidence": "Public App Store description, not a device test"
+  },
+  "6786888937": {
+    "scope": "exclude",
+    "note": "公开说明明确不拦截，只记录长期屏幕时间。",
+    "publicURL": "https://apps.apple.com/us/app/finit-screen-time-life/id6786888937?uo=4",
+    "descriptionChecked": true,
+    "publicReleaseDate": "2026-08-11T07:00:00Z",
+    "descriptionSHA256": "ffb64cc50461e2de5f3c6a5da30aaa1b85edeb8c34155daf1971a20fbe1cd832",
+    "evidence": "Public App Store description, not a device test"
+  },
+  "6811993215": {
+    "scope": "exclude",
+    "note": "面向参加机构的学生，目标与排名；未见 App 拦截能力。",
+    "publicURL": "https://apps.apple.com/us/app/%D7%96%D7%9E%D7%9F-%D7%9E%D7%A1%D7%9A/id6811993215?uo=4",
+    "descriptionChecked": true,
+    "publicReleaseDate": "2026-10-07T07:00:00Z",
+    "descriptionSHA256": "e9efcba23dd98f2117b53c70813d1d56d80a3522fd860f539075d3c430daf6fb",
+    "evidence": "Public App Store description, not a device test"
+  },
+  "6788602363": {
+    "scope": "exclude",
+    "note": "种花专注计时器，未见选定 App 阈值阻断。",
+    "publicURL": "https://apps.apple.com/us/app/focus-pot-study-work-timer/id6788602363?uo=4",
+    "descriptionChecked": true,
+    "publicReleaseDate": "2026-08-07T07:00:00Z",
+    "descriptionSHA256": "0b90702833100cc82286febd848c3201866259ae3abe66b450ce83052af3631c",
+    "evidence": "Public App Store description, not a device test"
+  },
+  "6790097515": {
+    "scope": "mixed",
+    "note": "隐私保护与屏幕时间混合，私密相册不是我们的搜索意图。",
+    "publicURL": "https://apps.apple.com/us/app/zenvault-screen-time/id6790097515?uo=4",
+    "descriptionChecked": true,
+    "publicReleaseDate": "2026-10-28T07:00:00Z",
+    "descriptionSHA256": "af8380c4928149957eb6dd81b0d9b3b250a89922f92d48ae5ecc5c6620140def",
+    "evidence": "Public App Store description, not a device test"
+  },
+  "6777914542": {
+    "scope": "mixed",
+    "note": "英文描述有专注锁，但当地副标题主打密码锁；不当同类主证据。",
+    "publicURL": "https://apps.apple.com/us/app/app-lock-block-apps/id6777914542?uo=4",
+    "descriptionChecked": true,
+    "publicReleaseDate": "2026-06-23T07:00:00Z",
+    "descriptionSHA256": "efd1dc29e321e7832f358e6b5f1be130db2bc4069cd37a86d2c624161ec54dc1",
+    "evidence": "Public App Store description, not a device test"
+  }
+}

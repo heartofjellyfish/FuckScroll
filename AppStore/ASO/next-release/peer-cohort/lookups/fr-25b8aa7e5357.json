@@ -1,0 +1,27 @@
+{
+  "requestURL": "https://itunes.apple.com/lookup?id=6756646152&country=fr",
+  "resultCount": 1,
+  "apps": [
+    {
+      "trackViewUrl": "https://apps.apple.com/fr/app/moments-temps-d%C3%A9cran-focus/id6756646152?uo=4",
+      "averageUserRating": 4.80192,
+      "artistId": 1862078027,
+      "artistName": "Cesar Bonte",
+      "genres": [
+        "Productivité",
+        "Forme et santé"
+      ],
+      "price": 0.0,
+      "releaseDate": "2026-02-10T08:00:00Z",
+      "primaryGenreName": "Productivity",
+      "trackId": 6756646152,
+      "trackName": "Moments: Temps d'écran & Focus",
+      "currentVersionReleaseDate": "2026-11-16T16:19:25Z",
+      "version": "1.2.8",
+      "currency": "EUR",
+      "bundleId": "com.cesarbonte.moment",
+      "userRatingCount": 313,
+      "descriptionSHA256": "1679221be79466a6ae779a933eca0b1aa1685f90b3c163e0701c9512ee259dac"
+    }
+  ]
+}

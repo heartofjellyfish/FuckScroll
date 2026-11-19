@@ -1,0 +1,857 @@
+[
+  {
+    "store": "af",
+    "keyword": "app blocker",
+    "evidenceType": "catalog",
+    "apps": [
+      {
+        "trackViewUrl": "https://apps.apple.com/af/app/refocus-app-blocker-lock/id1645639057?uo=4",
+        "averageUserRating": 3.75,
+        "artistId": 455469767,
+        "artistName": "Labi, LLC",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "releaseDate": "2022-09-22T07:00:00Z",
+        "trackId": 1645639057,
+        "trackName": "Refocus: App Blocker & Lock",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-18T15:32:47Z",
+        "version": "2.2.11",
+        "currency": "USD",
+        "bundleId": "com.refocus.refocus",
+        "userRatingCount": 4,
+        "descriptionSHA256": "31bd6049418a698d36c61b2eafbe2ca02a56d8aa24878c1963caa5895db876a1"
+      },
+      {
+        "trackViewUrl": "https://apps.apple.com/af/app/one-sec-screen-time-focus/id1532875441?uo=4",
+        "averageUserRating": 4,
+        "artistId": 517545753,
+        "artistName": "riedel.wtf apps S.L.",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "releaseDate": "2020-09-29T07:00:00Z",
+        "trackId": 1532875441,
+        "trackName": "one sec | screen time + focus",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-14T18:42:34Z",
+        "version": "6.1.3",
+        "currency": "USD",
+        "bundleId": "wtf.riedel.one-sec",
+        "userRatingCount": 4,
+        "descriptionSHA256": "7458286eeec2edf883eec2f9abc49582f9924be2e29f484b82b1014b4b2a0462"
+      },
+      {
+        "trackViewUrl": "https://apps.apple.com/af/app/screenzen-screen-time-control/id1541027222?uo=4",
+        "averageUserRating": 5,
+        "artistId": 1541021087,
+        "artistName": "ScreenZen LLC",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "releaseDate": "2021-07-16T07:00:00Z",
+        "trackId": 1541027222,
+        "trackName": "ScreenZen- Screen Time Control",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-09-06T14:20:14Z",
+        "version": "4.0.0",
+        "currency": "USD",
+        "bundleId": "com.scottharvey.screenzenapp.ios",
+        "userRatingCount": 3,
+        "descriptionSHA256": "def0cb7cf41c8f7b1619d270d38fe8aa23859b81147ae63a1041bc0a1b7f8cc8"
+      },
+      {
+        "trackViewUrl": "https://apps.apple.com/af/app/opal-screen-time-control/id1497465230?uo=4",
+        "averageUserRating": 4.33333,
+        "artistId": 1497465229,
+        "artistName": "Opal OS",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "trackId": 1497465230,
+        "trackName": "Opal: Screen Time Control",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "version": "4.24",
+        "currency": "USD",
+        "bundleId": "com.withopal.opal",
+        "userRatingCount": 15,
+        "descriptionSHA256": "79545dcfd9d33edf53d3567fc6a6eb5b582561ed18b9d49245fbff4af0417656"
+      },
+      {
+        "trackViewUrl": "https://apps.apple.com/af/app/focus-plant-forest-app-blocker/id1459096306?uo=4",
+        "averageUserRating": 5,
+        "artistId": 1089497060,
+        "artistName": "Shikudo",
+        "genres": [
+          "Productivity",
+          "Games",
+          "Simulation",
+          "Casual"
+        ],
+        "price": 0.0,
+        "releaseDate": "2020-04-10T07:00:00Z",
+        "trackId": 1459096306,
+        "trackName": "Focus Plant：forest app blocker",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-14T00:10:28Z",
+        "version": "4.6.3",
+        "currency": "USD",
+        "bundleId": "com.shikudo.focus",
+        "userRatingCount": 1,
+        "descriptionSHA256": "fe05cd0e5d57fda1dd718d682f963e8ebc60dcf414c417b33b853ed6df9bd015"
+      },
+      {
+        "trackViewUrl": "https://apps.apple.com/af/app/detoxlock-extreme-app-blocker/id6504188981?uo=4",
+        "averageUserRating": 5,
+        "artistId": 6778238900,
+        "artistName": "OnOff Labs",
+        "genres": [
+          "Productivity",
+          "Utilities"
+        ],
+        "price": 0.0,
+        "releaseDate": "2024-07-24T07:00:00Z",
+        "trackId": 6504188981,
+        "trackName": "DetoxLock: Extreme App Blocker",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-12T07:35:43Z",
+        "version": "2.46.0",
+        "currency": "USD",
+        "bundleId": "pony.tothemoon.Cold.Turkey",
+        "userRatingCount": 1,
+        "descriptionSHA256": "4a1e70fbb0c1b546c98caad5f3f7df84dcff2ba0177a1469324f271124e1edf7"
+      },
+      {
+        "trackViewUrl": "https://apps.apple.com/af/app/pushup-time-app-blocker/id6749405784?uo=4",
+        "averageUserRating": 4.8,
+        "artistId": 1812945569,
+        "artistName": "KAMAN LABS LLC",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "releaseDate": "2025-09-12T07:00:00Z",
+        "trackId": 6749405784,
+        "trackName": "PushUp Time: App Blocker",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-13T22:27:44Z",
+        "version": "3.5.1",
+        "currency": "USD",
+        "bundleId": "com.pushuptime.PushUpTime",
+        "userRatingCount": 5,
+        "descriptionSHA256": "381d3e9ca6df467e24b76b910052b08c42e30d138369d7f7d0c987a61ca8892c"
+      },
+      {
+        "trackViewUrl": "https://apps.apple.com/af/app/blocksite-block-apps-focus/id1474967653?uo=4",
+        "averageUserRating": 4.83333,
+        "artistId": 1546615225,
+        "artistName": "BlockSite LP",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "releaseDate": "2020-04-14T07:00:00Z",
+        "trackId": 1474967653,
+        "trackName": "BlockSite: Block Apps & Focus",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-10-18T07:41:00Z",
+        "version": "4.4.5",
+        "currency": "USD",
+        "bundleId": "co.ios.BlockSite",
+        "userRatingCount": 6,
+        "descriptionSHA256": "3eb447725c9fc35e830b2ea7ff4f799cbbf9f0a174fb4879e2041c2cb7805265"
+      },
+      {
+        "trackViewUrl": "https://apps.apple.com/af/app/app-lock-applock/id6777914542?uo=4",
+        "averageUserRating": 0,
+        "artistId": 1643161885,
+        "artistName": "宝锋 张",
+        "genres": [
+          "Productivity"
+        ],
+        "price": 0.0,
+        "releaseDate": "2026-06-23T07:00:00Z",
+        "trackId": 6777914542,
+        "trackName": "App Lock - AppLock .",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-07-21T21:55:13Z",
+        "version": "1.0.3",
+        "currency": "USD",
+        "bundleId": "com.zhang.lockapps",
+        "userRatingCount": 0,
+        "descriptionSHA256": "efd1dc29e321e7832f358e6b5f1be130db2bc4069cd37a86d2c624161ec54dc1"
+      },
+      {
+        "trackViewUrl": "https://apps.apple.com/af/app/appblock-app-site-blocker/id1515753232?uo=4",
+        "averageUserRating": 3.66667,
+        "artistId": 998289700,
+        "artistName": "MobileSoft s.r.o.",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "releaseDate": "2021-08-17T07:00:00Z",
+        "trackId": 1515753232,
+        "trackName": "AppBlock: App & Site Blocker",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-11T10:48:39Z",
+        "version": "4.14.1",
+        "currency": "USD",
+        "bundleId": "eu.mobilesoft.appblock",
+        "userRatingCount": 3,
+        "descriptionSHA256": "f4e2257d9c85cbaf9cd8496ddc82a9a5d41b2e0440020c527d8b3b8c4bbe4236"
+      },
+      {
+        "trackViewUrl": "https://apps.apple.com/af/app/whatsapp-messenger/id310633997?uo=4",
+        "averageUserRating": 4.38384,
+        "artistId": 310634000,
+        "artistName": "WhatsApp Inc.",
+        "genres": [
+          "Social Networking",
+          "Utilities"
+        ],
+        "price": 0.0,
+        "releaseDate": "2020-04-10T07:00:00Z",
+        "trackId": 310633997,
+        "trackName": "WhatsApp Messenger",
+        "primaryGenreName": "Social Networking",
+        "currentVersionReleaseDate": "2026-11-15T12:50:07Z",
+        "version": "26.45.75",
+        "currency": "USD",
+        "bundleId": "net.whatsapp.WhatsApp",
+        "userRatingCount": 40783,
+        "descriptionSHA256": "bb83ab014fedddca5b50dfacf164cd10dea5ff40d543397916afa82d0d87ffab"
+      },
+      {
+        "trackViewUrl": "https://apps.apple.com/af/app/app-blocker-screen-time/id6456942073?uo=4",
+        "averageUserRating": 0,
+        "artistId": 734250368,
+        "artistName": "Deebex Tech Ltd.",
+        "genres": [
+          "Productivity"
+        ],
+        "price": 0.0,
+        "releaseDate": "2023-10-10T07:00:00Z",
+        "trackId": 6456942073,
+        "trackName": "App Blocker - Screen Time",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-08-13T00:04:05Z",
+        "version": "3.0.1",
+        "currency": "USD",
+        "bundleId": "com.idreamdesign.screen",
+        "userRatingCount": 0,
+        "descriptionSHA256": "97f0576b3c2db9b58153d327b549d41dd39cce7ace43d700c29f2becd85cf727"
+      },
+      {
+        "trackViewUrl": "https://apps.apple.com/af/app/app-lock-lock-apps-photos/id1569973513?uo=4",
+        "averageUserRating": 4.46783,
+        "artistId": 1788511975,
+        "artistName": "Muhammet Yalcın Ozdemir Halil Ibrahim Karahan Mustafa Ayten Kupertino Bilisim Yazılım K.S",
+        "genres": [
+          "Utilities",
+          "Productivity"
+        ],
+        "price": 0.0,
+        "releaseDate": "2021-06-12T07:00:00Z",
+        "trackId": 1569973513,
+        "trackName": "App Lock - Lock Apps & Photos",
+        "primaryGenreName": "Utilities",
+        "currentVersionReleaseDate": "2026-09-25T07:10:51Z",
+        "version": "2.2.4",
+        "currency": "USD",
+        "bundleId": "co.appnation.applocker",
+        "userRatingCount": 575,
+        "descriptionSHA256": "7ba2ea3794744905bae3c370c1d34f9ff79f824d3ed6e187d44098d261070cc2"
+      },
+      {
+        "trackViewUrl": "https://apps.apple.com/af/app/messenger/id454638411?uo=4",
+        "averageUserRating": 4.46718,
+        "artistId": 284882218,
+        "artistName": "Meta Platforms, Inc.",
+        "genres": [
+          "Social Networking",
+          "Productivity"
+        ],
+        "price": 0.0,
+        "releaseDate": "2020-04-10T07:00:00Z",
+        "trackId": 454638411,
+        "trackName": "Messenger",
+        "primaryGenreName": "Social Networking",
+        "currentVersionReleaseDate": "2026-11-15T11:07:02Z",
+        "version": "588.0.0",
+        "currency": "USD",
+        "bundleId": "com.facebook.Messenger",
+        "userRatingCount": 9005,
+        "descriptionSHA256": "880dc5747f24658997557eaf5742b74a4f323ec723438c9d1221293e7315235d"
+      },
+      {
+        "trackViewUrl": "https://apps.apple.com/af/app/parental-control-app-airdroid/id1525339567?uo=4",
+        "averageUserRating": 4.59999,
+        "artistId": 1501289782,
+        "artistName": "SAND STUDIO CORPORATION LIMITED",
+        "genres": [
+          "Lifestyle",
+          "Utilities"
+        ],
+        "price": 0.0,
+        "releaseDate": "2022-06-07T07:00:00Z",
+        "trackId": 1525339567,
+        "trackName": "Parental Control App: AirDroid",
+        "primaryGenreName": "Lifestyle",
+        "currentVersionReleaseDate": "2026-11-05T07:26:27Z",
+        "version": "2.9.0",
+        "currency": "USD",
+        "bundleId": "com.sandstudio.cp-parent",
+        "userRatingCount": 5,
+        "descriptionSHA256": "18446f1ada558f9ec9ead3ac3b01a6450501aff9845be108fa47dd8b2c233621"
+      },
+      {
+        "trackViewUrl": "https://apps.apple.com/af/app/app-lock-switch-off/id6748096354?uo=4",
+        "averageUserRating": 0,
+        "artistId": 1779562444,
+        "artistName": "Capycreative Technology Inc",
+        "genres": [
+          "Productivity",
+          "Utilities"
+        ],
+        "price": 0.0,
+        "releaseDate": "2025-07-18T07:00:00Z",
+        "trackId": 6748096354,
+        "trackName": "App Lock: Switch Off",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2025-08-04T14:16:23Z",
+        "version": "1.0.2",
+        "currency": "USD",
+        "bundleId": "com.antoniomozelli.App-Blocker",
+        "userRatingCount": 0,
+        "descriptionSHA256": "0fd8c27c433cb833614464bd064f9346722ef9f9f9724e885184a6f466efaf37"
+      },
+      {
+        "trackViewUrl": "https://apps.apple.com/af/app/app-lock-invis-appblock/id1672223963?uo=4",
+        "averageUserRating": 4.5,
+        "artistId": 1539395142,
+        "artistName": "亚娟 秦",
+        "genres": [
+          "Utilities",
+          "Productivity"
+        ],
+        "price": 0.0,
+        "releaseDate": "2023-04-12T07:00:00Z",
+        "trackId": 1672223963,
+        "trackName": "App Lock - Invis AppBlock",
+        "primaryGenreName": "Utilities",
+        "currentVersionReleaseDate": "2025-10-28T13:26:59Z",
+        "version": "3.1.1",
+        "currency": "USD",
+        "bundleId": "com.qyj.invis",
+        "userRatingCount": 2,
+        "descriptionSHA256": "1a8ff022c431a01fdc4c412d70243d0ac289deab94d61ac15bb59e13bf757981"
+      },
+      {
+        "trackViewUrl": "https://apps.apple.com/af/app/%E5%BA%94%E7%94%A8%E9%94%81-%E8%BD%AF%E4%BB%B6%E9%94%81-%E7%A7%81%E5%AF%86%E7%9B%B8%E5%86%8C-%E6%89%8B%E6%9C%BA%E4%BD%BF%E7%94%A8%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86-%E8%B6%85%E7%BA%A7%E5%BA%94%E7%94%A8%E9%94%81/id6476949191?uo=4",
+        "averageUserRating": 5,
+        "artistId": 1728363698,
+        "artistName": "Safe App, Inc.",
+        "genres": [
+          "Utilities",
+          "Lifestyle"
+        ],
+        "price": 0.0,
+        "releaseDate": "2024-04-09T07:00:00Z",
+        "trackId": 6476949191,
+        "trackName": "应用锁,软件锁,私密相册,手机使用时间管理:超级应用锁",
+        "primaryGenreName": "Utilities",
+        "currentVersionReleaseDate": "2024-11-01T01:16:34Z",
+        "version": "1.4.3",
+        "currency": "USD",
+        "bundleId": "com.safeapp.superapplock",
+        "userRatingCount": 3,
+        "descriptionSHA256": "a9b2d196f43c81b834ea69ffce0ce529581d6e4bd0128a905e4c8899f9ecb351"
+      },
+      {
+        "trackViewUrl": "https://apps.apple.com/af/app/app-lock-hide-app-lock-app/id6670211196?uo=4",
+        "averageUserRating": 0,
+        "artistId": 1746507294,
+        "artistName": "Pinal Goti",
+        "genres": [
+          "Utilities",
+          "Productivity"
+        ],
+        "price": 0.0,
+        "releaseDate": "2024-09-18T07:00:00Z",
+        "trackId": 6670211196,
+        "trackName": "App Lock : Hide App & Lock App",
+        "primaryGenreName": "Utilities",
+        "currentVersionReleaseDate": "2024-09-20T19:15:23Z",
+        "version": "1.1",
+        "currency": "USD",
+        "bundleId": "pg.gauapplockhide.com",
+        "userRatingCount": 0,
+        "descriptionSHA256": "fc414930729564c9c5ceb72b01120c16fce02216ecf73401731196ae0a16cfd4"
+      },
+      {
+        "trackViewUrl": "https://apps.apple.com/af/app/screen-time-limit-app-blocker/id6449219142?uo=4",
+        "averageUserRating": 0,
+        "artistId": 1807587134,
+        "artistName": "Salix Labs LLC",
+        "genres": [
+          "Productivity",
+          "Lifestyle"
+        ],
+        "price": 0.0,
+        "releaseDate": "2023-08-29T07:00:00Z",
+        "trackId": 6449219142,
+        "trackName": "Screen Time Limit: App Blocker",
+        "primaryGenreName": "Productivity",
+        "currentVersionReleaseDate": "2026-11-16T08:06:25Z",
+        "version": "26.11.2",
+        "currency": "USD",
+        "bundleId": "com.worldbestmobileapps.focusmode",
+        "userRatingCount": 0,
+        "descriptionSHA256": "6b4f739a2f7bd1047cc24cc57625735c777be7d0fb0065d0bd7862ec137515b0"
+      }
+    ],
+    "error": null,
+    "source": "peer-cohort/discovery/af/8567eb89892e.json"
+  },
+  {
+    "store": "af",
+    "keyword": "screen time",
+    "evidenceType": "catalog",
+    "apps": [
+      {
+        "artistId": 1541021087,
+        "artistName": "ScreenZen LLC",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2021-07-16T07:00:00Z",
+        "trackId": 1541027222,
+        "trackName": "ScreenZen- Screen Time Control",
+        "currentVersionReleaseDate": "2026-09-06T14:20:14Z",
+        "version": "4.0.0",
+        "currency": "USD",
+        "bundleId": "com.scottharvey.screenzenapp.ios",
+        "averageUserRating": 5,
+        "trackViewUrl": "https://apps.apple.com/af/app/screenzen-screen-time-control/id1541027222?uo=4",
+        "userRatingCount": 3,
+        "descriptionSHA256": "def0cb7cf41c8f7b1619d270d38fe8aa23859b81147ae63a1041bc0a1b7f8cc8"
+      },
+      {
+        "artistId": 1497465229,
+        "artistName": "Opal OS",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2020-12-15T08:00:00Z",
+        "trackId": 1497465230,
+        "trackName": "Opal: Screen Time Control",
+        "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+        "version": "4.24",
+        "currency": "USD",
+        "bundleId": "com.withopal.opal",
+        "averageUserRating": 4.33333,
+        "trackViewUrl": "https://apps.apple.com/af/app/opal-screen-time-control/id1497465230?uo=4",
+        "userRatingCount": 15,
+        "descriptionSHA256": "79545dcfd9d33edf53d3567fc6a6eb5b582561ed18b9d49245fbff4af0417656"
+      },
+      {
+        "artistId": 1055315076,
+        "artistName": "Screen Time Labs",
+        "genres": [
+          "Lifestyle",
+          "Productivity"
+        ],
+        "price": 0.0,
+        "primaryGenreName": "Lifestyle",
+        "releaseDate": "2020-04-10T07:00:00Z",
+        "trackId": 1055315077,
+        "trackName": "Screen Time Parental Control",
+        "currentVersionReleaseDate": "2022-12-07T13:43:25Z",
+        "version": "3.72",
+        "currency": "USD",
+        "bundleId": "com.screentime",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/af/app/screen-time-parental-control/id1055315077?uo=4",
+        "userRatingCount": 0,
+        "descriptionSHA256": "4304fa45bc672e931bb3f98d3b8232f55d3f776c5eb880d3d113c7227a932ad6"
+      },
+      {
+        "artistId": 517545753,
+        "artistName": "riedel.wtf apps S.L.",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2020-09-29T07:00:00Z",
+        "trackId": 1532875441,
+        "trackName": "one sec | screen time + focus",
+        "currentVersionReleaseDate": "2026-11-14T18:42:34Z",
+        "version": "6.1.3",
+        "currency": "USD",
+        "bundleId": "wtf.riedel.one-sec",
+        "averageUserRating": 4,
+        "trackViewUrl": "https://apps.apple.com/af/app/one-sec-screen-time-focus/id1532875441?uo=4",
+        "userRatingCount": 4,
+        "descriptionSHA256": "7458286eeec2edf883eec2f9abc49582f9924be2e29f484b82b1014b4b2a0462"
+      },
+      {
+        "artistId": 1633101066,
+        "artistName": "Jack Finnis",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2024-12-17T08:00:00Z",
+        "trackId": 6738397686,
+        "trackName": "Screen Time Tracker",
+        "currentVersionReleaseDate": "2025-10-21T22:49:43Z",
+        "version": "2.1",
+        "currency": "USD",
+        "bundleId": "com.jackfinnis.ScreenTimeTracker",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/af/app/screen-time-tracker/id6738397686?uo=4",
+        "userRatingCount": 0,
+        "descriptionSHA256": "818e2b4d99d866d797722d84f7e4cb5f38639db2d2e8c74030a03e53a20ba82b"
+      },
+      {
+        "artistId": 1438854445,
+        "artistName": "MD Studio",
+        "genres": [
+          "Health & Fitness",
+          "Productivity"
+        ],
+        "price": 0.0,
+        "primaryGenreName": "Health & Fitness",
+        "releaseDate": "2020-04-10T07:00:00Z",
+        "trackId": 1474340105,
+        "trackName": "OffScreen: Screen Time Control",
+        "currentVersionReleaseDate": "2026-11-16T15:54:59Z",
+        "version": "3.22.6",
+        "currency": "USD",
+        "bundleId": "tech.miidii.off-screen",
+        "averageUserRating": 5,
+        "trackViewUrl": "https://apps.apple.com/af/app/offscreen-screen-time-control/id1474340105?uo=4",
+        "userRatingCount": 3,
+        "descriptionSHA256": "079a343ef3820f7b726bc6a79a3cc60eb0f9faf0dc1070c1af73e61123346c28"
+      },
+      {
+        "artistId": 1817356840,
+        "artistName": "Unrot OÜ",
+        "genres": [
+          "Productivity"
+        ],
+        "price": 0.0,
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2025-06-04T07:00:00Z",
+        "trackId": 6746537171,
+        "trackName": "Unrot: Earn your Screen Time",
+        "currentVersionReleaseDate": "2026-11-17T23:57:22Z",
+        "version": "5.0.1",
+        "currency": "USD",
+        "bundleId": "com.unrotou.unrot",
+        "averageUserRating": 5,
+        "trackViewUrl": "https://apps.apple.com/af/app/unrot-earn-your-screen-time/id6746537171?uo=4",
+        "userRatingCount": 1,
+        "descriptionSHA256": "12adff6dd116c1ee691ffdde6965edfdf9a3d682b6fdc4a3214199fc9ce2beea"
+      },
+      {
+        "artistId": 1807171666,
+        "artistName": "Smolworks Inc",
+        "genres": [
+          "Productivity",
+          "Utilities"
+        ],
+        "price": 0.0,
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2025-05-20T07:00:00Z",
+        "trackId": 6744338972,
+        "trackName": "Brainrot: Screen Time Control",
+        "currentVersionReleaseDate": "2026-11-10T01:03:44Z",
+        "version": "2.0.14",
+        "currency": "USD",
+        "bundleId": "smobiz.brainrot",
+        "averageUserRating": 4.75,
+        "trackViewUrl": "https://apps.apple.com/af/app/brainrot-screen-time-control/id6744338972?uo=4",
+        "userRatingCount": 4,
+        "descriptionSHA256": "fdd84f5e733ba69c5d0a9a6e1a087401d7736a33f153ecfdce5a57ca441eb6e3"
+      },
+      {
+        "artistId": 1653276930,
+        "artistName": "clearspace",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2021-07-24T07:00:00Z",
+        "trackId": 1572515807,
+        "trackName": "ClearSpace: Reduce Screen Time",
+        "currentVersionReleaseDate": "2026-11-09T20:51:21Z",
+        "version": "2.7.6",
+        "currency": "USD",
+        "bundleId": "com.betteryes.clearspace",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/af/app/clearspace-reduce-screen-time/id1572515807?uo=4",
+        "userRatingCount": 0,
+        "descriptionSHA256": "71a31af6283b4056c69999da0d780d76bcaa0eba99d12ae5f8c54e056bd2ef6a"
+      },
+      {
+        "artistId": 960372430,
+        "artistName": "Eighty Percent Solutions",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2020-04-10T07:00:00Z",
+        "trackId": 1269788228,
+        "trackName": "Freedom: Screen Time Control",
+        "currentVersionReleaseDate": "2026-11-16T09:29:02Z",
+        "version": "7.19",
+        "currency": "USD",
+        "bundleId": "to.freedom.FreedomBlocker",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/af/app/freedom-screen-time-control/id1269788228?uo=4",
+        "userRatingCount": 0,
+        "descriptionSHA256": "55cb1e67c17645d5e6f906f6d5509986c150ceff44338479e384ecdee45d8b5e"
+      },
+      {
+        "artistId": 1677043920,
+        "artistName": "文 熊",
+        "genres": [
+          "Productivity",
+          "Utilities"
+        ],
+        "price": 0.0,
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2023-05-08T07:00:00Z",
+        "trackId": 6446263551,
+        "trackName": "XLocker - Screen Time Limit",
+        "currentVersionReleaseDate": "2024-10-25T18:57:31Z",
+        "version": "1.3",
+        "currency": "USD",
+        "bundleId": "com.magicplugin.offscreen.mask.ios",
+        "averageUserRating": 5,
+        "trackViewUrl": "https://apps.apple.com/af/app/xlocker-screen-time-limit/id6446263551?uo=4",
+        "userRatingCount": 1,
+        "descriptionSHA256": "dbbb78670248f40bc2c3917726bd4292331c74ab81754d54d1c9606f11efb8af"
+      },
+      {
+        "artistId": 1676061700,
+        "artistName": "Lilucat",
+        "genres": [
+          "Productivity"
+        ],
+        "price": 0.0,
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2026-02-04T08:00:00Z",
+        "trackId": 6758152591,
+        "trackName": "Screen Time Control App",
+        "currentVersionReleaseDate": "2026-02-05T10:46:49Z",
+        "version": "1.0.1",
+        "currency": "USD",
+        "bundleId": "com.lilucat.screentimecontrolapp",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/af/app/screen-time-control-app/id6758152591?uo=4",
+        "userRatingCount": 0,
+        "descriptionSHA256": "73855fbd83a22d7946f0ce5107729b4028b30b37ce29884fb4ea1b7337a423df"
+      },
+      {
+        "artistId": 6783239280,
+        "artistName": "Nanjing Mairui Software Development Co., Ltd.",
+        "genres": [
+          "Education",
+          "Utilities"
+        ],
+        "price": 0.0,
+        "primaryGenreName": "Education",
+        "releaseDate": "2023-05-15T07:00:00Z",
+        "trackId": 6447595893,
+        "trackName": "XLocker - Control Screen Time",
+        "currentVersionReleaseDate": "2026-11-17T15:58:16Z",
+        "version": "2.0.15",
+        "currency": "USD",
+        "bundleId": "com.omi.utility.app.locker",
+        "averageUserRating": 5,
+        "trackViewUrl": "https://apps.apple.com/af/app/xlocker-control-screen-time/id6447595893?uo=4",
+        "userRatingCount": 2,
+        "descriptionSHA256": "cd14e316e7b03c0b6ad1e7449a66b002cb7bf6803dcd8ea36715d288401d0724"
+      },
+      {
+        "artistId": 734250368,
+        "artistName": "Deebex Tech Ltd.",
+        "genres": [
+          "Productivity"
+        ],
+        "price": 0.0,
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2023-10-10T07:00:00Z",
+        "trackId": 6456942073,
+        "trackName": "App Blocker - Screen Time",
+        "currentVersionReleaseDate": "2026-08-13T00:04:05Z",
+        "version": "3.0.1",
+        "currency": "USD",
+        "bundleId": "com.idreamdesign.screen",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/af/app/app-blocker-screen-time/id6456942073?uo=4",
+        "userRatingCount": 0,
+        "descriptionSHA256": "97f0576b3c2db9b58153d327b549d41dd39cce7ace43d700c29f2becd85cf727"
+      },
+      {
+        "artistId": 1501289782,
+        "artistName": "SAND STUDIO CORPORATION LIMITED",
+        "genres": [
+          "Lifestyle",
+          "Utilities"
+        ],
+        "price": 0.0,
+        "primaryGenreName": "Lifestyle",
+        "releaseDate": "2024-05-06T07:00:00Z",
+        "trackId": 6474373552,
+        "trackName": "AirDroid Kids-Phone Tracker",
+        "currentVersionReleaseDate": "2026-10-12T03:01:06Z",
+        "version": "1.8.3",
+        "currency": "USD",
+        "bundleId": "com.sandstudio.kid-agent",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/af/app/airdroid-kids-phone-tracker/id6474373552?uo=4",
+        "userRatingCount": 0,
+        "descriptionSHA256": "5eed86aed28ae9ab994603427e56422ca1cc88455594368e75821f18d8554354"
+      },
+      {
+        "artistId": 1425190168,
+        "artistName": "Screen Time Control LLC",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2024-08-17T07:00:00Z",
+        "trackId": 6502186144,
+        "trackName": "Screen Time Control-AppBlocker",
+        "currentVersionReleaseDate": "2025-05-30T14:00:54Z",
+        "version": "2.1.3",
+        "currency": "USD",
+        "bundleId": "com.screentimecalendar",
+        "averageUserRating": 5,
+        "trackViewUrl": "https://apps.apple.com/af/app/screen-time-control-appblocker/id6502186144?uo=4",
+        "userRatingCount": 2,
+        "descriptionSHA256": "e1c66b8c89e3e14ae19b26f21ca4bbc78e16b98d5a2d22ed3a9d424b89b12afb"
+      },
+      {
+        "artistId": 455469767,
+        "artistName": "Labi, LLC",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2022-09-22T07:00:00Z",
+        "trackId": 1645639057,
+        "trackName": "Refocus: App Blocker & Lock",
+        "currentVersionReleaseDate": "2026-11-18T15:32:47Z",
+        "version": "2.2.11",
+        "currency": "USD",
+        "bundleId": "com.refocus.refocus",
+        "averageUserRating": 3.75,
+        "trackViewUrl": "https://apps.apple.com/af/app/refocus-app-blocker-lock/id1645639057?uo=4",
+        "userRatingCount": 4,
+        "descriptionSHA256": "31bd6049418a698d36c61b2eafbe2ca02a56d8aa24878c1963caa5895db876a1"
+      },
+      {
+        "artistId": 1719329275,
+        "artistName": "Flipd Apps",
+        "genres": [
+          "Productivity",
+          "Utilities"
+        ],
+        "price": 0.0,
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2020-04-10T07:00:00Z",
+        "trackId": 1494966346,
+        "trackName": "Focus Lock: Block Apps & Focus",
+        "currentVersionReleaseDate": "2026-10-31T17:27:26Z",
+        "version": "2.4.1",
+        "currency": "USD",
+        "bundleId": "com.flipdapp.FullLock",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/af/app/focus-lock-block-apps-focus/id1494966346?uo=4",
+        "userRatingCount": 0,
+        "descriptionSHA256": "7b21be004ae907ab4876d76749573626298480c4de5334f84eb371656ace594f"
+      },
+      {
+        "artistId": 1644737183,
+        "artistName": "Screen Detox Inc",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2022-09-29T07:00:00Z",
+        "trackId": 1644737181,
+        "trackName": "BePresent: Screen Time Tracker",
+        "currentVersionReleaseDate": "2026-11-17T21:48:19Z",
+        "version": "0.18.114",
+        "currency": "USD",
+        "bundleId": "com.getpresentapp.Present",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/af/app/bepresent-screen-time-tracker/id1644737181?uo=4",
+        "userRatingCount": 0,
+        "descriptionSHA256": "9e95923ffd20bc165bc1b53c7661f2d4334ba2865dd171c33d46a18826231bfe"
+      },
+      {
+        "artistId": 1811591290,
+        "artistName": "Computer go beep AB",
+        "genres": [
+          "Productivity",
+          "Health & Fitness"
+        ],
+        "price": 0.0,
+        "primaryGenreName": "Productivity",
+        "releaseDate": "2026-01-05T08:00:00Z",
+        "trackId": 6755110504,
+        "trackName": "Unglue: Screen Time Friend",
+        "currentVersionReleaseDate": "2026-11-18T17:59:16Z",
+        "version": "3.13",
+        "currency": "USD",
+        "bundleId": "com.gbroman.unglue",
+        "averageUserRating": 0,
+        "trackViewUrl": "https://apps.apple.com/af/app/unglue-screen-time-friend/id6755110504?uo=4",
+        "userRatingCount": 0,
+        "descriptionSHA256": "0726dc1d1cee8fb8327b04c4a75376c1463b405d79403700010ddf1ad56e6768"
+      }
+    ],
+    "error": null,
+    "source": "peer-cohort/discovery/af/95492313e9b1.json"
+  }
+]

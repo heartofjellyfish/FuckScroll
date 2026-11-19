@@ -1,0 +1,27 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=timp+de+ecran&country=md&entity=software&limit=20",
+  "resultCount": 1,
+  "apps": [
+    {
+      "currentVersionReleaseDate": "2026-10-21T10:35:29Z",
+      "averageUserRating": 0,
+      "trackViewUrl": "https://apps.apple.com/md/app/pana-la-sange/id6762204162?uo=4",
+      "artistId": 1892665508,
+      "artistName": "FixPixel",
+      "genres": [
+        "Lifestyle",
+        "Health & Fitness"
+      ],
+      "price": 0.0,
+      "bundleId": "com.panalasange.ios",
+      "releaseDate": "2026-10-21T07:00:00Z",
+      "primaryGenreName": "Lifestyle",
+      "version": "1.0.0",
+      "currency": "USD",
+      "trackId": 6762204162,
+      "trackName": "Pana La Sange",
+      "userRatingCount": 0,
+      "descriptionSHA256": "4c00d4d53dbd8dfb85a010b1ea9f0e8b646eb6420a0e7f96e64cea111924cfcc"
+    }
+  ]
+}

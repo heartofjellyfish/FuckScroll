@@ -1,0 +1,27 @@
+{
+  "requestURL": "https://itunes.apple.com/lookup?id=1620377191&country=ru",
+  "resultCount": 1,
+  "apps": [
+    {
+      "artistId": 1469014032,
+      "artistName": "REFRESH, OOO",
+      "genres": [
+        "Образ жизни",
+        "Социальные сети"
+      ],
+      "price": 0.0,
+      "trackId": 1620377191,
+      "trackName": "Где мои дети: Семейный локатор",
+      "releaseDate": "2022-05-31T07:00:00Z",
+      "primaryGenreName": "Lifestyle",
+      "currentVersionReleaseDate": "2026-11-19T06:26:16Z",
+      "version": "2.2.461",
+      "currency": "RUB",
+      "bundleId": "ru.gdemoideti.parent",
+      "averageUserRating": 4.64714,
+      "trackViewUrl": "https://apps.apple.com/ru/app/%D0%B3%D0%B4%D0%B5-%D0%BC%D0%BE%D0%B8-%D0%B4%D0%B5%D1%82%D0%B8-%D1%81%D0%B5%D0%BC%D0%B5%D0%B9%D0%BD%D1%8B%D0%B9-%D0%BB%D0%BE%D0%BA%D0%B0%D1%82%D0%BE%D1%80/id1620377191?uo=4",
+      "userRatingCount": 117990,
+      "descriptionSHA256": "32ab75d3dd5e05e02056c0665c6bc1273b8281e7d8188cb7ed7ce604404d9d6a"
+    }
+  ]
+}

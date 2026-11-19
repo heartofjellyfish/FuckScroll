@@ -1,0 +1,27 @@
+{
+  "requestURL": "https://itunes.apple.com/lookup?id=6791215708&country=jp",
+  "resultCount": 1,
+  "apps": [
+    {
+      "currentVersionReleaseDate": "2026-11-03T07:33:57Z",
+      "averageUserRating": 4.58333,
+      "trackViewUrl": "https://apps.apple.com/jp/app/dopa%E5%8D%92-%E3%82%B9%E3%83%9E%E3%83%9B%E4%BE%9D%E5%AD%98%E3%82%92%E3%82%84%E3%81%95%E3%81%97%E3%81%8F%E5%8D%92%E6%A5%AD/id6791215708?uo=4",
+      "genres": [
+        "ヘルスケア／フィットネス",
+        "ライフスタイル"
+      ],
+      "releaseDate": "2026-08-13T07:00:00Z",
+      "artistId": 6791215710,
+      "artistName": "Atsuya Hanyuda",
+      "price": 0.0,
+      "trackId": 6791215708,
+      "trackName": "DOPA卒 - スマホ依存をやさしく卒業",
+      "primaryGenreName": "Health & Fitness",
+      "version": "1.2.0",
+      "currency": "JPY",
+      "bundleId": "dev.creolab.dopasotsu",
+      "userRatingCount": 12,
+      "descriptionSHA256": "ce9b850c51298db12de0b7e0347e8336b02f06136ae7360625cc6bc74dda326d"
+    }
+  ]
+}

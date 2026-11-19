@@ -1,0 +1,27 @@
+{
+  "requestURL": "https://itunes.apple.com/lookup?id=6502703720&country=jp",
+  "resultCount": 1,
+  "apps": [
+    {
+      "currentVersionReleaseDate": "2026-11-15T23:42:34Z",
+      "artistId": 476236321,
+      "artistName": "JT",
+      "genres": [
+        "ヘルスケア／フィットネス",
+        "ライフスタイル"
+      ],
+      "price": 0.0,
+      "releaseDate": "2026-07-07T07:00:00Z",
+      "bundleId": "jp.momentia.offly",
+      "averageUserRating": 3.84536,
+      "trackViewUrl": "https://apps.apple.com/jp/app/offly-%E3%82%B9%E3%83%9E%E3%83%9B%E3%81%AE%E4%BD%BF%E3%81%84%E9%81%8E%E3%81%8E%E9%98%B2%E6%AD%A2-%E9%9B%86%E4%B8%AD%E5%8A%9B%E5%90%91%E4%B8%8A-%E5%81%A5%E5%BA%B7%E7%AE%A1%E7%90%86/id6502703720?uo=4",
+      "trackId": 6502703720,
+      "trackName": "Offly -スマホの使い過ぎ防止／集中力向上・健康管理",
+      "primaryGenreName": "Health & Fitness",
+      "version": "1.1.2",
+      "currency": "JPY",
+      "userRatingCount": 97,
+      "descriptionSHA256": "d4699efd4a38469ae041dc64c5054931eaeeaaad9bf33e2366dcf846aa6a71c4"
+    }
+  ]
+}

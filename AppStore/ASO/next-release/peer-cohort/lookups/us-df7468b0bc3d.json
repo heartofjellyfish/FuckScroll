@@ -1,0 +1,152 @@
+{
+  "requestURL": "https://itunes.apple.com/lookup?id=1572051209%2C6760718365%2C6790663711%2C6760689112%2C6741950612%2C6760535182%2C6776572186&country=us",
+  "resultCount": 7,
+  "apps": [
+    {
+      "trackViewUrl": "https://apps.apple.com/us/app/emmo-cost/id1572051209?uo=4",
+      "averageUserRating": 4.8803,
+      "artistId": 1507868195,
+      "artistName": "EMMO Corp.",
+      "genres": [
+        "Finance",
+        "Utilities"
+      ],
+      "price": 0.0,
+      "trackId": 1572051209,
+      "trackName": "EMMO Cost",
+      "bundleId": "emmo.SmallCharge",
+      "releaseDate": "2021-06-14T07:00:00Z",
+      "primaryGenreName": "Finance",
+      "currentVersionReleaseDate": "2026-11-19T01:18:36Z",
+      "version": "1.8.7",
+      "currency": "USD",
+      "userRatingCount": 944,
+      "descriptionSHA256": "8337ef50a8da480d20fabcb7cdf9ec0031093755c344a1dc6ee5c5cc34569588"
+    },
+    {
+      "trackViewUrl": "https://apps.apple.com/us/app/doomy-stop-doomscrolling/id6760718365?uo=4",
+      "averageUserRating": 0,
+      "artistId": 1820636761,
+      "artistName": "Nolan Boxill",
+      "genres": [
+        "Productivity",
+        "Lifestyle"
+      ],
+      "price": 0.0,
+      "trackId": 6760718365,
+      "trackName": "Doomy: Stop Doomscrolling",
+      "bundleId": "com.boxill.doomy",
+      "releaseDate": "2026-04-07T07:00:00Z",
+      "primaryGenreName": "Productivity",
+      "currentVersionReleaseDate": "2026-10-08T07:21:38Z",
+      "version": "1.0.7",
+      "currency": "USD",
+      "userRatingCount": 0,
+      "descriptionSHA256": "925ec95586f2dbff1ff90b2bed4b355f466b9bc08fe91d3cf9c665e0bb4158f4"
+    },
+    {
+      "trackViewUrl": "https://apps.apple.com/us/app/dhoomnacho-stop-doomscrolling/id6790663711?uo=4",
+      "averageUserRating": 0,
+      "artistId": 6790663713,
+      "artistName": "Prasanna Kadam",
+      "genres": [
+        "Health & Fitness",
+        "Productivity"
+      ],
+      "price": 0.0,
+      "trackId": 6790663711,
+      "trackName": "DhoomNacho: Stop Doomscrolling",
+      "bundleId": "com.dhoomnacho.app",
+      "releaseDate": "2026-08-02T07:00:00Z",
+      "primaryGenreName": "Health & Fitness",
+      "currentVersionReleaseDate": "2026-09-09T03:27:57Z",
+      "version": "1.4",
+      "currency": "USD",
+      "userRatingCount": 0,
+      "descriptionSHA256": "73764f86d0a1218391e7167fb6d16be662c87ea94fb5b080c5148c7579fca6ef"
+    },
+    {
+      "trackViewUrl": "https://apps.apple.com/us/app/stop-doomscrolling-go-to-bed/id6760689112?uo=4",
+      "averageUserRating": 0,
+      "artistId": 1823139150,
+      "artistName": "Gustavo Tiffer",
+      "genres": [
+        "Lifestyle",
+        "Productivity"
+      ],
+      "price": 0.0,
+      "trackId": 6760689112,
+      "trackName": "Stop Doomscrolling - Go To Bed",
+      "bundleId": "com.gustiffer.Go-To-Bed",
+      "releaseDate": "2026-07-01T07:00:00Z",
+      "primaryGenreName": "Lifestyle",
+      "currentVersionReleaseDate": "2026-07-02T01:39:45Z",
+      "version": "1.0",
+      "currency": "USD",
+      "userRatingCount": 0,
+      "descriptionSHA256": "f36407dd3c46df21917cadd960a36e34252275226c0ffe1e6da5f668b78e70ee"
+    },
+    {
+      "trackViewUrl": "https://apps.apple.com/us/app/screencat-screen-time-pet/id6741950612?uo=4",
+      "averageUserRating": 4.66667,
+      "artistId": 1796293165,
+      "artistName": "Screencat",
+      "genres": [
+        "Productivity"
+      ],
+      "price": 0.0,
+      "trackId": 6741950612,
+      "trackName": "Screencat - Screen Time Pet",
+      "bundleId": "SanToki.ScreenPrint",
+      "releaseDate": "2025-03-23T07:00:00Z",
+      "primaryGenreName": "Productivity",
+      "currentVersionReleaseDate": "2025-04-14T17:07:21Z",
+      "version": "1.3.2",
+      "currency": "USD",
+      "userRatingCount": 3,
+      "descriptionSHA256": "80b7bbb749430e5ad99c6ebf6e0e5845fa40642c1a3964c358162d29a0e8d9a1"
+    },
+    {
+      "trackViewUrl": "https://apps.apple.com/us/app/break-scroll-stop-doomscroll/id6760535182?uo=4",
+      "averageUserRating": 4.86667,
+      "artistId": 1884841684,
+      "artistName": "ALGENE VALDEZ PULIDO",
+      "genres": [
+        "Health & Fitness",
+        "Productivity"
+      ],
+      "price": 0.0,
+      "trackId": 6760535182,
+      "trackName": "Break Scroll: Stop Doomscroll",
+      "bundleId": "com.reiserlabs.scrollbreak",
+      "releaseDate": "2026-04-07T07:00:00Z",
+      "primaryGenreName": "Health & Fitness",
+      "currentVersionReleaseDate": "2026-11-10T21:10:38Z",
+      "version": "1.0.13",
+      "currency": "USD",
+      "userRatingCount": 30,
+      "descriptionSHA256": "8935af5a95cf6d60729346375f9531290793b85f2a01e1acc3e00759cab82bbb"
+    },
+    {
+      "trackViewUrl": "https://apps.apple.com/us/app/ughokay-stop-doomscrolling/id6776572186?uo=4",
+      "averageUserRating": 0,
+      "artistId": 1810216156,
+      "artistName": "Maksim Basev",
+      "genres": [
+        "Productivity",
+        "Health & Fitness"
+      ],
+      "price": 0.0,
+      "trackId": 6776572186,
+      "trackName": "UghOkay: Stop Doomscrolling",
+      "bundleId": "com.maxbasev.ughokay",
+      "releaseDate": "2026-06-11T07:00:00Z",
+      "primaryGenreName": "Productivity",
+      "currentVersionReleaseDate": "2026-09-30T01:25:16Z",
+      "version": "1.2.1",
+      "currency": "USD",
+      "userRatingCount": 0,
+      "descriptionSHA256": "ca40a7d2f4a33e7a8768466f018bd2d19f75ee129acfc2f3603e429fbfdc717e"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "requestURL": "https://itunes.apple.com/lookup?id=6465989392%2C6823655198&country=no",
+  "resultCount": 2,
+  "apps": [
+    {
+      "artistId": 408858300,
+      "artistName": "Altibox AS",
+      "genres": [
+        "Utilities"
+      ],
+      "bundleId": "no.altibox.hjemmenett",
+      "trackId": 6465989392,
+      "trackName": "Altibox Hjem",
+      "releaseDate": "2025-01-20T08:00:00Z",
+      "primaryGenreName": "Utilities",
+      "currentVersionReleaseDate": "2026-11-18T20:28:27Z",
+      "version": "1.95.0",
+      "currency": "NOK",
+      "averageUserRating": 4.29643,
+      "trackViewUrl": "https://apps.apple.com/no/app/altibox-hjem/id6465989392?uo=4",
+      "price": 0.0,
+      "userRatingCount": 1093,
+      "descriptionSHA256": "0488bec579e44350f19640249aa15c6aa29813160f1064c7b85b725854af4e8b"
+    },
+    {
+      "artistId": 6815517723,
+      "artistName": "RICHARD SIMONSEN VOLDHUSET",
+      "genres": [
+        "Productivity",
+        "Health & Fitness"
+      ],
+      "bundleId": "no.voldhuset.pause",
+      "trackId": 6823655198,
+      "trackName": "Pauseappen",
+      "releaseDate": "2026-11-13T08:00:00Z",
+      "primaryGenreName": "Productivity",
+      "currentVersionReleaseDate": "2026-11-15T08:51:23Z",
+      "version": "1.1.1",
+      "currency": "NOK",
+      "averageUserRating": 0,
+      "trackViewUrl": "https://apps.apple.com/no/app/pauseappen/id6823655198?uo=4",
+      "price": 0.0,
+      "userRatingCount": 0,
+      "descriptionSHA256": "98337c4a11caf7c1dea4c4e830753dccb59fe55a878755117bf5a5232854a37d"
+    }
+  ]
+}

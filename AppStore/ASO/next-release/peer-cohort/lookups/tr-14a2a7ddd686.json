@@ -1,0 +1,27 @@
+{
+  "requestURL": "https://itunes.apple.com/lookup?id=6804161895&country=tr",
+  "resultCount": 1,
+  "apps": [
+    {
+      "artistId": 6804161897,
+      "genres": [
+        "Lifestyle",
+        "Navigation"
+      ],
+      "price": 0.0,
+      "primaryGenreName": "Lifestyle",
+      "trackId": 6804161895,
+      "trackName": "KinGuard: Family Safety",
+      "currentVersionReleaseDate": "2026-11-18T21:09:41Z",
+      "version": "1.0.4",
+      "currency": "TRY",
+      "trackViewUrl": "https://apps.apple.com/tr/app/kinguard-family-safety/id6804161895?uo=4",
+      "averageUserRating": 0,
+      "releaseDate": "2026-11-17T08:00:00Z",
+      "bundleId": "com.mydigitallabs.kinguard",
+      "artistName": "Mehmet Yilmaz Dogan",
+      "userRatingCount": 0,
+      "descriptionSHA256": "b4ba353dc820438006b048b8aae275505d2b817124e6ac2ea10d6f567f481032"
+    }
+  ]
+}

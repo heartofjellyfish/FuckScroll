@@ -1,0 +1,26 @@
+{
+  "requestURL": "https://itunes.apple.com/lookup?id=6807323774&country=th",
+  "resultCount": 1,
+  "apps": [
+    {
+      "averageUserRating": 4,
+      "trackViewUrl": "https://apps.apple.com/th/app/icaur-international/id6807323774?uo=4",
+      "genres": [
+        "Lifestyle"
+      ],
+      "artistId": 1765129850,
+      "artistName": "Chery South Africa",
+      "price": 0.0,
+      "trackId": 6807323774,
+      "trackName": "iCAUR International",
+      "releaseDate": "2026-10-07T07:00:00Z",
+      "primaryGenreName": "Lifestyle",
+      "currentVersionReleaseDate": "2026-10-14T12:35:27Z",
+      "version": "1.1.0",
+      "currency": "THB",
+      "bundleId": "com.chery.app.icaur.sea",
+      "userRatingCount": 1,
+      "descriptionSHA256": "0323065978a75b81ce9c12a810877811e43c6342fb6c606b6a2d254fd5e8566e"
+    }
+  ]
+}

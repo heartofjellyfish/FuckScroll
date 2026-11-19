@@ -1,0 +1,422 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=bloquear+aplicaciones&country=ni&entity=software&limit=20",
+  "resultCount": 20,
+  "apps": [
+    {
+      "trackViewUrl": "https://apps.apple.com/ni/app/bloquear-aplicaciones-applock/id6746766591?uo=4",
+      "averageUserRating": 5,
+      "artistId": 1783754094,
+      "artistName": "LYKOV STUDIO LTD",
+      "genres": [
+        "Utilidades"
+      ],
+      "price": 0.0,
+      "bundleId": "com.lykovstudio.AppLock",
+      "currentVersionReleaseDate": "2026-11-10T16:00:02Z",
+      "releaseDate": "2025-06-26T07:00:00Z",
+      "trackId": 6746766591,
+      "trackName": "Bloquear aplicaciones: AppLock",
+      "primaryGenreName": "Utilities",
+      "version": "1.0.30",
+      "currency": "USD",
+      "userRatingCount": 7,
+      "descriptionSHA256": "6a2615782e5f3d6f19e5f3f5b4924bb0985a5d6460d203e9f95fb93d4ddadeaa"
+    },
+    {
+      "trackViewUrl": "https://apps.apple.com/ni/app/bloqueo-de-apps-contrase%C3%B1a/id6458880741?uo=4",
+      "averageUserRating": 5,
+      "artistId": 1751795186,
+      "artistName": "万龙 戴",
+      "genres": [
+        "Productividad"
+      ],
+      "price": 0.0,
+      "bundleId": "com.zheng.appblocker",
+      "currentVersionReleaseDate": "2024-09-25T11:03:04Z",
+      "releaseDate": "2023-12-26T08:00:00Z",
+      "trackId": 6458880741,
+      "trackName": "Bloqueo De Apps - Contraseña ™",
+      "primaryGenreName": "Productivity",
+      "version": "1.0.4",
+      "currency": "USD",
+      "userRatingCount": 4,
+      "descriptionSHA256": "1e3ba1b6290519addfb508dc89ab090a2649741c04680da44f3674b9f9ef1f7c"
+    },
+    {
+      "trackViewUrl": "https://apps.apple.com/ni/app/bloqueo-de-aplicaciones/id6469686557?uo=4",
+      "averageUserRating": 4.23729,
+      "artistId": 1637405734,
+      "artistName": "友财 徐",
+      "genres": [
+        "Utilidades"
+      ],
+      "price": 0.0,
+      "bundleId": "com.xu.applock",
+      "currentVersionReleaseDate": "2026-06-22T01:26:35Z",
+      "releaseDate": "2023-11-07T08:00:00Z",
+      "trackId": 6469686557,
+      "trackName": "Bloqueo De Aplicaciones -",
+      "primaryGenreName": "Utilities",
+      "version": "1.5.0",
+      "currency": "USD",
+      "userRatingCount": 59,
+      "descriptionSHA256": "a1f6f5a6e93e3c93fb8902ee294b2f62e481f5bb0709d7976190b888ad918b35"
+    },
+    {
+      "trackViewUrl": "https://apps.apple.com/ni/app/applock-photo-lock/id1509154892?uo=4",
+      "averageUserRating": 3.4,
+      "artistId": 523576985,
+      "artistName": "DoMobile Co., Ltd.",
+      "genres": [
+        "Utilidades",
+        "Productividad"
+      ],
+      "price": 0.0,
+      "bundleId": "com.domobile.applock",
+      "currentVersionReleaseDate": "2026-05-27T18:29:30Z",
+      "releaseDate": "2020-05-15T07:00:00Z",
+      "trackId": 1509154892,
+      "trackName": "AppLock - photo lock",
+      "primaryGenreName": "Utilities",
+      "version": "1.3.5",
+      "currency": "USD",
+      "userRatingCount": 5,
+      "descriptionSHA256": "0659db0a28dbb1f7e09d4a858aa8db0e14a3405c659fe1e919e591727782b704"
+    },
+    {
+      "trackViewUrl": "https://apps.apple.com/ni/app/bloqueo-de-aplicaciones-app/id6777914542?uo=4",
+      "averageUserRating": 0,
+      "artistId": 1643161885,
+      "artistName": "宝锋 张",
+      "genres": [
+        "Productividad"
+      ],
+      "price": 0.0,
+      "bundleId": "com.zhang.lockapps",
+      "currentVersionReleaseDate": "2026-07-21T21:55:13Z",
+      "releaseDate": "2026-06-23T07:00:00Z",
+      "trackId": 6777914542,
+      "trackName": "Bloqueo De Aplicaciones - App.",
+      "primaryGenreName": "Productivity",
+      "version": "1.0.3",
+      "currency": "USD",
+      "userRatingCount": 0,
+      "descriptionSHA256": "6ba84e749b2264c584aa70d5d2b6f92b5e1770b0d39c457c30722007305f143e"
+    },
+    {
+      "trackViewUrl": "https://apps.apple.com/ni/app/refocus-bloquear-aplicaciones/id1645639057?uo=4",
+      "averageUserRating": 5,
+      "artistId": 455469767,
+      "artistName": "Labi, LLC",
+      "genres": [
+        "Productividad",
+        "Salud y fitness"
+      ],
+      "price": 0.0,
+      "bundleId": "com.refocus.refocus",
+      "currentVersionReleaseDate": "2026-11-18T15:32:47Z",
+      "releaseDate": "2022-09-22T07:00:00Z",
+      "trackId": 1645639057,
+      "trackName": "Refocus: Bloquear Aplicaciones",
+      "primaryGenreName": "Productivity",
+      "version": "2.2.11",
+      "currency": "USD",
+      "userRatingCount": 3,
+      "descriptionSHA256": "5af728bf34683f8d8cc16da34fc547279e90e9330521b01704a76d15740488e6"
+    },
+    {
+      "trackViewUrl": "https://apps.apple.com/ni/app/contrase%C3%B1a-para-seguridad-pro/id6444822370?uo=4",
+      "averageUserRating": 5,
+      "artistId": 1657083025,
+      "artistName": "Huizhou Yimo Technology Co., Ltd.",
+      "genres": [
+        "Productividad",
+        "Estilo de vida"
+      ],
+      "price": 0.0,
+      "bundleId": "com.yimo.password",
+      "currentVersionReleaseDate": "2023-09-27T10:42:53Z",
+      "releaseDate": "2022-12-04T08:00:00Z",
+      "trackId": 6444822370,
+      "trackName": "Contraseña Para Seguridad pro",
+      "primaryGenreName": "Productivity",
+      "version": "1.3.3",
+      "currency": "USD",
+      "userRatingCount": 1,
+      "descriptionSHA256": "c4dbf2aa74559a06580e9683f8ad1749747d084a39acefdb1576ba2f9c223e8f"
+    },
+    {
+      "trackViewUrl": "https://apps.apple.com/ni/app/contrase%C3%B1a-para-apps-bloqueo/id6452721618?uo=4",
+      "averageUserRating": 4.16,
+      "artistId": 1634755293,
+      "artistName": "俊杰 刘",
+      "genres": [
+        "Utilidades"
+      ],
+      "price": 0.0,
+      "bundleId": "com.liu.hideapps",
+      "currentVersionReleaseDate": "2026-06-11T00:48:57Z",
+      "releaseDate": "2024-01-01T08:00:00Z",
+      "trackId": 6452721618,
+      "trackName": "Contraseña Para Apps Bloqueo",
+      "primaryGenreName": "Utilities",
+      "version": "1.1.8",
+      "currency": "USD",
+      "userRatingCount": 25,
+      "descriptionSHA256": "be132093053d6e7aeabff0504def1606009a124da7ec3b62b4f0201b993dab1e"
+    },
+    {
+      "trackViewUrl": "https://apps.apple.com/ni/app/ocultar-aplicaciones-applock/id1569973513?uo=4",
+      "averageUserRating": 4.63208,
+      "artistId": 1788511975,
+      "artistName": "Muhammet Yalcın Ozdemir Halil Ibrahim Karahan Mustafa Ayten Kupertino Bilisim Yazılım K.S",
+      "genres": [
+        "Utilidades",
+        "Productividad"
+      ],
+      "price": 0.0,
+      "bundleId": "co.appnation.applocker",
+      "currentVersionReleaseDate": "2026-09-25T07:10:51Z",
+      "releaseDate": "2021-06-12T07:00:00Z",
+      "trackId": 1569973513,
+      "trackName": "Ocultar Aplicaciones - AppLock",
+      "primaryGenreName": "Utilities",
+      "version": "2.2.4",
+      "currency": "USD",
+      "userRatingCount": 106,
+      "descriptionSHA256": "dc575b63821961b314cb8d1e1ea12885e6b4423df2ed2e430a8fa8b3cd6b3a64"
+    },
+    {
+      "trackViewUrl": "https://apps.apple.com/ni/app/appblock-bloquear-aplicaciones/id1515753232?uo=4",
+      "averageUserRating": 5,
+      "artistId": 998289700,
+      "artistName": "MobileSoft s.r.o.",
+      "genres": [
+        "Productividad",
+        "Salud y fitness"
+      ],
+      "price": 0.0,
+      "bundleId": "eu.mobilesoft.appblock",
+      "currentVersionReleaseDate": "2026-11-11T10:48:39Z",
+      "releaseDate": "2021-08-17T07:00:00Z",
+      "trackId": 1515753232,
+      "trackName": "AppBlock Bloquear Aplicaciones",
+      "primaryGenreName": "Productivity",
+      "version": "4.14.1",
+      "currency": "USD",
+      "userRatingCount": 7,
+      "descriptionSHA256": "57129755f1276c23ea491e5ae08cd96a53959993b5c33be70bbbd0401f883185"
+    },
+    {
+      "trackViewUrl": "https://apps.apple.com/ni/app/opal-tiempo-de-pantalla-focus/id1497465230?uo=4",
+      "averageUserRating": 4.95455,
+      "artistId": 1497465229,
+      "artistName": "Opal OS",
+      "genres": [
+        "Productividad",
+        "Salud y fitness"
+      ],
+      "price": 0.0,
+      "bundleId": "com.withopal.opal",
+      "currentVersionReleaseDate": "2026-11-16T09:29:08Z",
+      "releaseDate": "2020-12-15T08:00:00Z",
+      "trackId": 1497465230,
+      "trackName": "Opal: Tiempo de Pantalla Focus",
+      "primaryGenreName": "Productivity",
+      "version": "4.24",
+      "currency": "USD",
+      "userRatingCount": 22,
+      "descriptionSHA256": "8f565e8ece1378f7f8b279972790342748ebc0f5a8961ef24749e6a17891340e"
+    },
+    {
+      "trackViewUrl": "https://apps.apple.com/ni/app/huella-digital-bloquear/id1324922271?uo=4",
+      "averageUserRating": 2.75,
+      "artistId": 1896473822,
+      "artistName": "Dhani Jagatap",
+      "genres": [
+        "Redes sociales"
+      ],
+      "price": 0.0,
+      "bundleId": "com.wang.fingerprintsecure",
+      "currentVersionReleaseDate": "2018-01-12T01:35:15Z",
+      "releaseDate": "2017-12-20T23:35:04Z",
+      "trackId": 1324922271,
+      "trackName": "Huella Digital Bloquear",
+      "primaryGenreName": "Social Networking",
+      "version": "1.1",
+      "currency": "USD",
+      "userRatingCount": 4,
+      "descriptionSHA256": "cfc21f827b8bf829aa0913adf6c76f49de973a65904f96c15efdc63b653f50d7"
+    },
+    {
+      "trackViewUrl": "https://apps.apple.com/ni/app/focus-plant-tree-flora-friend/id1459096306?uo=4",
+      "averageUserRating": 4.8,
+      "artistId": 1089497060,
+      "artistName": "Shikudo",
+      "genres": [
+        "Productividad",
+        "Juegos",
+        "Simulación",
+        "Casuales"
+      ],
+      "price": 0.0,
+      "bundleId": "com.shikudo.focus",
+      "currentVersionReleaseDate": "2026-11-14T00:10:28Z",
+      "releaseDate": "2019-09-02T07:00:00Z",
+      "trackId": 1459096306,
+      "trackName": "Focus Plant: tree flora friend",
+      "primaryGenreName": "Productivity",
+      "version": "4.6.3",
+      "currency": "USD",
+      "userRatingCount": 15,
+      "descriptionSHA256": "932843eaab7832084394cc3341d72a2b7db885fac6cdfde46caf5684455ace80"
+    },
+    {
+      "trackViewUrl": "https://apps.apple.com/ni/app/contrase%C3%B1as-gestor-contrase%C3%B1a/id1598861873?uo=4",
+      "averageUserRating": 5,
+      "artistId": 1579313813,
+      "artistName": "伟文 贺",
+      "genres": [
+        "Productividad",
+        "Referencia"
+      ],
+      "price": 0.0,
+      "bundleId": "com.7stars.password",
+      "currentVersionReleaseDate": "2023-11-03T16:31:03Z",
+      "releaseDate": "2021-12-09T08:00:00Z",
+      "trackId": 1598861873,
+      "trackName": "Contraseñas-gestor contraseña",
+      "primaryGenreName": "Productivity",
+      "version": "1.7.0",
+      "currency": "USD",
+      "userRatingCount": 3,
+      "descriptionSHA256": "3f05aeee39d62104e7ca962c65ff9fb3f3329f507d4df59f27482644d8cf5723"
+    },
+    {
+      "trackViewUrl": "https://apps.apple.com/ni/app/cloak-bloquear-y-ocultar-apps/id6755939574?uo=4",
+      "averageUserRating": 4,
+      "artistId": 1469303955,
+      "artistName": "Joao Victor Flores da Costa",
+      "genres": [
+        "Utilidades",
+        "Estilo de vida"
+      ],
+      "price": 0.0,
+      "bundleId": "com.gambit.applock",
+      "currentVersionReleaseDate": "2026-06-01T16:39:15Z",
+      "releaseDate": "2025-12-22T08:00:00Z",
+      "trackId": 6755939574,
+      "trackName": "Cloak: Bloquear y Ocultar Apps",
+      "primaryGenreName": "Utilities",
+      "version": "9.6",
+      "currency": "USD",
+      "userRatingCount": 1,
+      "descriptionSHA256": "7469abd46e80878e8d93c0656cde9509b3c5852051900657cb59e8a908dca187"
+    },
+    {
+      "trackViewUrl": "https://apps.apple.com/ni/app/bloqueo-de-aplicaciones/id6475538115?uo=4",
+      "averageUserRating": 0,
+      "artistId": 1756029312,
+      "artistName": "秀珍 黄",
+      "genres": [
+        "Utilidades",
+        "Productividad"
+      ],
+      "price": 0.0,
+      "bundleId": "com.xteamer.applock",
+      "currentVersionReleaseDate": "2024-01-31T13:25:10Z",
+      "releaseDate": "2024-01-26T08:00:00Z",
+      "trackId": 6475538115,
+      "trackName": "Bloqueo De Aplicaciones +",
+      "primaryGenreName": "Utilities",
+      "version": "1.0.1",
+      "currency": "USD",
+      "userRatingCount": 0,
+      "descriptionSHA256": "e4f80acbaec186e324eb89805a7431047c38f0224c0fd6af22ea26d83d4b97c9"
+    },
+    {
+      "trackViewUrl": "https://apps.apple.com/ni/app/bloque-de-aplicaciones-invis/id1672223963?uo=4",
+      "averageUserRating": 5,
+      "artistId": 1539395142,
+      "artistName": "亚娟 秦",
+      "genres": [
+        "Utilidades",
+        "Productividad"
+      ],
+      "price": 0.0,
+      "bundleId": "com.qyj.invis",
+      "currentVersionReleaseDate": "2025-10-28T13:26:59Z",
+      "releaseDate": "2023-04-12T07:00:00Z",
+      "trackId": 1672223963,
+      "trackName": "Bloque De Aplicaciones - Invis",
+      "primaryGenreName": "Utilities",
+      "version": "3.1.1",
+      "currency": "USD",
+      "userRatingCount": 5,
+      "descriptionSHA256": "5a410388bafa582a8dc5bafc971a84296e1e6011c7a246dd716dc758e193fbd9"
+    },
+    {
+      "trackViewUrl": "https://apps.apple.com/ni/app/bloquear-aplicaciones-app-lock/id6463155691?uo=4",
+      "averageUserRating": 0,
+      "artistId": 1702439770,
+      "artistName": "俊涛 刘",
+      "genres": [
+        "Utilidades",
+        "Estilo de vida"
+      ],
+      "price": 0.0,
+      "bundleId": "com.limit.appclocker",
+      "currentVersionReleaseDate": "2024-12-16T07:45:17Z",
+      "releaseDate": "2024-01-02T08:00:00Z",
+      "trackId": 6463155691,
+      "trackName": "Bloquear Aplicaciones・App Lock",
+      "primaryGenreName": "Utilities",
+      "version": "1.0.12",
+      "currency": "USD",
+      "userRatingCount": 0,
+      "descriptionSHA256": "3bb548f9478c4a055235e3d96a2bf76b0b037234121cf5bc0ea6bf07157506a9"
+    },
+    {
+      "trackViewUrl": "https://apps.apple.com/ni/app/alock-bloqueo-de-aplicaci%C3%B3n/id1663668785?uo=4",
+      "averageUserRating": 0,
+      "artistId": 1624361053,
+      "artistName": "裕涛 兰",
+      "genres": [
+        "Productividad",
+        "Utilidades"
+      ],
+      "price": 0.0,
+      "bundleId": "com.tinfine.appHide",
+      "currentVersionReleaseDate": "2025-08-28T11:32:27Z",
+      "releaseDate": "2023-08-08T07:00:00Z",
+      "trackId": 1663668785,
+      "trackName": "aLock - Bloqueo de aplicación",
+      "primaryGenreName": "Productivity",
+      "version": "1.2.3",
+      "currency": "USD",
+      "userRatingCount": 0,
+      "descriptionSHA256": "378a58617bf53bd31d0f533cd3c16593cd8b54dfe1e84c31fd6341efc91489e6"
+    },
+    {
+      "trackViewUrl": "https://apps.apple.com/ni/app/app-lock-bloquear-aplicaciones/id6467732552?uo=4",
+      "averageUserRating": 0,
+      "artistId": 1651234772,
+      "artistName": "小玲 黄",
+      "genres": [
+        "Estilo de vida",
+        "Utilidades"
+      ],
+      "price": 0.0,
+      "bundleId": "com.Jarvis.app.ScreenCube",
+      "currentVersionReleaseDate": "2025-03-17T19:03:25Z",
+      "releaseDate": "2023-11-20T08:00:00Z",
+      "trackId": 6467732552,
+      "trackName": "App Lock-Bloquear Aplicaciones",
+      "primaryGenreName": "Lifestyle",
+      "version": "1.1.9",
+      "currency": "USD",
+      "userRatingCount": 0,
+      "descriptionSHA256": "2de72ed3f47c98ab4f3a80193dd1dbe27489749a25eca50f3ed71f5402e3f2e6"
+    }
+  ]
+}

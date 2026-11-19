@@ -1,0 +1,48 @@
+{
+  "requestURL": "https://itunes.apple.com/search?term=vrijeme+uporabe+zaslona&country=ba&entity=software&limit=20",
+  "resultCount": 2,
+  "apps": [
+    {
+      "averageUserRating": 4.8,
+      "trackViewUrl": "https://apps.apple.com/ba/app/parental-control-kroha/id1365784521?uo=4",
+      "artistId": 1104707952,
+      "artistName": "MESH Ukraina",
+      "genres": [
+        "Education",
+        "Utilities"
+      ],
+      "price": 0.0,
+      "currentVersionReleaseDate": "2025-12-10T05:45:28Z",
+      "bundleId": "com.meshukraina.parentalcontrol",
+      "releaseDate": "2020-04-10T07:00:00Z",
+      "trackId": 1365784521,
+      "trackName": "Parental Control - Kroha",
+      "primaryGenreName": "Education",
+      "version": "4.7.4",
+      "currency": "EUR",
+      "userRatingCount": 5,
+      "descriptionSHA256": "5a47df5f5fc879ceef18885745a1214c8ab1c472162ff9bd8f7255d53a85bd69"
+    },
+    {
+      "averageUserRating": 0,
+      "trackViewUrl": "https://apps.apple.com/ba/app/bspace-screen-time-control/id6776689183?uo=4",
+      "artistId": 1812326494,
+      "artistName": "ANNA KUCHUMOVA",
+      "genres": [
+        "Productivity",
+        "Health & Fitness"
+      ],
+      "price": 0.0,
+      "currentVersionReleaseDate": "2026-11-02T17:22:55Z",
+      "bundleId": "app.5learn.One-Breath",
+      "releaseDate": "2026-07-14T07:00:00Z",
+      "trackId": 6776689183,
+      "trackName": "BSpace: Screen Time Control",
+      "primaryGenreName": "Productivity",
+      "version": "1.8",
+      "currency": "EUR",
+      "userRatingCount": 0,
+      "descriptionSHA256": "8008fe41cccb28c9caf0b87f0ce64467b1f57552c7bb149d5490f3002ee8c009"
+    }
+  ]
+}

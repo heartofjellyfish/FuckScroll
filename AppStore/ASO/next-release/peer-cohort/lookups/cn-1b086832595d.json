@@ -1,0 +1,27 @@
+{
+  "requestURL": "https://itunes.apple.com/lookup?id=1668766056&country=cn",
+  "resultCount": 1,
+  "apps": [
+    {
+      "artistId": 1668766058,
+      "artistName": "Amity Zone Technology Co Ltd",
+      "price": 0.0,
+      "currentVersionReleaseDate": "2026-01-25T23:18:30Z",
+      "releaseDate": "2023-02-01T08:00:00Z",
+      "trackName": "家长守护助手-家长端",
+      "trackId": 1668766056,
+      "primaryGenreName": "Utilities",
+      "version": "1.4.1",
+      "currency": "CNY",
+      "averageUserRating": 3.47376,
+      "trackViewUrl": "https://apps.apple.com/cn/app/%E5%AE%B6%E9%95%BF%E5%AE%88%E6%8A%A4%E5%8A%A9%E6%89%8B-%E5%AE%B6%E9%95%BF%E7%AB%AF/id1668766056?uo=4",
+      "bundleId": "com.jiankongwuhan.jia",
+      "genres": [
+        "工具",
+        "教育"
+      ],
+      "userRatingCount": 686,
+      "descriptionSHA256": "f1571bbe0dd7917ede8cd9741b8700d54822f9f4f6444a740f1f3eddd7d1aa6d"
+    }
+  ]
+}
